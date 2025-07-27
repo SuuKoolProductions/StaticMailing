@@ -104,19 +104,31 @@ function checkFormLoading() {
         const customForm = document.querySelector('.custom-form');
         const fallback = document.querySelector('.form-fallback');
         
-        if (formContainer && formContainer.children.length === 0) {
+        // Check if MailerLite form loaded properly
+        const mlFormLoaded = formContainer && 
+                            formContainer.children.length > 0 && 
+                            formContainer.querySelector('form');
+        
+        if (!mlFormLoaded) {
             // Form didn't load, show custom form
             if (customForm) {
                 customForm.style.display = 'block';
-                formContainer.style.display = 'none';
+                if (formContainer) formContainer.style.display = 'none';
+                console.log('MailerLite form failed to load, showing custom form');
             } else if (fallback) {
                 fallback.style.display = 'block';
             }
-            console.log('MailerLite form failed to load, showing custom form');
         } else {
             console.log('MailerLite form loaded successfully');
+            
+            // Still set up our custom form as backup
+            if (customForm) {
+                customForm.style.display = 'block';
+                if (formContainer) formContainer.style.display = 'none';
+                console.log('Using custom form instead of MailerLite embedded form');
+            }
         }
-    }, 3000);
+    }, 2000); // Reduced timeout to 2 seconds
 }
 
 // Custom form submission
@@ -127,6 +139,7 @@ function handleCustomForm() {
     if (form) {
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
+            e.stopPropagation();
             
             const email = document.getElementById('email').value;
             const submitBtn = form.querySelector('button[type="submit"]');
@@ -157,6 +170,37 @@ function handleCustomForm() {
             }
         });
     }
+}
+
+// Prevent all form redirects
+function preventFormRedirects() {
+    // Prevent any form from redirecting
+    document.addEventListener('submit', function(e) {
+        const form = e.target;
+        
+        // If it's our custom form, let it handle itself
+        if (form.id === 'newsletter-form') {
+            return;
+        }
+        
+        // For any other form, prevent default
+        e.preventDefault();
+        e.stopPropagation();
+        console.log('Prevented form redirect for:', form);
+    }, true);
+    
+    // Also prevent any iframe redirects from MailerLite
+    const iframes = document.querySelectorAll('iframe');
+    iframes.forEach(iframe => {
+        iframe.addEventListener('load', function() {
+            try {
+                // Try to prevent iframe navigation
+                iframe.contentWindow.location.href = 'about:blank';
+            } catch (e) {
+                console.log('Could not prevent iframe redirect');
+            }
+        });
+    });
 }
 
 // Icon fallback handling
@@ -217,6 +261,7 @@ document.addEventListener('DOMContentLoaded', () => {
     checkFormLoading();
     checkIconsLoaded();
     handleCustomForm();
+    preventFormRedirects();
     
     // Close mobile menu when clicking outside
     document.addEventListener('click', (e) => {
