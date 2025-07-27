@@ -1,0 +1,32 @@
+/* Font Awesome Icons - Local Version */
+@font-face {
+    font-family: "Font Awesome 6 Free";
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src: url("fa-solid-900.woff2") format("woff2");
+}
+
+.fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-rendering: auto;
+}
+
+/* Icons we use */
+.fa-sun:before { content: "\f185"; }
+.fa-moon:before { content: "\f186"; }
+.fa-users:before { content: "\f0c0"; }
+.fa-gamepad:before { content: "\f11b"; }
+.fa-chart-line:before { content: "\f201"; }
+.fa-shield-alt:before { content: "\f3ed"; }
+.fa-bell:before { content: "\f0f3"; }
+.fa-gift:before { content: "\f06b"; }
+.fa-envelope:before { content: "\f0e0"; }
+.fa-home:before { content: "\f015"; }

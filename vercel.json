@@ -5,22 +5,26 @@
       "src": "*.html",
       "use": "@vercel/static"
     },
-    {
-      "src": "*.css",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "*.js",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "*.png",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "Shobbl/*.png",
-      "use": "@vercel/static"
-    }
+            {
+          "src": "*.css",
+          "use": "@vercel/static"
+        },
+        {
+          "src": "*.js",
+          "use": "@vercel/static"
+        },
+        {
+          "src": "*.png",
+          "use": "@vercel/static"
+        },
+        {
+          "src": "Shobbl/*.png",
+          "use": "@vercel/static"
+        },
+        {
+          "src": "fonts/*",
+          "use": "@vercel/static"
+        }
   ],
   "rewrites": [
     {
@@ -53,6 +57,32 @@
         {
           "key": "content-type",
           "value": "application/javascript"
+        }
+      ]
+    },
+    {
+      "source": "/fonts/fontawesome.css",
+      "headers": [
+        {
+          "key": "cache-control",
+          "value": "public, max-age=31536000, immutable"
+        },
+        {
+          "key": "content-type",
+          "value": "text/css"
+        }
+      ]
+    },
+    {
+      "source": "/fonts/fa-solid-900.woff2",
+      "headers": [
+        {
+          "key": "cache-control",
+          "value": "public, max-age=31536000, immutable"
+        },
+        {
+          "key": "content-type",
+          "value": "font/woff2"
         }
       ]
     },
