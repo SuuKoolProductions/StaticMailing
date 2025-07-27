@@ -132,12 +132,9 @@ function checkIconsLoaded() {
         });
         
         if (!iconsLoaded) {
-            console.log('Font Awesome icons not loaded, trying fallback');
-            // Try alternative CDN
-            const link = document.createElement('link');
-            link.rel = 'stylesheet';
-            link.href = 'https://use.fontawesome.com/releases/v6.4.0/css/all.css';
-            document.head.appendChild(link);
+            console.log('Font Awesome icons not loaded');
+        } else {
+            console.log('Font Awesome icons loaded successfully');
         }
     }, 2000);
 }
