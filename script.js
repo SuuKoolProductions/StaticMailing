@@ -98,11 +98,82 @@ function showCustomForm() {
     const customForm = document.querySelector('.custom-form');
     if (customForm) {
         customForm.style.display = 'block';
+        
+        // Set CSRF token
+        const csrfTokenInput = document.getElementById('csrf-token');
+        if (csrfTokenInput) {
+            csrfTokenInput.value = generateCSRFToken();
+        }
+        
         console.log('Using custom form instead of MailerLite embedded form');
     }
 }
 
-// Custom form submission
+// Input sanitization and validation
+function sanitizeInput(input) {
+    // Remove any HTML tags and dangerous characters
+    return input.replace(/<[^>]*>/g, '').trim();
+}
+
+function validateEmail(email) {
+    // Comprehensive email validation
+    const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
+    
+    if (!email || email.length === 0) {
+        return { valid: false, message: 'Email address is required' };
+    }
+    
+    if (email.length > 254) {
+        return { valid: false, message: 'Email address is too long' };
+    }
+    
+    if (!emailRegex.test(email)) {
+        return { valid: false, message: 'Please enter a valid email address' };
+    }
+    
+    // Check for common disposable email domains
+    const disposableDomains = [
+        '10minutemail.com', 'guerrillamail.com', 'mailinator.com', 
+        'tempmail.org', 'throwaway.email', 'yopmail.com'
+    ];
+    
+    const domain = email.split('@')[1]?.toLowerCase();
+    if (disposableDomains.includes(domain)) {
+        return { valid: false, message: 'Please use a valid email address' };
+    }
+    
+    return { valid: true, message: '' };
+}
+
+// Rate limiting to prevent spam
+const submissionAttempts = new Map();
+const MAX_ATTEMPTS = 3;
+const ATTEMPT_WINDOW = 60000; // 1 minute
+
+// Generate CSRF token
+function generateCSRFToken() {
+    return Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
+}
+
+function checkRateLimit(email) {
+    const now = Date.now();
+    const attempts = submissionAttempts.get(email) || [];
+    
+    // Remove old attempts outside the window
+    const recentAttempts = attempts.filter(time => now - time < ATTEMPT_WINDOW);
+    
+    if (recentAttempts.length >= MAX_ATTEMPTS) {
+        return false;
+    }
+    
+    // Add current attempt
+    recentAttempts.push(now);
+    submissionAttempts.set(email, recentAttempts);
+    
+    return true;
+}
+
+// Custom form submission with security measures
 function handleCustomForm() {
     const form = document.getElementById('newsletter-form');
     const messageDiv = document.getElementById('form-message');
@@ -112,8 +183,33 @@ function handleCustomForm() {
             e.preventDefault();
             e.stopPropagation();
             
-            const email = document.getElementById('email').value;
+            const emailInput = document.getElementById('email');
+            const csrfToken = document.getElementById('csrf-token')?.value;
+            const email = sanitizeInput(emailInput.value);
             const submitBtn = form.querySelector('button[type="submit"]');
+            
+            // Validate CSRF token
+            if (!csrfToken || csrfToken.length < 20) {
+                messageDiv.textContent = 'Security validation failed. Please refresh the page and try again.';
+                messageDiv.className = 'error';
+                return;
+            }
+            
+            // Validate email
+            const validation = validateEmail(email);
+            if (!validation.valid) {
+                messageDiv.textContent = validation.message;
+                messageDiv.className = 'error';
+                emailInput.focus();
+                return;
+            }
+            
+            // Check rate limiting
+            if (!checkRateLimit(email)) {
+                messageDiv.textContent = 'Too many attempts. Please wait a moment before trying again.';
+                messageDiv.className = 'error';
+                return;
+            }
             
             // Show loading state
             submitBtn.disabled = true;
@@ -128,7 +224,8 @@ function handleCustomForm() {
                 messageDiv.className = 'success';
                 form.reset();
                 
-                console.log('Form submitted with email:', email);
+                // Log sanitized email (for debugging only)
+                console.log('Form submitted with sanitized email:', email);
                 console.log('In production, this would use your API key and group ID');
                 
             } catch (error) {

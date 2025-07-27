@@ -190,9 +190,19 @@
                 <div class="contact-form">
                     <!-- MailerLite embedded form removed - using custom form instead -->
                     <div class="custom-form" style="display: none;">
-                        <form id="newsletter-form" class="newsletter-form">
+                        <form id="newsletter-form" class="newsletter-form" autocomplete="off" novalidate>
                             <div class="form-group">
-                                <input type="email" id="email" name="email" placeholder="Enter your email address" required>
+                                <input 
+                                    type="email" 
+                                    id="email" 
+                                    name="email" 
+                                    placeholder="Enter your email address" 
+                                    required 
+                                    maxlength="254"
+                                    pattern="[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*"
+                                    title="Please enter a valid email address"
+                                >
+                                <input type="hidden" id="csrf-token" name="csrf-token">
                                 <button type="submit" class="btn btn-primary">Subscribe</button>
                             </div>
                         </form>
