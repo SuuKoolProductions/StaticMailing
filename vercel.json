@@ -1,31 +1,5 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "*.html",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "*.css",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "*.js",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "*.png",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "Shobbl/*.png",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "fonts/*",
-      "use": "@vercel/static"
-    }
-  ],
   "functions": {
     "api/*.js": {
       "runtime": "nodejs18.x"
