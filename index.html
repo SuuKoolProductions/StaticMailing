@@ -14,7 +14,7 @@
     
     <link rel="stylesheet" href="/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
     
     <!-- MailerLite Universal -->
     <script>
@@ -28,43 +28,64 @@
     
     <!-- Font Awesome Fallback -->
     <script>
-        // Load Font Awesome with multiple fallbacks
-        function loadFontAwesome() {
-            const links = [
-                'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
-                'https://use.fontawesome.com/releases/v6.4.0/css/all.css',
-                'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css'
-            ];
-            
-            let loaded = false;
-            let currentIndex = 0;
-            
-            function tryLoad() {
-                if (loaded || currentIndex >= links.length) return;
+        // Check if Font Awesome loaded and try fallbacks if needed
+        function checkAndLoadFontAwesome() {
+            setTimeout(() => {
+                // Check if icons are displaying properly
+                const testIcon = document.createElement('i');
+                testIcon.className = 'fas fa-home';
+                testIcon.style.position = 'absolute';
+                testIcon.style.left = '-9999px';
+                document.body.appendChild(testIcon);
                 
-                const link = document.createElement('link');
-                link.rel = 'stylesheet';
-                link.href = links[currentIndex];
-                link.onload = function() {
-                    loaded = true;
-                    console.log('Font Awesome loaded from:', links[currentIndex]);
-                };
-                link.onerror = function() {
-                    currentIndex++;
-                    setTimeout(tryLoad, 1000);
-                };
-                document.head.appendChild(link);
-            }
-            
-            // Start loading
-            tryLoad();
+                const computedStyle = window.getComputedStyle(testIcon, '::before');
+                const content = computedStyle.content;
+                
+                document.body.removeChild(testIcon);
+                
+                // If icon shows as placeholder or empty, load fallback
+                if (!content || content === 'none' || content.includes('\\')) {
+                    console.log('Font Awesome not loaded properly, trying fallbacks...');
+                    
+                    const fallbackLinks = [
+                        'https://use.fontawesome.com/releases/v6.4.0/css/all.css',
+                        'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css',
+                        'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.css'
+                    ];
+                    
+                    let currentIndex = 0;
+                    
+                    function tryFallback() {
+                        if (currentIndex >= fallbackLinks.length) {
+                            console.log('All Font Awesome fallbacks failed');
+                            return;
+                        }
+                        
+                        const link = document.createElement('link');
+                        link.rel = 'stylesheet';
+                        link.href = fallbackLinks[currentIndex];
+                        link.onload = function() {
+                            console.log('Font Awesome loaded from fallback:', fallbackLinks[currentIndex]);
+                        };
+                        link.onerror = function() {
+                            currentIndex++;
+                            setTimeout(tryFallback, 500);
+                        };
+                        document.head.appendChild(link);
+                    }
+                    
+                    tryFallback();
+                } else {
+                    console.log('Font Awesome loaded successfully');
+                }
+            }, 2000);
         }
         
-        // Load after page loads
+        // Run check after page loads
         if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', loadFontAwesome);
+            document.addEventListener('DOMContentLoaded', checkAndLoadFontAwesome);
         } else {
-            loadFontAwesome();
+            checkAndLoadFontAwesome();
         }
     </script>   
 
