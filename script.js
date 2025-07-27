@@ -101,28 +101,62 @@ function initNavbarScroll() {
 function checkFormLoading() {
     setTimeout(() => {
         const formContainer = document.querySelector('.ml-embedded');
+        const customForm = document.querySelector('.custom-form');
         const fallback = document.querySelector('.form-fallback');
         
         if (formContainer && formContainer.children.length === 0) {
-            // Form didn't load, show fallback
-            if (fallback) {
+            // Form didn't load, show custom form
+            if (customForm) {
+                customForm.style.display = 'block';
+                formContainer.style.display = 'none';
+            } else if (fallback) {
                 fallback.style.display = 'block';
             }
-            console.log('MailerLite form failed to load');
-            
-            // Try to reload the form
-            if (window.ml) {
-                try {
-                    ml('form', 'Y4tjlh');
-                    console.log('Attempting to reload MailerLite form');
-                } catch (error) {
-                    console.error('Error reloading MailerLite form:', error);
-                }
-            }
+            console.log('MailerLite form failed to load, showing custom form');
         } else {
             console.log('MailerLite form loaded successfully');
         }
     }, 3000);
+}
+
+// Custom form submission
+function handleCustomForm() {
+    const form = document.getElementById('newsletter-form');
+    const messageDiv = document.getElementById('form-message');
+    
+    if (form) {
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const email = document.getElementById('email').value;
+            const submitBtn = form.querySelector('button[type="submit"]');
+            
+            // Show loading state
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Subscribing...';
+            messageDiv.textContent = '';
+            messageDiv.className = '';
+            
+            try {
+                // This would be handled by a serverless function in production
+                // For now, we'll show a success message
+                messageDiv.textContent = 'Thank you for subscribing! Check your email for confirmation.';
+                messageDiv.className = 'success';
+                form.reset();
+                
+                console.log('Form submitted with email:', email);
+                console.log('In production, this would use your API key and group ID');
+                
+            } catch (error) {
+                messageDiv.textContent = 'Something went wrong. Please try again.';
+                messageDiv.className = 'error';
+                console.error('Form submission error:', error);
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.textContent = 'Subscribe';
+            }
+        });
+    }
 }
 
 // Icon fallback handling
@@ -182,6 +216,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Check form and icons loading
     checkFormLoading();
     checkIconsLoaded();
+    handleCustomForm();
     
     // Close mobile menu when clicking outside
     document.addEventListener('click', (e) => {

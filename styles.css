@@ -737,6 +737,56 @@ body {
     margin-top: var(--spacing-md);
 }
 
+.newsletter-form {
+    width: 100%;
+}
+
+.newsletter-form .form-group {
+    display: flex;
+    gap: var(--spacing-sm);
+    margin-bottom: var(--spacing-sm);
+}
+
+.newsletter-form input[type="email"] {
+    flex: 1;
+    padding: 12px 16px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-size: 1rem;
+}
+
+.newsletter-form input[type="email"]:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.1);
+}
+
+.newsletter-form button {
+    padding: 12px 24px;
+    white-space: nowrap;
+}
+
+#form-message {
+    margin-top: var(--spacing-sm);
+    padding: var(--spacing-sm);
+    border-radius: var(--radius-md);
+    font-size: 0.875rem;
+}
+
+#form-message.success {
+    background: rgba(16, 185, 129, 0.1);
+    color: var(--success);
+    border: 1px solid rgba(16, 185, 129, 0.2);
+}
+
+#form-message.error {
+    background: rgba(239, 68, 68, 0.1);
+    color: var(--error);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+}
+
 /* Footer */
 .footer {
     background-color: var(--bg-secondary);
