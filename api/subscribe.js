@@ -22,12 +22,28 @@ export default async function handler(req, res) {
         const apiKey = process.env.MAILERLITE_API_KEY;
         const groupId = process.env.MAILERLITE_GROUP_ID;
 
+        console.log('Environment check:', {
+            hasApiKey: !!apiKey,
+            hasGroupId: !!groupId,
+            apiKeyLength: apiKey ? apiKey.length : 0,
+            groupId: groupId
+        });
+
         if (!apiKey || !groupId) {
             console.error('Missing MailerLite environment variables');
-            return res.status(500).json({ error: 'Server configuration error' });
+            return res.status(500).json({ 
+                error: 'Server configuration error',
+                details: `API Key: ${!!apiKey}, Group ID: ${!!groupId}`
+            });
         }
 
         // Add subscriber to MailerLite
+        console.log('Making API call to MailerLite with:', {
+            email: email,
+            groupId: groupId,
+            apiKeyPrefix: apiKey ? apiKey.substring(0, 10) + '...' : 'none'
+        });
+
         const response = await fetch('https://connect.mailerlite.com/api/subscribers', {
             method: 'POST',
             headers: {
@@ -40,6 +56,8 @@ export default async function handler(req, res) {
                 status: 'active'
             })
         });
+
+        console.log('MailerLite API response status:', response.status);
 
         if (!response.ok) {
             const errorData = await response.json().catch(() => ({}));
