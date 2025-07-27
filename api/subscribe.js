@@ -61,7 +61,12 @@ export default async function handler(req, res) {
 
         if (!response.ok) {
             const errorData = await response.json().catch(() => ({}));
-            console.error('MailerLite API error:', errorData);
+            console.error('MailerLite API error:', {
+                status: response.status,
+                statusText: response.statusText,
+                error: errorData,
+                headers: Object.fromEntries(response.headers.entries())
+            });
             
             // Handle specific error cases
             if (response.status === 409) {
@@ -69,12 +74,17 @@ export default async function handler(req, res) {
             }
             
             return res.status(response.status).json({ 
-                error: 'Failed to subscribe. Please try again.' 
+                error: 'Failed to subscribe. Please try again.',
+                details: errorData
             });
         }
 
         const data = await response.json();
-        console.log('Successfully subscribed:', email);
+        console.log('MailerLite API success response:', {
+            email: email,
+            responseData: data,
+            status: response.status
+        });
 
         return res.status(200).json({ 
             success: true, 
