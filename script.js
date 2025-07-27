@@ -219,6 +219,8 @@ function handleCustomForm() {
             
             try {
                 // Call our serverless function to subscribe to MailerLite
+                console.log('Making API call to /api/subscribe with email:', email);
+                
                 const response = await fetch('/api/subscribe', {
                     method: 'POST',
                     headers: {
@@ -227,7 +229,11 @@ function handleCustomForm() {
                     body: JSON.stringify({ email })
                 });
 
+                console.log('Response status:', response.status);
+                console.log('Response headers:', Object.fromEntries(response.headers.entries()));
+
                 const data = await response.json();
+                console.log('Response data:', data);
 
                 if (response.ok && data.success) {
                     messageDiv.textContent = data.message || 'Thank you for subscribing! Check your email for confirmation.';
@@ -253,6 +259,10 @@ function handleCustomForm() {
                 }
                 
             } catch (error) {
+                console.error('Network error details:', error);
+                console.error('Error name:', error.name);
+                console.error('Error message:', error.message);
+                
                 messageDiv.textContent = 'Network error. Please check your connection and try again.';
                 messageDiv.className = 'error';
                 console.error('Form submission error:', error);
