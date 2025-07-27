@@ -5,40 +5,40 @@
       "src": "*.html",
       "use": "@vercel/static"
     },
-            {
-          "src": "*.css",
-          "use": "@vercel/static"
-        },
-        {
-          "src": "*.js",
-          "use": "@vercel/static"
-        },
-        {
-          "src": "*.png",
-          "use": "@vercel/static"
-        },
-        {
-          "src": "Shobbl/*.png",
-          "use": "@vercel/static"
-        },
-        {
-          "src": "fonts/*",
-          "use": "@vercel/static"
-        },
-        {
-          "src": "api/*.js",
-          "use": "@vercel/node"
-        }
+    {
+      "src": "*.css",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "*.js",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "*.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Shobbl/*.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "fonts/*",
+      "use": "@vercel/static"
+    }
   ],
   "functions": {
     "api/*.js": {
       "runtime": "nodejs18.x"
     }
   },
-  "rewrites": [
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ],
 
