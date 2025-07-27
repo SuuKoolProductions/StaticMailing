@@ -28,10 +28,7 @@
       "destination": "/index.html"
     }
   ],
-  "env": {
-    "MAILERLITE_ACCOUNT": "1693935",
-    "MAILERLITE_FORM_ID": "Y4tjlh"
-  },
+
   "headers": [
     {
       "source": "/styles.css",
