@@ -55,18 +55,14 @@ function smoothScroll(e) {
     }
 }
 
-// MailerLite form success tracking
-function trackMailerLiteSuccess() {
-    // Track successful form submissions
-    if (window.ml) {
-        ml('track', 'form_submit', {
-            form_id: 'Y4tjlh',
-            page: window.location.pathname
+// Custom form success tracking
+function trackFormSuccess() {
+    const form = document.getElementById('newsletter-form');
+    if (form) {
+        form.addEventListener('submit', function() {
+            console.log('Custom form submitted successfully');
         });
     }
-    
-    // Log to console for monitoring
-    console.log('MailerLite form submitted successfully');
 }
 
 
@@ -97,38 +93,13 @@ function initNavbarScroll() {
     });
 }
 
-// Form loading detection
-function checkFormLoading() {
-    setTimeout(() => {
-        const formContainer = document.querySelector('.ml-embedded');
-        const customForm = document.querySelector('.custom-form');
-        const fallback = document.querySelector('.form-fallback');
-        
-        // Check if MailerLite form loaded properly
-        const mlFormLoaded = formContainer && 
-                            formContainer.children.length > 0 && 
-                            formContainer.querySelector('form');
-        
-        if (!mlFormLoaded) {
-            // Form didn't load, show custom form
-            if (customForm) {
-                customForm.style.display = 'block';
-                if (formContainer) formContainer.style.display = 'none';
-                console.log('MailerLite form failed to load, showing custom form');
-            } else if (fallback) {
-                fallback.style.display = 'block';
-            }
-        } else {
-            console.log('MailerLite form loaded successfully');
-            
-            // Still set up our custom form as backup
-            if (customForm) {
-                customForm.style.display = 'block';
-                if (formContainer) formContainer.style.display = 'none';
-                console.log('Using custom form instead of MailerLite embedded form');
-            }
-        }
-    }, 2000); // Reduced timeout to 2 seconds
+// Show custom form immediately (MailerLite embedded form disabled)
+function showCustomForm() {
+    const customForm = document.querySelector('.custom-form');
+    if (customForm) {
+        customForm.style.display = 'block';
+        console.log('Using custom form instead of MailerLite embedded form');
+    }
 }
 
 // Custom form submission
@@ -189,7 +160,7 @@ function preventFormRedirects() {
         console.log('Prevented form redirect for:', form);
     }, true);
     
-    // Also prevent any iframe redirects from MailerLite
+    // Prevent any iframe redirects
     const iframes = document.querySelectorAll('iframe');
     iframes.forEach(iframe => {
         iframe.addEventListener('load', function() {
@@ -257,8 +228,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize navbar scroll effect
     initNavbarScroll();
     
-    // Check form and icons loading
-    checkFormLoading();
+    // Show custom form and set up functionality
+    showCustomForm();
     checkIconsLoaded();
     handleCustomForm();
     preventFormRedirects();
