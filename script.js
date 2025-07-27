@@ -218,18 +218,42 @@ function handleCustomForm() {
             messageDiv.className = '';
             
             try {
-                // This would be handled by a serverless function in production
-                // For now, we'll show a success message
-                messageDiv.textContent = 'Thank you for subscribing! Check your email for confirmation.';
-                messageDiv.className = 'success';
-                form.reset();
-                
-                // Log sanitized email (for debugging only)
-                console.log('Form submitted with sanitized email:', email);
-                console.log('In production, this would use your API key and group ID');
+                // Call our serverless function to subscribe to MailerLite
+                const response = await fetch('/api/subscribe', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ email })
+                });
+
+                const data = await response.json();
+
+                if (response.ok && data.success) {
+                    messageDiv.textContent = data.message || 'Thank you for subscribing! Check your email for confirmation.';
+                    messageDiv.className = 'success';
+                    form.reset();
+                    
+                    // Generate new CSRF token for next submission
+                    const csrfTokenInput = document.getElementById('csrf-token');
+                    if (csrfTokenInput) {
+                        csrfTokenInput.value = generateCSRFToken();
+                    }
+                    
+                    console.log('Successfully subscribed:', email);
+                } else {
+                    // Handle specific error cases
+                    if (response.status === 409) {
+                        messageDiv.textContent = 'This email is already subscribed to our newsletter.';
+                    } else {
+                        messageDiv.textContent = data.error || 'Something went wrong. Please try again.';
+                    }
+                    messageDiv.className = 'error';
+                    console.error('Subscription error:', data.error);
+                }
                 
             } catch (error) {
-                messageDiv.textContent = 'Something went wrong. Please try again.';
+                messageDiv.textContent = 'Network error. Please check your connection and try again.';
                 messageDiv.className = 'error';
                 console.error('Form submission error:', error);
             } finally {
