@@ -109,6 +109,16 @@ function checkFormLoading() {
                 fallback.style.display = 'block';
             }
             console.log('MailerLite form failed to load');
+            
+            // Try to reload the form
+            if (window.ml) {
+                try {
+                    ml('form', 'Y4tjlh');
+                    console.log('Attempting to reload MailerLite form');
+                } catch (error) {
+                    console.error('Error reloading MailerLite form:', error);
+                }
+            }
         } else {
             console.log('MailerLite form loaded successfully');
         }

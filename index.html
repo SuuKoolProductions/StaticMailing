@@ -14,7 +14,7 @@
     
     <link rel="stylesheet" href="/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <!-- MailerLite Universal -->
     <script>
@@ -23,10 +23,50 @@
         n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
         (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
         ml('account', '1693935');
-        ml('form', 'Y4tjlh');
     </script>
     <!-- End MailerLite Universal -->
     
+    <!-- Font Awesome Fallback -->
+    <script>
+        // Load Font Awesome with multiple fallbacks
+        function loadFontAwesome() {
+            const links = [
+                'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
+                'https://use.fontawesome.com/releases/v6.4.0/css/all.css',
+                'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css'
+            ];
+            
+            let loaded = false;
+            let currentIndex = 0;
+            
+            function tryLoad() {
+                if (loaded || currentIndex >= links.length) return;
+                
+                const link = document.createElement('link');
+                link.rel = 'stylesheet';
+                link.href = links[currentIndex];
+                link.onload = function() {
+                    loaded = true;
+                    console.log('Font Awesome loaded from:', links[currentIndex]);
+                };
+                link.onerror = function() {
+                    currentIndex++;
+                    setTimeout(tryLoad, 1000);
+                };
+                document.head.appendChild(link);
+            }
+            
+            // Start loading
+            tryLoad();
+        }
+        
+        // Load after page loads
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', loadFontAwesome);
+        } else {
+            loadFontAwesome();
+        }
+    </script>   
 
 </head>
 <body class="dark-mode">
