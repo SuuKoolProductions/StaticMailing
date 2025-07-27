@@ -14,7 +14,7 @@
     
     <link rel="stylesheet" href="/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
     
     <!-- MailerLite Universal -->
     <script>
@@ -25,6 +25,19 @@
         ml('account', '1693935');
     </script>
     <!-- End MailerLite Universal -->
+    
+    <!-- Font Awesome Fallback -->
+    <script>
+        // Check if Font Awesome loaded, if not, load from alternative CDN
+        setTimeout(function() {
+            if (!document.querySelector('.fas')) {
+                var link = document.createElement('link');
+                link.rel = 'stylesheet';
+                link.href = 'https://use.fontawesome.com/releases/v6.4.0/css/all.css';
+                document.head.appendChild(link);
+            }
+        }, 2000);
+    </script>
 </head>
 <body class="dark-mode">
     <!-- Navigation -->
@@ -189,6 +202,9 @@
                 </div>
                 <div class="contact-form">
                     <div class="ml-embedded" data-form="Y4tjlh"></div>
+                    <div class="form-fallback" style="display: none;">
+                        <p>Form loading... Please refresh the page if this persists.</p>
+                    </div>
                     <p class="form-note">We respect your privacy. Unsubscribe at any time.</p>
                 </div>
             </div>

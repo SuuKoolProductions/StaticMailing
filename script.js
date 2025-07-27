@@ -112,6 +112,51 @@ function initNavbarScroll() {
     });
 }
 
+// Form loading detection
+function checkFormLoading() {
+    setTimeout(() => {
+        const formContainer = document.querySelector('.ml-embedded');
+        const fallback = document.querySelector('.form-fallback');
+        
+        if (formContainer && formContainer.children.length === 0) {
+            // Form didn't load, show fallback
+            if (fallback) {
+                fallback.style.display = 'block';
+            }
+            console.log('MailerLite form failed to load');
+        } else {
+            console.log('MailerLite form loaded successfully');
+        }
+    }, 3000);
+}
+
+// Icon fallback handling
+function checkIconsLoaded() {
+    setTimeout(() => {
+        const icons = document.querySelectorAll('.fas, .fa');
+        let iconsLoaded = true;
+        
+        icons.forEach(icon => {
+            const computedStyle = window.getComputedStyle(icon, '::before');
+            const content = computedStyle.content;
+            
+            // If icon shows as placeholder text, it's not loaded
+            if (content && (content.includes('F') || content.includes('\\'))) {
+                iconsLoaded = false;
+            }
+        });
+        
+        if (!iconsLoaded) {
+            console.log('Font Awesome icons not loaded, trying fallback');
+            // Try alternative CDN
+            const link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = 'https://use.fontawesome.com/releases/v6.4.0/css/all.css';
+            document.head.appendChild(link);
+        }
+    }, 2000);
+}
+
 // Initialize everything when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     // Initialize theme
@@ -141,6 +186,10 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Initialize navbar scroll effect
     initNavbarScroll();
+    
+    // Check form and icons loading
+    checkFormLoading();
+    checkIconsLoaded();
     
     // Close mobile menu when clicking outside
     document.addEventListener('click', (e) => {
