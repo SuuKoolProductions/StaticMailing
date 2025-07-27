@@ -73,25 +73,10 @@ function trackMailerLiteSuccess() {
 
 
 
-// Intersection Observer for animations
+// Intersection Observer for animations - DISABLED
 function initAnimations() {
-    const observerOptions = {
-        threshold: 0.1,
-        rootMargin: '0px 0px -50px 0px'
-    };
-    
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('fade-in-up');
-                observer.unobserve(entry.target);
-            }
-        });
-    }, observerOptions);
-    
-    // Observe elements for animation
-    const animateElements = document.querySelectorAll('.feature-card, .screenshot-card, .section-header');
-    animateElements.forEach(el => observer.observe(el));
+    // Animation disabled - keeping function for potential future use
+    console.log('Scroll animations disabled');
 }
 
 // Navbar scroll effect

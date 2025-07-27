@@ -901,7 +901,8 @@ body {
     }
 }
 
-/* Animation Classes */
+/* Animation Classes - DISABLED */
+/*
 @keyframes fadeInUp {
     from {
         opacity: 0;
@@ -929,6 +930,7 @@ body {
 .fade-in {
     animation: fadeIn 0.6s ease-out;
 }
+*/
 
 /* Loading States */
 .btn-loading {
