@@ -99,6 +99,8 @@ body {
     color: var(--text-primary);
     line-height: 1.6;
     transition: background-color 0.3s ease, color 0.3s ease;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 .container {
@@ -858,6 +860,19 @@ body {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    /* Fix horizontal overflow */
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+    
+    .container {
+        padding: 0 var(--spacing-md);
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    
+    /* Navigation fixes */
     .nav-menu {
         position: fixed;
         left: -100%;
@@ -870,6 +885,7 @@ body {
         box-shadow: var(--shadow-lg);
         padding: var(--spacing-lg) 0;
         border-top: 1px solid var(--border);
+        overflow-x: hidden;
     }
 
     .nav-menu.active {
@@ -879,29 +895,69 @@ body {
     .nav-toggle {
         display: flex;
     }
+    
+    .nav-container {
+        padding: 0 var(--spacing-md);
+    }
 
+    /* Hero section fixes */
     .hero-container {
         grid-template-columns: 1fr;
         text-align: center;
         gap: var(--spacing-xl);
+        padding: 0 var(--spacing-md);
     }
 
     .hero-title {
         font-size: 2.5rem;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.125rem;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
     }
 
     .hero-buttons {
         justify-content: center;
+        flex-wrap: wrap;
+        gap: var(--spacing-md);
+    }
+    
+    .hero-image {
+        max-width: 100%;
+        overflow: hidden;
+    }
+    
+    .hero-preview-img {
+        max-width: 100%;
+        height: auto;
     }
 
+    /* Contact section fixes */
     .contact-content {
         grid-template-columns: 1fr;
         gap: var(--spacing-xl);
+        padding: 0 var(--spacing-md);
+    }
+    
+    .contact-info h2 {
+        font-size: 2rem;
+        word-wrap: break-word;
+    }
+    
+    .contact-info p {
+        font-size: 1.125rem;
+        word-wrap: break-word;
     }
 
+    /* Footer fixes */
     .footer-content {
         grid-template-columns: 1fr;
         gap: var(--spacing-lg);
+        padding: 0 var(--spacing-md);
     }
 
     .footer-links {
@@ -909,45 +965,112 @@ body {
         gap: var(--spacing-lg);
     }
 
+    /* Grid fixes */
     .features-grid {
         grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
     }
 
     .screenshots-grid {
         grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
     }
     
+    .screenshot-card {
+        max-width: 100%;
+        overflow: hidden;
+    }
+    
+    .screenshot-img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Value proposition fixes */
     .value-prop-content {
         grid-template-columns: 1fr;
         text-align: center;
         gap: var(--spacing-xl);
+        padding: 0 var(--spacing-md);
     }
     
     .value-prop-text h2 {
         font-size: 2rem;
+        word-wrap: break-word;
     }
     
     .value-prop-description {
         font-size: 1.125rem;
+        word-wrap: break-word;
+    }
+    
+    /* Form fixes */
+    .newsletter-form .form-group {
+        flex-direction: column;
+        gap: var(--spacing-md);
+    }
+    
+    .newsletter-form input[type="email"] {
+        width: 100%;
+        min-width: 0;
+    }
+    
+    .newsletter-form button {
+        width: 100%;
+        min-width: 0;
     }
 }
 
 @media (max-width: 480px) {
+    /* Additional overflow fixes for very small screens */
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+    
+    .container {
+        padding: 0 var(--spacing-sm);
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    
     .hero-title {
         font-size: 2rem;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
     }
 
     .section-header h2 {
         font-size: 2rem;
+        word-wrap: break-word;
     }
 
     .btn {
         padding: 10px 20px;
         font-size: 0.9rem;
+        white-space: nowrap;
     }
-
-    .container {
-        padding: 0 var(--spacing-sm);
+    
+    /* Ensure all text wraps properly */
+    .hero-subtitle,
+    .section-header p,
+    .feature-card p,
+    .screenshot-card p,
+    .value-prop-description,
+    .contact-info p {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+    
+    /* Fix any remaining overflow issues */
+    .nav-container,
+    .hero-container,
+    .contact-content,
+    .footer-content {
+        padding-left: var(--spacing-sm);
+        padding-right: var(--spacing-sm);
+        max-width: 100%;
+        overflow-x: hidden;
     }
 }
 
