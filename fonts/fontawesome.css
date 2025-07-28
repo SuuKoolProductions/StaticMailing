@@ -24,6 +24,10 @@
 .fa-moon:before { content: "\f186"; }
 .fa-users:before { content: "\f0c0"; }
 .fa-heart:before { content: "\f004"; }
+.fa-heart-o:before { content: "\f08a"; }
+.fa-heart-solid:before { content: "\f004"; }
+.fa-star:before { content: "\f005"; }
+.fa-thumbs-up:before { content: "\f164"; }
 .fa-gamepad:before { content: "\f11b"; }
 .fa-chart-line:before { content: "\f201"; }
 .fa-shield-alt:before { content: "\f3ed"; }
