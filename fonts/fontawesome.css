@@ -26,6 +26,7 @@
 .fa-heart:before { content: "\f004"; }
 .fa-heart-o:before { content: "\f08a"; }
 .fa-heart-solid:before { content: "\f004"; }
+.fa-heart:before { content: "♥"; }
 .fa-star:before { content: "\f005"; }
 .fa-thumbs-up:before { content: "\f164"; }
 .fa-gamepad:before { content: "\f11b"; }

@@ -1173,4 +1173,11 @@ body {
     color: var(--success);
     font-size: 0.875rem;
     margin-top: var(--spacing-xs);
+}
+
+/* Custom heart icon fallback */
+.heart-icon {
+    color: #ff6b6b;
+    font-size: 2rem;
+    font-weight: bold;
 } 
