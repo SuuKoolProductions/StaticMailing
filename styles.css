@@ -1055,6 +1055,9 @@ body {
         overflow-x: hidden !important;
         word-wrap: break-word !important;
         overflow-wrap: break-word !important;
+        white-space: normal !important;
+        overflow: visible !important;
+        padding: 0 var(--spacing-md) !important;
     }
     
     .contact-info h2,
@@ -1231,7 +1234,22 @@ body {
 /* Custom heart icon fallback */
 .heart-icon {
     color: #ff6b6b;
-    font-size: 3rem;
+    font-size: 6rem;
     font-weight: bold;
     line-height: 1;
+}
+
+/* Force all text in newsletter section to wrap properly */
+.contact-info,
+.contact-info h2,
+.contact-info p,
+.contact-features,
+.contact-feature,
+.contact-feature span {
+    max-width: 100% !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
 } 
