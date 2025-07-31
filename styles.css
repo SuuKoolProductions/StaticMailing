@@ -90,12 +90,16 @@
     max-width: 100%;
 }
 
+/* Brand font classes */
+.brand-font { font-family: 'Montserrat', sans-serif !important; }
+.brand-font-extralight { font-family: 'Montserrat', sans-serif !important; font-weight: 200 !important; }
+
 html {
     scroll-behavior: smooth;
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     background-color: var(--bg-primary);
     color: var(--text-primary);
     line-height: 1.6;

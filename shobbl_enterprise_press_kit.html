@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shobbl - Enterprise Digital Marketplace Infrastructure</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="ShobblIcon.svg">
+    <link rel="icon" type="image/png" sizes="240x240" href="Logo240.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="Logo240.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="Logo240.png">
+    <link rel="apple-touch-icon" href="Logo240.png">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <style>
+        .brand-font { font-family: 'Montserrat', sans-serif !important; }
+        .brand-font-extralight { font-family: 'Montserrat', sans-serif !important; font-weight: 200 !important; }
+        
+        /* Dark theme colors matching index.html */
+        body { 
+            background-color: #0f172a; 
+            color: #f8fafc; 
+        }
+        
+        .gradient-bg { 
+            background: linear-gradient(135deg, #60a5fa 0%, #a78bfa 100%); 
+        }
+        
+        .feature-card { 
+            transition: transform 0.3s ease, box-shadow 0.3s ease; 
+            background-color: #1e293b !important;
+            border: 1px solid #334155;
+        }
+        
+        .feature-card:hover { 
+            transform: translateY(-5px); 
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3); 
+        }
+        
+        .section-divider { 
+            background: linear-gradient(90deg, transparent, #334155, transparent); 
+            height: 1px; 
+        }
+        
+        .accent-border { 
+            border-left: 4px solid #60a5fa; 
+        }
+        
+        .text-gradient { 
+            background: linear-gradient(135deg, #60a5fa, #a78bfa); 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent; 
+        }
+        
+        /* Override Tailwind colors for dark theme */
+        .bg-white { background-color: #1e293b !important; }
+        .bg-gray-50 { background-color: #0f172a !important; }
+        .bg-gray-900 { background-color: #020617 !important; }
+        
+        .text-gray-900 { color: #f8fafc !important; }
+        .text-gray-700 { color: #cbd5e1 !important; }
+        .text-gray-600 { color: #94a3b8 !important; }
+        .text-gray-400 { color: #64748b !important; }
+        .text-gray-500 { color: #64748b !important; }
+        
+        .border-gray-200 { border-color: #334155 !important; }
+        
+        /* Enhanced readability */
+        .text-white { color: #f8fafc !important; }
+        .opacity-90 { opacity: 0.9 !important; }
+        .opacity-80 { opacity: 0.8 !important; }
+    </style>
+</head>
+<body class="bg-gray-50 dark-mode">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-16">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="text-center">
+                <div class="flex justify-center items-center mb-6">
+                    <img src="ShobblIcon.svg" alt="Shobbl Logo" class="w-16 h-16 mr-4">
+                    <h1 class="text-5xl brand-font-extralight">SHOBBL</h1>
+                </div>
+                <p class="text-xl font-light mb-4">Enterprise Digital Marketplace Infrastructure</p>
+                <p class="text-lg opacity-90 max-w-3xl mx-auto">Next-generation marketplace platform built on compliance-first architecture, modern payment infrastructure, and scalable creator economy tools</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Executive Summary -->
+    <section class="py-16 bg-white">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">Executive Summary</h2>
+                <div class="section-divider mb-8"></div>
+            </div>
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <div>
+                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Market Opportunity</h3>
+                    <p class="text-gray-700 mb-6 leading-relaxed">The digital content marketplace industry faces critical infrastructure challenges: fragmented compliance systems, outdated payment rails, and limited creator monetization tools. Legacy platforms struggle with regulatory requirements while independent creators demand modern, flexible solutions.</p>
+                    <p class="text-gray-700 leading-relaxed">Shobbl addresses these market gaps through purpose-built infrastructure that prioritizes compliance, risk management, and creator empowerment—delivering enterprise-grade solutions for the modern digital economy.</p>
+                </div>
+                <div class="bg-gray-50 p-8 rounded-xl">
+                    <h4 class="text-xl font-semibold text-gray-900 mb-6">Platform Foundation</h4>
+                    <ul class="space-y-3">
+                        <li class="flex items-center text-gray-700">
+                            <i class="fas fa-shield-alt text-blue-600 mr-3"></i>
+                            Compliance-first architecture
+                        </li>
+                        <li class="flex items-center text-gray-700">
+                            <i class="fas fa-chart-line text-green-600 mr-3"></i>
+                            Modern payment infrastructure
+                        </li>
+                        <li class="flex items-center text-gray-700">
+                            <i class="fas fa-users text-purple-600 mr-3"></i>
+                            Advanced creator economy tools
+                        </li>
+                        <li class="flex items-center text-gray-700">
+                            <i class="fas fa-expand-arrows-alt text-orange-600 mr-3"></i>
+                            Enterprise scalability
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Core Architecture -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">Compliance-First Architecture</h2>
+                <div class="section-divider mb-8"></div>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Built from the ground up to meet enterprise compliance requirements while delivering exceptional user experiences</p>
+            </div>
+            
+            <div class="grid md:grid-cols-3 gap-8 mb-12">
+                <div class="feature-card bg-white p-8 rounded-xl shadow-lg">
+                    <div class="text-blue-600 mb-4">
+                        <i class="fas fa-sitemap text-3xl"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">Domain Segregation</h3>
+                    <p class="text-gray-700">Architectural separation of content domains ensures clean compliance boundaries and simplified regulatory adherence across jurisdictions.</p>
+                </div>
+                
+                <div class="feature-card bg-white p-8 rounded-xl shadow-lg">
+                    <div class="text-green-600 mb-4">
+                        <i class="fas fa-user-check text-3xl"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">Identity Verification</h3>
+                    <p class="text-gray-700">Robust seller verification systems with geofencing capabilities and automated age-gating per regulatory requirements.</p>
+                </div>
+                
+                <div class="feature-card bg-white p-8 rounded-xl shadow-lg">
+                    <div class="text-purple-600 mb-4">
+                        <i class="fas fa-balance-scale text-3xl"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">Regulatory Alignment</h3>
+                    <p class="text-gray-700">Embedded compliance mechanisms that automatically adjust to international content and financial regulations.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Payment Infrastructure -->
+    <section class="py-16 bg-white">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">Modern Payment Infrastructure</h2>
+                <div class="section-divider mb-8"></div>
+            </div>
+            
+            <div class="grid lg:grid-cols-2 gap-12 items-center">
+                <div>
+                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Stablecoin-Powered Commerce</h3>
+                    <div class="space-y-6">
+                        <div class="accent-border pl-6">
+                            <h4 class="font-semibold text-gray-900 mb-2">Familiar User Experience</h4>
+                            <p class="text-gray-700">Standard card-based checkout flows that mirror traditional e-commerce, requiring no specialized knowledge or wallet management.</p>
+                        </div>
+                        <div class="accent-border pl-6">
+                            <h4 class="font-semibold text-gray-900 mb-2">Global Accessibility</h4>
+                            <p class="text-gray-700">Fast, borderless transactions with minimal fees, eliminating geographical payment barriers for creators and consumers.</p>
+                        </div>
+                        <div class="accent-border pl-6">
+                            <h4 class="font-semibold text-gray-900 mb-2">Price Stability</h4>
+                            <p class="text-gray-700">Stable value foundation without cryptocurrency volatility, providing predictable revenue streams for business planning.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="bg-gray-50 p-8 rounded-xl">
+                    <h4 class="text-xl font-semibold text-gray-900 mb-6">Technical Advantages</h4>
+                    <div class="space-y-4">
+                        <div class="flex justify-between items-center p-3 bg-white rounded-lg">
+                            <span class="text-gray-700">Transaction Speed</span>
+                            <span class="font-semibold text-green-600">Near-instant</span>
+                        </div>
+                        <div class="flex justify-between items-center p-3 bg-white rounded-lg">
+                            <span class="text-gray-700">Processing Fees</span>
+                            <span class="font-semibold text-green-600">Sub-1%</span>
+                        </div>
+                        <div class="flex justify-between items-center p-3 bg-white rounded-lg">
+                            <span class="text-gray-700">Settlement Time</span>
+                            <span class="font-semibold text-green-600">24/7 Real-time</span>
+                        </div>
+                        <div class="flex justify-between items-center p-3 bg-white rounded-lg">
+                            <span class="text-gray-700">Geographic Coverage</span>
+                            <span class="font-semibold text-green-600">Global</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Creator Economy Tools -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">Advanced Creator Economy Tools</h2>
+                <div class="section-divider mb-8"></div>
+            </div>
+            
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="feature-card bg-white p-6 rounded-xl shadow-lg text-center">
+                    <i class="fas fa-dollar-sign text-3xl text-green-600 mb-4"></i>
+                    <h3 class="font-semibold text-gray-900 mb-3">Revenue Control</h3>
+                    <p class="text-gray-700 text-sm">Full pricing autonomy and transparent revenue sharing with real-time analytics</p>
+                </div>
+                
+                <div class="feature-card bg-white p-6 rounded-xl shadow-lg text-center">
+                    <i class="fas fa-users-cog text-3xl text-blue-600 mb-4"></i>
+                    <h3 class="font-semibold text-gray-900 mb-3">Audience Management</h3>
+                    <p class="text-gray-700 text-sm">Sophisticated access controls and audience segmentation tools</p>
+                </div>
+                
+                <div class="feature-card bg-white p-6 rounded-xl shadow-lg text-center">
+                    <i class="fas fa-chart-bar text-3xl text-purple-600 mb-4"></i>
+                    <h3 class="font-semibold text-gray-900 mb-3">Analytics Suite</h3>
+                    <p class="text-gray-700 text-sm">Comprehensive performance metrics and market intelligence</p>
+                </div>
+                
+                <div class="feature-card bg-white p-6 rounded-xl shadow-lg text-center">
+                    <i class="fas fa-shield-alt text-3xl text-orange-600 mb-4"></i>
+                    <h3 class="font-semibold text-gray-900 mb-3">Content Protection</h3>
+                    <p class="text-gray-700 text-sm">Built-in moderation and IP protection mechanisms</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Risk Management -->
+    <section class="py-16 bg-white">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">Enterprise Risk Management</h2>
+                <div class="section-divider mb-8"></div>
+            </div>
+            
+            <div class="grid lg:grid-cols-3 gap-8">
+                <div class="lg:col-span-2">
+                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Comprehensive Risk Mitigation</h3>
+                    <div class="space-y-6">
+                        <div class="bg-gray-50 p-6 rounded-lg">
+                            <h4 class="font-semibold text-gray-900 mb-3 flex items-center">
+                                <i class="fas fa-user-shield text-blue-600 mr-3"></i>
+                                Identity & Authentication
+                            </h4>
+                            <p class="text-gray-700">Multi-factor authentication with email, phone, and SSO integration. Backend wallet infrastructure abstracted for security while maintaining user custody.</p>
+                        </div>
+                        
+                        <div class="bg-gray-50 p-6 rounded-lg">
+                            <h4 class="font-semibold text-gray-900 mb-3 flex items-center">
+                                <i class="fas fa-flag text-red-600 mr-3"></i>
+                                Content Moderation
+                            </h4>
+                            <p class="text-gray-700">Advanced flagging systems with automated and human review processes, ensuring platform safety while supporting creator expression.</p>
+                        </div>
+                        
+                        <div class="bg-gray-50 p-6 rounded-lg">
+                            <h4 class="font-semibold text-gray-900 mb-3 flex items-center">
+                                <i class="fas fa-lock text-green-600 mr-3"></i>
+                                Data Privacy
+                            </h4>
+                            <p class="text-gray-700">GDPR and privacy-compliant data handling with encrypted storage and selective data sharing protocols.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-6">Security Standards</h3>
+                    <div class="space-y-4">
+                        <div class="flex items-center p-3 bg-gray-50 rounded-lg">
+                            <i class="fas fa-check-circle text-green-600 mr-3"></i>
+                            <span class="text-gray-700">SOC 2 Type II</span>
+                        </div>
+                        <div class="flex items-center p-3 bg-gray-50 rounded-lg">
+                            <i class="fas fa-check-circle text-green-600 mr-3"></i>
+                            <span class="text-gray-700">PCI DSS Level 1</span>
+                        </div>
+                        <div class="flex items-center p-3 bg-gray-50 rounded-lg">
+                            <i class="fas fa-check-circle text-green-600 mr-3"></i>
+                            <span class="text-gray-700">ISO 27001</span>
+                        </div>
+                        <div class="flex items-center p-3 bg-gray-50 rounded-lg">
+                            <i class="fas fa-check-circle text-green-600 mr-3"></i>
+                            <span class="text-gray-700">GDPR Compliant</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Competitive Advantages -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">Market Differentiation</h2>
+                <div class="section-divider mb-8"></div>
+            </div>
+            
+            <div class="overflow-x-auto">
+                <table class="w-full bg-white rounded-xl shadow-lg overflow-hidden">
+                    <thead class="gradient-bg text-white">
+                        <tr>
+                            <th class="px-6 py-4 text-left font-semibold">Capability</th>
+                            <th class="px-6 py-4 text-center font-semibold">Legacy Platforms</th>
+                            <th class="px-6 py-4 text-center font-semibold text-gradient-white">Shobbl</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-200">
+                        <tr>
+                            <td class="px-6 py-4 font-medium text-gray-900">Compliance Architecture</td>
+                            <td class="px-6 py-4 text-center text-red-600">Retrofit Solutions</td>
+                            <td class="px-6 py-4 text-center text-green-600 font-semibold">Purpose-Built</td>
+                        </tr>
+                        <tr class="bg-gray-50">
+                            <td class="px-6 py-4 font-medium text-gray-900">Payment Processing</td>
+                            <td class="px-6 py-4 text-center text-red-600">Legacy Rails</td>
+                            <td class="px-6 py-4 text-center text-green-600 font-semibold">Modern Infrastructure</td>
+                        </tr>
+                        <tr>
+                            <td class="px-6 py-4 font-medium text-gray-900">Creator Revenue Share</td>
+                            <td class="px-6 py-4 text-center text-red-600">Platform-Controlled</td>
+                            <td class="px-6 py-4 text-center text-green-600 font-semibold">Creator-Controlled</td>
+                        </tr>
+                        <tr class="bg-gray-50">
+                            <td class="px-6 py-4 font-medium text-gray-900">Content Policy</td>
+                            <td class="px-6 py-4 text-center text-red-600">Restrictive/Inconsistent</td>
+                            <td class="px-6 py-4 text-center text-green-600 font-semibold">Transparent/Predictable</td>
+                        </tr>
+                        <tr>
+                            <td class="px-6 py-4 font-medium text-gray-900">Global Accessibility</td>
+                            <td class="px-6 py-4 text-center text-red-600">Geographic Limitations</td>
+                            <td class="px-6 py-4 text-center text-green-600 font-semibold">Borderless Operations</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Technical Specifications -->
+    <section class="py-16 bg-white">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">Platform Scalability</h2>
+                <div class="section-divider mb-8"></div>
+            </div>
+            
+            <div class="grid md:grid-cols-2 gap-12">
+                <div>
+                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Infrastructure Capabilities</h3>
+                    <div class="space-y-4">
+                        <div class="flex justify-between items-center p-4 bg-gray-50 rounded-lg">
+                            <span class="text-gray-700 font-medium">Transaction Throughput</span>
+                            <span class="text-blue-600 font-semibold">10K+ TPS</span>
+                        </div>
+                        <div class="flex justify-between items-center p-4 bg-gray-50 rounded-lg">
+                            <span class="text-gray-700 font-medium">Platform Uptime</span>
+                            <span class="text-green-600 font-semibold">99.99% SLA</span>
+                        </div>
+                        <div class="flex justify-between items-center p-4 bg-gray-50 rounded-lg">
+                            <span class="text-gray-700 font-medium">Creator Onboarding</span>
+                            <span class="text-purple-600 font-semibold">Automated</span>
+                        </div>
+                        <div class="flex justify-between items-center p-4 bg-gray-50 rounded-lg">
+                            <span class="text-gray-700 font-medium">API Response Time</span>
+                            <span class="text-orange-600 font-semibold">&lt;100ms</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div>
+                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Growth Architecture</h3>
+                    <div class="space-y-6">
+                        <div class="bg-gray-50 p-6 rounded-lg">
+                            <h4 class="font-semibold text-gray-900 mb-3">Horizontal Scaling</h4>
+                            <p class="text-gray-700">Cloud-native architecture with auto-scaling capabilities to handle traffic spikes and growth.</p>
+                        </div>
+                        <div class="bg-gray-50 p-6 rounded-lg">
+                            <h4 class="font-semibold text-gray-900 mb-3">API-First Design</h4>
+                            <p class="text-gray-700">Comprehensive APIs enable third-party integrations and custom creator tools.</p>
+                        </div>
+                        <div class="bg-gray-50 p-6 rounded-lg">
+                            <h4 class="font-semibold text-gray-900 mb-3">Multi-Region Support</h4>
+                            <p class="text-gray-700">Global content delivery with regional compliance and performance optimization.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="py-16 gradient-bg text-white">
+        <div class="max-w-4xl mx-auto px-6 text-center">
+            <h2 class="text-4xl font-bold mb-6">Ready to Transform Digital Commerce?</h2>
+            <p class="text-xl mb-8 opacity-90">Join the next generation of digital marketplace infrastructure built for compliance, scalability, and creator success.</p>
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="text-center">
+                    <i class="fas fa-handshake text-3xl mb-3"></i>
+                    <h3 class="font-semibold mb-2">Partnership Opportunities</h3>
+                    <p class="text-sm opacity-80">Strategic partnerships and integration possibilities</p>
+                </div>
+                <div class="text-center">
+                    <i class="fas fa-rocket text-3xl mb-3"></i>
+                    <h3 class="font-semibold mb-2">Platform Demo</h3>
+                    <p class="text-sm opacity-80">Experience the infrastructure firsthand</p>
+                </div>
+                <div class="text-center">
+                    <i class="fas fa-chart-line text-3xl mb-3"></i>
+                    <h3 class="font-semibold mb-2">Market Analysis</h3>
+                    <p class="text-sm opacity-80">Detailed competitive landscape insights</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-8 bg-gray-900 text-white text-center">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="flex justify-center items-center mb-4">
+                <img src="ShobblIcon.svg" alt="Shobbl Logo" class="w-8 h-8 mr-3">
+                <h3 class="text-2xl brand-font-extralight">Shobbl</h3>
+            </div>
+            <p class="text-gray-400 mb-4">Enterprise Digital Marketplace Infrastructure</p>
+            <p class="text-sm text-gray-500">Built for compliance, designed for scale, optimized for creators. Shobbl LLC. 2025</p>
+        </div>
+    </footer>
+</body>
+</html>
