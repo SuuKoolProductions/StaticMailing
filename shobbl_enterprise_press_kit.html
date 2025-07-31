@@ -7,12 +7,10 @@
     
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="ShobblIcon.svg">
-    <link rel="icon" type="image/png" sizes="240x240" href="Logo240.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="Logo240.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="Logo240.png">
-    <link rel="apple-touch-icon" href="Logo240.png">
+    <link rel="shortcut icon" href="ShobblIcon.svg">
+    <link rel="icon" href="ShobblIcon.svg">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
@@ -73,6 +71,19 @@
         .text-white { color: #f8fafc !important; }
         .opacity-90 { opacity: 0.9 !important; }
         .opacity-80 { opacity: 0.8 !important; }
+        
+        /* Icon fallbacks and styling */
+        .fas, .fa { 
+            font-family: 'Font Awesome 6 Free', 'Font Awesome 6 Pro', 'FontAwesome' !important; 
+            font-weight: 900 !important;
+        }
+        
+        /* Ensure icons are visible */
+        .text-blue-600 { color: #3b82f6 !important; }
+        .text-green-600 { color: #10b981 !important; }
+        .text-purple-600 { color: #8b5cf6 !important; }
+        .text-orange-600 { color: #f59e0b !important; }
+        .text-red-600 { color: #ef4444 !important; }
     </style>
 </head>
 <body class="bg-gray-50 dark-mode">
@@ -85,7 +96,7 @@
                     <h1 class="text-5xl brand-font-extralight">SHOBBL</h1>
                 </div>
                 <p class="text-xl font-light mb-4">Enterprise Digital Marketplace Infrastructure</p>
-                <p class="text-lg opacity-90 max-w-3xl mx-auto">Next-generation marketplace platform built on compliance-first architecture, modern payment infrastructure, and scalable creator economy tools</p>
+                <p class="text-lg opacity-90 max-w-3xl mx-auto">Next-generation marketplace platform built on compliance-first architecture, hybrid payment infrastructure, and scalable creator economy tools</p>
             </div>
         </div>
     </header>
@@ -112,7 +123,7 @@
                         </li>
                         <li class="flex items-center text-gray-700">
                             <i class="fas fa-chart-line text-green-600 mr-3"></i>
-                            Modern payment infrastructure
+                            Hybrid payment infrastructure
                         </li>
                         <li class="flex items-center text-gray-700">
                             <i class="fas fa-users text-purple-600 mr-3"></i>
@@ -169,47 +180,47 @@
     <section class="py-16 bg-white">
         <div class="max-w-6xl mx-auto px-6">
             <div class="text-center mb-12">
-                <h2 class="text-4xl font-bold text-gray-900 mb-4">Modern Payment Infrastructure</h2>
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">Hybrid Payment Infrastructure</h2>
                 <div class="section-divider mb-8"></div>
             </div>
             
             <div class="grid lg:grid-cols-2 gap-12 items-center">
                 <div>
-                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Stablecoin-Powered Commerce</h3>
+                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Compliant Multi-Payment System</h3>
                     <div class="space-y-6">
                         <div class="accent-border pl-6">
-                            <h4 class="font-semibold text-gray-900 mb-2">Familiar User Experience</h4>
-                            <p class="text-gray-700">Standard card-based checkout flows that mirror traditional e-commerce, requiring no specialized knowledge or wallet management.</p>
+                            <h4 class="font-semibold text-gray-900 mb-2">Creator-Friendly Processors</h4>
+                            <p class="text-gray-700">Integrated payment processors specifically designed for creators, with transparent fee structures and faster payout cycles than traditional platforms.</p>
                         </div>
                         <div class="accent-border pl-6">
-                            <h4 class="font-semibold text-gray-900 mb-2">Global Accessibility</h4>
-                            <p class="text-gray-700">Fast, borderless transactions with minimal fees, eliminating geographical payment barriers for creators and consumers.</p>
+                            <h4 class="font-semibold text-gray-900 mb-2">Hybrid Payment Options</h4>
+                            <p class="text-gray-700">Seamless integration of traditional payment methods with modern digital solutions, ensuring compliance while maximizing creator revenue.</p>
                         </div>
                         <div class="accent-border pl-6">
-                            <h4 class="font-semibold text-gray-900 mb-2">Price Stability</h4>
-                            <p class="text-gray-700">Stable value foundation without cryptocurrency volatility, providing predictable revenue streams for business planning.</p>
+                            <h4 class="font-semibold text-gray-900 mb-2">Regulatory Compliance</h4>
+                            <p class="text-gray-700">Built-in compliance mechanisms that automatically adapt to international payment regulations, protecting creators from sudden policy changes.</p>
                         </div>
                     </div>
                 </div>
                 
                 <div class="bg-gray-50 p-8 rounded-xl">
-                    <h4 class="text-xl font-semibold text-gray-900 mb-6">Technical Advantages</h4>
+                    <h4 class="text-xl font-semibold text-gray-900 mb-6">Payment System Benefits</h4>
                     <div class="space-y-4">
                         <div class="flex justify-between items-center p-3 bg-white rounded-lg">
-                            <span class="text-gray-700">Transaction Speed</span>
-                            <span class="font-semibold text-green-600">Near-instant</span>
+                            <span class="text-gray-700">Creator Revenue Share</span>
+                            <span class="font-semibold text-green-600">90%+ Average</span>
                         </div>
                         <div class="flex justify-between items-center p-3 bg-white rounded-lg">
                             <span class="text-gray-700">Processing Fees</span>
-                            <span class="font-semibold text-green-600">Sub-1%</span>
+                            <span class="font-semibold text-green-600">Competitive Rates</span>
                         </div>
                         <div class="flex justify-between items-center p-3 bg-white rounded-lg">
-                            <span class="text-gray-700">Settlement Time</span>
-                            <span class="font-semibold text-green-600">24/7 Real-time</span>
+                            <span class="text-gray-700">Payout Speed</span>
+                            <span class="font-semibold text-green-600">1-3 Business Days</span>
                         </div>
                         <div class="flex justify-between items-center p-3 bg-white rounded-lg">
-                            <span class="text-gray-700">Geographic Coverage</span>
-                            <span class="font-semibold text-green-600">Global</span>
+                            <span class="text-gray-700">Payment Methods</span>
+                            <span class="font-semibold text-green-600">Multi-Platform</span>
                         </div>
                     </div>
                 </div>
@@ -341,8 +352,8 @@
                         </tr>
                         <tr class="bg-gray-50">
                             <td class="px-6 py-4 font-medium text-gray-900">Payment Processing</td>
-                            <td class="px-6 py-4 text-center text-red-600">Legacy Rails</td>
-                            <td class="px-6 py-4 text-center text-green-600 font-semibold">Modern Infrastructure</td>
+                            <td class="px-6 py-4 text-center text-red-600">Single Platform</td>
+                            <td class="px-6 py-4 text-center text-green-600 font-semibold">Hybrid Multi-Platform</td>
                         </tr>
                         <tr>
                             <td class="px-6 py-4 font-medium text-gray-900">Creator Revenue Share</td>
