@@ -30,15 +30,15 @@
     <meta name="robots" content="index, follow">
     
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="ShobblIcon.svg">
-    <link rel="shortcut icon" href="ShobblIcon.svg">
-    <link rel="icon" href="ShobblIcon.svg">
+    <link rel="icon" type="image/svg+xml" href="shobbl-icon.svg">
+    <link rel="shortcut icon" href="shobbl-icon.svg">
+    <link rel="icon" href="shobbl-icon.svg">
     
     <link rel="stylesheet" href="/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/fonts/fontawesome.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css" crossorigin="anonymous">
     
     <!-- MailerLite Universal (Disabled for custom form) -->
     <script>
@@ -55,13 +55,14 @@
     <nav class="navbar">
         <div class="nav-container">
             <div class="nav-logo">
-                <img src="ShobblIcon.svg" alt="Shobbl Logo" class="nav-logo-img">
+                <img src="shobbl-icon.svg" alt="Shobbl Logo" class="nav-logo-img">
                 <h2 class="brand-font-extralight">SHOBBL</h2>
             </div>
             <div class="nav-menu">
                 <a href="#home" class="nav-link">Home</a>
                 <a href="#about" class="nav-link">About</a>
-                <a href="#screenshots" class="nav-link">Preview</a>
+                <a href="#features" class="nav-link">Features</a>
+                <a href="#gallery" class="nav-link">Gallery</a>
                 <a href="#contact" class="nav-link">Contact</a>
                 <div class="theme-toggle">
                     <input type="checkbox" id="theme-switch" class="theme-switch">
@@ -83,20 +84,46 @@
     <section id="home" class="hero">
         <div class="hero-container">
             <div class="hero-content">
+                <span class="section-badge">🚀 Lauching Early Access Soon!</span>
                 <h1 class="hero-title">
-                    Discover Amazing <span class="gradient-text">Indie Creators</span>
+                    The Platform Built for <span class="gradient-text">Creators</span>
                 </h1>
                 <p class="hero-subtitle">
-                    Shobbl is the premier marketplace connecting indie creators with passionate fans. 
-                    Support writers, artists, developers, and creators of all kinds. Discover unique experiences, and be part of the future of creative content.
+                    Shobbl is the next-gen marketplace where indie creators thrive. Full control over your content, 
+                    client-side encryption to protect your work, and a community that puts creators first. 
+                    No sudden takedowns. No frozen payouts. Just you and your audience.
                 </p>
                 <div class="hero-buttons">
                     <a href="#contact" class="btn btn-primary">Get Early Access</a>
-                    <a href="#about" class="btn btn-secondary">Learn More</a>
+                    <a href="#features" class="btn btn-secondary">Explore Features</a>
                 </div>
             </div>
             <div class="hero-image">
-                <img src="Shobbl/HomePage.png" alt="Shobbl Platform Preview" class="hero-preview-img">
+                <img src="Shobbl/explore.png" alt="Shobbl Platform Preview" class="hero-preview-img">
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats-section">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-number">100%</div>
+                    <div class="stat-label">Creator Owned Content</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">E2E</div>
+                    <div class="stat-label">Client-Side Encryption</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">0%</div>
+                    <div class="stat-label">AI Training for Content</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">24/7</div>
+                    <div class="stat-label">Creator Support</div>
+                </div>
             </div>
         </div>
     </section>
@@ -105,43 +132,276 @@
     <section id="about" class="about">
         <div class="container">
             <div class="section-header">
-                <h2>What is Shobbl?</h2>
-                <p>Revolutionizing the creative marketplace</p>
+                <span class="section-badge">Why Shobbl?</span>
+                <h2>Built Different. Built for <span class="gradient-text">You</span>.</h2>
+                <p>A platform that respects creators and their work</p>
             </div>
             <div class="features-grid">
                 <div class="feature-card">
                     <div class="feature-icon">
+                        <i class="fas fa-crown"></i>
+                    </div>
+                    <h3>Creator Control</h3>
+                    <p>You own your content, your audience, and your revenue. Set your own terms, pricing tiers, and distribution rules without platform interference.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Anti-AI Protection</h3>
+                    <p>Client-side encryption and advanced protection prevents AI scraping and unauthorized use of your creative work. Your art stays yours.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
                         <i class="fas fa-users"></i>
                     </div>
-                    <h3>For Creators</h3>
-                    <p>Direct connection with your audience, fair revenue sharing, and powerful tools to showcase your work - whether it's games, writing, comics, or art.</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon">
-                        <span class="heart-icon">♥</span>
-                    </div>
-                    <h3>For Fans</h3>
-                    <p>Discover hidden gems, support independent creators, and get early access to innovative content across all creative mediums.</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon">
-                        <i class="fas fa-chart-line"></i>
-                    </div>
-                    <h3>For the Community</h3>
-                    <p>Build meaningful connections, share feedback, and help shape the future of creative content together.</p>
+                    <h3>Community First</h3>
+                    <p>Build meaningful connections with your fans through communities, direct messaging, and exclusive member-only content areas.</p>
                 </div>
             </div>
         </div>
     </section>
 
+    <!-- More Screenshots Section with Carousel -->
+    <section class="screenshots">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">👀 Sneak Peek</span>
+                <h2>More Platform <span class="gradient-text">Previews</span></h2>
+                <p>Scroll through all the platform features - click to view in detail</p>
+            </div>
+            <div class="screenshot-carousel-container">
+                <div class="screenshot-carousel" id="screenshotCarousel">
+                    <div class="screenshot-slide">
+                        <div class="screenshot-image">
+                            <img src="Shobbl/explore.png" alt="Explore Page" class="screenshot-img">
+                        </div>
+                        <h4>Discover & Explore</h4>
+                        <p>Find new creators and content through our intelligent recommendation system and curated collections.</p>
+                    </div>
+                    <div class="screenshot-slide">
+                        <div class="screenshot-image">
+                            <img src="Shobbl/feed.png" alt="Content Feed" class="screenshot-img">
+                        </div>
+                        <h4>Personalized Feed</h4>
+                        <p>Your feed, your way. See updates from creators you follow, organized exactly how you like.</p>
+                    </div>
+                    <div class="screenshot-slide">
+                        <div class="screenshot-image">
+                            <img src="Shobbl/user-profile.png" alt="User Profile" class="screenshot-img">
+                        </div>
+                        <h4>User Profiles</h4>
+                        <p>Showcase your personality with customizable profiles, badges, and activity history.</p>
+                    </div>
+                    <div class="screenshot-slide">
+                        <div class="screenshot-image">
+                            <img src="Shobbl/dashboard.png" alt="Dashboard Overview" class="screenshot-img">
+                        </div>
+                        <h4>Creator Dashboard</h4>
+                        <p>Everything you need in one place. Manage content, track earnings, and engage with your community.</p>
+                    </div>
+                    <div class="screenshot-slide">
+                        <div class="screenshot-image">
+                            <img src="Shobbl/kyc.png" alt="KYC Verification" class="screenshot-img">
+                        </div>
+                        <h4>Verified Creators</h4>
+                        <p>Get verified to unlock additional features and build trust with your audience.</p>
+                    </div>
+                    <div class="screenshot-slide">
+                        <div class="screenshot-image">
+                            <img src="Shobbl/light-mode.png" alt="Light Mode" class="screenshot-img">
+                        </div>
+                        <h4>Light & Dark Modes</h4>
+                        <p>Choose your preferred theme. Easy on the eyes, day or night.</p>
+                    </div>
+                </div>
+                <div class="carousel-controls">
+                    <button class="carousel-btn" id="prevScreenshotBtn" aria-label="Previous screenshot">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button class="carousel-btn" id="nextScreenshotBtn" aria-label="Next screenshot">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+                <div class="carousel-dots" id="screenshotCarouselDots">
+                    <span class="carousel-dot active" data-index="0"></span>
+                    <span class="carousel-dot" data-index="1"></span>
+                    <span class="carousel-dot" data-index="2"></span>
+                    <span class="carousel-dot" data-index="3"></span>
+                    <span class="carousel-dot" data-index="4"></span>
+                    <span class="carousel-dot" data-index="5"></span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Screenshot Gallery Section -->
+    <section id="gallery" class="gallery-section">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">🎨 Platform in Action</span>
+                <h2>See It All, <span class="gradient-text">In Detail</span></h2>
+                <p>Click any screenshot to see the full platform features up close</p>
+            </div>
+            <div class="gallery-grid">
+                <div class="gallery-item landscape" data-image="Shobbl/explore.png" data-title="Explore & Discover" data-description="Find new creators and trending content through our intelligent discovery system.">
+                    <img src="Shobbl/explore.png" alt="Explore & Discover">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/feed.png" data-title="Personalized Feed" data-description="Your feed, your way. See updates from creators you follow, organized just for you.">
+                    <img src="Shobbl/feed.png" alt="Personalized Feed">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/user-profile.png" data-title="Creator Profiles" data-description="Beautiful, customizable creator profiles that showcase your work and build your brand.">
+                    <img src="Shobbl/user-profile.png" alt="Creator Profiles">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/creator-tiers.png" data-title="Membership Tiers" data-description="Create unlimited membership tiers with custom pricing, perks, and exclusive content access.">
+                    <img src="Shobbl/creator-tiers.png" alt="Membership Tiers">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/creator-tiers-frontend.png" data-title="Tier Display for Fans" data-description="How fans see and choose membership tiers to support their favorite creators.">
+                    <img src="Shobbl/creator-tiers-frontend.png" alt="Tier Display for Fans">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/dashboard.png" data-title="Creator Dashboard" data-description="Your command center - manage content, track earnings, and engage with your community.">
+                    <img src="Shobbl/dashboard.png" alt="Creator Dashboard">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/analytics.png" data-title="Advanced Analytics" data-description="Deep insights into your audience, content performance, and revenue trends.">
+                    <img src="Shobbl/analytics.png" alt="Advanced Analytics">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/audio.png" data-title="Audio & Music" data-description="Host music, podcasts, audiobooks, and ASMR with built-in player and playlists.">
+                    <img src="Shobbl/audio.png" alt="Audio & Music">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/video.png" data-title="Video Hosting" data-description="Stream high-quality video content without third-party embeds or ads.">
+                    <img src="Shobbl/video.png" alt="Video Hosting">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/stories.png" data-title="Stories & Updates" data-description="Share quick updates, behind-the-scenes moments, and daily content with your audience.">
+                    <img src="Shobbl/stories.png" alt="Stories & Updates">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/members-only.png" data-title="Members-Only Content" data-description="Gate premium content behind membership tiers to reward your dedicated supporters.">
+                    <img src="Shobbl/members-only.png" alt="Members-Only Content">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/Community.png" data-title="Community Features" data-description="Build thriving communities with discussion boards, polls, and direct fan interaction.">
+                    <img src="Shobbl/Community.png" alt="Community Features">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/contests.png" data-title="Contests & Events" data-description="Host game jams, art contests, writing challenges, and creative competitions.">
+                    <img src="Shobbl/contests.png" alt="Contests & Events">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/kyc.png" data-title="KYC Verification" data-description="Get verified to unlock additional features and build trust with your audience.">
+                    <img src="Shobbl/kyc.png" alt="KYC Verification">
+                </div>
+                <div class="gallery-item landscape" data-image="Shobbl/light-mode.png" data-title="Light & Dark Modes" data-description="Choose your preferred theme - easy on the eyes, day or night.">
+                    <img src="Shobbl/light-mode.png" alt="Light & Dark Modes">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Image Modal -->
+    <div class="image-modal" id="imageModal">
+        <div class="modal-overlay" id="modalOverlay"></div>
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">&times;</button>
+            <div class="modal-image-container">
+                <img id="modalImage" src="" alt="">
+            </div>
+            <div class="modal-info">
+                <h3 id="modalTitle"></h3>
+                <p id="modalDescription"></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Creator Control Section -->
+    <section class="creator-control">
+        <div class="container">
+            <div class="creator-control-content">
+                <div class="creator-control-text">
+                    <span class="section-badge">👑 Total Control</span>
+                    <h2>Your Platform, <span class="highlight">Your Rules</span></h2>
+                    <p>
+                        Unlike other platforms that can change terms overnight, freeze your funds, or remove your content without warning, 
+                        Shobbl puts you in the driver's seat. Set up your creator dashboard exactly how you want it.
+                    </p>
+                    <ul class="creator-features-list">
+                        <li><i class="fas fa-check"></i> Custom membership tiers with your own pricing</li>
+                        <li><i class="fas fa-check"></i> Advanced analytics to understand your audience</li>
+                        <li><i class="fas fa-check"></i> Direct payouts with no surprise holds</li>
+                        <li><i class="fas fa-check"></i> Full content ownership and portability</li>
+                        <li><i class="fas fa-check"></i> KYC verification for trusted creator status</li>
+                        <li><i class="fas fa-check"></i> Multi-format support: games, audio, video, comics & more</li>
+                    </ul>
+                </div>
+                <div class="creator-control-visual">
+                    <img src="Shobbl/creator-dashboard.png" alt="Creator Dashboard" class="hero-preview-img">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mobile Experience Section -->
+    <section class="mobile-showcase">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">📱 Mobile Responsive</span>
+                <h2>Beautiful on <span class="gradient-text">Every Device</span></h2>
+                <p>A seamless experience whether you're on desktop, tablet, or phone</p>
+            </div>
+            <div class="mobile-grid">
+                <div class="mobile-card">
+                    <img src="Shobbl/mobile1.png" alt="Upload All Content Types">
+                    <div class="mobile-card-content">
+                        <h4>Upload Content Anywhere</h4>
+                        <p>Share all your creations - games, art, music, videos, writing, and more from your phone</p>
+                    </div>
+                </div>
+                <div class="mobile-card">
+                    <img src="Shobbl/mobile2.png" alt="Explore & Discover">
+                    <div class="mobile-card-content">
+                        <h4>Explore & Discover</h4>
+                        <p>Find your next favorite indie creators through curated discovery</p>
+                    </div>
+                </div>
+                <div class="mobile-card">
+                    <img src="Shobbl/mobile3.png" alt="Creator Dashboard">
+                    <div class="mobile-card-content">
+                        <h4>Creator Tiers & Control</h4>
+                        <p>Manage membership tiers and exclusive content right from your phone</p>
+                    </div>
+                </div>
+                <div class="mobile-card">
+                    <img src="Shobbl/mobile4.png" alt="User Analytics">
+                    <div class="mobile-card-content">
+                        <h4>Track Your Success</h4>
+                        <p>Monitor analytics, earnings, and audience engagement in real-time</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Platform Features Section -->
+    <section id="features" class="platform-features">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">✨ All Your Creative Tools</span>
+                <h2>Everything You Need to <span class="gradient-text">Thrive</span></h2>
+                <p>In An All-in-One Platform</p>
+            </div>
+            
+                
+            
+        </div>
+    </section>
+
+    
     <!-- Value Proposition Section -->
     <section class="value-prop">
         <div class="container">
             <div class="value-prop-content">
                 <div class="value-prop-text">
+                    <span class="section-badge">🛡️ Creator Protection</span>
                     <h2>Built for Creator Protection</h2>
                     <p class="value-prop-description">
-                        We're building a next-gen storefront platform designed to protect creators from sudden takedowns, deplatforming, or payout freezes. Our system abstracts payments in a compliant, seamless way — sidestepping the usual friction and red flags that have impacted other platforms. Just a smooth, familiar experience for your buyers and peace of mind for you.
+                        We're building a next-gen storefront platform designed to protect creators from sudden takedowns, deplatforming, or payout freezes. 
+                        Our system abstracts payments in a compliant, seamless way — sidestepping the usual friction and red flags that have impacted other platforms. 
+                        Just a smooth, familiar experience for your buyers and peace of mind for you.
                     </p>
                     <p class="value-prop-cta">
                         Stay in the loop — sign up for early access and updates.
@@ -156,46 +416,14 @@
         </div>
     </section>
 
-    <!-- Screenshots Section -->
-    <section id="screenshots" class="screenshots">
-        <div class="container">
-            <div class="section-header">
-                <h2>Platform Preview</h2>
-                <p>Take a look at what we're building</p>
-            </div>
-            <div class="screenshots-grid">
-                <div class="screenshot-card">
-                    <div class="screenshot-image">
-                        <img src="Shobbl/Catagories.png" alt="Creative Categories" class="screenshot-img">
-                    </div>
-                    <h4>Discover New Content</h4>
-                    <p>Browse curated collections and find your next favorite indie creation - games, writing, comics, and more.</p>
-                </div>
-                <div class="screenshot-card">
-                    <div class="screenshot-image">
-                        <img src="Shobbl/GameJam.png" alt="Creative Events Hosting" class="screenshot-img">
-                    </div>
-                    <h4>Host Events & Interact with Community</h4>
-                    <p>Create and participate in game jams, writing challenges, art contests, and other creative events while building meaningful connections.</p>
-                </div>
-                <div class="screenshot-card">
-                    <div class="screenshot-image">
-                        <img src="Shobbl/Community.png" alt="Community Features" class="screenshot-img">
-                    </div>
-                    <h4>Community Features</h4>
-                    <p>Connect with creators and fellow fans in our vibrant community.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
             <div class="contact-content">
                 <div class="contact-info">
-                    <h2>Stay Updated</h2>
-                    <p>Be the first to know when Shobbl launches and get exclusive early access to amazing indie content.</p>
+                    <span class="section-badge">📬 Stay Updated</span>
+                    <h2>Join the <span class="gradient-text">Waitlist</span></h2>
+                    <p>Be the first to know when Shobbl launches and get exclusive early access to the platform that puts creators first.</p>
                     <div class="contact-features">
                         <div class="contact-feature">
                             <i class="fas fa-bell"></i>
@@ -208,6 +436,10 @@
                         <div class="contact-feature">
                             <i class="fas fa-envelope"></i>
                             <span>Weekly indie creator updates</span>
+                        </div>
+                        <div class="contact-feature">
+                            <i class="fas fa-percent"></i>
+                            <span>Founding member benefits</span>
                         </div>
                     </div>
                 </div>
@@ -246,13 +478,14 @@
             <div class="footer-content">
                 <div class="footer-brand">
                     <h3 class="brand-font-extralight">Shobbl</h3>
-                    <p>Connecting indie creators with passionate fans.</p>
+                    <p>The platform built for creators, by creators. Your content, your rules, your success.</p>
                 </div>
                 <div class="footer-links">
                     <div class="footer-section">
                         <h4>Platform</h4>
                         <a href="#about">About</a>
-                        <a href="#screenshots">Features</a>
+                        <a href="#features">Features</a>
+                        <a href="#gallery">Gallery</a>
                         <a href="#contact">Contact</a>
                     </div>
                     <div class="footer-section">
@@ -270,4 +503,4 @@
 
     <script src="/script.js"></script>
 </body>
-</html> 
+</html>

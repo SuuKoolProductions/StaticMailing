@@ -6,9 +6,9 @@
     <title>Shobbl - Enterprise Digital Marketplace Infrastructure</title>
     
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="ShobblIcon.svg">
-    <link rel="shortcut icon" href="ShobblIcon.svg">
-    <link rel="icon" href="ShobblIcon.svg">
+    <link rel="icon" type="image/svg+xml" href="shobbl-icon.svg">
+    <link rel="shortcut icon" href="shobbl-icon.svg">
+    <link rel="icon" href="shobbl-icon.svg">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,57 +18,58 @@
         .brand-font { font-family: 'Montserrat', sans-serif !important; }
         .brand-font-extralight { font-family: 'Montserrat', sans-serif !important; font-weight: 200 !important; }
         
-        /* Dark theme colors matching index.html */
+        /* Dark theme colors matching index.html - Black & Red */
         body { 
-            background-color: #0f172a; 
-            color: #f8fafc; 
+            background-color: #0a0a0a; 
+            color: #fafafa; 
         }
         
         .gradient-bg { 
-            background: linear-gradient(135deg, #60a5fa 0%, #a78bfa 100%); 
+            background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%); 
         }
         
         .feature-card { 
             transition: transform 0.3s ease, box-shadow 0.3s ease; 
-            background-color: #1e293b !important;
-            border: 1px solid #334155;
+            background-color: #141414 !important;
+            border: 1px solid #262626;
         }
         
         .feature-card:hover { 
             transform: translateY(-5px); 
-            box-shadow: 0 20px 40px rgba(0,0,0,0.3); 
+            box-shadow: 0 20px 40px rgba(239, 68, 68, 0.2); 
+            border-color: rgba(239, 68, 68, 0.3);
         }
         
         .section-divider { 
-            background: linear-gradient(90deg, transparent, #334155, transparent); 
+            background: linear-gradient(90deg, transparent, #262626, transparent); 
             height: 1px; 
         }
         
         .accent-border { 
-            border-left: 4px solid #60a5fa; 
+            border-left: 4px solid #ef4444; 
         }
         
         .text-gradient { 
-            background: linear-gradient(135deg, #60a5fa, #a78bfa); 
+            background: linear-gradient(135deg, #dc2626, #ef4444); 
             -webkit-background-clip: text; 
             -webkit-text-fill-color: transparent; 
         }
         
         /* Override Tailwind colors for dark theme */
-        .bg-white { background-color: #1e293b !important; }
-        .bg-gray-50 { background-color: #0f172a !important; }
-        .bg-gray-900 { background-color: #020617 !important; }
+        .bg-white { background-color: #141414 !important; }
+        .bg-gray-50 { background-color: #0a0a0a !important; }
+        .bg-gray-900 { background-color: #000000 !important; }
         
-        .text-gray-900 { color: #f8fafc !important; }
-        .text-gray-700 { color: #cbd5e1 !important; }
-        .text-gray-600 { color: #94a3b8 !important; }
-        .text-gray-400 { color: #64748b !important; }
-        .text-gray-500 { color: #64748b !important; }
+        .text-gray-900 { color: #fafafa !important; }
+        .text-gray-700 { color: #a3a3a3 !important; }
+        .text-gray-600 { color: #737373 !important; }
+        .text-gray-400 { color: #525252 !important; }
+        .text-gray-500 { color: #737373 !important; }
         
-        .border-gray-200 { border-color: #334155 !important; }
+        .border-gray-200 { border-color: #262626 !important; }
         
         /* Enhanced readability */
-        .text-white { color: #f8fafc !important; }
+        .text-white { color: #fafafa !important; }
         .opacity-90 { opacity: 0.9 !important; }
         .opacity-80 { opacity: 0.8 !important; }
         
@@ -104,11 +105,11 @@
 </head>
 <body class="bg-gray-50 dark-mode">
     <!-- Header -->
-    <header class="gradient-bg text-white py-16">
+    <header class="bg-gray-900 text-white py-16 border-b-2" style="border-color: #ef4444;">
         <div class="max-w-6xl mx-auto px-6">
             <div class="text-center">
                 <div class="flex justify-center items-center mb-6">
-                    <img src="ShobblIcon.svg" alt="Shobbl Logo" class="w-16 h-16 mr-4">
+                    <img src="shobbl-icon.svg" alt="Shobbl Logo" class="w-16 h-16 mr-4">
                     <h1 class="text-5xl brand-font-extralight">SHOBBL</h1>
                 </div>
                 <p class="text-xl font-light mb-4">Enterprise Digital Marketplace Infrastructure</p>
@@ -353,7 +354,7 @@
             
             <div class="overflow-x-auto">
                 <table class="w-full bg-white rounded-xl shadow-lg overflow-hidden">
-                    <thead class="gradient-bg text-white">
+                    <thead class="text-white" style="background-color: #1a1a1a;">
                         <tr>
                             <th class="px-6 py-4 text-left font-semibold">Capability</th>
                             <th class="px-6 py-4 text-center font-semibold">Legacy Platforms</th>
@@ -445,7 +446,7 @@
     </section>
 
     <!-- Call to Action -->
-    <section class="py-16 gradient-bg text-white">
+    <section class="py-16 bg-gray-50 text-white" style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%);">
         <div class="max-w-4xl mx-auto px-6 text-center">
             <h2 class="text-4xl font-bold mb-6">Ready to Transform Digital Commerce?</h2>
             <p class="text-xl mb-8 opacity-90">Join the next generation of digital marketplace infrastructure built for compliance, scalability, and creator success.</p>
@@ -470,10 +471,10 @@
     </section>
 
     <!-- Footer -->
-    <footer class="py-8 bg-gray-900 text-white text-center">
+    <footer class="py-8 bg-black text-white text-center">
         <div class="max-w-6xl mx-auto px-6">
             <div class="flex justify-center items-center mb-4">
-                <img src="ShobblIcon.svg" alt="Shobbl Logo" class="w-8 h-8 mr-3">
+                <img src="shobbl-icon.svg" alt="Shobbl Logo" class="w-8 h-8 mr-3">
                 <h3 class="text-2xl brand-font-extralight">Shobbl</h3>
             </div>
             <p class="text-gray-400 mb-4">Enterprise Digital Marketplace Infrastructure</p>

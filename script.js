@@ -39,7 +39,7 @@ function closeMobileMenu() {
     navToggle.classList.remove('active');
 }
 
-// Smooth Scrolling
+// Smooth Scrolling - ONLY for navbar navigation
 function smoothScroll(e) {
     e.preventDefault();
     const targetId = this.getAttribute('href');
@@ -65,14 +65,138 @@ function trackFormSuccess() {
     }
 }
 
+// Gallery Modal
+function initGalleryModal() {
+    const galleryItems = document.querySelectorAll('.gallery-item');
+    const imageModal = document.getElementById('imageModal');
+    const modalOverlay = document.getElementById('modalOverlay');
+    const modalClose = document.getElementById('modalClose');
+    const modalImage = document.getElementById('modalImage');
+    const modalTitle = document.getElementById('modalTitle');
+    const modalDescription = document.getElementById('modalDescription');
+    
+    let currentGalleryIndex = 0;
+    
+    function openModal(item, index = 0) {
+        const image = item.dataset.image;
+        const title = item.dataset.title;
+        const description = item.dataset.description;
+        
+        currentGalleryIndex = index;
+        modalImage.src = image;
+        modalTitle.textContent = title;
+        modalDescription.textContent = description;
+        imageModal.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+    
+    function closeModal() {
+        imageModal.classList.remove('active');
+        document.body.style.overflow = '';
+    }
+    
+    function navigateGallery(direction) {
+        if (!imageModal.classList.contains('active')) return;
+        
+        let newIndex = currentGalleryIndex + direction;
+        if (newIndex < 0) newIndex = galleryItems.length - 1;
+        if (newIndex >= galleryItems.length) newIndex = 0;
+        
+        openModal(galleryItems[newIndex], newIndex);
+    }
+    
+    galleryItems.forEach((item, index) => {
+        item.addEventListener('click', () => openModal(item, index));
+    });
+    
+    modalOverlay.addEventListener('click', closeModal);
+    modalClose.addEventListener('click', closeModal);
+    
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+        if (!imageModal.classList.contains('active')) return;
+        
+        if (e.key === 'Escape') {
+            closeModal();
+        } else if (e.key === 'ArrowLeft') {
+            navigateGallery(-1);
+        } else if (e.key === 'ArrowRight') {
+            navigateGallery(1);
+        }
+    });
+}
 
+// Screenshot Carousel (manual control only)
+function initScreenshotCarousel() {
+    const carousel = document.getElementById('screenshotCarousel');
+    const prevBtn = document.getElementById('prevScreenshotBtn');
+    const nextBtn = document.getElementById('nextScreenshotBtn');
+    const dots = document.querySelectorAll('#screenshotCarouselDots .carousel-dot');
+    
+    if (!carousel || !prevBtn || !nextBtn) return;
+    
+    let currentIndex = 0;
+    const slides = carousel.querySelectorAll('.screenshot-slide');
+    const totalSlides = slides.length;
+    
+    function updateDots() {
+        dots.forEach((dot, index) => {
+            dot.classList.toggle('active', index === currentIndex);
+        });
+    }
+    
+    function scrollToSlide(index) {
+        if (index < 0) index = totalSlides - 1;
+        if (index >= totalSlides) index = 0;
+        currentIndex = index;
+        
+        const slide = slides[currentIndex];
+        if (slide) {
+            const slideLeft = slide.offsetLeft;
+            const slideWidth = slide.offsetWidth;
+            const carouselWidth = carousel.offsetWidth;
+            const scrollLeft = slideLeft - (carouselWidth - slideWidth) / 2;
+            
+            carousel.scrollLeft = scrollLeft;
+        }
+        updateDots();
+    }
+    
+    prevBtn.addEventListener('click', () => scrollToSlide(currentIndex - 1));
+    nextBtn.addEventListener('click', () => scrollToSlide(currentIndex + 1));
+    
+    dots.forEach((dot, index) => {
+        dot.addEventListener('click', () => scrollToSlide(index));
+    });
+}
 
-
-
-// Intersection Observer for animations - DISABLED
+// Intersection Observer for animations
 function initAnimations() {
-    // Animation disabled - keeping function for potential future use
-    console.log('Scroll animations disabled');
+    const observerOptions = {
+        threshold: 0.1,
+        rootMargin: '0px 0px -50px 0px'
+    };
+    
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.style.opacity = '1';
+                entry.target.style.transform = 'translateY(0)';
+            }
+        });
+    }, observerOptions);
+    
+    // Observe cards and sections for subtle animations
+    const animatedElements = document.querySelectorAll(
+        '.feature-card, .security-card, .platform-card, .screenshot-card, .mobile-slide'
+    );
+    
+    animatedElements.forEach((el, index) => {
+        el.style.opacity = '0';
+        el.style.transform = 'translateY(20px)';
+        el.style.transition = `opacity 0.5s ease ${index * 0.1}s, transform 0.5s ease ${index * 0.1}s`;
+        observer.observe(el);
+    });
 }
 
 // Navbar scroll effect
@@ -84,9 +208,20 @@ function initNavbarScroll() {
         const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
         
         if (scrollTop > 100) {
-            navbar.style.backgroundColor = 'rgba(var(--bg-primary-rgb), 0.95)';
+            navbar.style.backgroundColor = 'rgba(10, 10, 10, 0.98)';
+            navbar.style.boxShadow = '0 4px 20px rgba(0, 0, 0, 0.3)';
         } else {
-            navbar.style.backgroundColor = 'var(--bg-primary)';
+            navbar.style.backgroundColor = 'rgba(10, 10, 10, 0.95)';
+            navbar.style.boxShadow = 'none';
+        }
+        
+        // Light mode adjustments
+        if (body.classList.contains('light-mode')) {
+            if (scrollTop > 100) {
+                navbar.style.backgroundColor = 'rgba(250, 250, 250, 0.98)';
+            } else {
+                navbar.style.backgroundColor = 'rgba(250, 250, 250, 0.95)';
+            }
         }
         
         lastScrollTop = scrollTop;
@@ -329,6 +464,20 @@ function checkIconsLoaded() {
     }, 2000);
 }
 
+// Parallax effect for hero section
+function initParallax() {
+    const hero = document.querySelector('.hero');
+    if (!hero) return;
+    
+    window.addEventListener('scroll', () => {
+        const scrolled = window.pageYOffset;
+        const heroImage = hero.querySelector('.hero-preview-img');
+        if (heroImage && scrolled < window.innerHeight) {
+            heroImage.style.transform = `translateY(${scrolled * 0.1}px)`;
+        }
+    });
+}
+
 // Initialize everything when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     // Initialize theme
@@ -343,18 +492,17 @@ document.addEventListener('DOMContentLoaded', () => {
         link.addEventListener('click', smoothScroll);
     });
     
-    // Listen for MailerLite form submissions
-    document.addEventListener('DOMContentLoaded', () => {
-        // Track MailerLite form submissions
-        if (window.ml) {
-            ml('track', 'page_view', {
-                page: window.location.pathname
-            });
-        }
-    });
+    // Initialize gallery modal
+    initGalleryModal();
+    
+    // Initialize screenshot carousel
+    initScreenshotCarousel();
     
     // Initialize animations
     initAnimations();
+    
+    // Initialize parallax
+    initParallax();
     
     // Initialize navbar scroll effect
     initNavbarScroll();
@@ -378,6 +526,18 @@ document.addEventListener('DOMContentLoaded', () => {
             closeMobileMenu();
         }
     });
+    
+    // Smooth scroll for all anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            e.preventDefault();
+            const target = document.querySelector(this.getAttribute('href'));
+            if (target) {
+                target.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
+                });
+            }
+        });
+    });
 });
-
- 
