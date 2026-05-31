@@ -37,12 +37,18 @@ export function Manifesto() {
           </h1>
 
           <div className="mt-10 flex flex-col gap-8 md:flex-row md:items-end md:justify-between">
-            <p className="serif-lead max-w-narrow text-balance text-lg leading-relaxed text-bone-dim">
-              Shobbl is a creator-owned marketplace for artists, musicians, game
-              developers, writers, and independent makers. Your storefront, your
-              members, your community, and your archive &mdash; all under one roof
-              that actually belongs to you.
-            </p>
+            <div className="max-w-narrow">
+              <p className="serif-lead text-balance text-lg leading-relaxed text-bone-dim">
+                Shobbl is a creator-owned marketplace for artists, musicians, game
+                developers, writers, and independent makers. Your storefront, your
+                members, your community, and your archive &mdash; all under one roof
+                that actually belongs to you.
+              </p>
+              <p className="mt-4 font-display text-sm uppercase leading-relaxed tracking-[0.12em] text-bone">
+                Sell commissions, memberships, digital products, art, music,
+                writing, and community access from one creator-owned platform.
+              </p>
+            </div>
 
             <div className="flex shrink-0 items-center gap-4">
               <Stamp rotate={-7} reveal>
@@ -79,15 +85,9 @@ export function Manifesto() {
             <div className="mt-3 font-display text-xl font-bold">@pixel_witch</div>
             <p className="mt-1 text-sm text-black/65">Illustration, brush drops, and a room full of people choosing the next palette.</p>
           </div>
-          <div className="grid grid-cols-2 gap-3">
-            <div className="border border-line bg-ash p-4">
-              <span className="font-display text-sm text-bone">Brush pack</span>
-              <div className="text-red-shobbl">$9</div>
-            </div>
-            <div className="border border-line bg-ash p-4">
-              <span className="font-display text-sm text-bone">Member note</span>
-              <div className="text-bone-dim">"make the rainy one"</div>
-            </div>
+          <div className="border border-line bg-ash p-4">
+            <span className="font-display text-sm text-bone">Member note</span>
+            <div className="text-bone-dim">"make the rainy one"</div>
           </div>
           <PayoutSlip
             payee="@you"
@@ -99,8 +99,8 @@ export function Manifesto() {
           />
         </div>
 
-        <div className="relative hidden min-h-[590px] md:block">
-          <div className="absolute left-0 top-6 w-[320px] rotate-[-2deg] border border-line bg-bone p-4 text-ink shadow-[0_26px_80px_-48px_rgba(0,0,0,0.9)]">
+        <div className="relative hidden min-h-[610px] md:block">
+          <div className="absolute left-0 top-4 w-[305px] rotate-[-2deg] border border-line bg-bone p-4 text-ink shadow-[0_26px_80px_-48px_rgba(0,0,0,0.9)]">
             <div className="relative aspect-[4/3] overflow-hidden border border-black/10">
               <Image src="/Shobbl/mayarenderbanner.png" alt="Maya Render artwork preview" fill className="object-cover" sizes="320px" priority />
             </div>
@@ -126,27 +126,7 @@ export function Manifesto() {
             </div>
           </div>
 
-          <div className="absolute right-0 top-0 w-[265px] rotate-[3deg] border border-line bg-ash p-4 shadow-[0_20px_70px_-46px_rgba(0,0,0,0.9)]">
-            <span className="font-display text-xs uppercase tracking-[0.12em] text-bone-dim">Storefront shelf</span>
-            <div className="mt-4 grid grid-cols-2 gap-3">
-              {[
-                ["Brush pack", "$9", "new"],
-                ["OST loop", "$14", "demo"],
-                ["Zine PDF", "$6", "signed"],
-                ["Game asset", "$22", "build"],
-              ].map(([name, price, note]) => (
-                <div key={name} className="border border-line bg-coal p-3">
-                  <div className="flex h-12 items-end justify-end bg-[rgba(240,229,212,0.08)] p-1 font-display text-[0.55rem] uppercase tracking-[0.12em] text-bone-dim">
-                    {note}
-                  </div>
-                  <div className="mt-2 font-display text-sm text-bone">{name}</div>
-                  <div className="text-sm text-red-shobbl">{price}</div>
-                </div>
-              ))}
-            </div>
-          </div>
-
-          <div className="absolute bottom-24 right-10 w-[320px] rotate-[-1deg] border border-line bg-[#2a2024] p-5">
+          <div className="absolute right-0 top-20 w-[340px] rotate-[-1deg] border border-line bg-[#2a2024] p-5">
             <span className="font-display text-xs uppercase tracking-[0.12em] text-bone-dim">Membership room</span>
             <div className="mt-3 space-y-3">
               {[
@@ -165,7 +145,7 @@ export function Manifesto() {
             </div>
           </div>
 
-          <div className="absolute bottom-2 left-12">
+          <div className="absolute bottom-0 left-[210px]">
             <PayoutSlip
               payee="@you"
               amount="$2,480"
