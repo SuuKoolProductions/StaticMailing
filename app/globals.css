@@ -1,0 +1,386 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   SHOBBL BRAND TOKENS
+   Creator archive / studio wall visual DNA.
+   Red is an accent, never a wash. Base is ink with texture.
+   ============================================================ */
+:root {
+  /* Warm creator-studio base + layered panels */
+  --ink: #100d0f;
+  --coal: #181214;
+  --ash: #21191d;
+  --graphite: #34282e;
+  --wine: #241116;
+  --rose: #b66a70;
+  --amber-soft: #d5a24e;
+  --purple-dust: #6f5a74;
+
+  /* Paper accents for stamps, labels, receipts */
+  --bone: #f0e5d4;
+  --bone-dim: #c8bba8;
+
+  /* Shobbl red (pulled from the logo) — used sparingly */
+  --shobbl-red: #e7373d;
+  --shobbl-red-deep: #d52c36;
+
+  /* Hairlines */
+  --line: rgba(240, 229, 212, 0.16);
+  --line-soft: rgba(240, 229, 212, 0.08);
+
+  /* Editorial green/amber operational accents (status, not decoration) */
+  --signal-amber: #e0a93b;
+  --signal-green: #3fae6b;
+
+  /* Texture knobs */
+  --grain-opacity: 0.075;
+}
+
+/* ============================================================
+   BASE
+   ============================================================ */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--ink);
+  color: var(--bone);
+  font-family: var(--font-editorial), Georgia, serif;
+  line-height: 1.55;
+  overflow-x: hidden;
+  background-image:
+    radial-gradient(circle at 16% 8%, rgba(231, 55, 61, 0.12), transparent 30rem),
+    radial-gradient(circle at 85% 22%, rgba(111, 90, 116, 0.18), transparent 34rem),
+    linear-gradient(180deg, #130f11 0%, #100d0f 46%, #171014 100%);
+  background-attachment: fixed;
+}
+
+::selection {
+  background: var(--shobbl-red);
+  color: #fff;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display), system-ui, sans-serif;
+  line-height: 0.98;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+/* Expressive editorial headline — Fraunces with optical sizing + a little wonk.
+   Reserved for the page's loudest emotional moments (hero, ownership, anti-AI). */
+.headline {
+  font-family: var(--font-headline), Georgia, serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+}
+.headline em,
+.headline .ital {
+  font-style: italic;
+  font-weight: 500;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Global film grain so nothing feels flat/Tailwind-clean */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  opacity: var(--grain-opacity);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  mix-blend-mode: soft-light;
+}
+
+/* ============================================================
+   TYPOGRAPHY HELPERS (editorial, not SaaS)
+   ============================================================ */
+.brand-word {
+  font-family: var(--font-brand), sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.32em;
+}
+
+.mono {
+  font-family: var(--font-display), system-ui, sans-serif;
+}
+
+.kicker {
+  font-family: var(--font-display), system-ui, sans-serif;
+  font-size: 0.66rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--bone-dim);
+}
+
+.serif-lead {
+  font-family: var(--font-editorial), Georgia, serif;
+}
+
+/* Hand-drawn marker underline (not a clean Tailwind border) */
+.marker {
+  position: relative;
+  white-space: nowrap;
+}
+.marker::after {
+  content: "";
+  position: absolute;
+  left: -2%;
+  right: -2%;
+  bottom: 0.04em;
+  height: 0.34em;
+  background: var(--shobbl-red);
+  opacity: 0.85;
+  transform: rotate(-0.6deg) skewX(-8deg);
+  z-index: -1;
+  border-radius: 40% 60% 55% 45% / 60% 40% 60% 40%;
+}
+
+/* ============================================================
+   ARTIFACT UTILITIES
+   Torn paper, tape, stamps, receipts, studio-wall labels.
+   ============================================================ */
+
+/* Ripped paper top + bottom edges via clip-path */
+.torn-edge {
+  --tear: 10px;
+  clip-path: polygon(
+    0 var(--tear), 4% 0, 9% var(--tear), 14% 2px, 19% var(--tear), 25% 1px,
+    31% var(--tear), 37% 0, 43% var(--tear), 50% 2px, 57% var(--tear), 63% 0,
+    69% var(--tear), 75% 2px, 81% var(--tear), 87% 1px, 93% var(--tear), 97% 0, 100% var(--tear),
+    100% calc(100% - var(--tear)), 96% 100%, 90% calc(100% - var(--tear)), 84% 100%,
+    78% calc(100% - var(--tear)), 71% 100%, 64% calc(100% - var(--tear)), 57% 100%,
+    50% calc(100% - var(--tear)), 43% 100%, 36% calc(100% - var(--tear)), 29% 100%,
+    22% calc(100% - var(--tear)), 15% 100%, 9% calc(100% - var(--tear)), 4% 100%, 0 calc(100% - var(--tear))
+  );
+}
+
+/* A strip of masking tape */
+.tape {
+  position: relative;
+}
+.tape::before {
+  content: "";
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  width: 92px;
+  height: 30px;
+  transform: translateX(-50%) rotate(-3deg);
+  background: rgba(236, 231, 221, 0.16);
+  border-left: 1px dashed rgba(236, 231, 221, 0.25);
+  border-right: 1px dashed rgba(236, 231, 221, 0.25);
+  backdrop-filter: blur(1px);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+.tape-left::before { left: 18%; transform: rotate(-7deg); }
+.tape-right::before { left: 82%; transform: rotate(6deg); }
+
+/* Rubber stamp: offset ink border, slight rotation, distressed */
+.stamp {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5ch;
+  font-family: var(--font-display), system-ui, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--shobbl-red);
+  border: 2.5px solid var(--shobbl-red);
+  padding: 0.35em 0.8em;
+  border-radius: 3px;
+  transform: rotate(var(--rot, -4deg));
+  mix-blend-mode: normal;
+  opacity: 0.92;
+  box-shadow: inset 0 0 0 1px rgba(231, 55, 61, 0.25);
+}
+.stamp::after {
+  /* distressed ink speckle */
+  content: "";
+  position: absolute;
+  inset: 0;
+  opacity: 0.28;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60'%3E%3Cfilter id='s'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.6' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 -5'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23s)'/%3E%3C/svg%3E");
+  mix-blend-mode: multiply;
+  pointer-events: none;
+}
+
+/* Receipt block: perforated edges with warmer creator-facing ink */
+.receipt {
+  background:
+    repeating-linear-gradient(transparent, transparent 29px, rgba(22, 22, 22, 0.05) 29px, rgba(22, 22, 22, 0.05) 30px),
+    var(--bone);
+  color: #161616;
+  font-family: var(--font-display), system-ui, sans-serif;
+  --p: 7px;
+  -webkit-mask:
+    radial-gradient(var(--p) at var(--p) 50%, transparent 98%, #000) left / 100% 14px repeat-y,
+    radial-gradient(var(--p) at calc(100% - var(--p)) 50%, transparent 98%, #000) right / 100% 14px repeat-y,
+    linear-gradient(#000 0 0) center / calc(100% - 14px) 100% no-repeat;
+  mask:
+    radial-gradient(var(--p) at var(--p) 50%, transparent 98%, #000) left / 100% 14px repeat-y,
+    radial-gradient(var(--p) at calc(100% - var(--p)) 50%, transparent 98%, #000) right / 100% 14px repeat-y,
+    linear-gradient(#000 0 0) center / calc(100% - 14px) 100% no-repeat;
+}
+
+/* Very subtle studio texture helpers */
+.dotgrid {
+  background-image: none;
+}
+.hatch {
+  background-image: repeating-linear-gradient(
+    45deg,
+    rgba(240, 229, 212, 0.035) 0 1px,
+    transparent 1px 14px
+  );
+}
+
+/* Hairline frame used for panels (mixed radii, never rounded-xl) */
+.panel {
+  border: 1px solid var(--line);
+  background:
+    linear-gradient(180deg, rgba(240, 229, 212, 0.035), rgba(240, 229, 212, 0.01)),
+    var(--coal);
+  box-shadow: 0 28px 80px -54px rgba(0, 0, 0, 0.9);
+}
+
+/* Hover jitter for cards that should feel draggable/alive */
+.jitter {
+  transition: transform 0.12s ease;
+}
+.jitter:hover {
+  transform: translate(-1px, -2px) rotate(-0.4deg);
+}
+
+/* Reveal-on-scroll (stamp slam + fade) */
+.reveal {
+  opacity: 0;
+  transform: translateY(18px) rotate(var(--rot, 0deg));
+  transition: opacity 0.5s ease, transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.reveal.is-in {
+  opacity: 1;
+  transform: translateY(0) rotate(var(--rot, 0deg));
+}
+.reveal-stamp {
+  opacity: 0;
+  transform: scale(1.6) rotate(var(--rot, -4deg));
+  transition: opacity 0.18s ease, transform 0.22s cubic-bezier(0.2, 1.5, 0.4, 1);
+}
+.reveal-stamp.is-in {
+  opacity: 0.92;
+  transform: scale(1) rotate(var(--rot, -4deg));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .reveal-stamp { transition: opacity 0.3s ease; transform: none; }
+  html { scroll-behavior: auto; }
+}
+
+/* Edge-to-edge utility for breaking max-width rhythm */
+.bleed-left { margin-left: calc(50% - 50vw); }
+.bleed-right { margin-right: calc(50% - 50vw); }
+
+/* ============================================================
+   HAND-MADE DIVIDERS + CREATOR NOTES
+   Studio-wall dividers, paper tabs, and warm creator annotations.
+   ============================================================ */
+
+/* Continuous vertical red thread down the left gutter */
+/* Hand-tagged red annotation (scribbled margin note) */
+.annotate {
+  font-family: var(--font-editorial), cursive;
+  font-style: italic;
+  color: var(--rose);
+  position: relative;
+  display: inline-block;
+  transform: rotate(-3deg);
+}
+.annotate-circle {
+  position: relative;
+  display: inline-block;
+}
+.annotate-circle::before {
+  content: "";
+  position: absolute;
+  inset: -30% -14%;
+  border: 2px solid var(--rose);
+  border-radius: 48% 52% 60% 40% / 60% 45% 55% 40%;
+  transform: rotate(-4deg);
+  opacity: 0.85;
+  pointer-events: none;
+}
+.annotate-arrow {
+  color: var(--rose);
+  font-family: var(--font-editorial), cursive;
+  font-style: italic;
+}
+
+/* Folder / file tab that clips onto a panel */
+.folder-tab {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5ch;
+  padding: 0.3em 1.1em 0.4em;
+  background: #2a2024;
+  border: 1px solid var(--line);
+  border-bottom: none;
+  font-family: var(--font-display), system-ui, sans-serif;
+  font-size: 0.62rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--bone);
+  clip-path: polygon(8% 0, 92% 0, 100% 100%, 0 100%);
+}
+
+/* Circular policy / approval rubber stamp */
+.policy-stamp {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  border: 2.5px solid var(--shobbl-red);
+  box-shadow: inset 0 0 0 4px rgba(231, 55, 61, 0.15);
+  color: var(--shobbl-red);
+  font-family: var(--font-display), system-ui, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  transform: rotate(var(--rot, -12deg));
+  opacity: 0.9;
+  mix-blend-mode: normal;
+}
+.policy-stamp::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  opacity: 0.3;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 -4'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23p)'/%3E%3C/svg%3E");
+  mix-blend-mode: multiply;
+  pointer-events: none;
+}
+
+/* Hand-drawn rough box border (for artifact framing) */
+.rough-box {
+  border: 1.5px solid var(--line);
+  border-radius: 255px 12px 225px 10px / 12px 225px 14px 255px;
+}
