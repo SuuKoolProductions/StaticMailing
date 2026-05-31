@@ -1,4 +1,6 @@
 export function SiteFooter() {
+  const year = new Date().getFullYear();
+
   return (
     <footer className="relative border-t border-line bg-[#111113]">
       <div className="mx-auto grid max-w-wall gap-12 px-5 py-14 md:grid-cols-[1.35fr_0.65fr_0.75fr]">
@@ -40,7 +42,7 @@ export function SiteFooter() {
       </div>
 
       <div className="mx-auto max-w-wall border-t border-line px-5 py-6 text-center text-xs text-bone-dim">
-        © 2025 Shobbl LLC. All rights reserved.
+        © {year} Shobbl Inc. All rights reserved.
       </div>
     </footer>
   );

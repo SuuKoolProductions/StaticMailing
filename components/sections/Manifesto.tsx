@@ -12,9 +12,9 @@ export function Manifesto() {
     <header className="relative overflow-hidden">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_78%_25%,rgba(214,162,78,0.12),transparent_22rem)]" aria-hidden />
 
-      <div className="relative mx-auto grid max-w-wall items-center gap-12 px-5 pb-24 pt-28 md:grid-cols-[0.92fr_1.08fr] md:gap-16 md:pb-36 md:pt-44">
+      <div className="relative mx-auto grid max-w-wall items-center gap-10 px-5 pb-16 pt-6 md:grid-cols-[0.92fr_1.08fr] md:gap-14 md:pb-20 md:pt-8">
         <div>
-          <div className="mb-8 flex flex-wrap items-center gap-4">
+          <div className="mb-5 flex flex-wrap items-center gap-4">
             <span className="brand-word text-sm text-bone">SHOBBL</span>
             <span className="h-px w-16 bg-line" />
             <span className="font-display text-xs uppercase tracking-[0.14em] text-bone-dim">
@@ -22,7 +22,7 @@ export function Manifesto() {
             </span>
           </div>
 
-          <p className="serif-lead mb-7 max-w-narrow text-xl italic text-bone-dim">
+          <p className="serif-lead mb-4 max-w-narrow text-xl italic text-bone-dim">
             &ldquo;I finally found one place to run my whole creator business.&rdquo;
           </p>
 
@@ -99,7 +99,7 @@ export function Manifesto() {
           />
         </div>
 
-        <div className="relative hidden min-h-[610px] md:block">
+        <div className="relative hidden min-h-[520px] md:block">
           <div className="absolute left-0 top-4 w-[305px] rotate-[-2deg] border border-line bg-bone p-4 text-ink shadow-[0_26px_80px_-48px_rgba(0,0,0,0.9)]">
             <div className="relative aspect-[4/3] overflow-hidden border border-black/10">
               <Image src="/Shobbl/mayarenderbanner.png" alt="Maya Render artwork preview" fill className="object-cover" sizes="320px" priority />
