@@ -3,8 +3,8 @@ import Image from "next/image";
 export function SiteNav() {
   const links = [
     { href: "#top", label: "Home" },
-    { href: "#control", label: "About" },
-    { href: "#modules", label: "Features" },
+    { href: "#why-us", label: "Why Us?" },
+    { href: "#features", label: "Features" },
     { href: "#gallery", label: "Gallery" },
     { href: "#access", label: "Contact" },
   ];

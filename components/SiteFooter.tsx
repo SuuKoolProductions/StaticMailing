@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export function SiteFooter() {
   const year = new Date().getFullYear();
 
@@ -6,7 +8,14 @@ export function SiteFooter() {
       <div className="mx-auto grid max-w-wall gap-12 px-5 py-14 md:grid-cols-[1.35fr_0.65fr_0.75fr]">
         <div>
           <div className="flex items-center gap-2.5">
-            <span className="font-display text-xl text-red-shobbl">Shobbl</span>
+            <Image
+              src="/shobbl-icon.svg"
+              alt=""
+              width={34}
+              height={34}
+              className="h-8 w-8"
+            />
+            <span className="brand-word text-sm text-bone">SHOBBL</span>
           </div>
           <p className="mt-4 max-w-md text-sm leading-relaxed text-bone-dim">
             The platform built for creators, by creators. Your content, your
@@ -19,8 +28,8 @@ export function SiteFooter() {
             Platform
           </h4>
           <ul className="space-y-3 text-sm text-bone-dim">
-            <li><a href="#control" className="hover:text-red-shobbl">About</a></li>
-            <li><a href="#modules" className="hover:text-red-shobbl">Features</a></li>
+            <li><a href="#why-us" className="hover:text-red-shobbl">Why Us?</a></li>
+            <li><a href="#features" className="hover:text-red-shobbl">Features</a></li>
             <li><a href="#gallery" className="hover:text-red-shobbl">Gallery</a></li>
             <li><a href="#access" className="hover:text-red-shobbl">Contact</a></li>
           </ul>

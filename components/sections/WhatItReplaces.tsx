@@ -17,7 +17,7 @@ const stack = [
 
 export function WhatItReplaces() {
   return (
-    <section className="relative overflow-hidden py-20 md:py-32">
+    <section id="features" className="relative overflow-hidden py-20 md:py-32">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_85%_30%,rgba(111,90,116,0.14),transparent_26rem)]" aria-hidden />
       <div className="relative mx-auto max-w-wall px-5">
         <div className="mb-14 max-w-narrow">

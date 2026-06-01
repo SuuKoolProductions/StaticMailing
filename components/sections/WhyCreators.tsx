@@ -10,7 +10,7 @@ import { FolderTab } from "@/components/artifacts/Motifs";
  */
 export function WhyCreators() {
   return (
-    <section className="relative overflow-hidden bg-coal py-16 md:py-24">
+    <section id="why-us" className="relative overflow-hidden bg-coal py-16 md:py-24">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_15%_20%,rgba(214,162,78,0.08),transparent_24rem)]" aria-hidden />
       <div className="relative mx-auto max-w-wall px-5">
         <div className="grid gap-10 lg:grid-cols-[0.7fr_1.3fr]">
@@ -32,6 +32,32 @@ export function WhyCreators() {
             <div className="mt-6 flex flex-wrap gap-3">
               <ModerationLabel code="Sound familiar" text="Payout on hold" tone="warn" rotate={-2} />
               <ModerationLabel code="Sound familiar" text="Reach throttled" tone="kill" rotate={1.5} />
+            </div>
+
+            <div className="mt-8 grid gap-3">
+              {[
+                [
+                  "Stop feeding someone else's machine",
+                  "Client-side protection and controlled access help prevent your work from becoming free training material, scraped archives, or repost bait.",
+                ],
+                [
+                  "Bot protection",
+                  "Scraper and bot defenses help stop mass harvesting before your work gets lifted, mirrored, or fed into someone else's dataset.",
+                ],
+                [
+                  "Payouts that move",
+                  "Clear payment rails and human-readable review rules reduce arbitrary holds, so creators are not waiting months for money they earned.",
+                ],
+              ].map(([title, copy]) => (
+                <div key={title} className="border border-line bg-[#21191d] p-4">
+                  <h3 className="font-display text-sm uppercase tracking-[0.12em] text-bone">
+                    {title}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-bone-dim">
+                    {copy}
+                  </p>
+                </div>
+              ))}
             </div>
           </div>
 
