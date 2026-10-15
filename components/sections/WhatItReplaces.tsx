@@ -67,7 +67,7 @@ export function WhatItReplaces() {
               </Stamp>
             </div>
             <div className="border border-red-shobbl bg-bone p-7 text-ink shadow-[0_30px_90px_-58px_rgba(0,0,0,0.95)]">
-              <div className="brand-word text-sm">SHOBBL</div>
+              <div className="brand-word text-sm">SHOBBLE</div>
               <h3 className="mt-3 font-display text-2xl font-bold leading-tight">
                 Everything above, in one creator home.
               </h3>

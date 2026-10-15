@@ -86,7 +86,7 @@ export function OwnershipSystem() {
           {/* ownership manifest as a clean released slip + contract note */}
           <div className="relative flex flex-col items-center gap-8 lg:pt-10">
             <div className="pointer-events-none absolute -left-2 -top-10 z-20 hidden md:block">
-              <PolicyStamp top="shobbl" center="OWNED" bottom="by you" rotate={-14} />
+              <PolicyStamp top="shobble" center="OWNED" bottom="by you" rotate={-14} />
             </div>
             <div className="relative">
               <PayoutSlip
@@ -114,7 +114,7 @@ export function OwnershipSystem() {
               </ul>
               <div className="my-2 border-t border-dashed border-black/40" />
               <div className="text-[0.55rem] uppercase tracking-[0.14em]">
-                signed by Shobbl · kept by you
+                signed by Shobble · kept by you
               </div>
             </div>
           </div>

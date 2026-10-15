@@ -114,7 +114,7 @@ export function ProtectionLayer() {
                   </div>
                 </div>
                 <span className="font-display text-[0.6rem] uppercase tracking-[0.12em] text-black/55">
-                  Shobbl · witnessed
+                  Shobble · witnessed
                 </span>
               </div>
             </div>

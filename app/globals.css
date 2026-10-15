@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /* ============================================================
-   SHOBBL BRAND TOKENS
+   SHOBBLE BRAND TOKENS
    Creator archive / studio wall visual DNA.
    Red is an accent, never a wash. Base is ink with texture.
    ============================================================ */
@@ -22,7 +22,7 @@
   --bone: #f0e5d4;
   --bone-dim: #c8bba8;
 
-  /* Shobbl red (pulled from the logo) — used sparingly */
+  /* Shobble red (pulled from the logo) — used sparingly */
   --shobbl-red: #e7373d;
   --shobbl-red-deep: #d52c36;
 
@@ -114,7 +114,7 @@ body::before {
 .brand-word {
   font-family: var(--font-brand), sans-serif;
   font-weight: 200;
-  letter-spacing: 0.32em;
+  letter-spacing: 0.22em;
 }
 
 .mono {

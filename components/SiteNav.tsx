@@ -14,13 +14,13 @@ export function SiteNav() {
       <div className="mx-auto flex max-w-wall items-center justify-between gap-6 px-5 py-4">
         <a href="#top" className="flex items-center gap-3">
           <Image
-            src="/shobbl-icon.svg"
+            src="/shobble-icon.svg"
             alt=""
             width={34}
             height={34}
             className="h-8 w-8"
           />
-          <span className="brand-word text-[1rem] text-bone">SHOBBL</span>
+          <span className="brand-word text-[1rem] text-bone">SHOBBLE</span>
         </a>
 
         <nav className="hidden items-center gap-7 md:flex">

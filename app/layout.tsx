@@ -36,9 +36,9 @@ const brand = Montserrat({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://shobbl.com"),
-  title: "Shobbl - All-in-One Platform for Creative Media",
+  title: "Shobble — All-in-one creator marketplace",
   description:
-    "Shobbl is a creator marketplace built for artists, musicians, game devs, writers and independent digital creators. Anti-AI-slop, anti-platform-abuse, pro-human-creator, pro-ownership.",
+    "Shobble is a creator marketplace for artists, musicians, game developers, writers, and independent makers. Storefronts, memberships, communities, and payouts stay with the people who make the work.",
   keywords: [
     "creator marketplace",
     "indie creators",
@@ -48,27 +48,27 @@ export const metadata: Metadata = {
     "memberships",
     "human creators",
   ],
-  authors: [{ name: "Shobbl" }],
+  authors: [{ name: "Shobble" }],
   robots: { index: true, follow: true },
   icons: {
-    icon: "/shobbl-icon.svg",
-    shortcut: "/shobbl-icon.svg",
+    icon: "/shobble-icon.svg",
+    shortcut: "/shobble-icon.svg",
   },
   openGraph: {
     type: "website",
     url: "https://shobbl.com/",
-    siteName: "Shobbl",
-    title: "Shobbl - All-in-One Platform for Creative Media",
+    siteName: "Shobble",
+    title: "Shobble — All-in-one creator marketplace",
     description:
-      "A creator marketplace for humans. Storefronts, memberships, digital goods, communities — owned by the people who make the work.",
-    images: [{ url: "/ShobblIcon.svg", width: 100, height: 100 }],
+      "A creator marketplace for humans. Storefronts, memberships, digital goods, and communities, owned by the people who make the work.",
+    images: [{ url: "/ShobbleIcon.svg", width: 100, height: 100 }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Shobbl - All-in-One Platform for Creative Media",
+    title: "Shobble — All-in-one creator marketplace",
     description:
       "A creator marketplace for humans. Built around verified creators, ownership, and protection from scraping.",
-    images: ["/ShobblIcon.svg"],
+    images: ["/ShobbleIcon.svg"],
   },
 };
 

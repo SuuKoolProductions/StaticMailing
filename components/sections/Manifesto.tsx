@@ -15,10 +15,10 @@ export function Manifesto() {
       <div className="relative mx-auto grid max-w-wall items-center gap-10 px-5 pb-16 pt-6 md:grid-cols-[0.92fr_1.08fr] md:gap-14 md:pb-20 md:pt-8">
         <div>
           <div className="mb-5 flex flex-wrap items-center gap-4">
-            <span className="brand-word text-sm text-bone">SHOBBL</span>
+            <span className="brand-word text-sm text-bone">SHOBBLE</span>
             <span className="h-px w-16 bg-line" />
             <span className="font-display text-xs uppercase tracking-[0.14em] text-bone-dim">
-              All-In-One Creator marketplace
+              All-in-one creator marketplace
             </span>
           </div>
 
@@ -39,7 +39,7 @@ export function Manifesto() {
           <div className="mt-10 flex flex-col gap-8 md:flex-row md:items-end md:justify-between">
             <div className="max-w-narrow">
               <p className="serif-lead text-balance text-lg leading-relaxed text-bone-dim">
-                Shobbl is a creator-owned marketplace for artists, musicians, game
+                Shobble is a creator-owned marketplace for artists, musicians, game
                 developers, writers, and independent makers. Your storefront, your
                 members, your community, and your archive &mdash; all under one roof
                 that actually belongs to you.
@@ -69,7 +69,7 @@ export function Manifesto() {
               <span className="transition-transform group-hover:translate-x-1">→</span>
             </a>
             <a
-              href="#modules"
+              href="#gallery"
               className="border border-line px-5 py-3 font-display text-sm uppercase tracking-[0.12em] text-bone transition-colors hover:border-bone-dim"
             >
               Browse the studio

@@ -18,7 +18,7 @@ export default function Home() {
       <SiteNav />
       <RevealRoot>
         <main className="relative">
-          {/* Q1 — What is Shobbl? */}
+          {/* Q1 — What is Shobble? */}
           <Manifesto />
           <RoughDivider />
           {/* Who's already here — the place is alive */}

@@ -25,6 +25,25 @@ const securityHeaders = [
 
 const nextConfig = {
   reactStrictMode: true,
+  async redirects() {
+    return [
+      {
+        source: "/shobbl_enterprise_press_kit.html",
+        destination: "/shobble_enterprise_press_kit.html",
+        permanent: true,
+      },
+      {
+        source: "/shobbl-icon.svg",
+        destination: "/shobble-icon.svg",
+        permanent: true,
+      },
+      {
+        source: "/ShobblIcon.svg",
+        destination: "/ShobbleIcon.svg",
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

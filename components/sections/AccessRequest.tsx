@@ -68,9 +68,9 @@ export function AccessRequest() {
               <span className="marker">one place</span>.
             </h2>
             <p className="serif-lead mt-4 max-w-prose text-lg text-bone-dim">
-              Shobbl opens in waves. Join the creator invite list for early
+              Shobble opens in waves. Join the creator invite list for early
               storefront slots, founding-creator standing, and a real say in what
-              we build next.
+              gets built next.
             </p>
 
             <form onSubmit={onSubmit} className="mt-8" noValidate>

@@ -9,13 +9,13 @@ export function SiteFooter() {
         <div>
           <div className="flex items-center gap-2.5">
             <Image
-              src="/shobbl-icon.svg"
+              src="/shobble-icon.svg"
               alt=""
               width={34}
               height={34}
               className="h-8 w-8"
             />
-            <span className="brand-word text-sm text-bone">SHOBBL</span>
+            <span className="brand-word text-sm text-bone">SHOBBLE</span>
           </div>
           <p className="mt-4 max-w-md text-sm leading-relaxed text-bone-dim">
             The platform built for creators, by creators. Your content, your
@@ -40,7 +40,7 @@ export function SiteFooter() {
             Resources
           </h4>
           <ul className="space-y-3 text-sm text-bone-dim">
-            <li><a href="/shobbl_enterprise_press_kit.html" className="hover:text-red-shobbl">Press Kit</a></li>
+            <li><a href="/shobble_enterprise_press_kit.html" className="hover:text-red-shobbl">Press Kit</a></li>
             <li>
               <a href="https://discord.gg/9eRQhybKaW" className="hover:text-red-shobbl">
                 Discord
@@ -51,7 +51,7 @@ export function SiteFooter() {
       </div>
 
       <div className="mx-auto max-w-wall border-t border-line px-5 py-6 text-center text-xs text-bone-dim">
-        © {year} Shobbl Inc. All rights reserved.
+        © {year} Shobble. All rights reserved.
       </div>
     </footer>
   );

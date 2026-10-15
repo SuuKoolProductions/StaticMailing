@@ -1,7 +1,7 @@
 /**
  * Payout slip — a receipt-like artifact. Used two ways:
  *  - On the evidence wall as a "FROZEN / WITHHELD" slip (other platforms).
- *  - In the ownership section as a clean "RELEASED" Shobbl payout.
+ *  - In the ownership section as a clean "RELEASED" Shobble payout.
  */
 export function PayoutSlip({
   payee,
