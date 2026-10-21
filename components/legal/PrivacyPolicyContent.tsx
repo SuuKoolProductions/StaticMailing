@@ -397,7 +397,7 @@ export function PrivacyPolicyContent() {
               We implement enterprise-grade security measures to protect personal information against unauthorized access, disclosure, alteration, or destruction. Our security program is designed to meet industry standards and regulatory requirements for the regions in which we offer service.
             </p>
             <p>
-              If you wish to report a security violation or inadequacy, please email <a href="mailto:security@shobbl.com" className="text-blue-600 hover:underline">security@shobbl.com</a>.
+              If you wish to report a security violation or inadequacy, please email <a href="mailto:security@shobble.com" className="text-blue-600 hover:underline">security@shobble.com</a>.
             </p>
             
             <h3 className="text-xl font-semibold mb-3">7.1 Technical Safeguards</h3>
@@ -486,7 +486,7 @@ export function PrivacyPolicyContent() {
             </div>
             
             <p className="mt-4">
-              You may email any privacy-related request to <a href="mailto:privacy@shobbl.com" className="text-blue-600 hover:underline">privacy@shobbl.com</a> where we have (1) month to service your needs in accordance with applicable privacy laws.
+              You may email any privacy-related request to <a href="mailto:privacy@shobble.com" className="text-blue-600 hover:underline">privacy@shobble.com</a> where we have (1) month to service your needs in accordance with applicable privacy laws.
             </p>
 
             <h3 className="text-xl font-semibold mb-3 mt-6">8.2 Communication Preferences</h3>
@@ -495,7 +495,7 @@ export function PrivacyPolicyContent() {
               <li><strong>Email:</strong> Use the unsubscribe links in our promotional messages.</li>
               <li><strong>Account Settings:</strong> Adjust your communication preferences in your account settings.</li>
               <li><strong>Mobile Applications:</strong> Modify push notification settings in our mobile apps.</li>
-              <li><strong>Manual Opt-Out:</strong> Contact us at <a href="mailto:privacy@shobbl.com" className="text-blue-600 hover:underline">privacy@shobbl.com</a> for assistance with manual opt-out.</li>
+              <li><strong>Manual Opt-Out:</strong> Contact us at <a href="mailto:privacy@shobble.com" className="text-blue-600 hover:underline">privacy@shobble.com</a> for assistance with manual opt-out.</li>
             </ul>
 
             <h3 className="text-xl font-semibold mb-3 mt-6">8.3 Jurisdictional Rights & SCCs</h3>
@@ -619,7 +619,7 @@ export function PrivacyPolicyContent() {
             <h2 className="text-2xl font-semibold mb-4">13. CONTACT INFORMATION AND SUPPORT</h2>
             <div className="bg-gray-50 p-6 rounded-lg text-gray-900 dark:bg-zinc-800 dark:text-gray-100">
               <h3 className="text-xl font-semibold mb-3">Shobble Privacy Team</h3>
-              <p><strong>Email:</strong> <a href="mailto:privacy@shobbl.com" className="text-blue-600 hover:underline">privacy@shobbl.com</a></p>
+              <p><strong>Email:</strong> <a href="mailto:privacy@shobble.com" className="text-blue-600 hover:underline">privacy@shobble.com</a></p>
               <p><strong>Address:</strong> SHOBBL INCORPORATED, PRIVACY DEPARTMENT</p>
               <p>732 S 6TH ST STE N</p>
               <p>LAS VEGAS, NV 89101</p>
@@ -628,7 +628,7 @@ export function PrivacyPolicyContent() {
               <h3 className="text-xl font-semibold mb-3 mt-6">Data Protection Officer (EU/EEA)</h3>
               <p>
                 EU and EEA data subjects may contact our Data Protection Officer at{' '}
-                <a href="mailto:dpo@shobbl.com" className="text-blue-600 hover:underline">dpo@shobbl.com</a> or by post at the address below (attention: Data Protection Officer).
+                <a href="mailto:dpo@shobble.com" className="text-blue-600 hover:underline">dpo@shobble.com</a> or by post at the address below (attention: Data Protection Officer).
               </p>
               <p><strong>Address:</strong> SHOBBL INCORPORATED, ATTENTION: DATA PROTECTION OFFICER</p>
               <p>732 S 6TH ST STE N</p>
@@ -636,7 +636,7 @@ export function PrivacyPolicyContent() {
               <p>United States</p>
               
               <h3 className="text-xl font-semibold mb-3 mt-6">Privacy Request Portal</h3>
-              <p>Submit privacy requests through our online portal: <a href="https://privacy.shobbl.com" className="text-blue-600 hover:underline">privacy.shobbl.com</a></p>
+              <p>Submit privacy requests through our online portal: <a href="https://privacy.shobble.com" className="text-blue-600 hover:underline">privacy.shobble.com</a></p>
             </div>
           </section>
 
@@ -663,7 +663,7 @@ export function PrivacyPolicyContent() {
               We reserve the right to amend this Privacy Policy as necessary for any reason, including enhancing clarity or ensuring compliance with applicable laws.
             </p>
             <p>
-              This Privacy Policy reflects our commitment to safeguarding your personal information while supporting the global creative economy through our services. We welcome your feedback and questions about our privacy practices. You can reach us at <a href="mailto:privacy@shobbl.com" className="text-blue-600 hover:underline">privacy@shobbl.com</a>.
+              This Privacy Policy reflects our commitment to safeguarding your personal information while supporting the global creative economy through our services. We welcome your feedback and questions about our privacy practices. You can reach us at <a href="mailto:privacy@shobble.com" className="text-blue-600 hover:underline">privacy@shobble.com</a>.
             </p>
           </section>
 
