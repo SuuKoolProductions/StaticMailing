@@ -43,6 +43,7 @@ export function SiteFooter() {
             <li><a href="/privacy" className="hover:text-red-shobbl">Privacy</a></li>
             <li><a href="/terms" className="hover:text-red-shobbl">Terms</a></li>
             <li><a href="/policies" className="hover:text-red-shobbl">All policies</a></li>
+            <li><a href="/submit-a-bug" className="hover:text-red-shobbl">Submit a bug</a></li>
             <li><a href="/shobble_enterprise_press_kit.html" className="hover:text-red-shobbl">Press Kit</a></li>
             <li>
               <a href="https://discord.gg/9eRQhybKaW" className="hover:text-red-shobbl">
@@ -66,6 +67,9 @@ export function SiteFooter() {
         </a>
         <a href="/policies" className="hover:text-red-shobbl">
           All policies
+        </a>
+        <a href="/submit-a-bug" className="hover:text-red-shobbl">
+          Submit a bug
         </a>
       </div>
     </footer>
