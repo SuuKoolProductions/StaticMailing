@@ -384,3 +384,60 @@ body::before {
   border: 1.5px solid var(--line);
   border-radius: 255px 12px 225px 10px / 12px 225px 14px 255px;
 }
+
+.legal-prose {
+  color: var(--bone-dim);
+}
+
+.legal-prose h1,
+.legal-prose h2,
+.legal-prose h3 {
+  color: var(--bone);
+}
+
+.legal-prose p,
+.legal-prose li {
+  color: var(--bone-dim);
+}
+
+.legal-prose a {
+  color: var(--shobbl-red);
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+.legal-prose table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--bone);
+}
+
+.legal-prose th,
+.legal-prose td {
+  border: 1px solid var(--line);
+  padding: 0.55rem 0.75rem;
+  color: var(--bone);
+}
+
+.legal-prose thead tr,
+.legal-prose .bg-gray-50,
+.legal-prose .bg-gray-100 {
+  background: rgba(240, 229, 212, 0.06) !important;
+}
+
+.legal-prose .text-gray-600,
+.legal-prose .text-gray-900,
+.legal-prose .dark\:text-gray-100 {
+  color: var(--bone-dim) !important;
+}
+
+.legal-pre {
+  white-space: pre-wrap;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  background: rgba(240, 229, 212, 0.04);
+  padding: 1.25rem 1.1rem;
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--bone);
+}

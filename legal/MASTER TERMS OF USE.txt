@@ -1,0 +1,2129 @@
+MASTER TERMS OF USE
+
+Effective Date: January 1st, 2026
+Governing Law: Nevada, USA
+Last Updated: May 11th, 2026
+
+These Master Terms of Use (“Terms”) govern access to and use of the platform, services, applications, APIs, websites, digital goods, content-delivery systems, tools, and associated services operated by Shobbl Incorporated, a Nevada corporation, doing business as Shobble (“Shobble,” “we,” “us,” or “our”). Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+By creating an account or accessing or using any part of the Platform, you agree to these Terms.
+If you do not agree, do not use the Platform.
+
+These Terms incorporate by reference the following documents (collectively, the “Incorporated Policies”):
+
+Acceptable Use Policy
+Account Eligibility & Access Policy
+Advertising Marketplace Terms
+Affiliate Program Terms
+AI Use Policy
+API Partner Policy
+Asset Store Terms
+Banned Advertising Products & Services Policy
+Brand Content Eligibility Schedule
+Brand & IP License Agreement
+Community Code of Conduct
+Community Content Guidelines
+Cookies Policy
+Creator Content License Agreement
+Delegated Access Policy
+Dispute Resolution & Payment Reversal Policy
+DMCA Policy
+Events & Collaborative Jam Policy
+Global Privacy Policy
+Monetization Terms
+Music Licensing Policy
+Open Source Notices
+Any private Content Partner Agreements
+
+You should read these Terms carefully because some rights vary by jurisdiction. Sections for EU/EEA, UK, Australia, Canada, and U.S. states contain mandatory consumer-rights notices. Where there is a conflict between Terms and Addenda, the Addenda shall prevail.
+
+1. DEFINITIONS
+
+For purposes of these Master Terms of Use (the “Terms”), the following capitalized terms shall have the meanings set forth below. Defined terms apply equally to the singular and plural forms and to all grammatical variations.
+
+“User” means any natural person or legal entity that accesses, browses, or uses any portion of the Platform, whether or not such person or entity has registered an account.
+
+“Creator” means a User who uploads, submits, publishes, distributes, licenses, or monetizes User Content through the Platform.
+
+“Content Partner” means a third-party individual or legal entity that provides content to the Platform pursuant to a written agreement with Shobbl Incorporated.
+
+“Platform” means all products, services, applications, software, APIs, websites, interfaces, digital goods, content-delivery systems, tools, features, and related services operated by or on behalf of Shobbl Incorporated, whether accessed via web, mobile application, desktop application, embedded integration, or API.
+
+“License” means a limited, revocable, non-exclusive, non-transferable, non-sublicensable (except as expressly permitted under these Terms), non-assignable right to access or use the Platform, Digital Goods, or other Shobbl Incorporated-provided materials, subject at all times to these Terms and applicable law, and does not convey any ownership, property, or proprietary interest.
+
+“Platform Credit” means a limited, revocable, non-monetary promotional credit, refund credit, or account credit that Shobble may issue where permitted by law. Platform Credits are not required to use the Platform, do not represent stored funds, are not legal tender, and are not a customer funding or stored-balance product.
+
+“Digital Goods” means digital items, assets, licenses, entitlements, access rights, cosmetic items, virtual items, unlocks, or digital services made available through the Platform, whether obtained through direct purchase, subscription, membership, or promotional means.
+
+“Catalog Content” means content made available on or through the Platform by or on behalf of a Content Partner under a Content Partner Agreement, and does not include User Content.
+
+“User Content” means any content, data, text, media, software, materials, or other information that a User uploads, submits, generates, transmits, or otherwise makes available through the Platform, excluding Catalog Content.
+
+“Generative Models” means automated or machine-learning–based systems whose primary purpose is to generate new expressive content, such as text, images, video, audio, or similar creative outputs, in response to prompts or inputs, and does not include systems used solely for moderation, classification, ranking, recommendation, analytics, fraud prevention, security, verification, accessibility, spell-checking, grammar correction, translation, summarization of user-provided content, or other non-generative or operational processing.
+
+“AI-Generated Content” means content that is generated in whole or in substantial part by Generative Models, and does not include content that is solely human-created with minor non-generative or assistive processing.
+
+“Delegated Access” means limited, revocable access to eligible licensed content or account features granted by an authorized account holder, business administrator, or educational institution, subject to Platform controls and these Terms. Delegated Access does not authorize account creation by users below the minimum account age and does not confer monetization, payout, or restricted-environment eligibility.
+
+“Payout Account” means a financial account or payment instrument maintained with a third-party payment provider and designated by a Creator for the receipt of payouts, subject to identity verification, compliance checks, and payment-processor requirements.
+
+“Third-Party Services” means any products, services, software, platforms, tools, integrations, or content provided by third parties that are made available, linked, embedded, or accessible through the Platform.
+
+“Force Majeure Event” means any event or circumstance beyond a party’s reasonable control that prevents or materially delays performance, including acts of God, natural disasters, war, terrorism, civil unrest, labor disputes, governmental or regulatory action, epidemics or pandemics, cyber incidents, supply-chain failures, or interruptions to utilities, hosting, or communications networks.
+
+2. ACCOUNT ELIGIBILITY & SECURITY
+
+2.1 Age Requirements
+You must be at least sixteen (16) years old, or older where required by applicable law, to create or use a standard Platform account.
+
+Certain Platform features, services, monetization tools, payment-enabled creator functionality, payouts, and restricted or adult-oriented environments require users to be at least eighteen (18) years old and may require identity, age, or eligibility verification.
+
+Users under eighteen (18) may not create or operate Creator accounts for monetization, receive payouts, access restricted or adult-oriented environments, or use payment-enabled creator tools.
+
+The Platform does not permit users below the minimum account age to create accounts through third-party, educational, household, or delegated authorization. Any delegated or educational access that Shobble may support is limited to eligible account holders and does not create independent account, monetization, payout, or restricted-environment rights.
+
+Restricted and adult-oriented areas are separately age-gated and isolated from standard Platform environments. Restricted content and restricted monetization systems are separated from standard Platform experiences and may be unavailable, limited, or subject to additional review.
+
+2.2 Accurate Information
+You agree to provide accurate, complete, and current account information and to promptly update such information as necessary to maintain its accuracy.
+
+2.3 Account Security
+You are responsible for maintaining the confidentiality of your login credentials and for all activity that occurs under your account. You agree to use reasonable measures to prevent unauthorized access and to promptly notify us of any suspected compromise or unauthorized use. Shobbl Incorporated is not responsible for any loss or damages resulting from your failure to safeguard your credentials. Shobbl Incorporated will take reasonable measures to protect account data consistent with applicable law.
+
+2.4 Business & Shared Accounts
+If you register for or use an account on behalf of a legal entity, you represent and warrant that you have the authority to bind that entity to these Terms.
+
+Accounts are intended for individual use and may not be shared, except where expressly permitted under Shobbl Incorporated-approved enterprise, educational, or other programs, which are subject to Shobbl Incorporated policies.
+
+2.5 Account Recovery
+Account recovery requests require sufficient proof of account ownership or control, as determined by Shobbl Incorporated. We reserve the right to deny recovery requests where ownership cannot be reasonably verified or where recovery would pose a security, fraud, or legal risk. Shobbl Incorporated may require additional verification, including multi-factor authentication, at its discretion.
+
+3. IDENTITY VERIFICATION
+3.1 When Verification May Be Required
+
+Shobbl Incorporated may require identity and/or age verification (“Verification”) at any time, including before or after enabling access to features such as: age-restricted content or interactions, marketplaces, monetization, payouts, transfers of entitlements, recovery of high-risk accounts, or other features that present elevated safety, fraud, financial, regulatory, or legal risk. Verification may also be required to comply with applicable law, lawful requests, licensing obligations, payment-processor requirements, risk controls, or to protect the safety, security, and integrity of the Platform and its users.
+
+We may deny, restrict, suspend, or terminate access to some or all Platform features if Verification is required and you do not complete it, fail it, attempt to bypass it, or we reasonably determine Verification cannot be completed reliably or lawfully.
+
+3.2 What We May Collect
+
+Verification may involve collection and processing of some or all of the following, depending on the feature and risk level: legal name, date of birth, contact information, government-issued identification, a selfie or liveness check, address and jurisdiction information, limited payment-account details (e.g., last four digits or tokenized identifiers), device and network signals, and other information reasonably necessary to confirm identity, eligibility, authority, or compliance.
+
+We will seek to minimize data collected and use proportionate methods (for example, age estimation or age-gating methods) where feasible and lawful.
+
+3.3 Verification Providers and Your Authorization
+
+Verification may be performed by Shobbl Incorporated and/or by vetted third-party verification providers (“Verification Providers”). You authorize Shobbl Incorporated and Verification Providers to collect, use, and process Verification Data solely to:
+
+confirm identity, age, eligibility, and authority;
+
+prevent fraud, abuse, and account compromise;
+
+satisfy legal, licensing, and payment-processor requirements;
+
+support safety enforcement, dispute handling, and audits reasonably necessary to operate the Platform.
+
+Verification Providers may act as our service providers/processors and are subject to contractual obligations regarding confidentiality, security, restricted use, and deletion/return of Verification Data. We do not permit Verification Providers to use Verification Data for their own marketing, advertising, or unrelated product development, and we do not permit use of Verification Data to train commercially distributed AI models without your explicit, informed consent.
+
+3.4 Biometric Information and Special Category Data
+
+Where Verification involves biometric information (e.g., face geometry, liveness checks) or other sensitive data regulated by applicable law (“Biometric Data”), we will:
+
+obtain any legally required notices and consents (including, where applicable, written consent);
+
+process Biometric Data only for Verification and security purposes described in these Terms;
+
+implement reasonable administrative, technical, and physical safeguards;
+
+restrict access to personnel and service providers with a need to know; and
+
+delete Biometric Data in accordance with Section 3.6, unless retention is required by law or necessary to establish, exercise, or defend legal claims.
+
+If your jurisdiction provides additional rights or requires specific disclosures (e.g., BIPA, Texas, Washington, GDPR/UK GDPR), those rights and disclosures apply as described in the Privacy Policy and applicable addenda.
+
+3.5 No Guarantee; Risk Decisions; Errors
+
+Verification methods are not infallible. You acknowledge that Verification results may be probabilistic, risk-based, or derived from signals that can be incomplete, outdated, or subject to error.
+
+Shobbl Incorporated may make eligibility, access, payout, or other risk-management decisions based on Verification outcomes and related signals, subject to applicable law and any required safeguards (including, where applicable, human review rights described in Section 16 and appeal mechanisms described in Section 11).
+
+The availability of human review does not guarantee reversal of any decision, reinstatement of access, or provision of a detailed or individualized explanation.
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated is not liable for delays, denials, or feature limitations resulting from Verification requirements, Verification Provider outages, or the inability to verify identity reliably or lawfully.
+
+3.6 Retention and Deletion
+
+We will retain Verification Data only for as long as reasonably necessary for the purposes described in these Terms, including security, fraud prevention, compliance, dispute resolution, and audit obligations, and then delete or de-identify it consistent with applicable law and our Privacy Policy.
+
+By default, where feasible:
+
+raw identity documents and selfie images are deleted after verification is completed, except where retention is legally required or reasonably necessary for fraud prevention, security investigations, payout compliance, chargeback disputes, or legal claims;
+
+verification logs, tokens, and “pass/fail” outcomes may be retained longer to prevent repeat fraud and to support compliance and dispute handling.
+
+3.7 Cross-Border Transfers
+
+Verification Data may be processed in countries other than your own. Where required, we will use appropriate safeguards for cross-border transfers (such as Standard Contractual Clauses or other legally recognized mechanisms), as described in the Privacy Policy.
+
+3.8 Misuse, False Information, and Enforcement
+
+You must not submit false, misleading, or unlawfully obtained Verification Data, attempt to impersonate others, or bypass Verification systems. We may suspend or terminate accounts, withhold or reverse payouts, and restrict access to monetization or marketplace features where we reasonably suspect fraud, identity manipulation, or policy violations, consistent with Sections 11, 18–21, and the incorporated policies.
+
+3.9 Relationship to Other Terms
+
+This Section 3 supplements (and does not replace) Section 2 (Account Eligibility & Security), Section 4 (Privacy), Section 16 (AI Transparency & Human Review), Sections 18–20 (Payments and Payouts), Section 21 (Termination), and Section 33 (Security Incident Disclosure). If there is a conflict between this Section 3 and an applicable addendum, including Monetization or Dispute Resolution & Payment Reversal terms, the addendum controls.
+4. PRIVACY, DATA PROCESSING & RETENTION
+4.1 Privacy Policy Governs
+
+Our collection, use, disclosure, retention, and protection of personal data are governed by our Privacy Policy, which is incorporated into these Terms by reference. The Privacy Policy provides detailed disclosures regarding categories of data processed, purposes, legal bases, retention practices, user rights, and contact methods, and is intended to comply with applicable global privacy and data-protection laws, including, where applicable, GDPR/UK GDPR, the EU Digital Services Act (DSA), CCPA/CPRA, LGPD, and PIPEDA.
+
+To the extent permitted by applicable law, the Privacy Policy controls in the event of any inconsistency relating to privacy or data-protection matters.
+
+4.2 Lawful Bases and Permitted Processing
+
+We process personal data and User Content only where permitted by applicable law and based on one or more lawful grounds, which may include contractual necessity, legitimate interests, compliance with legal obligations, protection of vital interests, and consent where required.
+
+Permitted processing includes, without limitation:
+
+providing, operating, securing, and maintaining the Platform;
+
+account management, identity and age verification, and eligibility determinations;
+
+moderation, safety, fraud prevention, abuse detection, and enforcement;
+
+content hosting, delivery, search, ranking, discovery, and recommendations;
+
+payments, subscriptions, refunds, payouts, chargeback handling, and tax compliance;
+
+analytics, service improvement, debugging, and quality assurance;
+
+compliance with applicable laws, regulations, court orders, and lawful government requests.
+
+Certain processing activities, including age estimation, moderation signals, safety enforcement, and abuse detection, are implemented as part of risk-mitigation measures relating to minors, illegal content, and misuse of the Platform, as contemplated under applicable digital services regulations.
+
+All processing is designed to be proportionate and risk-based and does not guarantee the detection or prevention of all harmful, illegal, or policy-violating activity.
+
+Processing activities may involve automated systems or algorithmic tools as described in Section 16 and do not create any obligation to provide individualized explanations or human review except where required by applicable law.
+
+4.3 No Sale of Personal Data; AI Use Limitations
+
+We do not sell personal data as defined under applicable privacy laws, including CCPA/CPRA, nor do we share personal data for cross-context behavioral advertising.
+
+We do not use User Content or personal data to train commercially distributed AI models without explicit, informed, and freely given consent. Operational use of automated or machine-learning systems for moderation, safety, fraud prevention, ranking, discovery, and Platform integrity does not constitute commercial AI model training and is conducted solely to operate, secure, and protect the Platform.
+
+4.4 User Content, Visibility, and Responsibility
+
+User Content you submit may be visible to other users or the public depending on your settings, selected licenses, and the nature of the feature used. You are responsible for the personal data you choose to include in User Content and for ensuring you have all necessary rights and permissions to share it.
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated is not responsible for how other users or third parties use, disclose, or misuse information you make publicly available through the Platform.
+
+4.5 Data Retention
+
+We retain personal data and User Content only for as long as we reasonably determine is necessary to fulfill the purposes described in these Terms and the Privacy Policy, including security, fraud prevention, compliance, dispute resolution, and enforcement, unless a longer retention period is required or permitted by applicable law.
+
+Retention may include, without limitation:
+
+active account data for the duration of the account relationship;
+
+transactional, payment, payout, and tax records for legally required periods;
+
+moderation, enforcement, and safety records for as long as necessary to prevent repeat abuse, enforce policies, or comply with legal obligations;
+
+backup copies retained for limited periods for security, continuity, and disaster-recovery purposes, the duration of which may vary based on system architecture, legal obligations, and operational requirements.
+
+Deletion or erasure requests are honored in accordance with applicable law and may be denied or limited where retention is required or permitted for legal, security, fraud-prevention, or compliance purposes.
+
+4.6 Data Subject and Consumer Rights
+
+Depending on your jurisdiction, you may have rights relating to your personal data, such as the right to access, correct, delete, port, restrict, or object to certain processing, or to withdraw consent where processing is based on consent.
+
+Requests to exercise such rights are subject to identity verification, statutory exceptions, and reasonable limitations permitted by law. We may deny or limit requests where necessary to protect the rights of others, maintain Platform integrity, comply with legal obligations, or prevent fraud, abuse, or security risks.
+
+4.7 Cross-Border Transfers
+
+Personal data may be processed or stored in jurisdictions other than your own. Where required by applicable law, we implement appropriate safeguards for international data transfers, such as Standard Contractual Clauses or other legally recognized transfer mechanisms, as described in the Privacy Policy.
+
+4.8 Security Measures
+
+We implement administrative, technical, and organizational safeguards that we reasonably determine are appropriate in light of the nature of the data processed, the risks involved, and industry practices, consistent with applicable law. However, no system is completely secure, and we do not guarantee absolute or uninterrupted security.
+
+Security incidents, if any, are addressed in accordance with Section 33 (Security Incident Disclosure) and applicable breach-notification laws.
+
+4.9 No Fiduciary Duty; No Reliance; No Security Warranty
+
+Nothing in these Terms or the Privacy Policy creates a fiduciary, confidential, or special relationship between you and Shobbl Incorporated beyond what is required by applicable law.
+
+To the fullest extent permitted by law, users agree that no statements in these Terms or the Privacy Policy constitute representations, guarantees, or warranties regarding data security practices, risk mitigation, or outcomes, and that users do not rely on such statements as assurances of performance or protection.
+
+4.10 Relationship to Other Terms
+
+This Section 4 supplements and operates in conjunction with Section 3 (Identity Verification), Section 10 (User Content), Section 11 (Enforcement & Moderation), Section 16 (AI Transparency & Human Review), Sections 18–20 (Payments and Payouts), Section 21 (Termination), Section 33 (Security Incident Disclosure), and all Incorporated Policies. In the event of any conflict, applicable addenda or mandatory consumer-protection laws control.
+
+4.11 No Guarantee of Risk Elimination
+
+While Shobbl Incorporated implements reasonable and proportionate measures intended to mitigate systemic, safety, and misuse risks associated with the Platform, no online service can eliminate all such risks. Nothing in these Terms or the Privacy Policy constitutes a representation that the Platform is risk-free or that harmful, unlawful, or policy-violating activity will not occur.
+
+5. EXPORT CONTROLS & SANCTIONS
+You may not directly or indirectly access, use, or distribute the Platform in countries subject to U.S. or international embargoes, sanctions, or trade restrictions, or for any prohibited end-uses under applicable export-control laws, including the U.S. Export Administration Regulations (EAR), regulations administered by the Office of Foreign Assets Control (OFAC), and other applicable international export-control regulations. You are solely responsible for ensuring compliance with all applicable export, import, and sanctions laws.
+
+6. PLATFORM LICENSE
+Subject to your compliance with these Terms, Shobbl Incorporated grants you a limited, revocable, non-exclusive, non-transferable, and non-sublicensable license to access and use the Platform, including any updates or modifications, solely for your personal or authorized use.
+
+You may not, without Shobbl Incorporated’s prior written consent:
+
+Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Platform;
+
+Circumvent, bypass, or disable any technical restrictions or digital rights management (DRM) protections;
+
+Sell, resell, sublicense, or otherwise transfer your account or access rights;
+
+Misuse API access, exceed usage limits, or otherwise interfere with Platform operations;
+
+Use Platform content, including User Content or Catalog Content, to create datasets or train AI models.
+
+Nothing in these Terms conveys any ownership, title, or proprietary rights in or to the Platform or any Shobbl Incorporated intellectual property. Shobbl Incorporated reserves the right to revoke this license, suspend, or terminate access at any time for violations of these Terms.
+
+7. REGIONAL AVAILABILITY
+
+The Platform, including its features, services, content, pricing, Digital Goods, payment methods, memberships, subscriptions, and functionality, may vary by geographic location and jurisdiction.
+
+Certain features, content, monetization options, payment methods, or services may be restricted, modified, or unavailable in some regions due to legal, regulatory, licensing, tax, sanctions, operational, or technical requirements.
+
+Nothing in these Terms guarantees that the Platform, or any specific feature, content, or service, will be available in all jurisdictions or remain available in any particular location.
+
+This Section addresses geographic and jurisdictional availability only and does not modify or limit:
+
+Section 8 (Platform Services) regarding feature modification or discontinuation;
+
+Section 18 (Payments, Subscriptions & Refunds) regarding paid offerings;
+
+Section 19 (Digital Goods & Platform Transactions); or
+
+Section 26 (Service Interruptions & Maintenance), which governs service availability, uptime, interruptions, and outages.
+
+Nothing in this Section limits mandatory consumer rights or statutory protections that cannot be waived under applicable law.
+
+8. PLATFORM SERVICES
+8.1 Platform Evolution and Modifications
+
+Shobbl Incorporated may add, modify, suspend, limit, or discontinue any part of the Platform, including features, services, tools, content, APIs, monetization options, or functionality, at any time.
+
+Such changes may be implemented for business, technical, legal, regulatory, security, safety, risk-management, or operational reasons and may apply globally or on a region-, user-, feature-, or account-specific basis.
+
+Nothing in this Section creates an obligation to maintain, support, or continue any specific feature, service, content, API, monetization option, or functionality.
+
+8.2 Notice of Material Changes
+
+Where required by applicable law, Shobbl Incorporated will provide reasonable advance notice of material changes that materially and adversely affect users’ rights or obligations under these Terms.
+
+Advance notice may be shortened or omitted where immediate action is reasonably necessary to:
+
+comply with legal or regulatory obligations;
+
+address security vulnerabilities, fraud, abuse, or safety risks; or
+
+preserve the integrity, stability, or lawful operation of the Platform.
+
+Nothing in this Section limits statutory rights that require affirmative consent or prohibit unilateral modification under applicable law.
+
+8.3 Availability and Continuity
+
+Platform availability, uptime, service continuity, interruptions, degradation, outages, maintenance, and discontinuation are governed exclusively by:
+
+Section 26 (Service Interruptions & Maintenance), and
+
+Section 27 (Liability & Warranty Disclaimer).
+
+Nothing in this Section 8 creates or implies any guarantee of uninterrupted access, feature continuity, permanence, or future availability of the Platform or any feature, service, content, subscription, membership, or Digital Good.
+
+Any availability-related remedies, limitations, exclusions, or disclaimers are subject to applicable law and the provisions expressly set forth in Sections 18 (Payments, Subscriptions & Refunds), 19 (Digital Goods & Platform Transactions), 26, and 27.
+
+8.4 Beta, Preview, and Experimental Features
+
+Beta, preview, test, or experimental features are provided solely for evaluation or testing purposes and may be incomplete, unstable, degraded, or subject to change, limitation, or discontinuation at any time.
+
+Such features:
+
+are governed by Section 26 (Service Interruptions & Maintenance) and Section 27 (Liability & Warranty Disclaimer);
+
+may not function as intended; and
+
+may be withdrawn without notice and without obligation to provide support, fixes, or continued access, except where required by applicable law.
+
+References in these Terms to features, services, programs, or functionality describe potential or illustrative aspects of the Platform and do not imply that any such feature is currently available, will be made available, or will be available in any specific form, jurisdiction, or timeframe
+
+8.5 User Responsibility for Data
+
+You are solely responsible for maintaining independent backups of any content, data, or materials you consider important.
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated is not responsible for loss, corruption, or unavailability of content or data resulting from Platform changes, feature modifications, suspensions, interruptions, or discontinuations, except where such responsibility cannot be disclaimed under applicable law.
+
+9. CONTENT PARTNERS & CATALOG CONTENT (Revised)
+
+Certain content available on the Platform (“Catalog Content”) is provided by third-party content partners or licensors (“Content Partners”) pursuant to separate licensing or distribution agreements.
+
+9.1 License Scope and Restrictions
+
+Catalog Content is made available to Users by license only, not sold.
+
+Except as expressly permitted by these Terms or an applicable addendum:
+
+Catalog Content may not be downloaded, exported, copied, modified, adapted, translated, reverse engineered, distributed, sublicensed, publicly performed, or used outside the Platform;
+
+access to Catalog Content is limited to the functionality, formats, and duration made available through the Platform; and
+
+circumvention, removal, or bypassing of digital rights management (DRM), access controls, watermarking, or other technical or contractual protections is prohibited.
+
+Any unauthorized use of Catalog Content constitutes a material breach of these Terms and may result in enforcement action under Section 21.
+
+9.2 Ownership and Rights
+
+Catalog Content remains the exclusive property of the applicable Content Partner or other rights holder.
+
+Nothing in these Terms transfers ownership of, or grants any intellectual-property rights in, Catalog Content except for the limited, revocable license expressly granted for access and use through the Platform.
+
+Shobbl Incorporated does not represent or warrant that any Catalog Content is free from third-party rights claims, except as required by applicable law.
+
+9.3 Availability and Changes
+
+The availability, scope, pricing, format, or functionality of Catalog Content may change at any time due to licensing terms, rights-holder decisions, legal or regulatory requirements, technical limitations, or business considerations.
+
+Shobbl Incorporated does not guarantee that any specific Catalog Content will remain available for any period of time and is not obligated to provide replacements, refunds, or continued access, except where required by applicable law or expressly stated in an applicable addendum.
+
+Nothing in this Section limits non-waivable statutory rights or mandatory consumer protections under applicable law.
+
+10. USER CONTENT
+10.1 Ownership
+
+Except as expressly provided in these Terms, you retain all right, title, and interest in and to your User Content. Nothing in these Terms transfers ownership of User Content to Shobbl Incorporated.
+
+You acknowledge that making User Content available through the Platform may involve public or semi-public distribution depending on the feature used, your settings, and applicable licenses.
+
+10.2 License to Shobbl Incorporated
+
+By uploading, submitting, publishing, or otherwise making User Content available through the Platform, you grant Shobbl Incorporated a worldwide, non-exclusive, royalty-free, fully paid, revocable (as described below) license to:
+
+host, store, cache, reproduce, transcode, format, and deliver User Content;
+
+display, perform, and make User Content available to users in accordance with your settings, selected licenses, and Platform functionality;
+
+enable indexing, search, discovery, ranking, recommendation, and presentation;
+
+perform moderation, safety, fraud prevention, abuse detection, analytics, legal compliance, audits, dispute resolution, and technical operations.
+
+This license is granted solely to operate, maintain, secure, and improve the Platform and does not authorize sale of User Content as a dataset, data brokerage, or use for commercially distributed AI model training without explicit consent.
+
+10.3 Duration and Survival of License
+
+The license granted in Section 10.2 terminates when you delete or remove the applicable User Content, except that copies may persist where reasonably necessary for:
+
+content delivery networks, caching, or system propagation;
+
+backup and disaster recovery;
+
+compliance with legal obligations, court orders, or lawful government requests;
+
+enforcement, safety investigations, fraud prevention, or dispute resolution.
+
+Termination or expiration of your account does not retroactively revoke rights already granted to other users under valid Creator Licenses or transactions completed prior to deletion, to the extent permitted by applicable law.
+
+Nothing in this Section limits Shobbl Incorporated’s right to retain, use, or disclose User Content as reasonably necessary to investigate, enforce, or remediate violations of these Terms.
+
+10.4 Creator Licenses and Transactions
+
+Creators must select and apply an applicable Creator License (e.g., Personal, Commercial, Extended Commercial) to User Content offered for licensing or sale.
+
+Creator Licenses constitute contracts solely between the Creator and the buyer or licensee. Shobbl Incorporated is not a party to such agreements, does not grant the underlying rights, and does not warrant the scope, enforceability, or sufficiency of any Creator License.
+
+Shobbl Incorporated acts only as a platform facilitator and payment intermediary (where applicable) and disclaims responsibility for disputes arising from Creator Licenses, except as required by applicable law.
+
+10.5 AI Use, Scraping, and Data Restrictions
+
+Shobbl Incorporated does not use User Content or personal data to train commercially distributed AI models without explicit, informed consent.
+
+User Content may be processed by automated or machine-learning systems solely for operational purposes, including moderation, safety, fraud prevention, ranking, discovery, and Platform integrity, as described in Sections 4 and 16.
+
+You may not, without express written authorization:
+
+scrape, extract, harvest, or collect User Content;
+
+create datasets derived from User Content;
+
+use User Content to train or improve AI models or automated systems;
+
+mirror or index the Platform to build competing services.
+
+Any unauthorized use constitutes a material breach of these Terms and may result in immediate enforcement action.
+
+10.6 Sublicensing to Service Providers
+
+Shobbl Incorporated may sublicense User Content only to the limited extent necessary to trusted service providers and partners to:
+
+operate, host, and deliver the Platform;
+
+process payments or deliver purchased licenses or entitlements;
+
+perform moderation, safety, compliance, analytics, or technical services.
+
+Such service providers act under contractual obligations restricting use, confidentiality, security, and retention, consistent with Section 4 (Privacy).
+
+10.7 Creator Representations and Warranties
+
+You represent and warrant that:
+
+you own or have all necessary rights, licenses, consents, and permissions to submit and license your User Content;
+
+your User Content does not infringe, misappropriate, or violate any intellectual property, privacy, publicity, or other rights;
+
+your User Content complies with applicable laws, regulations, and these Terms;
+
+your User Content does not contain any material generated in whole or in substantial part by Generative Models, as prohibited under Section 10.9.
+
+You are solely responsible for your User Content and any consequences arising from its distribution, licensing, or use.
+
+10.8 No Pre-Screening; No Endorsement
+
+Shobbl Incorporated does not guarantee that User Content is accurate, lawful, non-infringing, or fit for any particular purpose and does not endorse any User Content.
+
+We are not obligated to pre-screen, monitor, or review User Content, except to the extent required by applicable law. Our moderation and enforcement actions do not create any duty to monitor or any liability for content not removed.
+
+10.9 Prohibited Use of Generative Models
+
+Creators may not upload, submit, publish, distribute, or monetize any User Content that is generated in whole or in substantial part by Generative Models.
+
+By submitting User Content to the Platform, Creators represent and warrant that such content is substantially human-created and does not contain any material generated by Generative Models.
+
+Disclosure, labeling, watermarking, or attribution of AI-generated content does not make such content permissible on the Platform.
+
+Any violation or misrepresentation under this Section may result in content removal, license invalidation, monetization restrictions, payout withholding or reversal, account suspension or termination, and any other remedies available under these Terms or applicable law.
+
+This prohibition reflects a Platform-specific content policy and does not limit Shobbl Incorporated’s operational use of automated systems as described in Section 16.
+
+Guidance regarding the distinction between prohibited Generative Model output and permitted non-generative or assistive processing (such as spell-checking, formatting, or other operational tools) is provided in the AI Use-Case Policy Addendum, which is incorporated by reference. Creators acknowledge that reliance on the AI Use-Case Policy Addendum does not create any safe harbor, defense, or presumption of compliance under this Section.
+
+The AI Use-Case Policy Addendum does not authorize, permit, or expand the submission, distribution, or monetization of User Content generated in whole or in substantial part by Generative Models, and nothing in that Addendum limits or modifies this Section 10.9.
+
+10.10 Prohibited Content and Enforcement
+
+User Content that is illegal, infringing, deceptive, or otherwise violates these Terms, the Acceptable Use Policy, or applicable law may be removed or restricted.
+
+Where required or appropriate, Shobbl Incorporated may report illegal content or activity to relevant authorities and comply with valid rights-holder notices, including under the DMCA or equivalent regimes.
+
+10.11 Limitation of Responsibility
+
+To the fullest extent permitted by applicable law:
+
+Shobbl Incorporated is not responsible for User Content, Creator Licenses, or disputes between users;
+
+we do not guarantee availability, preservation, or continued access to any User Content;
+
+users assume all risk associated with reliance on User Content.
+
+Nothing in this Section limits liability that cannot be excluded under applicable law.
+
+11. Enforcement, Moderation, and Platform Integrity
+11.1 Discretionary Enforcement Authority
+
+Shobbl Incorporated reserves the right, but does not assume any obligation, to investigate, moderate, restrict, suspend, remove, disable access to, or take other action with respect to any content, account, feature, or activity on the Platform that we determine, in our sole discretion, may:
+
+violate these Terms or any incorporated policy;
+
+violate applicable law or regulatory requirements;
+
+infringe or misappropriate the rights of others;
+
+pose a risk to the Platform, users, creators, partners, or third parties; or
+
+undermine the integrity, security, or proper operation of the Platform.
+
+Enforcement decisions may be made with or without prior notice, and may be taken proactively, reactively, or automatically, including through algorithmic or automated systems.
+
+11.2 No Duty to Monitor; No Endorsement
+
+Shobbl Incorporated does not undertake any obligation to monitor user activity or content and does not guarantee that any content, account, or activity will comply with these Terms or applicable law.
+
+Our moderation, enforcement, or failure to enforce these Terms:
+
+does not constitute approval, endorsement, or verification of any content or user;
+
+does not create any duty to act in any particular manner; and
+
+does not give rise to any reliance, expectation, or liability.
+
+11.3 Neutrality in Legal and Rights Disputes
+
+Shobbl Incorporated does not adjudicate disputes regarding legal ownership, licensing, authorization, or infringement of content or intellectual property.
+
+Any actions taken in response to notices, reports, or complaints—including those relating to intellectual property, safety, or legality—are procedural and administrative in nature and do not constitute a legal determination or admission regarding the underlying rights or claims.
+
+11.4 Relationship to DMCA and Rights Enforcement
+
+Copyright-related notices, counter-notices, and takedown procedures are governed exclusively by the DMCA Policy Addendum, which is incorporated by reference.
+
+Compliance with statutory notice-and-takedown obligations:
+
+does not, by itself, constitute a violation of these Terms;
+
+does not automatically result in account penalties, monetization restrictions, or termination; and
+
+does not limit our discretion to take separate enforcement action where appropriate under these Terms.
+
+11.5 Graduated and Contextual Enforcement
+
+Where appropriate, enforcement actions may be graduated, contextual, or proportional, and may include warnings, restrictions, removals, suspensions, or terminations.
+
+However, Shobbl Incorporated is not required to:
+
+follow any particular escalation sequence;
+
+provide warnings prior to enforcement;
+
+apply enforcement uniformly or consistently across users or situations; or
+
+continue providing access to the Platform or any feature.
+
+11.6 Automated and Human Review
+
+Enforcement actions may be initiated or supported by automated systems, human review, or a combination of both.
+
+Automated decisions may be subject to review, correction, or reversal, but Shobbl Incorporated does not guarantee human review, individualized explanation, or reversal except where required by applicable law.
+
+11.7 No Waiver; No Estoppel
+
+Failure to enforce these Terms in any instance does not constitute a waiver of our right to enforce them in the future.
+
+You acknowledge that you may not rely on past enforcement decisions, warnings, or inaction as a basis for any claim, defense, or expectation.
+
+11.8 Appeals and Discretionary Review
+
+Shobbl Incorporated may, but is not obligated to, provide mechanisms to appeal or request review of enforcement actions.
+
+Any appeal or review process is discretionary, may be limited in scope, and does not suspend or invalidate enforcement unless expressly stated.
+
+11.9 Platform Integrity and Abuse Prevention
+
+We may take action against users or entities that engage in conduct intended to manipulate, abuse, evade, or undermine enforcement, reporting, or moderation systems, including coordinated abuse, fraudulent reporting, or bad-faith use of rights-enforcement mechanisms, regardless of claimant status.
+
+11.10 No Liability for Enforcement Decisions
+
+To the maximum extent permitted by law, Shobbl Incorporated shall not be liable for any damages arising out of or related to enforcement, moderation, restriction, or removal of content or accounts, including any loss of access, visibility, monetization, or data.
+
+11.11 Reservation of Rights
+
+All enforcement rights are cumulative and in addition to any other rights or remedies available under these Terms, at law, or in equity.
+
+12. CREATOR FIRST REVENUE PROGRAM
+12.1 Program Overview
+
+The Creator First Revenue Program (“Program”) enables eligible Creators to earn revenue from monetization features made available through the Platform, including content sales, advertising, subscriptions, platform-wide subscription pools, and licensed-content participation, subject at all times to these Terms and the Monetization Addendum.
+
+Participation in the Program is optional, conditional, and revocable, and does not create any entitlement to compensation, minimum earnings, continued monetization access, or future revenue opportunities.
+
+12.2 Revenue Shares (Illustrative; Not Guaranteed)
+
+Subject to eligibility, compliance, and the Monetization Addendum:
+
+Content Sales: Creators may receive approximately 85–95% of net revenue from sales of eligible User Content, depending on content type, licensing terms, transaction method, and applicable fees.
+
+Advertising Revenue: Creators may receive approximately 85–95% of net advertising revenue attributable to eligible content, depending on content type, advertiser demand, placement, and compliance with fair use and rights-clearance requirements.
+
+Creator Subscription Tiers: Creators receive approximately 92% of net revenue earned from subscription tiers they offer on their creator pages.
+
+Platform-Wide Subscriptions: Creators may receive 50-75% of net revenue from platform-wide subscription plans attributable to platform-subscribed followers, allocated among eligible creators based on engagement, content type, and other weighting factors determined by Shobbl Incorporated.
+
+Licensed Content Beyond Fair Use: Where a Creator participates in an approved affiliate or licensing program and holds a valid license made available on the Platform, the Creator may receive a percentage of revenue attributable to licensed content exceeding fair use, as specified in the applicable license. If no such license is present or applicable, revenue attributable to the entire content may be withheld pending resolution or claimed by the rights holder.
+
+All percentages are illustrative, variable, and subject to change as described below. “Net revenue” excludes taxes, refunds, chargebacks, credits, discounts, payment-processor fees, platform fees, and other deductions described in the Monetization Addendum.
+
+12.3 Pricing and Marketplace Controls
+
+Shobbl Incorporated may establish minimum and maximum prices, pricing bands, or subscription ranges for content and creator subscriptions, and may adjust such parameters from time to time as it determines to be fair, competitive, and appropriate for the marketplace, users, creators, and legal or regulatory requirements.
+
+Creators remain responsible for selecting prices and subscription offerings within any applicable limits and for compliance with all pricing, consumer-protection, and disclosure obligations.
+
+12.4 Eligibility, Metrics, and Allocation
+
+Eligibility criteria, revenue attribution, engagement metrics, weighting factors, detection systems, and allocation methodologies are defined in the Monetization Addendum and related policies and may vary by content type, feature, region, or program.
+
+Metrics, models, and detection systems are proprietary, may rely on automated and human review, and may be modified, refined, or replaced at any time. Shobbl Incorporated is not obligated to disclose detailed formulas, weighting logic, or internal methodologies, except where required by applicable law.
+
+12.5 Adjustments, Withholding, and Reversals
+
+All earnings under the Program are subject to:
+
+verification, fraud prevention, and compliance reviews;
+
+rights claims, fair use determinations, and licensing validation;
+
+refunds, chargebacks, payment disputes, and reversals;
+
+errors, anomalies, or corrections in metrics or reporting.
+
+Shobbl Incorporated may withhold, adjust, reverse, or delay payouts as permitted under Sections 18–20 and the Monetization Addendum. No payout is final until settlement is complete.
+
+12.6 No Employment, Agency, or Partnership
+
+Participation in the Program does not create an employment, agency, partnership, joint venture, fiduciary, or representative relationship between Shobbl Incorporated and any Creator. Creators act solely as independent parties and bear all risks associated with their content, monetization choices, and participation in the Program.
+
+12.7 No Guarantee of Earnings or Continuity
+
+Shobbl Incorporated does not guarantee:
+
+any level of revenue, impressions, engagement, sales, or subscriptions;
+
+continued eligibility or participation in the Program;
+
+availability of any monetization feature, revenue stream, or percentage.
+
+The Program, its features, revenue shares, and eligibility requirements may be modified, suspended, or discontinued at any time, subject to applicable law and notice requirements.
+
+13. CREATOR TAXES
+13.1 Creator Responsibility
+
+Creators participating in the Creator First Revenue Program act solely on their own behalf and are solely responsible for determining, reporting, and paying all applicable taxes arising from their activities on the Platform, including, without limitation, income taxes, self-employment taxes, value-added taxes (VAT/GST), sales or use taxes, digital services taxes, and any other local, state, federal, or national taxes, duties, levies, or assessments.
+
+Shobbl Incorporated does not provide tax advice and does not determine a Creator’s tax residency, filing status, or tax obligations.
+
+13.2 Platform Reporting and Withholding
+
+Subject to applicable law, Shobbl Incorporated may:
+
+collect tax identification information, residency information, or other documentation required for tax reporting or withholding;
+
+issue tax forms or reports (including, where applicable, Forms 1099, 1042, VAT statements, or similar);
+
+withhold, collect, remit, or report taxes from payouts where required by law or by payment processors or app stores.
+
+Any withholding, reporting, or remittance performed by Shobbl Incorporated is done solely to comply with legal obligations and does not constitute tax advice, tax determination, or acceptance of responsibility for a Creator’s tax liabilities.
+
+13.3 Accuracy and Cooperation
+
+Creators represent and warrant that all tax information they provide is accurate, complete, and up to date and agree to promptly update such information as necessary. Failure to provide accurate information or required documentation may result in payout delays, withholding, suspension of monetization features, or other actions permitted under these Terms and the Monetization Addendum.
+
+Creators agree to cooperate with reasonable requests for information or documentation required to comply with applicable tax laws, audits, or lawful government inquiries.
+
+13.4 No Gross-Up; No Reimbursement
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated is not responsible for grossing up payments, reimbursing Creators for taxes, penalties, interest, or fees, or otherwise compensating Creators for tax liabilities or consequences arising from their participation in the Program.
+
+14. RELATIONSHIP AND STATUS OF USERS AND CREATORS
+14.1 Independent Status
+
+Users and Creators access and use the Platform solely on their own behalf and remain independently responsible for their actions, content, transactions, business decisions, and compliance with all applicable laws and regulations.
+
+Creators, whether or not they receive compensation through the Platform, act as independent contractors and are not employees, workers, agents, partners, joint venturers, fiduciaries, trustees, or legal representatives of Shobbl Incorporated.
+
+Nothing in these Terms, any Platform feature, program, policy, payment arrangement, pricing structure, incentive, metric, recommendation, moderation action, or communication alters this independent status.
+
+14.2 No Control Over Manner of Performance
+
+Creators retain full discretion and control over:
+
+the content they create or choose not to create;
+
+the manner, means, timing, location, tools, and methods used to produce content;
+
+whether, when, and how they participate in monetization programs or offerings.
+
+Shobbl Incorporated does not supervise, direct, or control the day-to-day creative or business activities of Creators, except as necessary to enforce Platform policies, comply with legal obligations, maintain Platform integrity, or protect users.
+
+14.3 No Agency or Authority
+
+Creators have no authority to act on behalf of, bind, represent, or incur obligations for Shobbl Incorporated, and may not hold themselves out as having any such authority.
+
+Shobbl Incorporated does not act as an agent, broker, trustee, financial advisor, employer of record, or legal representative for any User or Creator.
+
+14.4 Taxes, Expenses, and Benefits
+
+Creators are solely responsible for:
+
+reporting and paying all applicable taxes, as further described in Section 13;
+
+all costs and expenses incurred in connection with their use of the Platform or content creation;
+
+obtaining and maintaining any insurance, permits, or licenses required for their activities.
+
+Creators are not entitled to, and Shobbl Incorporated does not provide, employee benefits, including wages, minimum pay guarantees, overtime, holiday pay, sick leave, retirement benefits, unemployment insurance, workers’ compensation, or similar protections.
+
+14.5 Monetization Programs
+
+Creators who participate in monetization features or programs, including the Creator First Revenue Program, do so on a non-exclusive, voluntary, and revocable basis, subject to eligibility requirements, policies, and the Monetization Addendum.
+
+Participation in any monetization program does not:
+
+create a promise of compensation, continued access, or minimum earnings;
+
+establish a dependent work relationship;
+
+limit a Creator’s ability to create, license, distribute, or monetize content outside the Platform.
+
+14.6 No Fiduciary or Special Relationship
+
+To the fullest extent permitted by applicable law, no fiduciary, confidential, advisory, or special relationship exists between Shobbl Incorporated and any User or Creator.
+
+Any guidance, tools, analytics, pricing ranges, recommendations, or metrics provided by the Platform are informational only and do not create duties of loyalty, care, or representation.
+
+15. COMMUNITIES, FORUMS & EVENTS
+15.1 User Responsibility
+
+Users and Creators who create, host, organize, moderate, participate in, or attend Communities, Forums, or Events (collectively, “Community Activities”) act solely on their own behalf and are independently responsible for their conduct, communications, content, interactions, and compliance with these Terms, any applicable community-specific rules, and all applicable laws and regulations.
+
+15.2 No Control; No Endorsement
+
+Shobbl Incorporated does not organize, control, direct, supervise, or endorse Community Activities and does not verify the identity, qualifications, representations, or conduct of participants, hosts, moderators, speakers, or organizers.
+
+Any Community Activities are initiated and conducted by Users, Creators, or third parties, and participation does not imply approval, sponsorship, or affiliation by Shobbl Incorporated.
+
+15.3 Online and Offline Activities
+
+Community Activities may occur on the Platform, off the Platform, or in physical or virtual locations not operated or controlled by Shobbl Incorporated. Off-platform communications, meetings, or events are outside Shobbl Incorporated’s control and are undertaken at your own risk.
+
+Shobbl Incorporated has no obligation to monitor, supervise, or ensure the safety, legality, or suitability of any Community Activity, except as required by applicable law.
+
+15.4 Safety and Risk Allocation
+
+Participation in Community Activities may involve risks, including exposure to objectionable content, harassment, misinformation, disputes, or, in the case of in-person events, physical injury, property damage, or other harm.
+
+To the fullest extent permitted by applicable law, you voluntarily assume all risks associated with participation in Community Activities and agree that Shobbl Incorporated is not responsible or liable for any injury, loss, damage, or claim arising out of or relating to such participation.
+
+Nothing in this section limits liability where such limitation is prohibited by applicable law.
+
+15.5 Platform Enforcement Rights
+
+Shobbl Incorporated reserves the right, but does not assume an obligation, to take enforcement or moderation actions with respect to Community Activities where reasonably necessary to:
+
+enforce these Terms, community rules, or the Acceptable Use Policy;
+
+comply with legal obligations or lawful requests;
+
+address safety, security, abuse, or integrity risks.
+
+Any such actions are taken under Section 11 (Enforcement & Moderation) and do not create a duty to monitor, supervise, or control Community Activities.
+
+15.6 No Agency or Event Organizer Relationship
+
+Nothing in these Terms or in any Community Activity creates an agency, partnership, joint venture, employment, fiduciary, sponsorship, or event-organizer relationship between Shobbl Incorporated and any User, Creator, organizer, host, moderator, or participant.
+
+Shobbl Incorporated does not act as an event organizer, venue operator, promoter, security provider, or insurer for any Community Activity.
+
+16. AI TRANSPARENCY; HUMAN REVIEW
+16.1 Use of Automated Systems
+
+Shobbl Incorporated may use automated systems, including algorithmic, statistical, and machine-learning–based tools (“Automated Systems”), to support the operation, security, and integrity of the Platform. Automated Systems may be used, alone or in combination with human review, for purposes including, without limitation:
+
+content moderation, classification, and enforcement of Platform policies;
+
+content discovery, ranking, recommendation, and presentation;
+
+fraud prevention, security monitoring, and risk assessment;
+
+abuse detection, spam prevention, and Platform integrity protections;
+
+measurement, analytics, and quality assurance.
+
+Automated Systems are designed to assist operational decision-making and do not constitute professional, legal, or regulatory judgments.
+
+16.2 No Sole Reliance; No Accuracy Guarantee
+
+Automated Systems may generate outputs, scores, flags, or recommendations that are probabilistic, contextual, or predictive in nature and may contain errors, omissions, or false positives or negatives.
+
+To the fullest extent permitted by applicable law:
+
+Shobbl Incorporated does not guarantee the accuracy, completeness, or reliability of Automated System outputs; and
+
+decisions may be informed by Automated Systems without being solely determined by them, except where permitted by law.
+
+Nothing in these Terms creates a representation that any decision is free from error or bias.
+
+16.3 Human Review Where Required
+
+Where required by applicable law, including under the EU Digital Services Act or similar frameworks, Users may request human review of certain decisions that are based primarily on Automated Systems and that materially affect access to content, features, or accounts.
+
+Human review, where provided:
+
+may involve confirmation, modification, or reversal of a decision;
+
+does not guarantee any particular outcome, reinstatement, or favorable resolution; and
+
+does not guarantee the provision of a detailed, individualized, or technical explanation, except where expressly required by applicable law.
+
+Human review may be limited, delayed, or declined where:
+
+immediate action is necessary to address safety, fraud, security, or legal risks;
+
+disclosure or review would compromise enforcement methods, security measures, or legal obligations; or
+
+the request is manifestly unfounded, repetitive, or abusive, to the extent permitted by law.
+
+Nothing in this Section creates a general right to reversal, reinstatement, or expanded disclosure beyond what is required by applicable law.
+
+16.4 No General Right to Explanation
+
+Except where expressly required by applicable law, Users do not have a general right to receive:
+
+detailed explanations of Automated Systems;
+
+access to algorithms, models, source code, or training data;
+
+individualized reasoning, scoring logic, or weighting factors.
+
+Any explanations provided are intended to be high-level and contextual and do not waive trade-secret or intellectual-property protections.
+
+16.5 Relationship to Enforcement and Appeals
+
+Automated Systems may be used as part of Shobbl Incorporated’s enforcement, moderation, and risk-mitigation framework under Section 11.
+
+The availability of human review or appeal mechanisms does not:
+
+create a duty to monitor content generally;
+
+limit Shobbl Incorporated’s discretion to enforce these Terms;
+
+prevent immediate or proportionate action to protect users, the Platform, or comply with legal obligations.
+
+16.6 No Creation of Rights; Reservation of Discretion
+
+Nothing in this Section 16:
+
+creates an entitlement to any specific moderation outcome;
+
+guarantees reinstatement, reversal, or favorable resolution;
+
+limits Shobbl Incorporated’s right to suspend, restrict, or terminate accounts or content under these Terms.
+
+Shobbl Incorporated reserves the right to modify, refine, replace, or discontinue Automated Systems or human-review processes at any time, subject to applicable law and notice requirements.
+
+17. API ACCESS
+17.1 Governing Agreements
+
+Use of any application programming interfaces (“APIs”) made available by Shobbl Incorporated is governed by the API Partner Agreement, applicable documentation, usage guidelines, rate limits, and policies (collectively, the “API Terms”), all of which are incorporated by reference into these Terms.
+
+In the event of any conflict between these Terms and the API Terms, the API Terms control with respect to API use.
+
+17.2 License and Scope
+
+Subject to compliance with these Terms and the API Terms, Shobbl Incorporated grants approved API users a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to access and use the APIs solely for the purposes expressly authorized in the API Terms.
+
+No rights are granted to:
+
+scrape, harvest, or extract data or content beyond authorized endpoints;
+
+create datasets, data products, or derivative databases;
+
+train or improve AI or machine-learning models;
+
+mirror, replicate, or substitute Platform functionality; or
+
+build or support competing services.
+
+Any use outside the expressly permitted scope constitutes a material breach.
+
+17.3 Access Controls and Modifications
+
+Shobbl Incorporated may, at any time and at its discretion—with or without notice where necessary—restrict, suspend, modify, throttle, or revoke API access, API keys, endpoints, functionality, or documentation, including by imposing rate limits, quotas, or usage caps, in order to:
+
+enforce these Terms or the API Terms;
+
+prevent misuse, abuse, scraping, data exfiltration, fraud, or security risks;
+
+protect User Content, personal data, intellectual property, or Platform integrity;
+
+maintain system stability, performance, or reliability;
+
+comply with applicable laws, regulations, court orders, or lawful government requests.
+
+17.4 No Availability or Stability Guarantee
+
+APIs are provided on an “as is” and “as available” basis. Shobbl Incorporated does not guarantee uptime, availability, backward compatibility, performance, response times, data accuracy, or continued operation of any API or endpoint.
+
+APIs may be changed, deprecated, limited, or discontinued at any time, and Shobbl Incorporated has no obligation to provide advance notice, migration assistance, or support, except where required by applicable law or expressly stated in the API Terms.
+
+17.5 Data Protection and Confidentiality
+
+API users must handle any data accessed through the APIs in compliance with applicable data-protection laws, these Terms, the API Terms, and all privacy and security requirements communicated by Shobbl Incorporated.
+
+Any credentials, keys, tokens, documentation, or non-public information relating to the APIs are confidential and must be protected against unauthorized access or disclosure.
+
+17.6 Enforcement and Termination
+
+Misuse of the APIs, including violation of scope, rate limits, data restrictions, or security requirements, may result in immediate suspension or termination of API access and related accounts, without liability, and without limiting Shobbl Incorporated’s other rights or remedies under these Terms, the API Terms, or applicable law.
+
+Termination of API access does not affect Shobbl Incorporated’s rights with respect to data already processed, retained, or disclosed as permitted under these Terms and applicable law.
+
+18. PAYMENTS, SUBSCRIPTIONS & REFUNDS
+18.1 Subscriptions and Auto-Renewal
+
+Certain features or services of the Platform may be offered on a subscription basis. Subscriptions automatically renew at the end of each billing period unless canceled before renewal in accordance with the cancellation procedures made available through the Platform or the applicable payment provider.
+
+By purchasing a subscription, you authorize Shobbl Incorporated or its designated payment processors to charge the applicable recurring fees using your selected payment method until the subscription is canceled or terminated.
+
+Subscription management, including cancellation timing and billing mechanics, may vary depending on the payment method or platform through which the subscription was purchased.
+
+Nothing in these Terms constitutes the provision of money transmission, stored-value services, or money services business activities as defined under Nevada Revised Statutes Chapter 671 or similar laws
+
+18.2 Pricing Changes and Pre-Renewal Notices
+
+Subscription pricing, features, billing intervals, and availability may change from time to time.
+
+Where required by applicable law (including for users located in the European Union or United Kingdom), Shobbl Incorporated will provide advance notice of material changes, including changes to renewal pricing or material subscription terms.
+
+To the extent permitted by applicable law, continued use of a subscription after the effective date of any change constitutes acceptance of the updated pricing or terms. Nothing in this Section limits any statutory rights to cancel, withdraw, or decline renewal.
+
+18.3 Refunds and Withdrawal Rights
+
+Refunds are provided only where required by applicable law or as expressly stated in these Terms or an applicable addendum and are subject to the following:
+
+EU/UK users: Statutory withdrawal rights apply, including the 14-day right of withdrawal for digital services, which may be waived upon commencement of digital content download, streaming, access, or use, where permitted by law.
+
+Third-party platforms: Purchases made through third-party app stores or platforms (such as the Apple App Store or Google Play) are governed exclusively by the refund and billing policies of the applicable third party. Shobbl Incorporated cannot process, issue, or override such refunds.
+
+Other jurisdictions: Mandatory consumer-protection rights apply in certain jurisdictions, including Australia, Canada (including Quebec), and certain U.S. states, and nothing in these Terms limits rights that cannot be waived under applicable law.
+
+Except as required by law, fees are non-refundable, and partial refunds or credits are not provided for unused portions of subscriptions, features, or billing periods.
+
+18.4 Payment Processing; No Financial Institution Status
+
+Shobbl Incorporated is not a bank, money transmitter, stored-value issuer, or financial institution.
+
+Any Platform Credits, account credits, promotional credits, or similar instruments:
+
+do not constitute bank accounts, stored-value accounts, gift cards, or deposits;
+
+are not insured by the FDIC or any equivalent deposit-insurance scheme;
+
+do not earn interest, dividends, or other returns; and
+
+are not redeemable for cash or monetary value, except where redemption is required by applicable law.
+
+Payment processing services are provided by third-party payment processors or app stores and are subject to their respective terms and conditions. To the fullest extent permitted by applicable law, Shobbl Incorporated is not responsible for errors, delays, reversals, or failures caused by third-party payment providers.
+
+18.5 Chargebacks, Disputes, and Payment Risk
+
+Chargebacks, payment reversals, or disputed transactions may result in account review and risk-mitigation actions, which may include, without limitation:
+
+suspension or termination of subscriptions or paid features;
+
+reversal or forfeiture of Digital Goods, Platform Credits, account credits, promotional credits, or entitlements associated with the disputed transaction;
+
+temporary or permanent restrictions on payment methods or account functionality; and
+
+offsets against future payouts or account credits, as described in Sections 19 and 20.
+
+Excessive, abusive, or fraudulent chargebacks may result in additional restrictions or termination, to the extent permitted by applicable law.
+
+18.6 Availability and Changes to Paid Offerings
+
+Paid features, subscriptions, pricing tiers, payment methods, and monetization options may be modified, suspended, or discontinued from time to time, subject to applicable law and any required notice obligations.
+
+Warranty disclaimers, limitations of liability, and any “as is” or “as available” provisions applicable to paid offerings are governed exclusively by Section 27 (Liability & Warranty Disclaimer).
+
+18.7 App Store Billing and External Payment Options
+
+If you access the Platform through a mobile application distributed via a third-party app store or marketplace (such as the Apple App Store or Google Play), purchases of subscriptions, memberships, or digital goods made within the app may be processed using the billing system provided by the applicable app store, in accordance with its terms and policies.
+
+Where permitted by applicable law and app-store rules, the Platform may also present options to complete purchases, subscriptions, or account management through external websites or alternative payment methods. The availability, presentation, and scope of such options may vary by jurisdiction, storefront, device, account status, and product and may be modified, restricted, or withdrawn at any time.
+Shobbl Incorporated does not guarantee the availability of any particular payment method and does not warrant that external payment options will be offered in any specific app, region, or transaction. Such options may be presented outside the app interface or through user-initiated links, where permitted.
+
+19. DIGITAL GOODS & PLATFORM TRANSACTIONS
+
+19.1 Licensed, Not Sold
+
+All Digital Goods and Platform access rights made available through the Platform are licensed, not sold. The purchase, acquisition, or receipt of Digital Goods, memberships, subscriptions, promotional credits, or account credits grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to use the applicable Digital Goods or Platform features solely within the Platform and strictly in accordance with these Terms and any applicable addenda.
+
+No ownership, property, custodial, trust, stored-value, or monetary interest is conveyed. Digital Goods, promotional credits, and account credits have no inherent or stored cash value.
+
+19.2 No Monetary Value; Not Financial Instruments
+
+Digital Goods, memberships, subscriptions, promotional credits, and account credits:
+
+are not legal tender, currency, or cash equivalents;
+
+are not bank accounts, stored-value accounts, gift cards, prepaid cards, or deposits;
+
+are not securities, commodities, derivatives, or investment instruments;
+
+do not earn interest, dividends, appreciation, or other returns; and
+
+are not redeemable for cash or monetary value, except where redemption is expressly required by applicable law.
+
+Shobbl Incorporated does not act as a bank, money transmitter, payment institution, stored-value issuer, or financial intermediary with respect to Digital Goods, memberships, subscriptions, promotional credits, or account credits.
+
+19.3 Transferability and Use Restrictions
+
+Digital Goods, memberships, subscriptions, promotional credits, and account credits are non-transferable, non-assignable, non-exchangeable, and non-sublicensable, except through features expressly authorized by Shobbl Incorporated within the Platform.
+
+Any attempt to sell, transfer, trade, gift, pledge, or exchange Digital Goods, memberships, subscriptions, promotional credits, or account credits outside permitted Platform features is void and may result in forfeiture, reversal, or account enforcement actions under these Terms, to the fullest extent permitted by applicable law.
+
+19.4 Expiration, Inactivity, and Unclaimed Property
+
+Digital Goods, memberships, subscriptions, promotional credits, and account credits do not expire solely by passage of time except as disclosed at purchase, required by the applicable subscription or membership terms, or permitted by applicable law. Where expressly required or permitted by applicable law, such items may be deemed abandoned, inactive, or subject to restriction, rather than expiration, in the following circumstances:
+
+(a) where treatment as abandoned, inactive, restricted, forfeited, or subject to escheatment is required or expressly permitted by applicable law; or
+
+(b) where the associated account has been inactive for twenty-four (24) consecutive months, provided that such treatment is not prohibited by applicable consumer-protection, gift-card, stored-value, or unclaimed-property laws (including in certain U.S. states, Quebec, and EU jurisdictions), and provided further that any abandonment, restriction, or similar treatment will be suspended where Shobbl Incorporated receives timely notice of a verified death, incapacity, or lawful estate or fiduciary claim, or where continued preservation is required to comply with applicable dormancy, notice, reporting, or escheatment obligations under applicable law.
+
+Any suspension of abandonment, restriction, or similar treatment does not extend, toll, reset, or otherwise alter statutory dormancy or unclaimed-property periods, which are governed exclusively by applicable law.
+
+During any period in which Digital Goods, memberships, subscriptions, promotional credits, or account credits are deemed abandoned, inactive, or restricted, such items remain subject to these Terms and may be limited, inaccessible, or otherwise restricted, and may not be transferred, redeemed, or used, except to the extent required by applicable law or lawful governmental instruction.
+
+Where required by applicable unclaimed-property, escheatment, or abandoned-property laws, unused promotional credits, account credits, or Digital Goods entitlements may be reported to, remitted to, or otherwise handled in accordance with instructions from the relevant governmental authority.
+
+Where forfeiture, restriction, or similar treatment is permitted by law, reasonable notice will be provided where and to the extent legally required. The timing, content, and method of any such notice may vary by jurisdiction and applicable legal requirements.
+
+Balances or entitlements purchased through an App Store’s in-app purchase system will not be deemed expired or forfeited within the app except as required by the applicable app store’s billing, entitlement, or legal compliance rules.
+
+Nothing in this Section overrides, limits, or waives any non-waivable statutory rights or protections, including those relating to consumer protection, unclaimed property, or mandatory redemption rights.
+
+Nothing herein constitutes a waiver of any mandatory notice, dormancy, or escheatment obligations imposed on Shobbl Incorporated under applicable unclaimed property laws
+
+19.5 Availability, Modification, and Discontinuation
+
+Digital Goods, memberships, subscriptions, promotional credits, account credits, and related features may be modified, limited, suspended, or discontinued at any time due to legal, regulatory, licensing, rights-holder, technical, security, or business requirements.
+
+If a Digital Good, membership, subscription, promotional credit, account credit, or related feature becomes unavailable or is modified, no refund, replacement, or compensation is owed, except where required by applicable law or expressly stated in an applicable addendum.
+
+19.6 Refunds and Remedies
+
+Refunds or other remedies relating to Digital Goods, memberships, subscriptions, promotional credits, or account credits are provided only where required by applicable law or expressly set forth in these Terms, Section 18 (Payments, Subscriptions & Refunds), or an applicable addendum.
+
+To the extent permitted by law, use, access, redemption, or consumption of Digital Goods, memberships, subscriptions, promotional credits, or account credits may waive statutory withdrawal, cancellation, or refund rights.
+
+19.7 No Reliance; Risk Allocation
+
+You acknowledge and agree that Digital Goods, memberships, subscriptions, promotional credits, and account credits:
+
+may change in availability, utility, features, or scope;
+
+may be revoked, adjusted, suspended, restricted, or forfeited in connection with account enforcement, fraud prevention, chargebacks, reversals, or compliance actions under Sections 18 and 20.
+
+Nothing in this Section creates an obligation to maintain any specific Digital Good, membership, subscription, promotional credit, account credit, or related feature.
+
+Warranty disclaimers, limitations of liability, and “as is” or “as available” provisions applicable to Digital Goods, memberships, subscriptions, promotional credits, and account credits are governed exclusively by Section 27 (Liability & Warranty Disclaimer).
+
+20. PAYOUTS, REVERSALS & NEGATIVE BALANCES
+20.1 Conditional Nature of Payouts
+
+All payouts, incentives, revenue shares, and earnings reflected on the Platform are conditional, provisional, and subject to verification until settlement is complete and are not final or earned until actually paid.
+
+Subject to Section 18 (Payments, Subscriptions & Refunds) and the Monetization Addendum, Shobbl Incorporated may reverse, adjust, delay, withhold, or offset payouts, in whole or in part, where reasonably necessary to address:
+
+suspected or confirmed fraud, abuse, manipulation, or policy violations;
+
+invalid, unauthorized, erroneous, duplicated, or reversed transactions;
+
+chargebacks, refunds, disputes, or payment-processor or app-store actions;
+
+violations of these Terms, the Monetization Addendum, or applicable law;
+
+errors, anomalies, or corrections in metrics, attribution, incentives, or reporting;
+
+compliance, risk-management, or regulatory requirements.
+
+For avoidance of doubt, payout eligibility and settlement may be affected by content moderation, rights enforcement, account enforcement, or other actions taken under Section 11 (Enforcement, Moderation, and Platform Integrity), including where such actions impact transaction validity, rights clearance, advertiser eligibility, or Platform risk assessments.
+
+Any reversal or adjustment may include associated fees, taxes, chargeback costs, penalties, or other amounts imposed by payment processors, app stores, financial institutions, or regulators, to the extent permitted by applicable law.
+
+
+20.2 Reviews, Holds, and Reserves
+
+Shobbl Incorporated may conduct compliance reviews, fraud investigations, risk assessments, and payment holds before or after issuing payouts. Payouts may be subject to minimum thresholds, settlement periods, rolling reserves, or delayed availability, as described in the Monetization Addendum.
+
+Nothing in these Terms obligates Shobbl Incorporated to release payouts on a fixed schedule or prevents the imposition of additional reviews or reserves where reasonably necessary to address payment risk.
+
+Payout reversals, withholdings, or delays under this Section are risk-management and compliance measures and do not constitute fines, penalties, or punitive damages.
+
+20.3 Notice and Limited Review
+
+Where reasonably practicable (including, where appropriate, after an action is taken), Shobbl Incorporated will provide notice of payout reversals, adjustments, delays, or withholdings through the Platform or designated contact methods.
+
+Creators may request clarification regarding certain payout actions through Platform-provided support channels, subject to verification, applicable policies, payment-processor constraints, and reasonable limitations.
+Nothing in this section:
+
+creates a right to a formal appeal, audit, or accounting;
+
+requires disclosure of proprietary metrics, formulas, models, or methodologies; or
+
+guarantees reversal, reinstatement, or payment of any amount.
+
+20.4 Negative Balances and Recovery
+
+If a reversal, chargeback, refund, fee, or correction under Section 18 or this Section 20 results in a negative account balance, Shobbl Incorporated may, to the extent permitted by applicable law:
+
+offset the negative balance against future earnings, payouts, incentives, or credits;
+
+suspend payouts, withdrawals, or monetization features until the balance is resolved;
+
+require repayment through lawful and commercially reasonable means, including invoicing or account debit where permitted.
+
+Failure to resolve a negative balance within a reasonable time may result in additional restrictions, suspension, or termination under Section 21 (Termination), without limiting any other rights or remedies.
+
+20.5 No Wage, Debt, or Trust Relationship
+
+Creators acknowledge and agree that:
+
+payouts do not constitute wages, salary, minimum compensation, or employment income;
+
+Shobbl Incorporated does not hold Creator funds in trust or escrow unless expressly required by law;
+
+pending balances or displayed earnings do not represent a debt owed until paid.
+
+Nothing in this section creates a fiduciary, trustee, escrow, or payroll relationship.
+
+20.6 No Guarantee of Earnings
+
+Payouts, incentives, revenue shares, and monetization opportunities are not guaranteed and depend on eligibility, transaction validity, user demand, rights clearance, advertiser demand, engagement, chargebacks, verification, fraud-prevention controls, compliance reviews, and third-party payment constraints, as further described in Section 18 and the Monetization Addendum.
+
+21. TERMINATION
+21.1 Grounds for Suspension or Termination
+
+Shobbl Incorporated may, at its discretion and to the fullest extent permitted by applicable law, suspend, restrict, or terminate access to the Platform or any portion thereof, in whole or in part, with or without prior notice where notice is reasonably practicable, where we reasonably determine that a User or Creator has:
+
+violated or attempted to violate these Terms, the Acceptable Use Policy, or any incorporated policy or addendum;
+
+engaged in fraud, abuse, manipulation, circumvention, or deceptive practices;
+
+created, contributed to, or failed to mitigate safety, security, integrity, or trust risks;
+
+been subject to valid rights-holder requests, takedown notices, or legal claims (including under the DMCA or equivalent regimes);
+
+violated applicable laws, regulations, sanctions, or court orders; or
+
+posed legal, regulatory, operational, reputational, or financial risk to the Platform, its users, creators, partners, or Shobbl Incorporated.
+
+This list is non-exhaustive. Shobbl Incorporated may act based on suspected, attempted, or reasonably anticipated violations, risk signals, or compliance obligations and is not required to complete an investigation prior to taking action.
+
+For avoidance of doubt, compliance with statutory notice-and-takedown regimes (including the DMCA), by itself, does not require termination of an account and does not constitute a determination of infringement, liability, or wrongdoing.
+
+21.2 Immediate and Proportionate Action
+
+Shobbl Incorporated may take immediate and proportionate action without prior notice where necessary to:
+
+address fraud, abuse, security incidents, or ongoing harm;
+
+comply with legal or regulatory obligations;
+
+respond to lawful requests from authorities, payment processors, app stores, or rights holders; or
+
+protect the integrity, availability, or safety of the Platform.
+
+Nothing in these Terms obligates Shobbl Incorporated to apply progressive discipline, provide warnings, or continue providing access to the Platform or any feature prior to suspension or termination.
+
+21.3 Effects of Suspension or Termination
+
+Upon suspension or termination, without limitation:
+
+access to the account and all or part of the Platform may be disabled or restricted;
+
+licenses granted to access or use the Platform, APIs, Digital Goods, memberships, subscriptions, promotional credits, or account credits may be revoked;
+
+monetization features, payouts, incentives, or API access may be suspended or terminated;
+
+pending or provisional earnings remain subject to verification, reversals, reserves, and adjustments under Sections 18–20;
+
+Digital Goods may remain accessible only where legally required and technically feasible; and
+
+Shobbl Incorporated may retain, restrict, or delete content or data as permitted under these Terms, the Privacy Policy, and applicable law.
+
+Termination does not entitle any User or Creator to compensation, damages, reimbursement, or future earnings and does not relieve obligations that, by their nature or under these Terms, survive termination.
+
+For avoidance of doubt, suspension or termination under this Section is a risk-management and compliance measure, not a penalty, forfeiture, or punishment, and does not alter the application of Sections 18–20 governing payouts, reversals, settlements, or negative balances.
+
+21.4 Data Access and Portability
+
+Where required by applicable law, Users may request access to or export of certain account data following termination, subject to identity verification, technical feasibility, security considerations, and legal restrictions.
+
+Shobbl Incorporated may deny or limit such requests where necessary to comply with law, protect the rights of others, preserve evidence, prevent fraud or abuse, or maintain Platform integrity.
+
+21.5 No Waiver; No Limitation of Rights
+
+Failure by Shobbl Incorporated to suspend or terminate access in any particular instance does not waive its right to do so in the future. Termination under this Section does not limit any other rights or remedies available to Shobbl Incorporated under these Terms or applicable law.
+
+21.6 Notice of Reasons and Appeals (Jurisdiction-Specific)
+
+Where required by applicable law, including for Users located in the European Union or European Economic Area, Shobbl Incorporated will provide a statement of reasons for suspension or termination decisions and information regarding available challenge or complaint mechanisms, in accordance with the Digital Services Act (DSA), including Article 20.
+
+Notice or reasoning may be delayed, limited, or withheld where providing such information would:
+
+interfere with legal obligations or lawful government requests;
+
+compromise fraud-prevention, security measures, or enforcement methods; or
+
+increase risk of harm to users, third parties, or the Platform.
+
+Nothing in this Section creates a general right to reinstatement, reversal, continued access, or appeal beyond what is required by applicable law.
+
+22. ACCESSIBILITY
+22.1 Commitment to Accessibility
+
+Shobbl Incorporated is committed to making the Platform accessible to users with disabilities and to providing an inclusive user experience. We endeavor to design and operate the Platform in a manner consistent with applicable accessibility laws and standards, including, where reasonably practicable, the Web Content Accessibility Guidelines (WCAG) 2.1 and 2.2.
+
+This commitment reflects an ongoing effort, not a representation or guarantee that the Platform or any specific feature will be fully accessible in all circumstances.
+
+22.2 Scope and Limitations
+
+Accessibility may vary across features, content types, devices, browsers, operating systems, assistive technologies, and third-party integrations or content that are not owned or controlled by Shobbl Incorporated.
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated is not responsible for accessibility barriers attributable solely to third-party services, content, tools, user-generated content, or external platforms.
+
+22.3 Requests for Assistance and Reasonable Accommodations
+
+Users who encounter accessibility barriers or who wish to request reasonable accommodations may contact Shobbl Incorporated at Support@shobbl.com. Requests should include a description of the issue, the affected feature or service, and any relevant assistive technology used.
+
+Shobbl Incorporated will review accessibility requests in good faith and respond within a reasonable timeframe (generally 10–15 business days), subject to the nature of the request, technical feasibility, and applicable legal requirements.
+
+Nothing in this section obligates Shobbl Incorporated to implement accommodations that would impose an undue burden, require a fundamental alteration of the Platform, or exceed obligations imposed by applicable law.
+
+22.4 Continuous Improvement
+
+Shobbl Incorporated periodically evaluates its accessibility practices and may make improvements where feasible, taking into account technological developments, user feedback, and evolving legal and regulatory guidance.
+
+The absence of a specific accessibility feature or the presence of an accessibility limitation does not constitute a violation of these Terms, provided Shobbl Incorporated is acting in good faith and in compliance with applicable law.
+
+22.5 No Warranty or Expanded Obligations
+
+Nothing in this Section:
+
+creates a warranty, representation, or guarantee of accessibility;
+
+incorporates WCAG or similar standards as binding contractual obligations;
+
+expands Shobbl Incorporated’s duties beyond those required by applicable accessibility laws; or
+
+limits any mandatory rights or remedies that cannot be waived under applicable law.
+
+23. OPEN-SOURCE DISCLOSURES
+23.1 Use of Open-Source Software
+
+The Platform may include, incorporate, or make use of certain open-source software components (“Open-Source Software”) that are subject to separate open-source licenses issued by their respective rights holders.
+
+Open-Source Software may be used in connection with the Platform in various forms, including within applications, client software, SDKs, APIs, development tools, server-side or backend systems, cloud infrastructure, or other components, whether or not such components are directly distributed to Users.
+
+23.2 Governing Licenses and Precedence
+
+Use of any Open-Source Software is governed solely by the terms of the applicable open-source license(s), as identified in the Open-Source Notices Addendum.
+
+To the extent of any conflict between these Terms and an applicable open-source license, the open-source license controls with respect to the relevant Open-Source Software.
+
+Nothing in these Terms is intended to modify, restrict, expand, or override any rights or obligations granted under applicable open-source licenses.
+
+23.3 Notices and Attribution
+
+The Open-Source Notices Addendum identifies applicable open-source licenses, copyright notices, attribution requirements, and other disclosures required by the relevant licenses.
+
+The Open-Source Notices Addendum is made available through one or more of the following:
+
+within the Platform or application settings;
+
+on a publicly accessible webpage designated by Shobbl Incorporated; or
+
+upon reasonable request.
+
+23.4 No Warranty; Third-Party Software
+
+Open-Source Software is provided by its respective authors, contributors, or licensors on an “as is” basis, without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, non-infringement, or absence of defects, except to the extent such warranties cannot be disclaimed under applicable law.
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated disclaims all liability arising from or relating to Open-Source Software, except where liability cannot be excluded under the applicable open-source license or mandatory law.
+
+23.5 No Implied Source-Code Disclosure
+
+Nothing in these Terms, nor the use of Open-Source Software in connection with the Platform:
+
+obligates Shobbl Incorporated to disclose proprietary source code, trade secrets, or non-open-source components;
+
+expands copyleft or reciprocal license obligations beyond those expressly required by the applicable open-source licenses; or
+
+grants Users any rights to Shobbl Incorporated’s proprietary software, systems, or services.
+
+23.6 Good-Faith Compliance
+
+Shobbl Incorporated endeavors to comply in good faith with all applicable open-source license obligations. If you believe that any Open-Source Software used in the Platform has not been properly attributed or disclosed, please contact Legal@shobbl.com with sufficient detail to allow investigation.
+
+24. THIRD-PARTY SERVICES & APP STORES
+24.1 Third-Party Services Generally
+
+The Platform may integrate with, link to, embed, enable access to, or otherwise make available products, services, software, content, tools, or platforms provided by third parties (“Third-Party Services”).
+
+Use of Third-Party Services is entirely optional and subject solely to the applicable third party’s terms, conditions, licenses, and privacy policies. Shobbl Incorporated does not control, operate, maintain, or endorse Third-Party Services and does not assume responsibility for their availability, content, functionality, security, or compliance.
+
+24.2 No Agency; No Responsibility
+
+Shobbl Incorporated is not a party to any agreement between you and a third party and does not act as an agent, reseller, distributor, broker, fiduciary, or representative of any Third-Party Service provider.
+
+Any interactions, communications, transactions, data sharing, or disputes between you and a third party occur solely between you and that third party, and you assume all risks arising from such interactions.
+
+24.3 Disclaimer of Liability
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated disclaims all liability arising from or relating to Third-Party Services, including any claims relating to:
+
+availability, interruption, or termination of Third-Party Services;
+
+accuracy, legality, quality, safety, or suitability of third-party content or services;
+
+data practices, security incidents, or privacy violations attributable to third parties;
+
+products, services, pricing, refunds, warranties, or support provided by third parties; or
+
+acts or omissions of third-party providers or their users.
+
+Nothing in this section limits liability that cannot be excluded under applicable law.
+
+24.4 App Stores and Platform Distribution
+
+If you access the Platform through a mobile application or software distributed by a third-party app store or marketplace (such as Apple’s App Store or Google Play):
+
+the app store provider is not a party to these Terms and is not responsible for the Platform or its content;
+
+Shobbl Incorporated, not the app store provider, is solely responsible for the Platform and its support, subject to these Terms;
+
+the app store provider has no obligation to provide maintenance, support, or customer service with respect to the Platform;
+
+the app store provider is a third-party beneficiary of this Section 24 and may enforce it against you to the extent permitted by its terms; and
+
+your use of the Platform may be subject to additional terms, conditions, or consumer rights provided by the app store or applicable law.
+
+Apple Inc. and Google LLC have no responsibility for addressing claims relating to the Platform or your use of it, including but not limited to product liability claims, consumer protection claims, or claims that the Platform fails to conform to applicable legal or regulatory requirements.
+
+24.5 Payments and Refunds via Third Parties
+
+Purchases, subscriptions, or payments processed through Third-Party Services or app stores are subject to the applicable third party’s payment, billing, and refund policies. Shobbl Incorporated does not control, process, or override refunds, chargebacks, or billing decisions made by third-party payment providers, except where required by applicable law.
+
+24.6 Data and Privacy
+
+Third-Party Services may collect, use, or process data independently of Shobbl Incorporated. Shobbl Incorporated is not responsible for the data practices of third parties, and use of Third-Party Services may involve data transfers outside Shobbl Incorporated’s control, subject to the third party’s privacy policies and applicable law.
+
+25. HIGH-RISK ACTIVITY DISCLAIMER
+25.1 High-Risk Content
+
+The Platform may include User Content, Catalog Content, or other materials that reference, depict, or describe activities involving inherent or potential risks (“High-Risk Activities”), including, without limitation, physical activities, use of tools, machinery, vehicles, or equipment, technical, mechanical, or experimental processes, survival or outdoor activities, or other activities that may result in injury, damage, or loss if performed improperly or without appropriate safeguards.
+
+25.2 No Professional Advice
+
+All such content is provided for general informational, educational, or entertainment purposes only and does not constitute professional, medical, legal, safety, engineering, or other expert advice.
+
+Shobbl Incorporated does not:
+
+create, verify, test, or certify High-Risk Activity content;
+
+guarantee the accuracy, completeness, or safety of any instructions, depictions, or representations; or
+
+recommend, endorse, or approve any High-Risk Activity.
+
+25.3 User Responsibility and Assumption of Risk
+
+You are solely responsible for:
+
+independently evaluating the risks associated with any High-Risk Activity;
+
+exercising appropriate judgment, skill, and caution;
+
+obtaining professional guidance, training, or supervision where appropriate; and
+
+complying with all applicable laws, safety standards, warnings, manufacturer instructions, and professional or industry guidelines.
+
+Participation in any High-Risk Activity is undertaken voluntarily and at your own risk.
+
+25.4 No Duty to Warn or Instruct
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated has no duty to warn, instruct, supervise, or ensure safety with respect to High-Risk Activities or related content, and no duty to update or correct such content.
+
+Any moderation, labeling, restriction, or removal of content under these Terms does not create or imply a duty of care, assumption of responsibility, or endorsement of remaining content.
+
+25.5 Limitation of Liability
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated disclaims all liability arising from or relating to:
+
+participation in or reliance on High-Risk Activities;
+
+injuries, damages, losses, or claims resulting from such activities; or
+
+reliance on content describing or depicting such activities.
+
+Nothing in this Section limits liability that cannot be excluded under applicable law.
+
+26. SERVICE INTERRUPTIONS & MAINTENANCE
+26.1 Operational Interruptions
+
+Access to specific features, services, content, APIs, integrations, or levels of performance may vary over time based on the circumstances described in this Section.
+
+26.2 Maintenance Activities
+
+Shobbl Incorporated may perform scheduled or unscheduled maintenance, updates, patches, or technical modifications to the Platform at any time.
+
+Where reasonably practicable, advance notice of scheduled maintenance or material service interruptions may be provided through the Platform or other reasonable communication methods.
+
+Unplanned, emergency, or security-related maintenance may occur without prior notice, and notice may be delayed or withheld where providing notice would:
+
+increase security or fraud risk;
+
+interfere with remediation or incident response; or
+
+conflict with legal or regulatory obligations.
+
+26.3 No Service-Level Commitments
+
+Nothing in these Terms creates a service-level agreement (SLA) or uptime commitment.
+
+Descriptions of features, functionality, or availability are informational and do not create binding operational obligations.
+
+26.4 Relationship to Other Terms
+
+Warranty disclaimers, “as is” or “as available” provisions, and limitations of liability applicable to service interruptions, outages, or unavailability are governed exclusively by Section 27 (Liability & Warranty Disclaimer).
+
+Force majeure–related disruptions are governed by Section 28.
+
+Payments, Digital Goods, memberships, subscriptions, promotional credits, account credits, and payouts affected by interruptions remain subject to Sections 18–20.
+
+Nothing in this Section limits liability where such limitation is prohibited by applicable law.
+
+27. LIABILITY & WARRANTY DISCLAIMER
+27.1 “As Is” and “As Available” Basis
+
+The Platform, including all services, features, content, Digital Goods, memberships, subscriptions, promotional credits, account credits, APIs, and third-party integrations, is provided on an “as is” and “as available” basis.
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated disclaims all warranties, whether express, implied, statutory, or otherwise, including without limitation any implied warranties of merchantability, fitness for a particular purpose, non-infringement, title, accuracy, reliability, security, or error-free performance, and any warranties arising out of course of dealing, course of performance, or usage of trade.
+
+No advice, information, or representations—whether oral or written—obtained from Shobbl Incorporated or through the Platform create any warranty not expressly stated in these Terms.
+
+All matters relating to service availability, continuity, interruption, suspension, degradation, or modification are governed by Sections 8 (Platform Services) and 26 (Service Interruptions & Maintenance), and nothing in this Section expands or modifies those provisions.
+
+27.2 Exclusion of Certain Damages
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated shall not be liable for any indirect, incidental, consequential, special, exemplary, or punitive damages, or for any loss of data, content, goodwill, reputation, revenue, profits, business opportunity, anticipated savings, or business interruption, whether arising in contract, tort (including negligence), strict liability, statute, or any other legal theory, even if Shobbl Incorporated has been advised of the possibility of such damages.
+
+This exclusion applies regardless of whether the alleged liability arises from Platform use, inability to use the Platform, content (including User Content or Catalog Content), third-party services, service interruptions, enforcement actions, payment issues, or termination.
+
+27.3 Limitation of Total Liability
+
+To the fullest extent permitted by applicable law:
+
+United States Users:
+Shobbl Incorporated’s total aggregate liability arising out of or relating to the Platform or these Terms shall not exceed the greater of (a) USD $100 or (b) the total amounts actually paid by you to Shobbl Incorporated in the twelve (12) months immediately preceding the event giving rise to the claim.
+
+All Other Jurisdictions:
+Liability is limited only to the extent permitted by mandatory consumer-protection laws applicable in your jurisdiction.
+
+Nothing in these Terms limits or excludes liability for:
+
+death or personal injury caused by negligence;
+
+gross negligence or willful misconduct;
+
+fraud or fraudulent misrepresentation; or
+
+statutory rights or remedies that cannot be excluded or limited by law.
+
+27.4 Basis of the Bargain
+
+You acknowledge and agree that the warranty disclaimers, exclusions of damages, and limitations of liability set forth in this Section 27 are fundamental elements of the agreement between you and Shobbl Incorporated and reflect a reasonable allocation of risk.
+
+You further agree that Shobbl Incorporated would not be able to provide the Platform on an economically feasible basis without these limitations.
+
+28. FORCE MAJEURE
+28.1 Force Majeure Events
+
+Shobbl Incorporated shall not be liable for any delay, failure, or inability to perform its obligations under these Terms to the extent such delay or failure is caused by a Force Majeure Event, meaning any event or circumstance beyond Shobbl Incorporated’s reasonable control that prevents, disrupts, or materially delays performance.
+
+Force Majeure Events include, without limitation:
+
+natural disasters, acts of God, fires, floods, earthquakes, or extreme weather;
+
+war, terrorism, civil unrest, riots, or armed conflict;
+
+epidemics, pandemics, public-health emergencies, or related governmental actions;
+
+cyberattacks, security incidents, ransomware, or malicious interference;
+
+system, infrastructure, hosting, cloud, network, or utility failures;
+
+labor disputes, strikes, lockouts, or workforce shortages;
+
+supply-chain disruptions or failures of vendors, licensors, or service providers;
+
+governmental, regulatory, judicial, or quasi-governmental actions, orders, or restrictions; or
+
+any other event that is not reasonably foreseeable or preventable through commercially reasonable efforts.
+
+28.2 Effect on Performance
+
+During the continuance of a Force Majeure Event:
+
+affected obligations are suspended for the duration of the event;
+
+Shobbl Incorporated may modify, limit, suspend, or delay affected services or features without liability; and
+
+performance will resume once the Force Majeure Event has ended or its effects have been reasonably mitigated.
+
+Shobbl Incorporated is not required to provide substitute performance or alternative services except where required by applicable law.
+
+28.3 Mitigation and Notice
+
+Shobbl Incorporated will use commercially reasonable efforts to mitigate the effects of a Force Majeure Event and to resume normal operations as soon as reasonably practicable.
+
+Notice of a Force Majeure Event may be provided where reasonably practicable, but failure or delay in providing notice does not waive or limit Shobbl Incorporated’s rights under this Section where notice is impracticable, would increase risk, or is otherwise not required by law.
+
+28.4 No Termination or Liability Expansion
+
+A Force Majeure Event does not:
+
+create a right to damages, credits, refunds, or service-level remedies, except where required by applicable law;
+
+constitute a breach of these Terms; or
+
+expand Shobbl Incorporated’s obligations beyond those expressly stated herein.
+
+Nothing in this Section limits Shobbl Incorporated’s rights under Sections 18–21 (Payments and Termination) or Section 26 (Service Interruptions & Maintenance).
+
+29. INTELLECTUAL PROPERTY & TRADEMARKS
+29.1 Ownership of Shobbl Incorporated IP
+
+The Platform and all associated software, code, technology, systems, designs, user interfaces, algorithms, databases, documentation, trademarks, service marks, logos, trade names, trade dress, and other intellectual property or proprietary materials (collectively, “Shobbl Incorporated IP”) are owned by or licensed to Shobbl Incorporated and are protected by intellectual property, trademark, trade secret, and other applicable laws.
+
+Except for the limited rights expressly granted under these Terms, no rights or licenses in or to Shobbl Incorporated IP are granted to you, whether by implication, estoppel, exhaustion, or otherwise. All rights not expressly granted are reserved by Shobbl Incorporated and its licensors.
+
+29.2 Limited License to Use the Platform
+
+Subject to your compliance with these Terms, Shobbl Incorporated grants you a limited, revocable, non-exclusive, non-transferable, and non-sublicensable license to access and use the Platform and Shobbl Incorporated IP solely as necessary to use the Platform as intended.
+
+This license does not permit:
+
+copying, modifying, or creating derivative works of Shobbl Incorporated IP;
+
+reverse engineering, decompiling, or disassembling Shobbl Incorporated IP, except where prohibited by law;
+
+use of Shobbl Incorporated IP in connection with competing products or services; or
+
+removal, alteration, or obscuring of proprietary notices.
+
+29.3 Trademarks and Branding
+
+Shobbl Incorporated’s trademarks, service marks, logos, and branding elements (“Marks”) may not be used without Shobbl Incorporated’s prior written consent, except as expressly permitted under these Terms or under Shobbl Incorporated’s published brand guidelines, press kits, or affiliate program materials, if any.
+
+Permitted use of Marks must:
+
+strictly comply with applicable guidelines and usage terms;
+
+not be misleading, defamatory, or confusing as to source, sponsorship, endorsement, or affiliation;
+
+not dilute, tarnish, or otherwise harm the Marks or Shobbl Incorporated’s reputation; and
+
+be discontinued immediately upon notice if requested by Shobbl Incorporated.
+
+Shobbl Incorporated reserves the right to modify, suspend, or revoke any permission to use its Marks at any time.
+
+29.4 No Endorsement or Affiliation
+
+Nothing in these Terms or in your use of the Platform grants you the right to imply, state, or suggest that Shobbl Incorporated sponsors, endorses, affiliates with, or approves of you, your content, your products, or your services.
+
+29.5 Feedback and Suggestions
+
+Any feedback, suggestions, ideas, or proposals you submit regarding the Platform are governed by Section 30 (Feedback) and do not create any ownership interest or rights in Shobbl Incorporated IP.
+
+29.6 Enforcement and Remedies
+
+Unauthorized use of Shobbl Incorporated IP may result in enforcement action, including content removal, suspension or termination of access, revocation of licenses, and pursuit of legal remedies to the fullest extent permitted by law.
+
+30. FEEDBACK
+30.1 Submission of Feedback
+
+If you submit or otherwise make available to Shobbl Incorporated any feedback, suggestions, ideas, feature requests, bug reports, concepts, proposals, or other input regarding the Platform (“Feedback”), you acknowledge and agree that such Feedback is provided voluntarily and on a non-confidential, non-proprietary basis.
+
+Shobbl Incorporated has no obligation to treat Feedback as confidential or to refrain from using similar or identical ideas developed independently or obtained from other sources.
+
+30.2 License to Feedback
+
+You grant Shobbl Incorporated a worldwide, perpetual, irrevocable, royalty-free, fully paid, sublicensable, and transferable right and license to use, reproduce, modify, adapt, create derivative works from, publish, translate, distribute, publicly perform, publicly display, and otherwise exploit the Feedback for any purpose, including commercial purposes, without restriction, attribution, or compensation.
+
+This license applies regardless of whether the Feedback is incorporated into the Platform, related products or services, documentation, marketing materials, or future offerings.
+
+30.3 No Obligation; No Compensation
+
+Shobbl Incorporated is under no obligation to review, consider, adopt, implement, or respond to any Feedback.
+
+You acknowledge and agree that you are not entitled to compensation, reimbursement, credit, or recognition for any use of Feedback, and that no fiduciary, contractual, or implied relationship is created by the submission of Feedback.
+
+30.4 No Rights in Shobbl Incorporated IP
+
+Submission of Feedback does not grant you any rights, licenses, or interests in or to the Platform or Shobbl Incorporated IP, nor does it limit Shobbl Incorporated’s rights to develop, use, license, or commercialize products, features, or services that may be similar or identical to the Feedback.
+
+30.5 Moral Rights Waiver
+
+To the extent permitted by applicable law, you waive and agree not to assert any moral rights, attribution rights, or similar rights in connection with the Feedback. Where such rights cannot be waived, you agree not to enforce them in a manner that would interfere with Shobbl Incorporated’s use of the Feedback.
+
+30.6 Relationship to Other Terms
+
+This Section 30 operates in conjunction with Section 10 (User Content), Section 23 (Open-Source Disclosures), Section 29 (Intellectual Property & Trademarks), and Section 27 (Liability & Warranty Disclaimer). In the event of any conflict, applicable law controls.
+31. ARBITRATION & CLASS ACTION WAIVER (U.S. USERS ONLY)
+
+PLEASE READ THIS SECTION CAREFULLY.
+This Section contains a binding arbitration agreement and class action waiver and affects your legal rights. This Section applies only to users located in the United States and only to the extent permitted by applicable law.
+
+31.1 Agreement to Arbitrate
+
+Except as expressly provided in Section 31.6 (Exceptions), any dispute, claim, or controversy arising out of or relating to these Terms, the Platform, or your relationship with Shobbl Incorporated (each, a “Dispute”) shall be resolved exclusively by final and binding arbitration, rather than in court.
+
+Arbitration shall be administered by the American Arbitration Association (“AAA”) in accordance with its Consumer Arbitration Rules, as in effect at the time arbitration is initiated, as modified by this Section 31.
+
+To the extent Nevada law conflicts with the Federal Arbitration Act (“FAA”), the FAA shall control.
+
+31.2 Delegation Clause
+
+The arbitrator, and not any court, shall have exclusive authority to resolve any dispute relating to the interpretation, applicability, enforceability, or formation of this arbitration agreement, including any claim that all or part of this agreement is void or unenforceable.
+
+31.3 Individual Arbitration Only; Class Action Waiver; Anti-Coordination
+
+Arbitration shall be conducted on an individual basis only.
+
+You and Shobbl Incorporated waive any right to bring or participate in a class, collective, coordinated, representative, or private attorney general action, whether in arbitration or in court.
+
+The arbitrator may not:
+
+consolidate claims of more than one person;
+
+preside over any form of class, collective, coordinated, or representative proceeding; or
+
+award relief on a class-wide or representative basis.
+
+Except as expressly permitted under Section 31.9 (Mass Arbitration Procedures), claimants may not coordinate arbitration demands, briefing, discovery, evidentiary submissions, or hearing schedules.
+
+31.4 Arbitration Procedures and Location
+
+Arbitration may be conducted:
+
+remotely;
+
+in writing;
+
+by telephone or videoconference; or
+
+in person where required by the AAA Rules or applicable law.
+
+Unless otherwise required by law, arbitration shall take place in the county of your primary residence, or another mutually agreed location.
+
+This arbitration agreement is governed by the Federal Arbitration Act (9 U.S.C. §§ 1–16).
+
+31.5 Mandatory Pre-Arbitration Notice and Informal Resolution
+31.5.1 Notice of Dispute Requirement
+
+Before initiating arbitration or any permitted court proceeding, both parties must first engage in a mandatory, good-faith informal dispute-resolution process.
+
+The party asserting a Dispute must send a written Notice of Dispute that includes:
+
+the claimant’s full legal name;
+
+the email address and account identifier associated with the account (if applicable);
+
+a detailed description of the Dispute, including the factual basis and the specific product, feature, content, or account action at issue;
+
+the specific relief sought, including the amount of any monetary relief claimed; and
+
+a statement that the notice is provided pursuant to this Section 31.5.
+
+31.5.2 Delivery of Notice
+
+Notices of Dispute must be submitted only by Certified Mail to the following address:
+
+Postal Mail (Certified Mail Required):
+Shobbl Incorporated
+c/o Registered Agent
+732 S 6th St, Ste N
+Las Vegas, NV 89101
+United States
+
+Notices submitted via email (including legal or support email addresses), support tickets, in-app messages, or other informal channels do not constitute valid legal notice.
+
+31.5.3 Informal Resolution Period
+
+Upon receipt of a valid Notice of Dispute, the parties shall engage in good-faith efforts to resolve the Dispute for a period of sixty (60) days, unless mutually extended in writing.
+
+No arbitration demand may be filed before expiration of this period.
+
+31.5.4 Effect of Non-Compliance
+
+Failure to comply with this Section 31.5:
+
+tolls any applicable limitation periods; and
+
+constitutes grounds for dismissal, stay, or administrative closure of any arbitration or court proceeding.
+
+31.6 Exceptions
+
+This arbitration agreement does not apply to:
+
+claims for intellectual-property infringement or misappropriation;
+
+claims seeking temporary, preliminary, or permanent injunctive or equitable relief;
+
+claims brought in small-claims court, if eligible;
+
+DMCA or equivalent statutory takedown claims;
+
+users located outside the United States; or
+
+disputes for which arbitration or class-action waivers are prohibited by applicable law.
+
+31.7 Costs and Fees
+
+Payment of arbitration fees shall be governed by the AAA Consumer Arbitration Rules.
+
+Shobbl Incorporated will pay or reimburse arbitration fees only to the extent required by applicable law or AAA rules. Each party bears its own attorneys’ fees unless otherwise required by law.
+
+31.8 Opt-Out Right
+
+You may opt out of this arbitration agreement by submitting a written opt-out notice within thirty (30) days of first accepting these Terms.
+
+Opting out:
+
+does not affect access, pricing, features, moderation, or monetization;
+
+does not result in retaliation; and
+
+imposes no cost or penalty.
+
+How to Opt Out
+Email: Opt-Out@shobbl.com
+
+Subject line: “Arbitration Opt-Out – Shobble”
+or postal mail to the address mentioned in 31.5.2.
+
+The opt-out notice must include only:
+
+your full legal name;
+
+the email address or account identifier; and
+
+a clear statement opting out of arbitration.
+
+31.9 Mass Arbitration Procedures; Batching and Bellwether Process
+
+31.9.1 Definition of Mass Arbitration
+
+A “Mass Arbitration” means ten (10) or more arbitration demands asserting substantially similar claims, arising from the same or similar facts, transactions, account actions, or alleged course of conduct, and filed by or with the assistance of the same law firm, group of law firms, or coordinated counsel.
+
+31.9.2 Mandatory Phased Arbitration
+
+Mass Arbitration claims shall proceed exclusively through the following phases:
+
+Phase One – Bellwether Selection
+Ten (10) claims shall be selected to proceed as individual bellwether arbitrations using a neutral, computer-generated random selection process administered by the arbitration provider or, if unavailable, by mutual agreement or court order.
+
+Phase Two – Administrative Stay
+All remaining claims shall be administratively stayed.
+For purposes of the applicable arbitration rules, stayed claims shall not be deemed filed, initiated, or commenced, and no filing, administrative, or arbitrator fees shall be assessed or due unless and until such claims are authorized to proceed under this Section.
+
+Phase Three – Global Resolution Conference
+Following completion of the bellwether proceedings, the parties shall participate in a mandatory, good-faith mediation or settlement conference.
+
+Phase Four – Subsequent Batches
+If unresolved, remaining claims may proceed in sequential batches of no more than ten (10) claims at a time, repeating this process until resolution or final adjudication.
+
+31.9.3 Claim-Splitting and Artificial Inflation Prohibited
+
+The coordination, division, multiplication, or fragmentation of claims arising from the same facts, transaction, account, or alleged course of conduct—whether across multiple demands, claimants, or filing waves—for the purpose of avoiding this Section, increasing aggregate fees, or imposing disproportionate procedural burden constitutes impermissible claim-splitting and abuse of the arbitration process.
+
+Arbitration demands that are duplicative, overlapping, or substantially similar may be treated as part of a single Mass Arbitration regardless of the timing, claimant identity, or filing structure.
+
+Nothing in this Section shall be interpreted to prevent the filing or adjudication of a single, individual arbitration demand brought in good faith.
+
+31.9.4 Remedies for Abuse
+
+Where arbitration demands are alleged to have been filed, coordinated, or structured in bad faith or for the primary purpose of artificially inflating costs or procedural leverage, as determined by the arbitrator or arbitration provider in accordance with applicable law and arbitration rules, Shobbl Incorporated may seek all remedies available under applicable law and arbitration rules, including:
+
+administrative stay or dismissal without prejudice;
+
+consolidation or mandatory batching;
+
+deferral of fee obligations;
+
+reallocation of fees where permitted;
+
+injunctive or equitable relief to enforce this Section.
+
+Nothing herein limits the arbitrator’s authority to address abusive, duplicative, or procedurally improper demands. All remedies under this Section shall be applied in a manner consistent with mandatory consumer-protection laws and shall not be construed to deny any party the right to pursue an individual claim in arbitration where such right cannot be waived by law.
+
+31.9.5 Non-Precedential Effect
+
+Outcomes of bellwether arbitrations apply only to the individual claimants involved and do not constitute binding precedent for any other arbitration.
+
+31.9.6 Administrator Unavailability
+
+If the designated arbitration provider declines or is unable to administer a Mass Arbitration consistent with this Section after reasonable efforts by the parties, the parties shall select an alternative arbitration provider capable of doing so. If no such provider is reasonably available, the Dispute shall proceed in a court of competent jurisdiction on an individual basis only, to the extent permitted by applicable law.
+
+31.10 Severability
+
+If any portion of this Section 31 is found unenforceable, that portion shall be severed and the remainder enforced to the fullest extent permitted by law.
+
+If the class-action waiver is unenforceable as to a particular Dispute, that Dispute shall proceed only in court on an individual basis.
+
+31.11 Survival
+
+This arbitration agreement survives termination of your account and these Terms.
+
+32. INDEMNIFICATION
+32.1 Indemnification Obligation
+
+To the fullest extent permitted by applicable law, you agree to defend, indemnify, and hold harmless Shobbl Incorporated, and its officers, directors, employees, agents, affiliates, licensors, and service providers (collectively, the “Indemnified Parties”) from and against any and all third-party claims, demands, actions, investigations, proceedings, damages, losses, liabilities, judgments, penalties, fines, costs, and expenses (including reasonable attorneys’ fees and expert costs) arising out of or relating to:
+
+your access to or use of the Platform;
+
+your User Content, including any allegation that such content infringes, misappropriates, or otherwise violates any intellectual property, privacy, publicity, or other rights of any third party;
+
+your participation in the marketplace, monetization programs, payouts, or transactions with other users or third parties;
+
+your violation or alleged violation of these Terms, any incorporated policies or addenda, or applicable law or regulation;
+
+your misuse of the Platform, including fraud, misrepresentation, deceptive practices, or circumvention of safeguards;
+
+your content, communications, or interactions through communities, forums, messaging, microblogging, events, or other social features; or
+
+your interaction with, reliance on, or use of any Third-Party Services, content, or payment providers accessed through the Platform.
+
+32.2 Defense and Control
+
+Shobbl Incorporated reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. If Shobbl Incorporated exercises this right, you agree to cooperate fully and reasonably in such defense.
+
+You may not settle any claim subject to indemnification without Shobbl Incorporated’s prior written consent, which shall not be unreasonably withheld where the settlement fully releases the Indemnified Parties from all liability and imposes no ongoing obligations.
+
+32.3 Notice and Mitigation
+
+Shobbl Incorporated will provide reasonable notice of any claim subject to indemnification when practicable. Failure to provide prompt notice does not relieve you of your indemnification obligations except to the extent you are materially prejudiced by such failure.
+
+32.4 Scope and Limitations
+
+This indemnification obligation applies only to the extent permitted by applicable law and does not apply to claims arising solely from Shobbl Incorporated’s gross negligence, willful misconduct, or fraud, where such exclusion is required by law.
+
+Nothing in this Section requires you to indemnify any Indemnified Party for liability that cannot be transferred or disclaimed under applicable consumer-protection or other non-waivable laws.
+
+32.5 Survival
+
+This Section 32 survives termination of your account and these Terms.
+
+33. SECURITY INCIDENT DISCLOSURE
+33.1 Incident Notification
+
+Shobbl Incorporated may notify Users of a confirmed security incident involving the unauthorized access, acquisition, or disclosure of personal data only to the extent required by applicable breach-notification and data-protection laws and in the manner prescribed by such laws.
+
+Nothing in these Terms creates a contractual obligation to provide notice beyond what is required by applicable law.
+
+33.2 Timing, Manner, and Scope of Notice
+
+Where notification is required, it may be provided through the Platform, by email, or by any other lawful method.
+
+Notification may be delayed, limited, or staged where permitted by law and reasonably necessary to:
+
+comply with law enforcement or regulatory requests;
+
+address, contain, or mitigate security risks;
+
+preserve the integrity of an ongoing investigation; or
+
+prevent further unauthorized access or harm.
+
+The scope and content of any notification shall be limited to what is legally required.
+
+33.3 No Admission of Liability
+
+Any notification or communication regarding a security incident is provided for informational purposes only and does not constitute, and shall not be construed as, an admission of fault, liability, negligence, wrongdoing, or breach of contract by Shobbl Incorporated.
+
+33.4 Third-Party Service Providers
+
+Security incidents may involve systems, infrastructure, or services operated by third-party service providers.
+
+To the fullest extent permitted by applicable law, Shobbl Incorporated is not responsible for security incidents attributable solely to third parties, except where Shobbl Incorporated is legally required to assume responsibility.
+
+34. NOTICE OF CHANGES
+34.1 Right to Modify
+
+Shobbl Incorporated may update or modify these Terms from time to time to reflect changes to the Platform, legal or regulatory requirements, security practices, business operations, or risk management.
+
+Unless otherwise required by applicable law, changes apply prospectively only and do not retroactively alter rights or obligations with respect to events occurring before the effective date of the updated Terms.
+
+34.2 Notice of Material Changes
+
+Where a change materially and adversely affects users’ rights or obligations, Shobbl Incorporated will provide reasonable advance notice, generally at least thirty (30) days before the effective date, unless:
+
+a shorter notice period is required or permitted by applicable law; or
+
+immediate or expedited changes are necessary to comply with law, respond to security threats, prevent fraud or abuse, or protect the integrity or safety of the Platform or its users.
+
+34.3 Methods of Notice
+
+Notice of changes may be provided through one or more of the methods described in Section 35 (Notice Methods), including in-app notifications, email, banners, postings on the Platform, or other reasonable means permitted by law.
+
+The version of the Terms in effect at any time will be identified by an updated “Last Updated” date.
+
+34.4 Acceptance of Changes
+
+To the extent permitted by applicable law, continued access to or use of the Platform after the effective date of updated Terms constitutes acceptance of those changes.
+
+If you do not agree to the updated Terms, you must discontinue use of the Platform before the effective date. You may also close your account in accordance with these Terms.
+
+Nothing in this Section requires you to accept changes that cannot be imposed without affirmative consent under applicable law.
+
+34.5 Preservation of Statutory Rights
+
+Nothing in this Section limits or waives any rights you may have under applicable law, including rights to receive notice, withhold consent, challenge unfair terms, or terminate your use of the Platform without penalty where required by law.
+
+35. NOTICE METHODS
+35.1 Permitted Notice Methods
+
+Shobbl Incorporated may provide notices, disclosures, updates, or other communications relating to the Platform or these Terms (“Notices”) through one or more of the following methods, as permitted by applicable law:
+
+email to the address associated with your account;
+
+in-app notifications, messages, or alerts;
+
+banners, pop-ups, or interstitial notices within the Platform;
+
+postings on the Platform or its official websites; or
+
+any other reasonable electronic or physical means permitted by applicable law.
+
+35.2 Deemed Delivery
+
+Except where a different standard is required by applicable law, Notices are deemed provided when they are sent, posted, displayed, or otherwise made available through the applicable notice method, regardless of whether you actually receive, open, read, or review the Notice.
+
+Technical issues outside Shobbl Incorporated’s reasonable control, including spam filtering, delivery failures, device settings, or user inaction, do not invalidate delivery.
+
+35.3 User Responsibilities
+
+You are responsible for:
+
+maintaining accurate, current, and accessible contact information associated with your account;
+
+ensuring that emails from Shobbl Incorporated are not blocked or filtered; and
+
+regularly reviewing in-app messages, notifications, and posted notices.
+
+Failure to do so does not affect the validity or effectiveness of any Notice.
+
+35.4 Changes to Notice Methods
+
+Shobbl Incorporated may update, supplement, or modify Notice methods from time to time to:
+
+comply with legal or regulatory requirements;
+
+improve reliability, accessibility, or security; or
+
+reflect changes in Platform features or communication practices.
+
+Such changes do not require individual notice unless otherwise required by applicable law.
+
+35.5 Statutory and Jurisdictional Requirements
+
+Nothing in this Section limits or modifies any notice, delivery, timing, or consent requirements that cannot be waived or altered under applicable law, including mandatory requirements under consumer-protection, data-protection, or platform-regulation regimes.
+
+36. ASSIGNMENT
+36.1 Assignment by Shobbl Incorporated
+
+Shobbl Incorporated may assign, transfer, or delegate these Terms, in whole or in part, without your consent, in connection with a merger, acquisition, corporate reorganization, change of control, financing, sale of assets, or similar transaction, provided that any successor or assignee assumes and remains bound by these Terms and all incorporated policies.
+
+Such assignment does not relieve Shobbl Incorporated or any successor entity of obligations relating to:
+
+User Content;
+
+privacy, data protection, and security;
+
+limitations on data use; and
+
+restrictions on AI training, data brokerage, or dataset creation.
+
+36.2 No Sale or Recharacterization of User Content
+
+Any assignment or transfer of these Terms or the Platform shall not:
+
+constitute a sale, license, or transfer of User Content as a dataset;
+
+authorize the use of User Content for data brokerage, profiling, or commercially distributed AI model training; or
+
+expand the scope of rights granted in User Content beyond those expressly permitted under these Terms and applicable law.
+
+All rights, licenses, and protections applicable to User Content continue unchanged following any assignment.
+
+36.3 Binding Effect on Successors
+
+These Terms are binding upon and inure to the benefit of Shobbl Incorporated and its permitted successors and assigns.
+Any successor entity remains subject to all obligations, restrictions, and limitations applicable to Shobbl Incorporated under these Terms, including with respect to User Content, privacy, security, and data use.
+
+36.4 Assignment by Users
+
+You may not assign, transfer, or sublicense your rights or obligations under these Terms, whether by operation of law or otherwise, without Shobbl Incorporated’s prior written consent, except where such restriction is prohibited by applicable law.
+
+Any attempted assignment in violation of this Section is void to the fullest extent permitted by law.
+
+36.5 Statutory Rights Preserved
+
+Nothing in this Section limits or waives any rights or protections that cannot be waived or modified under applicable law, including rights relating to personal data, consumer protection, or notice in the event of a change in control.
+
+37. SURVIVAL
+
+Termination or expiration of your account or cessation of use of the Platform does not affect any provisions of these Terms that, by their nature or by express statement, are intended to survive.
+
+Without limitation, the following provisions survive termination or expiration:
+
+Section 1 (Definitions)
+
+Section 4 (Privacy, Data Processing & Retention), to the extent permitted by law
+
+Section 9 (Catalog Content)
+
+Section 10 (User Content), including post-deletion and license-survival limitations
+
+Sections 18–20 (Payments, Refunds, Chargebacks, Payouts, and Negative Balances)
+
+Section 19 (Digital Goods & Platform Transactions)
+
+Section 25 (High-Risk Activity Disclaimer)
+
+Section 26 (Service Interruptions & Maintenance)
+
+Section 27 (Liability & Warranty Disclaimer)
+
+Section 28 (Force Majeure)
+
+Section 29 (Intellectual Property & Trademarks)
+
+Section 30 (Feedback)
+
+Section 31 (Arbitration & Class Action Waiver), where applicable
+
+Section 32 (Indemnification)
+
+Section 33 (Security Incident Disclosure)
+
+Sections 34–35 (Notice of Changes; Notice Methods)
+
+Section 36 (Assignment)
+
+Section 38 (Governing Law)
+
+In addition, any rights, obligations, remedies, limitations, or protections that by their nature are intended to continue, including payment obligations, indemnity obligations, dispute-resolution provisions, and liability limitations, shall survive termination or expiration of these Terms.
+
+38. GOVERNING LAW
+
+Except as otherwise required by applicable law, these Terms and any dispute, claim, or controversy arising out of or relating to the Platform, these Terms, or your relationship with Shobbl Incorporated shall be governed by and construed in accordance with the laws of the State of Nevada, USA, without regard to its conflict-of-laws principles.
+
+For users located outside the United States, this Governing Law provision applies only to the extent permitted by applicable law and does not deprive you of the protection of mandatory consumer-protection laws or other non-waivable statutory rights applicable in your country or place of habitual residence.
+
+Where applicable, the Federal Arbitration Act (9 U.S.C. §§ 1–16) governs the interpretation and enforcement of Section 31 (Arbitration & Class Action Waiver), and Nevada law applies to the extent not preempted by the Federal Arbitration Act.
+
+Nothing in this Section limits the application of laws that, by their nature, must apply regardless of contractual choice of law, including consumer-protection, data-protection, or privacy laws that cannot be waived by contract.
+
+39. CONTACT INFORMATION
+
+If you have questions, concerns, or requests regarding the Platform or these Terms, you may contact Shobbl Incorporated through the following channels:
+
+General Support and Account Inquiries
+Email: Support@shobbl.com
+
+Legal Notices and Formal Communications
+Email: Legal@shobbl.com
+
+Communications sent to Support@shobbl.com
+ are intended solely for general customer support and account assistance and do not constitute formal legal notice, service of process, or notice under any statute, regulation, or legal proceeding.
+
+Except where expressly required by applicable law, formal legal notices, regulatory inquiries, and legal communications must be directed to Legal@shobbl.com
+ to be effective.
+
+Shobbl Incorporated may update its contact information from time to time in accordance with Section 35 (Notice Methods). Continued use of the Platform after such updates constitutes acknowledgment of the updated contact details, to the extent permitted by applicable law.
+
+Nothing in this Section limits any rights you may have under applicable law regarding service of process, regulatory communications, or legally mandated contact methods.

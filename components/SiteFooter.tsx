@@ -28,10 +28,10 @@ export function SiteFooter() {
             Platform
           </h4>
           <ul className="space-y-3 text-sm text-bone-dim">
-            <li><a href="#why-us" className="hover:text-red-shobbl">Why Us?</a></li>
-            <li><a href="#features" className="hover:text-red-shobbl">Features</a></li>
-            <li><a href="#gallery" className="hover:text-red-shobbl">Gallery</a></li>
-            <li><a href="#access" className="hover:text-red-shobbl">Contact</a></li>
+            <li><a href="/#why-us" className="hover:text-red-shobbl">Why Us?</a></li>
+            <li><a href="/#features" className="hover:text-red-shobbl">Features</a></li>
+            <li><a href="/#gallery" className="hover:text-red-shobbl">Gallery</a></li>
+            <li><a href="/#access" className="hover:text-red-shobbl">Contact</a></li>
           </ul>
         </div>
 
@@ -40,6 +40,8 @@ export function SiteFooter() {
             Resources
           </h4>
           <ul className="space-y-3 text-sm text-bone-dim">
+            <li><a href="/privacy" className="hover:text-red-shobbl">Privacy</a></li>
+            <li><a href="/terms" className="hover:text-red-shobbl">Terms</a></li>
             <li><a href="/shobble_enterprise_press_kit.html" className="hover:text-red-shobbl">Press Kit</a></li>
             <li>
               <a href="https://discord.gg/9eRQhybKaW" className="hover:text-red-shobbl">
@@ -50,8 +52,17 @@ export function SiteFooter() {
         </div>
       </div>
 
-      <div className="mx-auto max-w-wall border-t border-line px-5 py-6 text-center text-xs text-bone-dim">
-        © {year} Shobble. All rights reserved.
+      <div className="mx-auto flex max-w-wall flex-wrap items-center justify-center gap-x-4 gap-y-2 border-t border-line px-5 py-6 text-center text-xs text-bone-dim">
+        <span>© {year} Shobble. All rights reserved.</span>
+        <span className="hidden sm:inline" aria-hidden="true">
+          ·
+        </span>
+        <a href="/privacy" className="hover:text-red-shobbl">
+          Privacy
+        </a>
+        <a href="/terms" className="hover:text-red-shobbl">
+          Terms
+        </a>
       </div>
     </footer>
   );
