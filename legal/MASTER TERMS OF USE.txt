@@ -1267,7 +1267,7 @@ To the fullest extent permitted by applicable law, Shobbl Incorporated is not re
 
 22.3 Requests for Assistance and Reasonable Accommodations
 
-Users who encounter accessibility barriers or who wish to request reasonable accommodations may contact Shobbl Incorporated at Support@shobbl.com. Requests should include a description of the issue, the affected feature or service, and any relevant assistive technology used.
+Users who encounter accessibility barriers or who wish to request reasonable accommodations may contact Shobbl Incorporated at Support@shobble.com. Requests should include a description of the issue, the affected feature or service, and any relevant assistive technology used.
 
 Shobbl Incorporated will review accessibility requests in good faith and respond within a reasonable timeframe (generally 10–15 business days), subject to the nature of the request, technical feasibility, and applicable legal requirements.
 
@@ -1336,7 +1336,7 @@ grants Users any rights to Shobbl Incorporated’s proprietary software, systems
 
 23.6 Good-Faith Compliance
 
-Shobbl Incorporated endeavors to comply in good faith with all applicable open-source license obligations. If you believe that any Open-Source Software used in the Platform has not been properly attributed or disclosed, please contact Legal@shobbl.com with sufficient detail to allow investigation.
+Shobbl Incorporated endeavors to comply in good faith with all applicable open-source license obligations. If you believe that any Open-Source Software used in the Platform has not been properly attributed or disclosed, please contact Legal@shobble.com with sufficient detail to allow investigation.
 
 24. THIRD-PARTY SERVICES & APP STORES
 24.1 Third-Party Services Generally
@@ -1780,7 +1780,7 @@ does not result in retaliation; and
 imposes no cost or penalty.
 
 How to Opt Out
-Email: Opt-Out@shobbl.com
+Email: Opt-Out@shobble.com
 
 Subject line: “Arbitration Opt-Out – Shobble”
 or postal mail to the address mentioned in 31.5.2.
@@ -2113,15 +2113,15 @@ Nothing in this Section limits the application of laws that, by their nature, mu
 If you have questions, concerns, or requests regarding the Platform or these Terms, you may contact Shobbl Incorporated through the following channels:
 
 General Support and Account Inquiries
-Email: Support@shobbl.com
+Email: Support@shobble.com
 
 Legal Notices and Formal Communications
-Email: Legal@shobbl.com
+Email: Legal@shobble.com
 
-Communications sent to Support@shobbl.com
+Communications sent to Support@shobble.com
  are intended solely for general customer support and account assistance and do not constitute formal legal notice, service of process, or notice under any statute, regulation, or legal proceeding.
 
-Except where expressly required by applicable law, formal legal notices, regulatory inquiries, and legal communications must be directed to Legal@shobbl.com
+Except where expressly required by applicable law, formal legal notices, regulatory inquiries, and legal communications must be directed to Legal@shobble.com
  to be effective.
 
 Shobbl Incorporated may update its contact information from time to time in accordance with Section 35 (Notice Methods). Continued use of the Platform after such updates constitutes acknowledgment of the updated contact details, to the extent permitted by applicable law.

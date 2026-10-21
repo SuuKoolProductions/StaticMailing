@@ -229,7 +229,7 @@ API Partners must:
 
 promptly investigate any suspected Security Incident; and
 
-notify Shobble at security@shobbl.com
+notify Shobble at security@shobble.com
  without undue delay and no later than seventy-two (72) hours after discovery.
 
 Incident notifications must include, to the extent known:
@@ -478,8 +478,8 @@ Sections relating to data protection, confidentiality, deletion, audit, liabilit
 
 Questions regarding API access, privacy, or compliance may be directed to:
 
-api@shobbl.com
+api@shobble.com
 
-privacy@shobbl.com
+privacy@shobble.com
 
-security@shobbl.com
+security@shobble.com

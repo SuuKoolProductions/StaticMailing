@@ -92,7 +92,7 @@ Certain categories of content may be Restricted, Blacklisted, or Forbidden under
 
 The identification, scope, conditions, and treatment of such content—including any limited, discretionary allowances that may apply—are governed exclusively by Shobble’s Content Classification policies, including the Community Content Guidelines and any applicable addenda.
 
-Content classified as Restricted, Blacklisted, or Forbidden is not entitled to hosting, visibility, discoverability, monetization, or continued availability. Depending on classification and context, such content may be subject to age or identity verification, access controls, domain segregation (including placement on designated adult domains such as adult.shobbl.com, where applicable), jurisdiction-based restrictions, automated enforcement systems, or human review.
+Content classified as Restricted, Blacklisted, or Forbidden is not entitled to hosting, visibility, discoverability, monetization, or continued availability. Depending on classification and context, such content may be subject to age or identity verification, access controls, domain segregation (including placement on designated adult domains such as adult.shobble.com, where applicable), jurisdiction-based restrictions, automated enforcement systems, or human review.
 
 Shobble may block, suppress, restrict, reclassify, or remove content classified under these categories at any time through technical, operational, or policy-based controls.
 No payment, subscription, creator status, prior availability, or reliance creates any right to upload, access, distribute, monetize, or continue hosting content that is Restricted, Blacklisted, or Forbidden.
@@ -218,6 +218,6 @@ Shobble may update this AUP in accordance with the Terms. Continued use of the P
 
 Questions or reports regarding acceptable use may be directed to:
 
-Email: Legal@shobbl.com
+Email: Legal@shobble.com
 
 (For informational purposes only; does not constitute formal legal notice unless required by law.)

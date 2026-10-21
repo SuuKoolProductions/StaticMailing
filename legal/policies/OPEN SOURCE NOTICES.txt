@@ -131,6 +131,6 @@ This Open-Source Addendum is governed by the same governing law and dispute reso
 
 Questions or notices regarding open-source licenses or attributions may be directed to:
 
-opensource@shobbl.com
+opensource@shobble.com
 
 or through Shobble’s designated support channels.

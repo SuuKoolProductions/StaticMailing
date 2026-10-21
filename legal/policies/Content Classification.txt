@@ -244,7 +244,7 @@ Sexualized Content refers to content that depicts sexual or fetishized acts in a
 
 Sexualized Content, if permitted at all:
 
-may appear only on adult.shobbl.com; and
+may appear only on adult.shobble.com; and
 
 is accessible only to users who are verifiably 18 years of age or older.
 
@@ -341,7 +341,7 @@ Blacklisted Content may be allowed only where all of the following conditions ar
 a. the content is purely fictional;
 b. no real persons are depicted, referenced, implied, or reasonably identifiable;
 c. the content complies with all age and identity verification requirements;
-d. the content is confined exclusively to Shobble’s designated adult domain (adult.shobbl.com); and
+d. the content is confined exclusively to Shobble’s designated adult domain (adult.shobble.com); and
 e. the content remains subject to immediate removal or restriction at any time, regardless of payment or subscription status.
 
 Failure to meet any condition results in denial or removal.
