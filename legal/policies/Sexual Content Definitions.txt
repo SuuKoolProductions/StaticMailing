@@ -1,0 +1,93 @@
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+CONTENT DEFINITIONS
+
+Shobble classifies content based on its presentation, context, intent, and likely audience effect. Classification is applied for governance, safety, compliance, environment placement, access control, and monetization purposes and does not create a right to publish, distribute, or monetize any content. Restricted or adult-oriented environments are separated from standard Platform experiences and require users to be at least eighteen (18) years old.
+
+Classification decisions are contextual and may consider the content itself, surrounding materials, metadata, distribution context, presentation patterns, and cumulative user behavior.
+
+The age-appropriateness, visibility, access controls, and monetization eligibility of Suggestive Content are determined by Shobble’s Age Rating Tiers and Content Classification policies.
+
+Suggestive Content
+
+Suggestive Content refers to material that alludes to romantic or intimate themes without depicting or simulating sexual acts and without sexual arousal as its primary purpose.
+
+Suggestive Content may include:
+
+flirtation, romantic tension, or mild innuendo;
+
+revealing clothing or body emphasis presented in a non-sexualized context (e.g., fashion, performance, fitness, dance);
+
+non-explicit physical affection (e.g., kissing, embracing, affectionate touch); or
+
+artistic, narrative, or thematic elements that imply intimacy without explicit sexual detail.
+
+Suggestive Content does not:
+
+depict or simulate sexual acts;
+
+focus on genitalia, bodily fluids, or fetishized body parts;
+
+use framing, repetition, or presentation designed primarily to provoke sexual arousal; or
+
+function as a substitute for erotic or pornographic material.
+
+Arousal-Focused Content
+
+Arousal-Focused Content refers to material that is intended to evoke sexual interest or arousal through emphasis, framing, or presentation, without depicting explicit sexual acts.
+
+Arousal-Focused Content may include:
+
+deliberate emphasis on erogenous zones or sexually suggestive body presentation;
+
+posing, framing, editing, or pacing designed to stimulate sexual interest;
+
+sexually charged scenarios, roleplay, or themes that stop short of explicit sexual acts; or
+
+content whose primary audience appeal is sexual arousal, rather than narrative, informational, or artistic purpose.
+
+Arousal-Focused Content does not:
+
+depict or simulate explicit sexual acts;
+
+show sexual penetration, explicit genital contact, or graphic sexual behavior; or
+
+include extreme, explicit, or pornographic sexual activity.
+
+Arousal-Focused Content may be lawful but is subject to heightened restriction, including age-gating, restricted-environment placement, reduced discoverability, or monetization limitations. Where permitted, it is not accessible to users under eighteen (18).
+
+Sexualized Content
+
+Sexualized Content, also referred to as Sexual Content, refers to material that frames people, bodies, actions, or scenarios primarily as sexual objects or stimuli, regardless of whether explicit sexual acts are depicted.
+
+Sexualized Content may include:
+
+exaggerated, lingering, or repetitive focus on sexual anatomy or sex characteristics;
+
+fetishized presentation, themes, or visual framing;
+
+scenarios that eroticize power imbalance, degradation, coercion, or loss of agency; or
+
+contextual cues (e.g., titles, tags, thumbnails, editing, promotional language) that convert otherwise neutral material into Sexual Content.
+
+Arousal-Focused Content may escalate into Sexualized Content based on presentation, repetition, framing, or cumulative effect. Escalation is determined by effect and intent, not by creator labels or disclaimers.
+
+Sexualized Content may fall within Restricted or Blacklisted classifications depending on severity, themes, framing, and risk signals, and may be Forbidden where non-waivable prohibitions apply. It is evaluated holistically, including how it is marketed, surfaced, and consumed.
+
+Classification Escalation
+
+Content may be classified along an escalation continuum:
+
+Suggestive → Arousal-Focused → Sexualized
+
+Shobble may reclassify content at any time based on changes in presentation, framing, audience targeting, metadata, or cumulative context, including retroactive reassessment.
+
+Minors
+
+Any sexual or arousal-focused framing involving or depicting minors whether real or fictional is Forbidden Content, regardless of classification terminology, artistic intent, or fictional framing.
+
+Relationship to Classification Tiers
+
+Sexual Content definitions (Suggestive, Arousal-Focused, Sexualized) describe content characteristics, not entitlement or classification outcomes.
+
+Depending on context, presentation, audience targeting, and cumulative risk, content within any definition may be classified as Allowed, Restricted, Blacklisted, or Forbidden under the Content Classification Policy.

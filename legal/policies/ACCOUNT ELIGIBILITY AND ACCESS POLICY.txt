@@ -1,0 +1,156 @@
+SHOBBLE ACCOUNT ELIGIBILITY & ACCESS POLICY
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This Account Eligibility & Access Policy (“Eligibility Policy”) governs who may create, maintain, and access accounts on the Shobble platform (“Platform”), including eligibility requirements related to age, jurisdiction, standard account access, monetization, restricted environments, and regional availability.
+
+This Policy operates in conjunction with the Master Terms of Use, Community Code of Conduct, Content Classification Policy, Privacy Policy, and Enforcement Procedures. In the event of conflict, the Master Terms control.
+
+1. PURPOSE & SCOPE
+
+Shobble is designed to operate in compliance with applicable laws governing age-based access, safety, privacy, monetization, and regional availability. This Policy establishes:
+
+eligibility requirements for account creation and use;
+
+how users below age eighteen (18) are restricted from certain Platform features;
+
+how delegated or educational access may be limited where supported;
+
+how independent access thresholds vary by jurisdiction; and
+
+how access is handled in regions where the Platform is not yet available.
+
+This Policy governs account eligibility and access, not content permissibility. Content availability is governed separately by Shobble’s Content Classification and access-control systems.
+
+2. GENERAL ELIGIBILITY REQUIREMENTS
+
+To create or use a standard Platform account, a user must:
+
+be at least sixteen (16) years old, or older where required by applicable law;
+
+provide accurate and truthful account information, including age and location;
+
+access the Platform only from regions where it is offered; and
+
+comply with all applicable Platform policies.
+
+Providing false, misleading, or incomplete eligibility information may result in restriction, suspension, reclassification, or termination of access.
+
+3. AGE-BASED ELIGIBILITY
+
+3.1 Standard Platform Accounts
+
+Standard Platform accounts require users to be at least sixteen (16) years old, or older where applicable law requires a higher minimum age.
+
+Users below the minimum account age may not create, maintain, or use independent Platform accounts through third-party, educational, household, or delegated authorization.
+
+3.2 Features Requiring Users to Be 18+
+
+Users must be at least eighteen (18) years old to access or use:
+
+Creator accounts or tools for monetization;
+
+payouts, revenue-share programs, or creator earnings features;
+
+payment-enabled creator functionality;
+
+restricted or adult-oriented environments;
+
+restricted or adult-oriented content access; and
+
+any other feature Shobble designates as requiring adult eligibility, identity verification, or age verification.
+
+3.3 Delegated or Educational Access
+
+Where supported, delegated or educational access is limited, revocable, and subject to Platform controls. Delegated or educational access does not authorize accounts for users below the minimum account age and does not confer monetization, payout, payment-enabled creator, or restricted-environment eligibility.
+
+3.4 Prohibited Underage Access
+
+Users may not:
+
+misrepresent their age to bypass eligibility or access restrictions;
+
+access age-restricted domains, content, or features for which they are not eligible;
+
+participate in monetization, payout, or payment-enabled creator functionality unless they are at least eighteen (18) years old and otherwise approved; or
+
+access restricted or adult-oriented environments unless they are at least eighteen (18) years old and satisfy applicable verification requirements.
+
+4. AGE MISREPRESENTATION & ENFORCEMENT
+
+Users must not misrepresent their age or eligibility status.
+
+Where Shobble has reasonable grounds to believe, based on available information, that an account holder is operating outside permitted age conditions, Shobble may take actions including:
+
+applying age-appropriate safeguards or restrictions;
+
+restricting access to features inconsistent with eligibility;
+
+requiring age, identity, or eligibility verification;
+
+suspending access pending correction or verification; or
+
+terminating the account where required by law or policy.
+
+Eligibility determinations do not require proof of intent. Assessments are based on reasonable belief and available signals, and corrective actions do not imply misconduct or wrongdoing.
+
+5. REGIONAL AVAILABILITY & JURISDICTIONAL ACCESS
+
+5.1 Supported Regions
+
+The Platform is offered only in regions where Shobble has elected to operate and where it can reasonably comply with applicable legal, regulatory, and operational requirements.
+
+Availability may vary by jurisdiction, feature, content category, or service.
+
+5.2 Unsupported or Restricted Regions
+
+Users may not access or use the Platform from regions where Shobble does not currently offer service or where access is restricted due to:
+
+legal or regulatory limitations;
+
+sanctions, export controls, or trade restrictions;
+
+operational or compliance constraints; or
+
+safety or risk considerations.
+
+Circumventing regional restrictions through technical means (including VPNs or proxies) is prohibited.
+
+5.3 Changes in Regional Availability
+
+Regional availability may change over time. Shobble may:
+
+restrict or suspend access in certain regions;
+
+modify feature availability by jurisdiction; or
+
+require additional controls or information to maintain access.
+
+Users remain responsible for ensuring continued eligibility based on their location.
+
+6. ACCOUNT CORRECTION & RECLASSIFICATION
+
+Where eligibility issues are identified, Shobble may, at its discretion:
+
+correct or update account classification;
+
+apply age-appropriate defaults and restrictions;
+
+disable features inconsistent with eligibility; or
+
+require additional verification.
+
+Such actions are intended to maintain compliance, safety, and lawful operation of the Platform and do not imply fault, intent, or wrongdoing.
+
+7. NO ENTITLEMENT TO ACCESS
+
+Access to the Platform and its features is conditional and not guaranteed.
+
+Shobble reserves the right to restrict, modify, or revoke access where eligibility requirements are not met, where continued access would pose legal or safety risks, or where required by law or regulatory obligation.
+
+8. MODIFICATIONS
+
+This Policy may be updated at any time. Continued use of the Platform constitutes acceptance of the revised Policy.

@@ -42,6 +42,7 @@ export function SiteFooter() {
           <ul className="space-y-3 text-sm text-bone-dim">
             <li><a href="/privacy" className="hover:text-red-shobbl">Privacy</a></li>
             <li><a href="/terms" className="hover:text-red-shobbl">Terms</a></li>
+            <li><a href="/policies" className="hover:text-red-shobbl">All policies</a></li>
             <li><a href="/shobble_enterprise_press_kit.html" className="hover:text-red-shobbl">Press Kit</a></li>
             <li>
               <a href="https://discord.gg/9eRQhybKaW" className="hover:text-red-shobbl">
@@ -62,6 +63,9 @@ export function SiteFooter() {
         </a>
         <a href="/terms" className="hover:text-red-shobbl">
           Terms
+        </a>
+        <a href="/policies" className="hover:text-red-shobbl">
+          All policies
         </a>
       </div>
     </footer>

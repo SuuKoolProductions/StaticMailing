@@ -1,0 +1,162 @@
+SHOBBLE COMMUNITY CODE OF CONDUCT
+
+(REVISED – INDUSTRY-BASELINE)
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This Community Code of Conduct (“Code”) establishes baseline expectations for user behavior and account identity on the Shobble platform (“Platform”).
+
+This Code is intended to align with prevailing industry standards for large-scale creator platforms and social media services. It governs user conduct, interactions, and account representation, and is distinct from Shobble’s Community Content Guidelines and Content Classification framework, which govern what content may be published.
+
+This Code operates in conjunction with the Master Terms of Use, Acceptable Use Policy, and Enforcement procedures. In the event of conflict, the Master Terms control.
+
+1. PURPOSE & SCOPE
+
+Shobble supports open expression, creative debate, commentary, criticism, satire, and political speech. Users may engage in robust, controversial, or unpopular speech, including criticism of public figures, institutions, companies, ideologies, or public policy, provided such conduct does not cross clearly defined legal or safety boundaries.
+
+This Code is not a civility policy and does not require users to adopt any particular tone, viewpoint, or style of expression.
+
+2. GENERAL CONDUCT EXPECTATIONS
+
+Users are expected to:
+
+comply with applicable laws;
+
+use Platform features in accordance with their intended purpose;
+
+avoid conduct that materially interferes with Platform operations or creates a credible safety risk; and
+
+comply with enforcement actions once applied.
+
+The Platform does not evaluate conduct based on tone, popularity, political viewpoint, or the controversial nature of opinions expressed. Conduct is assessed based on behavior and impact, not viewpoint.
+
+3. PROHIBITED BEHAVIOR
+
+The following conduct is prohibited due to legal, safety, or platform-integrity requirements:
+
+3.1 Credible Threats & Violence
+
+Users may not engage in:
+
+credible threats of violence or harm against individuals or groups, whether implicit or explicit; or
+
+encouragement or glorification of imminent violent wrongdoing.
+
+General rhetoric, hyperbole, or metaphorical language that does not reasonably communicate an intent or call to cause harm is not prohibited absent a credible threat.
+
+3.2 Unlawful Harassment & Stalking
+
+Including:
+
+persistent, targeted harassment directed at a specific individual that a reasonable person would interpret as threatening or coercive; or
+
+stalking behavior involving repeated unwanted contact combined with intimidation or surveillance.
+
+Isolated insults, criticism, hostile commentary, or participation in heated debate do not constitute harassment under this Code.
+
+3.3 Hate & Extremism (Platform Minimum)
+
+Users may not:
+
+directly incite violence against protected classes; or
+
+engage in explicit praise or operational support for designated terrorist organizations.
+
+Critical discussion, commentary, analysis, or satire concerning ideologies, movements, or groups is permitted except where illegal under applicable law.
+
+3.4 Sexual Exploitation & Minors
+
+Users may not:
+
+engage in sexual exploitation or grooming of minors;
+
+solicit sexual content from minors; or
+
+distribute or promote illegal sexual material.
+
+Adult-oriented commentary, jokes, or non-graphic discussion are governed by Content Classification policies, not this Code.
+
+3.5 Impersonation & Fraud
+
+Users may not:
+
+impersonate another individual or organization in a manner intended to deceive;
+
+falsely claim official affiliation with Shobble; or
+
+engage in scams, fraud, or deceptive financial practices.
+
+Parody, satire, role-play, and clearly non-deceptive personas are permitted.
+
+3.6 Platform Integrity Abuse
+
+Including:
+
+evasion of enforcement actions;
+
+use of multiple accounts to bypass restrictions; or
+
+technical interference with Platform services.
+
+4. ACCOUNT IDENTITY & NAMING STANDARDS (MINIMAL)
+
+Shobble permits pseudonyms, stage names, satire, and creative identities.
+
+Account names, handles, avatars, or bios may not:
+
+impersonate a real person or entity in a deceptive manner;
+
+falsely imply official affiliation with Shobble; or
+
+include explicit threats of violence.
+
+Names that are offensive, provocative, political, or controversial are not prohibited solely on that basis.
+
+Shobble may require name changes where legally necessary or to prevent material deception.
+
+5. EVENTS, LIVE INTERACTIONS & AUDIENCE EFFECTS
+
+Users participating in Events or live interactions must not:
+
+issue credible threats;
+
+intentionally disrupt Platform functionality; or
+
+engage in conduct that creates immediate safety risks.
+
+Creators are not responsible for all audience behavior, provided they do not explicitly instruct or encourage unlawful conduct.
+
+Critical commentary about individuals, creators, companies, institutions, or public figures is permitted.
+
+6. REPORTING & MODERATION
+
+Users may report conduct they reasonably believe violates this Code using available Platform tools.
+
+Reports must be submitted in good faith. Misuse of reporting systems, including knowingly false or abusive reports, may result in enforcement action.
+
+Shobble uses a combination of automated systems and human review to evaluate reports, identify patterns of behavior, and prioritize cases for review. Automated tools assist with detection and triage; enforcement decisions are made based on applicable policies and contextual review.
+
+7. ENFORCEMENT
+
+Violations of this Code may result in proportionate enforcement actions, which may include:
+
+warnings or notices;
+
+temporary restrictions on features or interactions; and
+
+account suspension or termination in cases of severe or repeated violations, or where required by law.
+
+Enforcement actions are applied based on the nature, severity, and frequency of the conduct at issue. Responses may escalate over time and may be applied immediately where necessary to address unlawful content, credible safety risks, or platform integrity concerns.
+
+Shobble is not required to provide individualized explanations for enforcement decisions, though it may do so at its discretion.
+
+8. NO ENTITLEMENT
+
+Access to the Platform is provided subject to compliance with Platform policies. Shobble reserves the right to restrict or remove access where required by law or to protect Platform integrity, safety, or operational stability.
+
+9. MODIFICATIONS
+
+This Code may be updated from time to time. Continued use of the Platform constitutes acceptance of the revised Code.

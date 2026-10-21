@@ -1,0 +1,242 @@
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+MONETIZATION ADDENDUM
+
+This Monetization Addendum (“Addendum”) supplements and is incorporated into the Master Terms of Use (“Terms”) governing access to and use of the Shobble platform (“Platform”). Capitalized terms not defined herein have the meanings set forth in the Terms or other Incorporated Policies.
+
+This Addendum governs eligibility, revenue attribution, payout mechanics, platform fees, licensed-content monetization, and related financial terms applicable to Creators who participate in monetization features made available through the Platform.
+
+1. CREATOR FIRST REVENUE PROGRAM
+1.1 Program Overview
+
+The Creator First Revenue Program (“Program”) enables eligible Creators to earn revenue from monetization features made available through the Platform, which may include, without limitation:
+
+content sales and digital goods;
+
+physical and print-on-demand merchandise;
+
+advertising and sponsorship placements;
+
+creator subscriptions and platform-wide subscription pools;
+
+licensed-content participation and brand programs.
+
+Participation in the Program is optional, conditional, non-exclusive, and revocable. Participation does not create any entitlement to compensation, minimum earnings, continued access to monetization features, or future revenue opportunities.
+
+Participation is available only to Creators who are at least eighteen (18) years old, have completed all required identity, age, tax, and eligibility checks, and remain approved for monetization. Users under eighteen (18) may not participate in the Program, operate payment-enabled creator tools, receive payouts, or otherwise receive creator earnings through the Platform.
+
+Restricted or adult-oriented content categories, if permitted, are governed by separate classification, access-control, and monetization rules. Restricted content and restricted monetization systems are separated from standard Platform experiences and may be unavailable, limited, or subject to additional review.
+
+All participation is subject at all times to the Terms, this Addendum, the Acceptable Use Policy, the Content Classification Policy, applicable licensing agreements, and other Incorporated Policies.
+
+For clarity, Creator Content may be embodied in, reproduced on, or distributed through one or more Products, including physical or digital merchandise.
+
+2. REVENUE SHARES & PLATFORM FEES
+2.1 Platform Fees & Creator Revenue Allocation
+
+Subject to eligibility, compliance, and applicable program terms, Shobble applies platform fees to monetized Creator Content revenue based on content type, use case, and licensing status. Platform fees are assessed on net revenue attributable to the Creator and are disclosed through creator-facing documentation, interfaces, or program materials.
+
+2.1.1 Advertising & Sponsorship Revenue Treatment
+
+Unless expressly designated otherwise in writing, advertising and sponsorship revenue allocated to Creators constitutes monetized Creator Content revenue and is subject to the applicable platform fee for the associated content category.
+Such platform fees apply in addition to any advertiser-side fees, marketplace commissions, or campaign costs assessed under the Advertising Marketplace Terms, which apply at a separate transaction stage and on a separate revenue basis.
+
+2.2 Licensed IP Content (Default Rule)
+
+Any Creator Content or Product that incorporates licensed intellectual property beyond fair use is subject to a flat platform fee of fifteen percent (15%), regardless of content or product type (“Licensed IP Content”).
+
+This Licensed IP platform fee reflects licensing costs, rights management, compliance obligations, brand governance, and associated operational risk.
+
+Unless otherwise expressly designated in writing, royalties payable to rights holders are funded from Shobble’s platform share in accordance with applicable licensing agreements.
+
+2.3 Original (Unlicensed) Creator Content – Platform Fees by Category
+
+The following platform fees represent standard fee tiers and may vary based on transaction method, region, payment processor requirements, or program-specific terms.
+
+For Creator Content that does not incorporate licensed intellectual property beyond fair use, platform fees generally apply as follows:
+
+5% Platform Fee
+
+Digital Art
+
+Digital Merchandise
+
+Illustrations / Wallpapers / Icons
+
+Emotes / Stickers / Reaction Packs
+
+7% Platform Fee
+
+Digital Novels / Comics
+
+Assets (e.g., UI elements, sprites, textures)
+
+Templates (e.g., UI, overlays, presentation assets)
+
+8% Platform Fee
+
+Streaming (Non-Live Video Content & Movies)
+
+Creator-Run Subscription Tiers
+
+10% Platform Fee
+
+Music
+
+Narrative Audio (e.g., audiobooks, audio dramas)
+
+Photography / Stock Media
+
+Video Essays / Short-Form Video Content
+
+Physical Merchandise
+
+Print-on-Demand Content
+
+3D Models (Non-Interactive)
+
+AR / VR Assets (e.g., props, environments, decorations)
+
+Sound Packs / SFX Libraries
+
+15% Platform Fee
+
+Mods / Add-Ons / User-Generated Expansions
+
+Games
+
+Interactive Experiences
+
+Live Streaming
+
+Platform-Hosted Events (Ticketed or Live)
+
+Any Creator Content not expressly listed above shall be assigned a platform fee determined by Shobble based on risk, operational cost, and marketplace considerations.
+
+2.4 Creator-Shared Revenue Pools (Not Per-Item Fees)
+
+Certain monetization features operate on a shared-revenue pool basis, rather than per-item platform fees. These include, without limitation:
+
+Platform-Wide Premium Subscriptions, under which Creators collectively receive fifty percent (50%) to seventy-five percent (75%) of net revenue, after application of the applicable platform fee (generally ranging from five percent (5%) to fifteen percent (15%), as determined under Section 2.1), allocated among eligible Creators based on engagement, content type, activity, and weighting factors determined by Shobbl.
+
+Shared-revenue pools are subject to eligibility requirements, allocation methodologies, platform fees, and adjustment mechanisms described in the Monetization Addendum and related policies.
+
+2.5 Modification & Disclosure
+
+Platform fees, revenue shares, and allocation methodologies may be modified from time to time in accordance with the Terms and this Monetization Addendum. Continued participation in monetization features following any such modification constitutes acceptance of the updated terms.
+
+For clarity, “net revenue” excludes, without limitation, taxes, refunds, chargebacks, credits, discounts, payment-processor fees, platform fees, fulfillment costs, and other deductions described in this Addendum.
+
+3. LICENSED CONTENT & ROYALTY SOURCING
+3.1 Licensed Content Participation
+
+Where a Creator incorporates licensed intellectual property into content or Products beyond fair use, participation in monetization features is permitted only where:
+
+the applicable license is valid, approved, and made available through the Platform; and
+
+the content complies with the applicable Brand Content Eligibility Schedule, licensing terms, and platform policies.
+
+If no valid license applies, Shobble may withhold, redirect, or disable monetization pending resolution or rights-holder action.
+
+3.2 Royalty Source Models
+
+Unless expressly designated otherwise in a written license or schedule:
+
+Royalties payable to IP licensors are calculated from Shobble’s platform revenue share and do not reduce Creator payouts (the “Platform-Share Royalty Model”).
+
+For select licensed IPs approved by Shobble, an alternative structure may apply under which royalties are calculated from amounts otherwise payable to Creators (a “Creator-Share Royalty Model”), as expressly documented in writing.
+
+Creators acknowledge that Creator-Share Royalty Models may reduce Creator earnings and may impact participation incentives.
+
+4. PRICING & MARKETPLACE CONTROLS
+
+Shobble may establish, enforce, or modify:
+
+minimum or maximum prices;
+
+pricing bands or subscription ranges;
+
+discounting rules;
+
+bundling, pooling, or promotional mechanics.
+
+Creators are responsible for selecting prices within applicable limits and for complying with consumer-protection, disclosure, and pricing laws.
+
+5. ELIGIBILITY, METRICS & ALLOCATION
+
+Eligibility criteria, revenue attribution rules, engagement metrics, weighting factors, detection systems, and allocation methodologies may vary by content type, feature, region, or program.
+
+Metrics and systems are proprietary and may rely on automated and human review. Shobble is not obligated to disclose detailed formulas or internal methodologies except where required by law.
+
+6. PAYOUT TIMING, ADJUSTMENTS & SETTLEMENT
+6.1 Calculation & Payment Timing
+
+Earnings are typically calculated on a bi-weekly basis and paid bi-weekly in arrears, subject to a settlement delay (generally ~30 days) to account for refunds, chargebacks, fraud review, tax reconciliation, currency conversion, and fulfillment finalization.
+
+Shobble may batch or consolidate payouts across Products, regions, or channels.
+
+6.2 Adjustments, Withholding & Reversals
+
+All earnings are subject to verification and may be withheld, adjusted, reversed, or delayed due to:
+
+fraud or abuse investigations;
+
+rights claims or licensing disputes;
+
+refunds, chargebacks, or payment reversals;
+
+accounting corrections or pricing errors;
+
+legal, regulatory, or processor requirements.
+
+No payout is final until settlement is complete.
+
+7. NO EMPLOYMENT OR FIDUCIARY RELATIONSHIP
+
+Participation in the Program does not create any employment, agency, partnership, joint venture, fiduciary, or representative relationship. Creators act solely as independent parties and assume all risks associated with monetization choices and participation.
+
+8. NO GUARANTEE OF EARNINGS OR CONTINUITY
+
+Shobble does not guarantee:
+
+any level of revenue, impressions, engagement, or sales;
+
+continued eligibility or participation;
+
+availability of any monetization feature, percentage, or program.
+
+The Program and its terms may be modified, suspended, or discontinued at any time, subject to applicable law.
+
+9. TAXES
+9.1 Creator Responsibility
+
+Creators are solely responsible for determining, reporting, and paying all taxes arising from their participation, including income, self-employment, VAT/GST, sales or use taxes, and similar obligations.
+
+Shobble does not provide tax advice.
+
+9.2 Reporting & Withholding
+
+Shobble may collect tax documentation, issue reports or forms, and withhold or remit taxes where required by law or payment partners. Such actions do not constitute tax advice or acceptance of tax liability.
+
+9.3 Accuracy & Cooperation
+
+Creators represent that all tax information provided is accurate and agree to cooperate with lawful requests. Failure to comply may result in payout delays or suspension.
+
+9.4 No Gross-Up
+
+Shobble is not responsible for grossing up payments or reimbursing Creators for taxes, penalties, or interest.
+
+10. FEATURE AVAILABILITY DISCLOSURE
+
+Certain content categories, monetization features, or Product types referenced in this Addendum may not be available at the time of a Creator’s participation and are included for classification, structural completeness, or future compatibility purposes only.
+
+Without limitation, physical merchandise, print-on-demand products, live streaming features, and related fulfillment or real-time delivery services may not currently be supported on the Platform.
+
+Nothing in this Addendum shall be construed as a representation, guarantee, or commitment by Shobble to launch, support, maintain, or continue any particular feature, Product type, monetization category, or revenue model. Availability of features is determined by Shobble in its sole discretion based on technical readiness, operational capacity, legal and regulatory considerations, partner availability, and business requirements.
+
+Any platform fees, revenue shares, or monetization terms associated with a feature or Product type shall apply only if and when such feature or Product type is made available on the Platform.
+
+11. MODIFICATION & TERMINATION
+
+This Addendum may be updated in accordance with the Terms. Continued participation constitutes acceptance of updates.
+

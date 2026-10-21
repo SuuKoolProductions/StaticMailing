@@ -1,0 +1,161 @@
+DMCA POLICY ADDENDUM
+
+(Notice-and-Takedown Procedure)
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This DMCA Policy Addendum (“DMCA Policy”) governs copyright-related notices, counter-notices, takedowns, restorations, and repeat-infringer measures on the Platform. It is incorporated into and forms part of the Master Terms of Use (“Terms”). Capitalized terms not defined herein have the meanings given in the Terms.
+
+This DMCA Policy is intended to comply with the Digital Millennium Copyright Act, 17 U.S.C. § 512 (“DMCA”), and equivalent notice-and-takedown regimes where applicable.
+
+In the event of any conflict between this DMCA Policy and the Terms, this DMCA Policy controls solely with respect to copyright notice-and-takedown procedures.
+
+1. DESIGNATED COPYRIGHT AGENT
+
+Pursuant to 17 U.S.C. § 512(c)(2), notices of claimed copyright infringement must be sent to:
+
+Designated Agent:
+Shobbl Incorporated – Copyright Agent
+Email: dmca@shobbl.com
+
+Mailing Address:
+Shobbl Incorporated
+Attn: Copyright Agent
+[Insert Physical Address]
+
+Notices sent to other addresses or channels (including customer support or in-app messaging) may not be received or processed.
+
+2. NOTICE OF CLAIMED INFRINGEMENT
+
+To be effective under the DMCA, a notice must include all of the following:
+
+A physical or electronic signature of the copyright owner or authorized agent;
+
+Identification of the copyrighted work claimed to be infringed (or a representative list);
+
+Identification of the allegedly infringing material and information reasonably sufficient to locate it on the Platform;
+
+The claimant’s name, address, telephone number, and email address;
+
+A statement that the claimant has a good-faith belief that the use is not authorized by the copyright owner, its agent, or the law; and
+
+A statement, under penalty of perjury, that the information is accurate and that the claimant is authorized to act on behalf of the copyright owner.
+
+Incomplete, defective, or ambiguous notices may be rejected, returned for clarification, or deprioritized.
+
+3. TAKEDOWN PROCEDURE
+
+Upon receipt of a facially valid DMCA notice, Shobbl Incorporated may, as required or permitted by law:
+
+remove or disable access to the identified material;
+
+notify the affected User or Creator of the takedown; and
+
+record the notice for compliance, audit, and repeat-infringer tracking purposes.
+
+Actions taken under this Section are procedural and administrative only and do not constitute a legal determination, admission of infringement, or adjudication of rights, consistent with Section 11.3 of the Terms.
+
+4. COUNTER-NOTIFICATION PROCEDURE
+
+If content is removed pursuant to a DMCA notice, the affected User or Creator may submit a counter-notification containing:
+
+A physical or electronic signature;
+
+Identification of the removed material and its prior location;
+
+A statement under penalty of perjury that the removal resulted from mistake or misidentification;
+
+The User’s or Creator’s name, address, telephone number, and email address; and
+
+Consent to the jurisdiction of the appropriate U.S. federal district court and acceptance of service of process.
+
+Upon receipt of a valid counter-notice, Shobbl Incorporated may forward it to the original claimant and, unless notified of court action within the statutory period, restore the content as permitted by law.
+
+4.1 Interim Measures During Counter-Notice Period
+
+Where a valid counter-notice is submitted, Shobbl Incorporated may, in its discretion, suspend further enforcement actions relating solely to the disputed content during the statutory waiting period, unless continued restriction is reasonably necessary to address fraud, safety, legal compliance, payment risk, or Platform integrity concerns.
+
+Nothing in this Section creates a right to restoration, continued availability, monetization, or reinstatement.
+
+5. NO AUTOMATIC ENFORCEMENT OR PENALTIES
+
+For avoidance of doubt, and consistent with Sections 11, 20, and 21 of the Terms:
+
+A DMCA notice or takedown does not, by itself, constitute a violation of the Terms;
+
+A DMCA notice does not automatically result in account suspension, termination, monetization restrictions, payout reversals, or penalties; and
+
+Compliance with statutory takedown obligations is not punitive and is not treated as wrongdoing.
+
+Nothing in this DMCA Policy requires Shobbl Incorporated to impose account penalties, monetization restrictions, payout actions, or termination solely as a result of receiving a DMCA notice, absent independent grounds under the Terms.
+
+Any separate enforcement action is governed exclusively by Section 11 (Enforcement) and Section 21 (Termination) and is based on independent risk, abuse, or policy considerations.
+
+6. RELATIONSHIP TO PAYOUTS AND MONETIZATION (SECTION 20)
+
+Where User Content subject to a DMCA notice is associated with monetization, licensing, advertising, or payouts:
+
+Related earnings remain conditional and provisional under Section 20;
+
+Shobbl Incorporated may temporarily withhold, delay, or reserve payouts reasonably necessary to address transaction validity, rights clearance, advertiser eligibility, or legal risk; and
+
+Such actions are risk-management and compliance measures, not penalties, forfeitures, or determinations of infringement.
+
+For avoidance of doubt, DMCA notices, standing alone, do not constitute a determination of invalid transactions, infringement, or ineligibility for payouts and do not automatically result in payout reversals or withholding.
+
+Resolution of a DMCA notice does not guarantee reinstatement of monetization, release of withheld funds, or payment of disputed amounts.
+
+7. REPEAT INFRINGER POLICY
+
+Shobbl Incorporated maintains a policy for addressing repeat copyright infringement in appropriate circumstances, as required by 17 U.S.C. § 512(i).
+
+In determining whether an account qualifies as a repeat infringer, we may consider, among other factors:
+
+the number, frequency, and pattern of valid DMCA notices;
+
+evidence of willful, bad-faith, or abusive conduct;
+
+attempts to evade enforcement or re-upload removed material; and
+
+overall risk to the Platform, rights holders, or users.
+
+Repeat-infringer determinations are contextual, non-mechanical, and discretionary. Any resulting suspension or termination is governed exclusively by Section 21 (Termination).
+
+8. MISREPRESENTATION AND ABUSE OF THE DMCA PROCESS
+
+Submitting knowingly false, misleading, incomplete, or bad-faith DMCA notices or counter-notices may expose the submitting party to liability under 17 U.S.C. § 512(f) and applicable law.
+
+Shobbl Incorporated reserves the right to:
+
+reject, suspend processing of, or deprioritize notices submitted by claimants who repeatedly submit abusive, misleading, fraudulent, or bad-faith notices, or who misuse the DMCA process for harassment, censorship, or competitive interference;
+
+take enforcement action against users who misuse rights-enforcement mechanisms, consistent with Section 11; and
+
+cooperate with lawful investigations, subpoenas, or court proceedings.
+
+Such actions do not constitute a legal determination regarding copyright ownership or infringement and do not waive Shobbl Incorporated’s rights or obligations under the DMCA.
+
+9. NO DUTY TO MONITOR; NEUTRAL ROLE
+
+Consistent with Section 11 of the Terms:
+
+Shobbl Incorporated does not affirmatively monitor for copyright infringement;
+
+does not adjudicate ownership, licensing, or fair-use disputes; and
+
+does not guarantee that infringing material will be identified or removed.
+
+Our role is limited to providing a legally compliant notice-and-takedown mechanism.
+
+10. JURISDICTIONAL LIMITATIONS
+
+This DMCA Policy applies to U.S. copyright claims under the DMCA.
+
+Equivalent procedures may apply for other jurisdictions under applicable law. Nothing in this DMCA Policy limits mandatory rights or procedures under non-U.S. copyright regimes.
+
+11. RESERVATION OF RIGHTS
+
+Shobbl Incorporated reserves all rights not expressly stated herein, including the right to modify this DMCA Policy as required to maintain compliance with applicable law, court decisions, or regulatory guidance, subject to Section 34 (Notice of Changes).

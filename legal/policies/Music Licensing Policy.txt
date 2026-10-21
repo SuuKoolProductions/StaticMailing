@@ -1,0 +1,191 @@
+MUSIC LICENSING POLICY
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This Music Licensing Policy (“Policy”) governs the upload, distribution, monetization, synchronization, and permitted use of music and audio content on the Shobble platform (“Platform”).
+
+This Policy applies to all creators, labels, publishers, distributors, partners, and users who upload, access, distribute, or use music content on the Platform. It operates in conjunction with the Master Terms of Use, Creator Content License Agreement, Acceptable Use Policy, AI Use-Case Policy, and any applicable Monetization Addenda. In the event of conflict, the Master Terms control.
+
+Licenses granted through the Platform are subject to territorial restrictions, local law, and technical or contractual controls where applicable.
+
+1. RIGHTS STRUCTURE & DEFINITIONS
+
+Music is governed by multiple distinct rights, which may be owned or administered by different parties. For purposes of this Policy:
+
+Musical Composition means the underlying song, including melody, lyrics, and arrangement.
+
+Sound Recording (Master) means the fixed recorded performance of a composition.
+
+Synchronization (“Sync”) means the pairing of music with visual or interactive media, including games, video, film, trailers, cutscenes, advertising, or similar uses.
+
+Public Performance means the performance or transmission of a composition to the public, including via streaming or broadcast.
+
+AI / Machine Learning Use means use of music or audio for training, fine-tuning, validating, benchmarking, or operating artificial intelligence, machine learning, or generative systems.
+
+Shobble does not assume ownership of any music rights and does not act as a music publisher, record label, collection society, or rights administrator.
+
+2. CREATOR ELIGIBILITY & RIGHTS REPRESENTATIONS
+2.1 Required Rights Control
+
+By uploading music content, the creator represents and warrants that they have secured all rights necessary to grant the licenses selected, including:
+
+ownership or lawful control of the sound recording (master); and
+
+ownership, administration authority, or appropriate clearance of the musical composition.
+
+Creators must not upload music that infringes the rights of any third party.
+
+2.2 Composition Rights Disclosure
+
+Creators must accurately disclose the status of composition rights, including whether:
+
+the creator owns 100% of the composition;
+
+the composition is administered by a publisher or third party; or
+
+mechanical rights are administered through a collective, statutory, or compulsory licensing regime.
+
+This disclosure is required for compliance and transparency purposes and does not transfer or assign publishing rights to Shobbl.
+
+2.3 Mechanical Rights Notice
+
+Where music is made available for download, reproduction, or other uses implicating mechanical rights, creators are responsible for ensuring that all applicable mechanical rights are properly cleared, licensed, or administered through appropriate statutory, collective, or direct licensing mechanisms.
+
+Shobble does not administer mechanical royalties unless expressly stated in a separate written agreement.
+
+3. LICENSE TYPES SUPPORTED FOR MUSIC
+
+Music content on the Platform may be offered under one of the following license types, as selected by the creator:
+
+3.1 Proprietary / All Rights Reserved (Default)
+
+Permits streaming, download, or playback as configured.
+
+Allows lawful local and offline use.
+
+Prohibits redistribution, derivative reuse, synchronization, and AI use unless expressly authorized.
+
+3.2 Creative Commons (Human Use Only)
+
+Permits human reuse as defined by the selected Creative Commons variant.
+
+Does not permit AI, machine learning, dataset creation, automated analysis, or generative use, regardless of Creative Commons designation.
+
+Synchronization rights are not implied by Creative Commons selection.
+
+These additional restrictions reflect Platform-level contractual limitations and do not modify or supersede the underlying Creative Commons license outside the Platform.
+
+3.3 Royalty-Free / Library Music License
+
+Permits use in defined projects subject to the stated license scope.
+
+Prohibits resale of standalone tracks, dataset extraction, and AI use.
+
+3.4 Educational / Research License (No AI)
+
+Permits classroom and academic use by humans.
+
+Prohibits AI training, automated analysis, commercial redistribution, or derivative exploitation.
+
+3.5 Custom / Enterprise License
+
+Requires a separate written agreement.
+
+May include expanded rights, including limited AI or synchronization permissions, subject to explicit contractual terms.
+
+4. SYNCHRONIZATION RIGHTS & SYNC-SAFE BADGES
+4.1 Sync Is a Separate Right
+
+Synchronization rights are not included by default in streaming, download, or distribution licenses. Sync permission must be explicitly granted by the creator and may require lawful control of both the sound recording and the musical composition.
+
+4.2 Sync-Safe Badge System
+
+Shobble uses a rights-clarity badge system to signal synchronization permissions:
+
+🟢 Sync-Safe
+The creator owns or controls 100% of the master and composition and authorizes sync use within the specified scope.
+
+🟡 Sync-Restricted
+Sync use is permitted only in limited or defined contexts.
+
+🔴 Not Sync-Cleared
+No synchronization is permitted. This is the default state.
+
+Badges reflect creator-declared permissions and do not replace license agreements, waive legal requirements, or guarantee rights clearance.
+
+4.3 Scope of Sync Permission
+
+Where sync is enabled, creators must specify permitted contexts (e.g., games, trailers, non-commercial video). Any use outside the declared scope is prohibited.
+
+5. PERFORMANCE RIGHTS & COLLECTIVE LICENSING
+
+Public performance rights for musical compositions are typically administered by performing rights organizations or collective management entities.
+
+Depending on platform functionality, distribution model, and jurisdiction, Shobble or downstream partners may secure blanket public performance licenses for certain uses. Shobble does not guarantee that such licenses are in place in all territories or for all forms of use.
+
+Participation in performing rights organizations and compliance with registration or reporting obligations remain the responsibility of the creator where required by law or applicable agreements.
+
+6. DERIVATIVE WORKS, REMIXES & SAMPLES
+6.1 Derivative Uses
+
+Remixes, adaptations, or derivative works are permitted only where the creator has explicitly authorized such uses and controls all necessary rights.
+
+6.2 Samples
+
+Creators must not upload recordings containing unlicensed or uncleared samples. There is no de minimis exception for sampling under this Policy.
+
+7. AI & MACHINE LEARNING PROHIBITION
+7.1 No AI License Granted
+
+No music content on the Platform—regardless of license type, public availability, or Creative Commons designation—may be used for:
+
+training or fine-tuning AI or machine learning models;
+
+generating synthetic audio, voices, or musical styles; or
+
+creating datasets, embeddings, or model benchmarks.
+
+Any AI-related use requires a separate, express, written agreement.
+
+7.2 Vocal & Style Modeling
+
+Use of recordings or compositions for voice cloning, style imitation, or generative audio systems is prohibited absent explicit written authorization.
+
+8. AGGREGATORS & DISTRIBUTION PARTNERS
+
+Creators acknowledge that music aggregators and distribution partners may require:
+
+clear separation of master and composition rights;
+
+confirmation of synchronization permissions; and
+
+warranties regarding AI use restrictions.
+
+Shobble may share license metadata, sync-safe badges, and rights declarations with authorized partners for compliance, distribution, and operational purposes.
+
+9. ENFORCEMENT & CONSEQUENCES
+
+Violations of this Policy may result in:
+
+removal or restriction of content;
+
+revocation of sync-safe status;
+
+monetization suspension or termination;
+
+account enforcement actions, including termination for repeat or willful violations; and
+
+legal remedies available under applicable law and the Master Terms.
+
+Unauthorized AI or synchronization use may constitute both a contractual breach and intellectual property infringement.
+
+10. NO WAIVER; RESERVATION OF RIGHTS
+
+Public availability of music content does not constitute a waiver of rights or a grant of permissions beyond those expressly stated. All rights not expressly granted are reserved by the creator and by Shobbl.
+
+11. CONTACT & LICENSING REQUESTS
+
+Requests for expanded rights, synchronization permissions, or AI licensing must be submitted through channels expressly designated by Shobbl. Silence, inaction, or continued availability of content does not constitute consent.

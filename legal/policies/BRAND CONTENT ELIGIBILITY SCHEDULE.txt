@@ -1,0 +1,142 @@
+BRAND CONTENT ELIGIBILITY SCHEDULE
+
+This Brand Content Eligibility Schedule (“Schedule”) is incorporated by reference into the Brand & Intellectual Property License Agreement (“Agreement”) between Shobbl Incorporated, doing business as Shobble (“Shobble”) and the undersigned Licensor. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+Capitalized terms not defined in this Schedule have the meanings set forth in the Agreement, Shobble’s Content Classification Policy, and Shobble’s Acceptable Use Policy (“AUP”).
+
+1. PURPOSE & SCOPE
+
+This Schedule defines brand-specific content eligibility restrictions applicable to the Licensed IP when incorporated into Creator Content and Products made available through the Shobble Platform.
+
+This Schedule operates in addition to, and not in place of, Shobble’s Platform-wide Content Classification Policy and AUP.
+
+Nothing in this Schedule creates a right to publish, distribute, monetize, or access content, or limits Shobble’s discretion to classify, restrict, or remove content in accordance with its policies.
+
+2. Platform GOVERNANCE & PRECEDENCE
+2.1 Platform Policies Control
+
+All uses of the Licensed IP are subject to:
+
+• Shobble’s Content Classification Policy;
+• Shobble’s Acceptable Use Policy; and
+• Shobble’s Master Terms of Use and Incorporated Policies.
+
+Where a conflict exists, Shobble’s Platform-wide policies control; provided, however, that this Schedule or the Agreement may impose additional restrictions on the use of the Licensed IP that are more restrictive than, but not inconsistent with, Shobble’s policies.
+
+2.2 Brand Restrictions Are Additive Only
+
+Licensor-specified restrictions may further limit eligible uses of the Licensed IP but may not permit content or uses that are otherwise Restricted, Blacklisted, or Forbidden under Shobble policies.
+
+3. ELIGIBLE CONTENT CLASSIFICATIONS
+
+Subject to Section 2, the Licensed IP may be incorporated only into Creator Content classified under Shobble’s Content Classification Policy as one or more of the following:
+
+☐ All Ages
+☐ 7+
+☐ 12+
+☐ 16+
+☐ 18+ (Non-Sexual)
+☐ 18+ (Sexualized Content; Additional Restrictions Apply - See Section 4.2)
+☐ Other (specify): ______________________
+
+Eligibility applies solely to the classifications selected above, except as expressly provided in Section 4.2. Content falling outside the permitted classifications is not eligible to incorporate the Licensed IP.
+
+4. INELIGIBLE CONTENT CLASSIFICATIONS
+4.1 General Prohibition
+
+Except as expressly permitted under Section 4.2, the Licensed IP may not be incorporated into Creator Content classified as including, without limitation:
+
+• Sexualized Content, as defined under Shobble’s Content Classification Policy;
+
+• Sexual Violence, Exploitation, or Coercion;
+
+• Hate, Harassment, or Extremist Content;
+
+• Political Advocacy, Campaigning, or Ideological Promotion;
+
+• Illegal, Fraudulent, or Deceptive Activity;
+
+• AI-generated or AI-assisted content prohibited under Shobble’s Acceptable Use Policy or AI Use-Case Policy; or
+
+• Any Blacklisted or Forbidden Content under Shobble policies.
+4.2 Optional Restricted Content Eligibility
+
+Notwithstanding Sections 3 and 4.1, Licensor may request eligibility for lawful, fictional 18+ content classified as Sexualized Content under Shobble’s Content Classification Policy.
+
+Any such eligibility, if approved by Shobble, is subject at all times to the Content Classification Policy, the Acceptable Use Policy, applicable Platform requirements, and Shobble’s sole discretion. Eligibility does not imply monetization approval and may be modified or withdrawn at any time without liability.
+
+5. CONTEXTUAL & THEMATIC RESTRICTIONS (OPTIONAL)
+
+In addition to classification-based restrictions, Licensor may impose the following contextual limitations, if selected:
+
+☐ No sexual themes or innuendo
+☐ No political or religious contexts
+☐ No depiction of criminal activity
+☐ No depiction of substance abuse
+☐ No association with real-world tragedies
+☐ No parody or satirical reinterpretation
+☐ No re-contextualization inconsistent with brand values
+☐ Other restrictions (describe): ______________________
+
+Unselected items do not imply permission if otherwise restricted by Shobble policies.
+
+6. USE-CASE LIMITATIONS
+
+Licensed IP use is limited to the following approved use cases:
+
+☐ Decorative / illustrative use only
+☐ Fan art (non-narrative)
+☐ Narrative or story-based works
+☐ Mods, add-ons, or user-generated expansions
+☐ Games and interactive content
+☐ Physical merchandise (e.g., plushies, figurines, collectibles)
+☐ Print-on-demand merchandise (e.g., apparel, posters, accessories)
+☐ Digital merchandise (e.g., digital art files, wallpapers, icons, emojis)
+☐ Fan-made assets (e.g., icons, sprites, textures, UI elements)
+☐ Virtual and augmented reality assets (e.g., 3D models, props, environments, virtual world decorations)
+☐ Other (specify): ______________________
+
+Uses outside the selected scope are not authorized.
+
+7. NO PRE-APPROVAL; NO ENTITLEMENT
+
+Nothing in this Schedule:
+
+Requires Shobble to submit Creator Content for Licensor approval;
+
+Guarantees inclusion of Licensed IP in any content or Product; or
+
+Creates an editorial, approval, or agency relationship.
+
+Shobble retains sole discretion to approve, reject, restrict, classify, or remove any content or Product.
+
+8. ENFORCEMENT & MODIFICATION
+8.1 Enforcement
+
+Shobble may enforce this Schedule through content restriction, removal, monetization suspension, or other actions consistent with the Agreement and Platform policies.
+
+8.2 Updates
+
+Licensor-requested changes to this Schedule must be submitted in writing and are effective only upon written acceptance by Shobbl.
+
+Shobble may update its Content Classification Policy or AUP independently. Continued participation in the Program constitutes acceptance of such updates.
+
+9. NO WAIVER
+
+Failure to enforce this Schedule with respect to any particular content does not constitute a waiver of any rights under this Schedule or the Agreement.
+
+10. ACKNOWLEDGMENT
+
+Licensor acknowledges that:
+
+Shobble operates a Platform-wide content governance system;
+
+Classification outcomes may vary based on context; and
+
+Shobble does not guarantee that all Creator interpretations will align with Licensor’s preferences.
+
+This Schedule reflects eligibility parameters only, not approval outcomes.
+
+IMPLEMENTATION NOTE (Non-Contractual)
+
+This Schedule is structured to support storage as structured metadata and automated enforcement through Shobble’s classification, review, and monetization systems.

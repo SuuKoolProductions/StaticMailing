@@ -1,0 +1,125 @@
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+Delegated Access Policy
+
+1. Purpose and Scope
+
+This Policy governs limited delegation of access to eligible licensed digital content, account administration, or institutional use cases by an authorized account holder, business administrator, or educational institution (“Manager”) to eligible users (“Delegated Users”) where Shobble supports such functionality.
+
+This Policy is designed to support controlled household, business, and educational use of licensed content while preserving compliance with applicable law, third-party license terms, age rules, and platform governance requirements.
+
+This Policy does not authorize accounts for users below the minimum Platform account age and does not override the Master Terms of Use, Content Classification Policy, Age Rating policies, or any feature-specific eligibility requirements.
+
+2. No Ownership Transfer
+
+Delegated access does not constitute a sale, transfer, assignment, or conveyance of ownership or license rights.
+
+All licenses remain held exclusively by the Manager, the relevant institution, or the original license holder.
+
+Delegated Users are permitted users only and acquire no ownership, transfer, sublicensing, resale, monetization, payout, or payment-enabled creator rights in any licensed content.
+
+3. Delegated Access Eligibility
+
+Managers may delegate access only where:
+
+the Manager is the lawful holder or administrator of the applicable license;
+
+the applicable license terms permit household, institutional, or delegated use;
+
+the Delegated User independently satisfies the Platform’s minimum account age and any applicable feature-specific eligibility requirement;
+
+access is configured in accordance with Platform controls and policies; and
+
+the content made accessible is appropriate for the Delegated User in accordance with the Platform’s Age Rating and Content Classification policies.
+
+Delegated access is non-exclusive, revocable, and limited to personal, institutional, or internal use unless expressly permitted otherwise.
+
+4. 18+ Feature Restrictions
+
+Delegated access does not permit any user under eighteen (18) to access or use:
+
+restricted or adult-oriented environments;
+
+monetization tools;
+
+payouts or creator earnings features;
+
+payment-enabled creator functionality; or
+
+any other feature Shobble designates as requiring adult eligibility, identity verification, or age verification.
+
+5. License Quantity Limits
+
+Delegated access is subject to license quantity limits.
+
+Each active user of a licensed item (including Managers and Delegated Users) counts toward the total number of licenses owned where applicable.
+
+If the number of Delegated Users accessing a licensed item exceeds the number of licenses held, the Manager must acquire additional licenses to remain in compliance.
+
+The Platform may restrict, suspend, or revoke access where license limits are exceeded.
+
+No license may be shared concurrently beyond the number of copies owned, unless expressly permitted by the licensor.
+
+6. Manager Responsibilities
+
+Managers are solely responsible for:
+
+ensuring compliance with all applicable license terms;
+
+supervising delegated access and use;
+
+configuring appropriate permissions and restrictions;
+
+revoking access when required; and
+
+ensuring that Delegated Users do not engage in prohibited conduct, including resale, sublicensing, monetization, payout activity, or access to restricted environments for which they are not eligible.
+
+The Platform is not responsible for misuse arising from delegated access.
+
+7. Retraction and Revocation of Access
+
+Managers may retract delegated access at any time through Platform controls.
+
+The Platform may also revoke or suspend delegated access without notice where:
+
+license limits are exceeded;
+
+the Manager’s account is suspended or terminated;
+
+a Delegated User violates Platform policies;
+
+required verification cannot be completed or eligibility cannot be confirmed; or
+
+continued access would violate law, regulation, platform policy, or licensor requirements.
+
+Revocation of access does not entitle any user to a refund, replacement, or continued availability.
+
+8. Educational and Institutional Accounts
+
+For educational or institutional access, the institution remains the license holder or administrator unless otherwise stated in writing.
+
+Access is limited to the duration of enrollment, employment, membership, or authorization and terminates upon unenrollment, withdrawal, role change, or institutional revocation.
+
+Educational or institutional access does not authorize monetization, payout eligibility, payment-enabled creator tools, or restricted/adult-oriented environment access for users who are not otherwise eligible.
+
+9. No Expectation of Permanence
+
+Delegated access is inherently temporary and conditional.
+
+Users should not expect delegated content to remain accessible indefinitely, including after account changes, license expiration, role changes, or Manager revocation.
+
+10. Consumer Disclosure
+
+The Platform may display notices, labels, or prompts indicating:
+
+that content is accessed via delegated authorization;
+
+that ownership has not transferred; and
+
+that continued access is subject to change.
+
+Such disclosures are provided to ensure transparency and compliance with consumer-protection standards.
+
+11. Reservation of Rights
+
+The Platform reserves the right to modify, restrict, or discontinue delegated access features at any time to maintain compliance with legal, regulatory, technical, safety, or licensor requirements.

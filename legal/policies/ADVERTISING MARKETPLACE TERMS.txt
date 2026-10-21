@@ -1,0 +1,520 @@
+Advertising Marketplace Terms
+
+Effective Date: 01/01/26
+Last Updated: 3/22/26
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+These Advertising Marketplace Terms (“Advertising Marketplace Terms” or “Ad Marketplace Terms”) govern the purchase, placement, display, and monetization of advertisements and sponsored content on the Shobble platform (“Platform”). These Advertising Marketplace Terms supplement and are incorporated into the Master Terms of Use and the Banned Advertising Products & Services Policy, as well as any other policies expressly incorporated by reference.
+
+Capitalized terms not defined here have the meanings set forth in the Master Terms of Use.
+
+These Advertising Marketplace Terms incorporate by reference the following documents (collectively, the “Incorporated Advertising Marketplace Policies”):
+
+Brand Content Eligibility Schedule
+Banned Advertising Products & Services Policy
+
+Order of Precedence
+
+In the event of a conflict between applicable documents, the following order of precedence applies:
+
+1. Master Terms of Use
+2. Advertising Marketplace Terms
+3. Incorporated Advertising Marketplace Policies
+
+1. Scope & Structure
+
+These Advertising Marketplace Terms apply to advertisers, sponsors, and creators participating in advertising or sponsored content activities on the Platform, as applicable to their role.
+
+Shobble operates a multi-format Advertising Marketplace supporting platform-served advertising and creator-integrated sponsorships across music, video, interactive media, games, books, comics, art, and live streaming.
+
+Advertising and sponsorships are distinct commercial categories governed by different rules, pricing structures, and user controls.
+
+Advertising and sponsorship eligibility is further governed by the Banned Advertising Products & Services Policy, which forms an integral part of these Advertising Marketplace Terms. In the event of a conflict, the Banned Advertising Products & Services Policy and the Master Terms of Use control.
+
+Nothing in these Advertising Marketplace Terms creates an obligation for Shobble to accept, serve, approve, continue, distribute, or maintain any advertisement or sponsorship.
+
+2. Advertising Categories
+2.1 Platform Advertising (“Advertisements”)
+
+Advertisements are paid promotional placements served by Shobble’s advertising systems and may include, where permitted:
+
+display ads;
+
+audio ads;
+
+pre-roll, mid-roll, or post-roll ads;
+
+companion banners;
+
+interactive or rewarded ads; and
+
+other formats expressly enabled by the Platform.
+
+Advertisements are clearly identified as advertisements and do not modify, alter, or become embedded within creative works. Advertisements may appear solely within the delivery interface or access medium through which such works are presented.
+
+2.2 Sponsored Content
+
+Sponsored Content refers to paid brand collaborations integrated into creator content, including but not limited to:
+
+product placement;
+branded artwork, assets, or themes;
+sponsored playlists, streams, or events;
+creator-read or creator-produced promotional segments; and
+brand-themed challenges, game jams, or collaborations.
+
+Sponsored Content:
+
+must be clearly and conspicuously disclosed as sponsored, branded, or promotional content;
+must comply with all applicable advertising disclosure laws, regulations, and guidelines, including the FTC Endorsement Guides and equivalent international requirements in the jurisdictions where such content is created, distributed, or made available;
+must comply with the Brand Content Eligibility Schedule, including applicable brand safety, placement, category, and audience alignment requirements;
+must be initiated or affirmatively approved by the creator; and
+is not removed, hidden, or suppressed by subscription tiers or ad-free user settings.
+
+Sponsored Content remains subject to all applicable platform policies, including disclosure, brand safety, eligibility, and compliance requirements, and may be restricted, limited, or removed by Shobble at its sole discretion.
+
+2.3 Prohibited Products & Services
+
+Advertising and sponsorships are subject to the Banned Advertising Products & Services Policy, which identifies categories of products, services, and business models that are prohibited from advertising on the Platform, including categories that may be lawful but are restricted for policy, safety, or platform-alignment reasons.
+
+Advertisers and sponsors are responsible for reviewing and complying with the Banned Advertising Products & Services Policy prior to creating or submitting any advertisement or sponsorship.
+
+3. Content-Specific Restrictions
+3.1 Downloaded Games
+
+Shobble does not permit advertising reels, forced advertisements, or interstitial ad breaks in downloaded games.
+
+Monetization may occur through sponsorships, brand collaborations, or optional click-through promotions for browser-based experiences.
+
+3.2 Books, Comics, and Written Works
+
+Advertisements may appear only in free or web-based interactive displays where enabled by the creator.
+
+Paid or premium copies are ad-free, except for properly disclosed sponsored content.
+
+3.3 Creator Controls
+
+Creators may opt in or out of advertising by content type, subject to platform minimums, eligibility requirements, subscription logic, and applicable policies.
+
+4. Subscription Interaction
+
+Shobble subscription tiers affect Advertisements only, not Sponsored Content:
+
+Free Users: Full platform advertising exposure
+
+Premium ($9.99): Reduced platform advertising
+
+Premium Plus ($19.99): No platform advertising
+
+Sponsored Content remains visible to all users regardless of subscription status.
+
+5. Revenue Share & Fees
+5.1 Standard Advertising Fees
+Revenue Type	Shobble Fee
+Standard Ads (CPM / CPC)	15%
+Programmatic / Network Ads	20%, net of third-party fees
+
+“Net of third-party fees” means that external ad network fees or costs are deducted prior to calculating Shobble’s fee.
+
+5.2 Sponsorship Fees
+Sponsorship Type	Shobble Fee
+Creator-Negotiated Sponsorships	5%
+Brand Campaigns via Shobble Sales	Up to 20%, depending on involvement
+
+The applicable fee is determined by Shobble based on whether it provides sourcing, negotiation, sales, compliance review, campaign management, reporting, or other material services.
+
+5.3 Payment & Reporting
+
+Revenue is calculated on a net basis after refunds, invalid traffic, chargebacks, fraud, or enforcement adjustments.
+
+Shobble may delay, adjust, withhold, or claw back payouts pending verification, investigation, or compliance review.
+
+Reporting is provided at intervals determined by the Platform and may vary by ad format, campaign type, or third-party integrations.
+
+5.3.1 Creator Payout Treatment
+
+Advertiser-facing fees, marketplace commissions, and campaign costs governed by these Advertising Marketplace Terms apply at the advertiser transaction stage. Any advertising or sponsorship revenue allocated to Creators is subject to creator-facing platform fees, eligibility requirements, and allocation rules governed separately by Monetization Terms.
+
+6. Eligibility, Approval & Advertiser Responsibilities
+
+6.1 General Compliance Requirements
+
+All advertisements and sponsored content must:
+
+comply with all applicable laws, regulations, and applicable industry standards, including but not limited to advertising, consumer protection, data protection, and unfair or deceptive practices laws;
+include all required disclosures and comply with applicable advertising disclosure laws and guidelines, including FTC Endorsement Guides and equivalent international requirements;
+meet Shobble’s brand-safety, content, and community standards;
+be age-appropriate for the placement context;
+comply with payment processor and financial partner requirements; and
+avoid deceptive, misleading, fraudulent, or unfair practices, including false or unsubstantiated claims, and may not circumvent or attempt to circumvent any Platform controls, restrictions, or enforcement mechanisms.
+6.2 Restrictions & Jurisdictional Compliance
+
+Certain advertising categories may be restricted or prohibited based on user age, jurisdiction, content context, or platform policy, including regulated or sensitive products or services.
+
+Advertisements may not be issued, displayed, targeted, or made available in any jurisdiction where they would violate or create a risk of non-compliance with applicable regional laws, regulations, or platform policies.
+
+6.3 Platform Risk & Compliance Controls
+
+Shobble may restrict, suspend, or prohibit any advertising category, format, targeting method, or business model as necessary to comply with payment processors, financial partners, risk management requirements, or applicable law.
+
+6.4 Ongoing Compliance Obligations
+
+Advertisers and sponsors must maintain ongoing compliance with these requirements throughout the duration of any campaign or sponsored content.
+
+6.5 Approval & No Guarantee of Placement
+
+Submission of any advertisement or sponsorship does not guarantee approval, placement, delivery, or continued availability on the Platform.
+
+6.6 Advertiser Responsibility
+
+Advertisers and sponsors remain solely and fully responsible for the legality, accuracy, and compliance of their advertising and sponsored content, regardless of any review, approval, or feedback provided by Shobbl.
+
+6.7 Platform Discretion & Enforcement
+
+Shobble reserves the right to interpret and apply these requirements in its reasonable discretion.
+
+Shobble reserves the right to approve, reject, modify, limit, suspend, geo-restrict, or remove any advertising or sponsorship at its sole discretion, including where necessary to ensure compliance with applicable law, platform policies, safety standards, or business requirements.
+
+6.8 Advertiser Representations
+
+Advertisers and sponsors represent and warrant that all advertising and sponsored content:
+
+(a) is truthful, accurate, and not misleading;
+(b) complies with all applicable laws, regulations, and industry standards;
+(c) does not infringe or violate any intellectual property, privacy, or publicity rights;
+(d) includes all legally required disclosures and substantiation; and
+(e) is authorized for use on the Platform.
+
+Shobble does not independently verify advertiser claims and does not guarantee the accuracy, safety, or legality of advertised products or services.
+
+Shobble has no obligation to monitor, review, or verify advertising or sponsored content for legal or regulatory compliance.
+
+These representations and warranties survive termination of participation in the Advertising Marketplace for so long as the relevant advertising or sponsored content remains accessible or gives rise to claims.
+
+6.9 Content Categories, Targeting & Tag Weights
+
+When creating an Advertising Marketplace listing or campaign, advertisers must accurately select applicable content categories, audience attributes, regional availability, and tag weights that reflect the nature of the advertised product or service and the intended placement context.
+
+Advertisers acknowledge that:
+
+(a) content categories and tag weights are used to determine placement eligibility, brand-safety alignment, age-appropriateness, and regional compliance;
+
+(b) inaccurate, misleading, or incomplete category selection or tagging may result in rejection, limitation, suspension, or removal of an advertisement or campaign; and
+
+(c) campaigns configured with highly specific, narrow, or niche targeting criteria may experience reduced reach, delayed delivery, partial fulfillment, or complete non-fulfillment, without liability to Shobble, due to limited available inventory. 
+
+Shobble does not guarantee fulfillment, pacing, or delivery timelines for advertisements or sponsorships that target restricted, niche, or limited audiences.
+
+7. Invalid Traffic, Fraud, Billing Adjustments & Clawbacks
+7.1 Definitions
+
+For purposes of these Advertising Marketplace Terms:
+
+“Invalid Traffic” means any impressions, clicks, engagements, conversions, or other interactions that are artificial, fraudulent, incentivized in violation of Platform rules, or otherwise not the result of genuine user interest, including but not limited to automated traffic, bots, click farms, script-generated activity, or manipulated engagement.
+“Fraudulent Activity” means any act or omission intended to manipulate, inflate, misrepresent, or otherwise distort advertising performance, delivery, billing, or reporting, including attempts to evade Platform controls or detection systems.
+“Non-Compliant Activity” means any activity that violates these Advertising Marketplace Terms, the Incorporated Advertising Marketplace Policies, the Master Terms of Use, or applicable laws and regulations.
+7.2 Prohibited Conduct
+
+Advertisers, sponsors, and creators may not, directly or indirectly:
+
+generate or facilitate Invalid Traffic or Fraudulent Activity;
+use bots, scripts, emulators, click farms, or other automated or deceptive methods to inflate engagement or performance metrics;
+incentivize or induce users to interact with advertisements or sponsored content in a misleading, coerced, or non-genuine manner, except where expressly permitted by the Platform (e.g., clearly labeled rewarded promotions);
+misrepresent targeting criteria, audience attributes, geographic location, or campaign intent;
+manipulate attribution, tracking systems, or reporting mechanisms;
+circumvent or attempt to circumvent Platform fraud detection, rate limiting, or enforcement systems; or
+engage, directly or indirectly, any third party to perform any of the foregoing activities.
+
+Advertisers, sponsors, and creators remain solely and fully responsible for any Invalid Traffic, Fraudulent Activity, or Non-Compliant Activity conducted on their behalf by third parties.
+
+7.3 Detection, Monitoring & Investigation
+
+Shobble may monitor, detect, investigate, and analyze advertising and sponsored content activity for Invalid Traffic, Fraudulent Activity, or Non-Compliant Activity using internal systems, third-party tools, and reasonable investigative methods.
+
+Advertisers, sponsors, and creators must:
+
+cooperate with any investigation;
+provide reasonably requested information, documentation, or access necessary to verify compliance; and
+promptly remediate any identified issues.
+
+Failure to cooperate may result in suspension, limitation, or termination of access to the Advertising Marketplace.
+
+Shobble is not obligated to disclose the details of its fraud detection, validation, or enforcement methodologies.
+
+7.4 Billing Adjustments, Withholding & Clawbacks
+
+Shobble may, in its sole discretion (acting reasonably where required by applicable law):
+
+discount, invalidate, or exclude Invalid Traffic or Fraudulent Activity from billing, reporting, or payout calculations;
+adjust campaign metrics, performance data, or reporting to reflect corrected or verified activity;
+withhold, delay, or suspend payments pending investigation or verification;
+reverse, offset, or claw back previously issued payments, credits, or revenue allocations associated with Invalid Traffic, Fraudulent Activity, or Non-Compliant Activity; and
+apply account-level adjustments, including balance offsets against future payments, earnings, or account balances.
+
+Such actions may be taken retroactively, including after campaign completion or payout, where reasonably necessary to address Invalid Traffic, Fraudulent Activity, compliance risks, or billing errors.
+
+Shobble’s determinations regarding Invalid Traffic, Fraudulent Activity, Non-Compliant Activity, and any resulting adjustments shall be final and binding, except where prohibited by applicable law.
+
+7.5 No Guarantee of Measurement Accuracy
+
+Shobble does not guarantee that all Invalid Traffic or Fraudulent Activity will be identified or prevented.
+
+All advertising metrics, reporting, attribution data, and performance measurements are provided for informational purposes only and do not constitute guarantees of performance, accuracy, or billing outcomes, and may be subject to adjustment, correction, reclassification, or invalidation.
+
+7.6 Third-Party Traffic & Integrations
+
+Where advertising campaigns involve third-party traffic sources, networks, integrations, or measurement providers:
+
+advertisers and sponsors remain solely and fully responsible for the quality, legitimacy, and compliance of such traffic;
+Shobble is not responsible for Invalid Traffic, Fraudulent Activity, inaccuracies, or losses arising from third-party systems or integrations; and
+Shobble may restrict, suspend, or disallow third-party traffic sources or integrations at any time in its reasonable discretion.
+
+7.7 Enforcement & Account Actions
+
+In addition to any other rights under these Terms, Shobble may:
+
+suspend or terminate campaigns, accounts, or access to the Advertising Marketplace;
+limit participation in certain advertising formats, features, or monetization programs;
+require additional verification, safeguards, or operational restrictions; and
+report suspected fraudulent, abusive, or unlawful activity to payment processors, partners, or regulatory authorities where appropriate.
+
+7.8 Survival
+
+This Section 7 survives termination of participation in the Advertising Marketplace and continues to apply to any activity, payments, reporting, or claims arising from advertising or sponsored content conducted on the Platform.
+
+8. Billing Disputes, Chargebacks & Time Limits
+8.1 Billing Disputes
+
+Advertisers and sponsors must promptly review all invoices, billing statements, campaign reports, and account activity.
+
+Any dispute regarding charges, billing, campaign delivery, or reporting (a “Billing Dispute”) must be submitted in writing to Shobble within thirty (30) days of the date of the applicable charge, invoice, or report. No claims relating to billing or advertising activity may be brought after the expiration of the applicable dispute period, except where prohibited by applicable law.
+
+Each Billing Dispute must include sufficient detail to allow investigation, including the campaign identifier, date range, disputed amount, and a clear description of the issue.
+
+Failure to submit a Billing Dispute within the required timeframe constitutes a waiver of the dispute, and all charges shall be deemed final, binding, and non-refundable, except where prohibited by applicable law.
+
+8.2 Investigation & Resolution
+
+Shobble will review submitted Billing Disputes using its internal systems, records, and any relevant third-party data.
+
+Shobble may request additional information or documentation from the advertiser or sponsor, which must be provided promptly.
+
+Following review, Shobble may, in its reasonable discretion:
+
+uphold the original charges;
+adjust billing or reporting data;
+issue partial or full credits; or
+deny the dispute.
+
+Shobble’s determination of a Billing Dispute shall be final and binding, except where prohibited by applicable law.
+
+8.3 No Setoff or Withholding
+
+Advertisers and sponsors may not withhold, offset, delay, or reduce any payments owed to Shobble based on any claimed Billing Dispute or other disagreement.
+
+All undisputed amounts must be paid in full in accordance with applicable payment terms.
+
+8.4 Chargebacks & Payment Reversals
+
+Advertisers and sponsors agree not to initiate chargebacks, payment reversals, or disputes with payment processors or financial institutions (“Chargebacks”) without first attempting to resolve the issue through the Billing Dispute process set forth in this Section.
+
+Where a Chargeback is initiated:
+
+Shobble may suspend or terminate access to the Advertising Marketplace;
+Shobble may recover any reversed amounts, including associated fees, penalties, or administrative costs;
+the advertiser or sponsor remains responsible for all valid charges, regardless of the outcome of the Chargeback; and
+Shobble may offset such amounts against future payments, account balances, or other funds owed.
+
+Excessive, repeated, or abusive Chargebacks may result in immediate suspension or permanent termination of access to the Advertising Marketplace.
+
+8.5 Credits, Refunds & Adjustments
+
+Except as expressly provided in these Terms or required by applicable law:
+
+all payments are non-refundable;
+any credits, refunds, or adjustments are granted solely at Shobble’s discretion; and
+credits may be subject to expiration, usage restrictions, or other conditions determined by Shobbl.
+
+Any adjustments made under Section 7 (Invalid Traffic, Fraud, Billing Adjustments & Clawbacks) are independent of and not limited by this Section.
+
+8.6 Currency, Taxes & Fees
+
+All amounts are stated and payable in the currency specified by Shobbl.
+
+Advertisers and sponsors are responsible for all applicable taxes, duties, levies, or similar governmental charges associated with advertising activities, excluding taxes based on Shobble’s net income.
+
+Shobble may add or pass through applicable taxes, payment processing fees, currency conversion costs, or regulatory charges where required or permitted.
+
+8.7 Late Payments & Collection
+
+Shobble may suspend campaigns, withhold services, or restrict account access for overdue balances.
+
+To the extent permitted by applicable law, overdue amounts may accrue interest at the lesser of 1.5% per month or the maximum rate permitted by law.
+
+Advertisers and sponsors are responsible for all reasonable costs of collection, including administrative fees, collection agency costs, and legal fees, to the extent permitted by applicable law.
+
+8.8 Survival
+
+This Section 8 survives termination of participation in the Advertising Marketplace and continues to apply to any outstanding balances, disputes, chargebacks, or claims arising from advertising or sponsored content conducted on the Platform.
+
+9. Reserved Funds, Risk Holds & Prepayment Requirements
+9.1 Prepayment Requirement
+
+Shobble may require advertisers or sponsors to prepay some or all advertising spend prior to campaign activation or continued delivery.
+
+Prepaid balances:
+
+must be maintained at levels sufficient to support campaign delivery;
+may be depleted as campaigns run and charges accrue; and
+may be required for access to certain features, formats, or inventory.
+
+Shobble may suspend, pause, or limit campaigns where sufficient prepaid balance is not available.
+
+9.2 Reserved Funds & Risk Holds
+
+Shobble may, in its sole discretion (acting reasonably where required by applicable law), place a reserve, hold, or restriction on funds (“Reserved Funds”) where necessary to manage risk, including but not limited to:
+
+suspected or confirmed Invalid Traffic, Fraudulent Activity, or Non-Compliant Activity;
+elevated chargeback, refund, or dispute risk;
+unusual, irregular, or high-risk campaign behavior;
+new accounts, limited account history, or insufficient verification;
+use of high-risk industries, categories, or targeting methods;
+reliance on third-party traffic sources or integrations; or
+requirements imposed by payment processors, financial partners, or applicable law.
+
+Reserved Funds may be held for a period reasonably necessary to assess risk, complete investigations, or satisfy potential liabilities.
+
+9.3 Adjustments to Reserve Levels
+
+Shobble may establish, modify, increase, decrease, or release Reserved Funds at any time based on ongoing risk assessment.
+
+Reserve levels may be dynamic and may change based on:
+
+campaign performance and traffic quality;
+account history and compliance record;
+dispute, refund, or chargeback activity; and
+external risk signals or partner requirements.
+
+Shobble is not obligated to disclose the specific methodology used to determine reserve levels.
+
+9.4 Application of Reserved Funds
+
+Reserved Funds may be applied by Shobble to:
+
+satisfy outstanding balances, fees, or charges;
+cover chargebacks, refunds, reversals, or billing adjustments;
+offset liabilities arising under Section 7 (Invalid Traffic, Fraud, Billing Adjustments & Clawbacks); or
+address any other amounts owed by the advertiser or sponsor under these Terms.
+
+Reserved Funds may be combined with or applied against account balances, prepaid amounts, or future earnings.
+
+9.5 Release of Funds
+
+Subject to applicable law and risk assessment, Reserved Funds may be released once Shobble determines that:
+
+the underlying risk has been resolved or sufficiently mitigated; and
+no outstanding or reasonably anticipated liabilities remain.
+
+Shobble may delay release of funds where necessary to account for dispute windows, chargeback periods, or ongoing investigations.
+
+9.6 No Interest & No Segregation Requirement
+
+To the extent permitted by applicable law:
+
+Reserved Funds and prepaid balances are not interest-bearing; and
+Shobble is not required to hold such funds in a separate or segregated account.
+9.7 Additional Verification & Security Requirements
+
+As a condition of access to the Advertising Marketplace, Shobble may require:
+
+identity verification, business verification, or KYC/KYB procedures;
+security deposits, guarantees, or minimum spend commitments;
+use of specific payment methods or billing arrangements; or
+additional controls or restrictions necessary to manage risk.
+
+Failure to satisfy such requirements may result in suspension, limitation, or termination of access.
+
+9.8 Enforcement & Interaction with Other Sections
+
+This Section operates in conjunction with:
+
+Section 7 (Invalid Traffic, Fraud, Billing Adjustments & Clawbacks); and
+Section 8 (Billing Disputes, Chargebacks & Time Limits).
+
+Shobble’s rights under this Section are in addition to, and not limited by, any other rights or remedies available under these Terms.
+
+9.9 Survival
+
+This Section 9 survives termination of participation in the Advertising Marketplace and continues to apply to any Reserved Funds, outstanding balances, or liabilities arising from advertising or sponsored content conducted on the Platform.
+
+10. Labeling & Transparency
+
+Shobble requires clear disclosure of promotional material, including labels such as:
+
+“Advertisement”
+
+“Sponsored Content”
+
+“Brand Partnership”
+
+“Rewarded Promotion”
+
+Failure to properly disclose advertising or sponsorships may result in removal, demonetization, suspension, or other enforcement action.
+
+11. Prohibited Advertising Practices
+
+Advertising and sponsorships may not:
+
+contain illegal, fraudulent, or deceptive claims;
+
+promote prohibited or restricted products or services;
+
+target users in violation of age-gating or jurisdictional requirements;
+
+interfere with core content functionality or user experience; or
+
+circumvent Platform controls, subscription logic, or enforcement systems.
+
+11.1 Indemnification
+
+Advertisers and sponsors agree to indemnify, defend, and hold harmless Shobble from any claims, damages, losses, liabilities, costs, or expenses arising out of or related to their advertising or sponsored content, including claims of false advertising, regulatory violations, or intellectual property infringement.
+
+12. Enforcement & Modifications
+
+Shobble may:
+
+adjust ad formats, inventory availability, pricing, or eligibility criteria;
+
+introduce new advertising products or retire existing ones;
+
+modify these Advertising Marketplace Terms upon notice; and
+
+take enforcement action for violations, including suspension or termination.
+
+Participation in the Advertising Marketplace is not guaranteed and may be revoked at any time.
+
+All rights and remedies under these Terms are cumulative and in addition to any other rights or remedies available at law or in equity.
+
+Shobble’s failure to enforce any provision of these Terms shall not constitute a waiver of its right to enforce such provision at a later time.
+
+13. No Guarantee of Revenue or Performance
+
+Shobble makes no guarantees regarding ad fill rates, impressions, engagement, revenue levels, campaign performance, or delivery timelines.
+
+Campaign performance, delivery speed, and inventory availability may be materially affected by advertiser-selected targeting criteria, content categories, regional restrictions, and tag-weight configurations.
+
+Shobble does not guarantee the accuracy or completeness of third-party measurement, attribution, analytics, or reporting data.
+
+All advertising and sponsorship activity is undertaken at the participant’s own risk.
+
+14. Relationship of Parties
+
+Nothing in these Advertising Marketplace Terms creates an agency, partnership, employment, or joint venture relationship.
+
+Creators remain solely responsible for their content and representations.
+Shobble does not endorse or guarantee any advertised or sponsored products or services.
+
+15. Governing Terms
+
+These Advertising Marketplace Terms are governed by and incorporated into the Master Terms of Use.
+In the event of a conflict, the Master Terms control.

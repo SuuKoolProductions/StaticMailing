@@ -1,0 +1,231 @@
+BANNED ADVERTISING PRODUCTS & SERVICES POLICY
+
+(Consolidated & Clarified)
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This Banned Advertising Products & Services Policy (“Policy”) supplements and is incorporated into the Advertising Marketplace Terms, Master Terms of Use, Acceptable Use Policy, AI Use-Case Policy, and all other applicable Shobble policies.
+
+Capitalized terms not defined herein have the meanings set forth in the Master Terms of Use.
+
+1. Purpose & Policy Basis
+
+Shobble operates a compliance-first, creator-aligned Advertising Marketplace.
+Accordingly, Shobble prohibits advertising and sponsorships for certain products, services, and business models even where such products or services may be lawful, where Shobble determines that they:
+
+pose elevated risk of consumer harm, deception, addiction, or exploitation;
+
+undermine creator rights, authorship, or creative labor markets;
+
+conflict with platform integrity, values, or business model; or
+
+create regulatory, payment-processor, or reputational risk.
+
+Eligibility determinations under this Policy are policy-based and do not constitute a statement regarding the legality of any product or service.
+
+2. Global Prohibited Advertising Categories
+
+The following categories are globally prohibited from advertising or sponsorship on the Platform.
+
+2.1 Artificial Intelligence & Generative Systems
+
+Advertising or sponsorship is prohibited for products or services that:
+
+rely on generative artificial intelligence systems;
+
+provide AI-generated text, images, audio, video, music, code, or synthetic media;
+
+offer automated content generation, transformation, remixing, simulation, or replication;
+
+provide AI training, dataset creation, model fine-tuning, or embedding services;
+
+promote scraping, harvesting, or ingestion of third-party creative works;
+
+sell or distribute generative asset packs, prompts, models, or datasets; or
+
+materially incorporate outputs produced by generative or synthetic systems.
+
+This prohibition applies regardless of whether such systems are described as assistive, co-creative, human-in-the-loop, productivity-enhancing, or research-oriented.
+
+2.2 High-Risk Health & Wellness Products
+
+Advertising is prohibited for:
+
+unregulated or high-risk dietary supplements;
+
+extreme, rapid, or medically unsubstantiated weight-loss products or services;
+
+appetite suppressants, metabolism modifiers, or hormone-affecting products;
+
+detox, cleansing, or pseudoscientific health regimens;
+
+unapproved medical devices or treatments; or
+
+health claims lacking competent and reliable scientific substantiation.
+
+2.3 Financial Exploitation & Predatory Products
+
+Advertising is prohibited for:
+
+payday loans or short-term high-interest lending;
+
+debt relief, credit repair, or financial recovery schemes offering guaranteed outcomes;
+
+speculative or high-risk financial products marketed to retail users;
+
+deceptive investment offerings; or
+
+get-rich-quick or income-guarantee programs.
+
+2.4 Cryptocurrency & Blockchain-Based Products
+
+Advertising is prohibited for:
+
+speculative cryptocurrencies or digital tokens;
+
+token sales, NFTs, or assets marketed primarily for speculative value;
+
+crypto mining services or infrastructure;
+
+blockchain-based financial instruments; or
+
+staking, yield-farming, or similar return-based schemes.
+
+2.5 Surveillance, Monitoring & Exploitative Technologies
+
+Advertising is prohibited for products or services designed to covertly monitor, collect, intercept, exploit, or misuse data, including:
+
+spyware, stalkerware, or covert monitoring tools;
+
+surveillance software or hardware intended to track individuals without informed consent;
+
+facial recognition or biometric tracking systems used for profiling or monitoring;
+
+tools designed to secretly access devices, communications, or accounts; or
+
+services designed to bypass, undermine, or exploit user consent mechanisms or data-security safeguards.
+
+Explicit Carve-Out (Privacy-Protective Tools)
+
+This restriction does not apply to lawful, consumer-facing privacy or security tools designed to protect users, including but not limited to:
+
+VPN services;
+
+encryption or secure-communication tools;
+
+password managers;
+
+anti-tracking or privacy-enhancing technologies; or
+
+security software intended to prevent unauthorized access or data misuse.
+
+2.6 Exploitative or Deceptive Monetization Models
+
+Advertising is prohibited for products or services that feature, promote, or rely on monetization systems or business practices that:
+
+employ dark patterns, manipulative interface design, or behavioral coercion intended to mislead, pressure, or confuse users regarding pricing, consent, or purchase outcomes;
+
+use deceptive subscription models, including unclear billing terms, hidden fees, automatic renewals without clear disclosure, or cancellation processes designed to be unreasonably difficult;
+
+incorporate loot boxes, chance-based rewards, randomized purchases, or gambling-like mechanics marketed outside clearly disclosed, legally compliant, and age-appropriate contexts;
+
+rely on pay-to-win, pay-for-advantage, or pay-for-progress mechanics that materially misrepresent gameplay balance, competitive fairness, or the user experience;
+
+misrepresent virtual goods, digital assets, in-game currencies, odds, probabilities, scarcity, or the functional impact of purchases;
+
+condition meaningful access, progression, or functionality on repeated or undisclosed payments in a manner that obscures true cost or exploits user behavior;
+
+target or disproportionately impact minors through manipulative monetization mechanics, insufficient age-gating, or inappropriate incentive structures; or
+
+otherwise undermine user trust, informed consent, or fair consumer expectations through monetization design.
+
+2.7 Rights-Undermining & Creative Labor Exploitation
+
+Advertising is prohibited for products or services that:
+
+undermine creator authorship or ownership;
+
+facilitate unauthorized cloning, replication, or reuse of creative works;
+
+monetize derivative content without proper licensing; or
+
+promote displacement of human creative labor through automated systems.
+
+3. Political & Civic Advertising Restrictions
+3.1 Political Persuasion Advertising
+
+Advertising intended to influence elections, political candidates, public policy outcomes, or civic participation may be restricted or prohibited based on jurisdiction and platform policy.
+
+3.2 Region-Specific Political Restrictions
+
+European Union / United Kingdom: Political persuasion advertising is prohibited in accordance with the Digital Services Act, UK electoral law, and the ASA CAP Code.
+
+United States: Political advertising may be restricted or prohibited based on jurisdiction, targeting method, timing, or platform policy. Shobble reserves the right to prohibit political advertising entirely.
+
+4. Region-Specific Product Restrictions & Advertiser Responsibility
+
+Advertisements and sponsored content may not be issued, displayed, targeted, or made available in any jurisdiction where they would conflict with applicable laws, regulations, or platform policies governing that region.
+
+Advertisers and sponsors are solely responsible for determining whether their products, services, and advertising practices are permitted in each region where an advertisement is listed, targeted, or made available. When creating an Advertising Marketplace listing, advertisers must accurately designate applicable regions and ensure compliance with all regional restrictions.
+
+Shobble may restrict, geo-limit, disable, or remove advertisements or sponsorships in any region at its discretion and without advance notice.
+
+4.1 United States
+
+Advertising is prohibited where inconsistent with FDA requirements, FTC consumer-protection standards, or state-level consumer, financial, health, or privacy protection laws.
+
+4.2 European Union / EEA
+
+Advertising is prohibited where inconsistent with the Unfair Commercial Practices Directive, GDPR-based profiling or targeting restrictions, or consumer transparency requirements.
+
+4.3 United Kingdom
+
+Advertising is prohibited where inconsistent with the ASA CAP Code, Financial Conduct Authority (FCA) restrictions, or applicable political advertising limitations.
+
+4.4 Canada & Australia
+
+Advertising is prohibited where inconsistent with consumer-protection and false-advertising laws, regulated financial or health-product frameworks, or youth-targeting restrictions.
+
+5. Misrepresentation & Evasion Prohibited
+
+Advertisers may not:
+
+mischaracterize products or services to evade these restrictions;
+
+obscure AI usage, automation, or generative origins;
+
+fragment offerings to avoid classification; or
+
+rebrand prohibited services under alternative terminology.
+
+Evasive behavior may be treated as a material breach.
+
+6. Enforcement & Discretion
+
+Shobble may, at its sole discretion:
+
+determine whether a product or service falls within a prohibited category;
+
+request documentation, disclosures, or certifications;
+
+suspend or terminate campaigns without prior notice;
+
+withhold or claw back revenue associated with prohibited advertising; or
+
+update this Policy at any time.
+
+Absence of a product or category from this Policy does not imply eligibility.
+
+7. No Entitlement; No Endorsement
+
+Shobble is not obligated to accept advertising or sponsorships for any product or service, regardless of legality.
+
+Nothing in this Policy constitutes an endorsement of any advertiser, product, or service.
+
+8. Governing Terms
+
+This Policy is governed by and incorporated into the Master Terms of Use.
+In the event of a conflict, the Master Terms control.

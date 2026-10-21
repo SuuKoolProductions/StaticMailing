@@ -1,0 +1,217 @@
+ASSET STORE TERMS
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+These Asset Store Terms govern the purchase, download, licensing, use, and distribution of digital creative assets made available through the Shobble Asset Store (the “Asset Store”). These terms form a binding agreement between you (“User,” “Customer,” or “Licensee”) and Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”). Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+These Asset Store Terms are incorporated by reference into the Master Terms of Use and the Shobble Creator License & Rights Framework (the “Creator License”) and apply in addition to all other applicable Shobble policies, including but not limited to the Acceptable Use Policy, Content Classification Policy, Monetization Addenda, AI Use-Case Policy, and any license-specific terms presented at the point of purchase or access.
+
+Order of Precedence
+
+In the event of a conflict, the following order of precedence applies with respect to Assets:
+
+the Asset-specific license presented at the point of purchase or access;
+
+these Asset Store Terms;
+
+the Shobble Creator License & Rights Framework; and
+
+the Master Terms of Use.
+
+1. PURPOSE & SCOPE
+
+The Asset Store enables creators, studios, and partners (“Asset Publishers”) to distribute digital assets for use in interactive, creative, educational, and commercial projects, including but not limited to:
+
+VR and AR environments
+
+VTuber and virtual character models
+
+Games and interactive software
+
+Digital performances, simulations, and experiences
+
+Educational, visualization, and enterprise use cases
+
+Assets may include, without limitation: 3D models, rigs, textures, animations, audio, scripts, shaders, prefabs, blueprints, UI elements, and bundled asset packs (collectively, “Assets”).
+
+Shobble operates the Asset Store as a license-based marketplace and does not sell or transfer ownership of Assets.
+
+2. NO SALE OF OWNERSHIP
+
+All Assets made available through the Asset Store are licensed, not sold.
+
+Except as expressly stated in the applicable license terms, no ownership, title, or intellectual property rights in any Asset are transferred to you. All rights not explicitly granted are reserved by the Asset Publisher and/or the applicable rights holder.
+
+3. LICENSE STRUCTURE
+3.1 Relationship to the Creator License
+
+Assets are a specialized category of content governed by the Creator License and subject to additional restrictions and conditions set forth in these Asset Store Terms and any Asset-specific license.
+
+Where these Asset Store Terms or an Asset-specific license impose narrower or additional limitations, those terms control with respect to Assets.
+
+3.2 License Grant
+
+Upon valid purchase or authorized access, you receive a limited, non-exclusive, non-transferable, revocable license to use the Asset solely in accordance with:
+
+the license tier selected at checkout;
+
+the license description presented with the Asset; and
+
+these Asset Store Terms and all incorporated policies.
+
+Licenses may vary by Asset and may include distinctions such as:
+
+Personal vs. Commercial use
+
+Single-project vs. multi-project use
+
+Seat-based, device-based, or account-based limits
+
+Studio, enterprise, or educational licenses
+
+Delegated access, household use, or educational-use permissions
+
+Explicit prohibitions on AI, ML, or dataset use
+
+3.3 License Display & Selection
+
+License scope, restrictions, and permitted uses are disclosed at the point of purchase or access. You are responsible for reviewing and selecting the appropriate license tier prior to use.
+
+Use of an Asset outside the scope of the selected license constitutes a material breach.
+
+4. PERMITTED USES
+
+Unless otherwise restricted by the applicable license, permitted uses may include:
+
+Incorporation of Assets into interactive works (e.g., games, VR experiences, simulations);
+
+Use in rendered outputs (e.g., video, livestreams, performances, screenshots);
+
+Modification or adaptation for use within a licensed project; and
+
+Use in commercial products where expressly permitted by the license.
+
+Permitted use is limited to embedded or integrated use within a larger work and does not permit redistribution of the Asset itself.
+
+5. PROHIBITED USES
+
+Unless expressly authorized in writing or by the applicable license, you may not:
+
+redistribute, resell, sublicense, rent, lease, or share Assets as standalone files;
+
+make Assets available in asset libraries, repositories, or competing marketplaces;
+
+use Assets in a manner that allows third parties to extract or reuse them independently;
+
+use Assets in unlawful, deceptive, or infringing content;
+
+remove or obscure copyright notices, watermarks, attribution requirements, or license metadata;
+
+use Assets in violation of content classification, age-rating, or access-control rules; or
+
+use Assets for training, fine-tuning, benchmarking, or dataset creation for artificial intelligence or machine learning systems, unless the license explicitly permits such use.
+
+6. AI & AUTOMATED SYSTEM RESTRICTIONS
+
+Unless an Asset is explicitly labeled and licensed for AI-permitted use:
+
+Assets may not be used for AI or ML training, dataset creation, embeddings, generative systems, or automated content extraction;
+
+automated scraping, crawling, indexing, or bulk harvesting of Assets is prohibited; and
+
+public availability does not imply consent for automated, AI, or dataset use.
+
+Unauthorized AI or automated use constitutes a material breach and may result in immediate termination, license revocation, account suspension, and legal action.
+
+7. DELEGATED ACCESS
+
+Where Shobble permits delegated access for eligible account holders:
+
+access to Assets must comply with the applicable license terms;
+
+the delegating account holder is responsible for ensuring age-appropriateness and license eligibility;
+
+delegated access does not expand license scope, seat counts, or usage limits; and
+
+delegated access does not permit users below the minimum account age to create independent accounts, access restricted or adult-oriented environments, participate in monetization, receive payouts, or use payment-enabled creator tools.
+
+8. ASSET PUBLISHER REPRESENTATIONS
+
+Asset Publishers represent and warrant that:
+
+they hold all necessary rights, permissions, and clearances to distribute and license the Assets;
+
+the Assets do not infringe third-party intellectual property rights;
+
+the Assets comply with applicable laws and Shobble policies; and
+
+any third-party components are properly disclosed and licensed.
+
+Shobble does not independently verify ownership or rights clearance for every Asset prior to publication and relies on the representations and warranties of Asset Publishers.
+However, Shobble maintains notice-and-takedown, reporting, and enforcement mechanisms and may review, restrict, or remove Assets in response to legal claims, policy violations, or other credible concerns.
+
+9. UPDATES, MODIFICATIONS & DEPRECATION
+
+Asset Publishers may update or modify Assets over time. Unless otherwise stated:
+
+updates are provided at the publisher’s discretion;
+
+Shobble does not guarantee backward compatibility; and
+
+Assets may be deprecated or removed for legal, policy, or compliance reasons.
+
+Removal of an Asset does not revoke valid licenses already granted, except where required by law or enforcement action.
+
+10. REFUNDS & REVERSALS
+
+Due to the nature of digital goods:
+
+all sales are final unless otherwise required by applicable law;
+
+refunds may be issued in cases of technical defect, material misrepresentation, or legal non-compliance; and
+
+abuse of refund systems may result in account restrictions.
+
+Payment disputes and reversals are governed by the applicable Payment & Dispute Addenda.
+
+11. ENFORCEMENT & TERMINATION
+
+Violation of these Asset Store Terms or applicable license terms may result in:
+
+suspension or termination of access;
+
+revocation of licenses;
+
+removal of content or projects using the Asset;
+
+withholding of payouts (for Asset Publishers); and
+
+legal action where appropriate.
+
+Enforcement decisions are made at Shobble’s discretion and may be taken without prior notice where necessary.
+
+12. DISCLAIMERS
+
+Assets are provided “as is” and “as available.”
+Shobble makes no warranties regarding fitness for a particular purpose, compatibility, accuracy, or uninterrupted availability.
+
+Shobble does not guarantee that Assets will meet your technical, artistic, or commercial requirements.
+
+13. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law, Shobble shall not be liable for indirect, incidental, consequential, or special damages arising from use or inability to use any Asset, even if advised of the possibility of such damages.
+
+Shobble’s total liability shall not exceed the amount paid for the Asset giving rise to the claim.
+
+14. GOVERNING LAW & DISPUTES
+
+These Asset Store Terms are governed by the same governing law, dispute resolution, arbitration, and venue provisions set forth in the Master Terms of Use.
+
+15. CONTACT
+
+Questions regarding Asset Store licensing or permitted use may be directed to:
+
+legal@shobbl.com
+
+or through the platform’s official support channels.

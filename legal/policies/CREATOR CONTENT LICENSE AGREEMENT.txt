@@ -1,0 +1,161 @@
+CREATOR CONTENT LICENSE AGREEMENT
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+This Creator Content License Agreement (“License”) is a binding legal agreement governing the rights granted by creators (“Creators”) to Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us”) and the limited rights granted to end users with respect to content uploaded, published, distributed, or monetized on the Platform (“Content”). Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This License is incorporated by reference into the Master Terms of Use and operates alongside the Acceptable Use Policy, AI Use-Case Policy, Music Licensing Policy, Monetization Addenda, and any feature-specific rules. In the event of conflict, the Master Terms control.
+
+1. SCOPE
+
+1. OWNERSHIP & CREATOR RIGHTS
+1.1 Creator Ownership
+
+Creators retain all right, title, and interest in and to their Content, including all copyrights, neighboring rights, moral rights (to the extent waivable), and other intellectual property rights, except for the limited licenses expressly granted under this License.
+
+Nothing in this License transfers ownership of Content to Shobble or to any third party.
+
+1.2 No Editorial Control
+
+Shobble does not claim authorship, endorsement, or creative control over Content. Classification, moderation, monetization eligibility, licensing configuration, or rights-clarity indicators do not affect ownership.
+
+2. LICENSE GRANTED TO SHOBBLE (PLATFORM OPERATIONS)
+2.1 Limited Platform License
+
+Creators grant Shobble a non-exclusive, worldwide, royalty-free, revocable license, sublicensable solely as necessary, to host, store, reproduce, transmit, display, perform, distribute, and format Content only for the purposes of:
+
+operating, maintaining, and improving the Platform;
+
+enabling lawful distribution, download, execution, and monetization of Content as configured by the Creator;
+
+performing content moderation, safety review, fraud prevention, and compliance functions;
+
+marketing or promoting the Platform solely in connection with showcasing Content made publicly available by the Creator.
+
+This license does not authorize Shobble to exploit Content outside the Platform, beyond Creator-configured scope, or for any purpose not strictly necessary to operate, distribute, or display the Content as intended.
+	
+2.2 No Generative AI License
+
+The license granted to Shobble expressly excludes any right to use Content for:
+
+training, fine-tuning, validating, or benchmarking neural networks, large language models, or generative AI models;
+
+creating embeddings, synthetic datasets, or derivative model outputs;
+
+automated content generation, replication, voice cloning, or style imitation.
+
+Any such use requires a separate, express, written agreement executed by Shobble and the Creator.
+
+3. LICENSE GRANTED TO OTHER USERS (END-USER LICENSE)
+3.1 Limited End-User License
+
+Subject to the Master Terms and applicable policies, Creators grant other users a limited, non-exclusive, non-transferable, non-sublicensable license to access, view, stream, download, locally execute, or otherwise interact with Content only as expressly permitted by:
+
+the Content’s license selection,
+
+its technical configuration,
+
+and applicable Platform features.
+
+3.2 Prohibited Uses by Users
+
+No user is granted any right to:
+
+scrape, crawl, archive, mirror, or bulk-collect Content except where expressly enabled by Platform features or Creator-authorized licenses;
+
+redistribute, resell, sublicense, or commercially exploit Content beyond the scope of the applicable license;
+
+extract assets, stems, metadata, or outputs for dataset creation, model training, or automated reuse;
+
+use Content for training, fine-tuning, evaluating, or operating generative artificial intelligence systems, including large language models, diffusion models, voice or style models, or other machine learning systems that produce expressive, creative, or substitutive outputs;
+
+use Content in connection with neural networks, machine learning, or automated systems where such use is intended to, or does, result in the generation, replication, imitation, or substitution of creative content, except where expressly authorized by the applicable license or Platform feature.
+
+4. CREATIVE COMMONS & SIMILAR LICENSES (AI OVERRIDE)
+
+Where Content is made available under a Creative Commons or similar public license, such license applies only to the extent expressly permitted under its terms and does not grant any right to use such Content for artificial intelligence, machine learning, dataset creation, or generative purposes.
+
+Public licensing selections do not override Platform-level AI prohibitions or grant implied AI rights.
+
+5. EXPRESS EXCLUSION OF GENERATIVE AI RIGHTS
+5.1 No Implied AI License
+
+No rights are granted—explicitly or implicitly—for the use of Content in connection with neural networks, large language models, generative systems, or similar technologies.
+
+Public availability, discoverability, or technical accessibility of Content does not constitute consent to such use.
+
+5.2 Reservation of Rights
+
+All rights not expressly granted under this License are reserved by the Creator and by Shobbl.
+
+6. COMMERCIAL VALUE & HARM ACKNOWLEDGMENT
+6.1 Acknowledgment of Value
+
+Content made available on the Platform is professionally authored, commercially monetized, and distributed under controlled, rights-managed conditions.
+
+Unauthorized reuse—particularly for automated, generative, or dataset-driven systems—deprives Creators and Shobble of licensing revenue, market exclusivity, and competitive advantage.
+
+6.2 Irreparable Harm
+
+Unauthorized AI or dataset use of Content causes immediate and irreparable harm, including:
+
+dilution of creative market value;
+
+displacement of human authorship;
+
+loss of future licensing opportunities;
+
+reputational and career harm;
+
+contamination of proprietary or curated datasets.
+
+Monetary damages alone are insufficient to remedy such harm.
+
+7. ENFORCEMENT & REMEDIES
+7.1 Enforcement Rights
+
+Shobble may enforce this License on behalf of itself and, where applicable, on behalf of Creators, including through takedowns, account actions, technical measures, and legal proceedings.
+
+7.2 Remedies Reserved
+
+Shobble and Creators reserve all rights and remedies available at law or in equity, including injunctive relief, disgorgement of profits, statutory damages, enhanced damages where applicable, and recovery of enforcement costs.
+
+8. TERMINATION & SURVIVAL
+8.1 License Termination
+
+This License terminates automatically upon removal of Content from the Platform, except to the extent required for:
+
+legal compliance;
+
+dispute resolution;
+
+residual technical storage for backups or system integrity.
+
+8.2 Survival
+
+Sections relating to ownership, exclusions, AI prohibitions, remedies, and harm acknowledgment survive termination.
+
+9. NO WAIVER BY PUBLIC ACCESS
+
+Public or free access to Content does not waive any rights, place Content in the public domain, or grant any additional license beyond those expressly stated herein.
+
+10. RELATIONSHIP TO OTHER POLICIES
+
+This License operates in conjunction with, and does not limit, restrictions contained in:
+
+the Master Terms of Use;
+
+the Acceptable Use Policy;
+
+the AI Use-Case Policy;
+
+the Music Licensing Policy;
+
+Monetization Addenda and feature-specific rules.
+
+Violations may constitute both breach of contract and infringement of intellectual property rights.
+
+11. CONTACT & LICENSING INQUIRIES
+
+Requests for AI training, dataset use, synchronization rights, or other non-standard licensing must be submitted directly to the Creator. Silence or inaction does not constitute consent.

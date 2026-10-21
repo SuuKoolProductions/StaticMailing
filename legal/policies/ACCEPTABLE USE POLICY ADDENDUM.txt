@@ -1,0 +1,223 @@
+ACCEPTABLE USE POLICY (AUP)
+
+Effective Date: January 1, 2026
+Last Updated: January 8, 2026
+
+This Acceptable Use Policy (“AUP”) governs access to and use of the Platform operated by Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”). Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This AUP is incorporated by reference into the Master Terms of Use (“Terms”) and applies to all Users, Creators, Content Partners, API partners, and any other person or entity accessing or using the Platform.
+
+Capitalized terms not defined in this AUP have the meanings set forth in the Terms. In the event of any conflict, the Terms and applicable Addenda control.
+
+1. PURPOSE AND SCOPE
+
+The Platform is intended to support lawful, creative, expressive, and commercial activity within defined technical, legal, and safety boundaries.
+
+You may use the Platform only in compliance with:
+
+this AUP;
+
+the Terms and all Incorporated Policies;
+
+applicable laws and regulations; and
+
+any feature-specific rules, licenses, or addenda.
+
+Any use outside these boundaries is prohibited.
+
+2. GENERAL PROHIBITIONS
+
+You may not, directly or indirectly, use the Platform to engage in, facilitate, enable, promote, or support any of the following:
+
+2.1 Illegal, Unlawful, or Regulated Activity
+
+Any activity that violates applicable local, state, federal, or international law.
+
+Facilitation of criminal conduct, including fraud, theft, exploitation, trafficking, or money laundering.
+
+Circumvention of sanctions, export controls, or trade restrictions.
+
+Promotion or sale of illegal or regulated goods or services without proper authorization.
+
+2.2 Harmful, Abusive, or Dangerous Conduct
+
+Harassment, threats, stalking, coercion, or intimidation.
+
+Hate speech, hateful conduct, or discrimination based on protected characteristics, where prohibited by law.
+
+Promotion or glorification of violence, self-harm, or physical injury.
+
+Doxxing or unauthorized disclosure of personal or confidential information.
+
+Activities that endanger minors or exploit vulnerable individuals.
+
+3. CONTENT-RELATED RESTRICTIONS
+3.1 Prohibited Content
+
+You may not upload, post, distribute, or otherwise make available content that:
+
+is illegal, infringing, deceptive, or fraudulent;
+
+violates privacy, publicity, or data-protection rights;
+
+contains malware, spyware, or malicious code;
+
+impersonates others or misrepresents identity or authority;
+
+violates intellectual property rights;
+
+violates the AI-Generated Content prohibition set forth in Section 10.9 of the Terms.
+
+3.2 No Circumvention of Content Controls
+
+You may not:
+
+evade moderation, filtering, enforcement, or safety systems;
+
+re-upload removed content to bypass enforcement;
+
+coordinate reporting abuse or manipulation campaigns;
+
+interfere with visibility, ranking, discovery, or monetization systems.
+
+3.3 Community Content Guidelines
+
+Shobble publishes Community Content Guidelines to provide illustrative examples, explanations, and contextual guidance regarding acceptable and unacceptable conduct and content on the Platform.
+
+The Community Content Guidelines do not limit, modify, or replace this AUP, the Terms, or Shobble’s enforcement discretion. Content or conduct may violate this AUP or the Terms even if not expressly addressed in the Community Content Guidelines.
+
+3.4 Content Classification
+
+Certain categories of content may be Restricted, Blacklisted, or Forbidden under Shobble’s Content Classification framework, based on risk, legality, safety, regulatory obligations, payment-processor requirements, and platform-integrity considerations.
+
+The identification, scope, conditions, and treatment of such content—including any limited, discretionary allowances that may apply—are governed exclusively by Shobble’s Content Classification policies, including the Community Content Guidelines and any applicable addenda.
+
+Content classified as Restricted, Blacklisted, or Forbidden is not entitled to hosting, visibility, discoverability, monetization, or continued availability. Depending on classification and context, such content may be subject to age or identity verification, access controls, domain segregation (including placement on designated adult domains such as adult.shobbl.com, where applicable), jurisdiction-based restrictions, automated enforcement systems, or human review.
+
+Shobble may block, suppress, restrict, reclassify, or remove content classified under these categories at any time through technical, operational, or policy-based controls.
+No payment, subscription, creator status, prior availability, or reliance creates any right to upload, access, distribute, monetize, or continue hosting content that is Restricted, Blacklisted, or Forbidden.
+
+Shobble does not sell, endorse, license, or guarantee access to content subject to restriction, blacklisting, or prohibition and may refuse to host or continue hosting such content at its discretion.
+
+4. PLATFORM INTEGRITY AND TECHNICAL ABUSE
+
+You may not:
+
+reverse engineer, decompile, or disassemble the Platform;
+
+bypass DRM, access controls, or technical restrictions;
+
+scrape, harvest, or extract data or content;
+
+create datasets or train AI models using Platform content;
+
+interfere with servers, networks, APIs, or security measures;
+
+introduce automated scripts, bots, or tools without authorization.
+
+Any attempt to probe, scan, or test Platform security without written permission is prohibited.
+
+5. FRAUD, DECEPTION, AND MISUSE
+
+You may not engage in:
+
+payment fraud, chargeback abuse, or financial manipulation;
+
+artificial engagement, fake accounts, or traffic inflation;
+
+misrepresentation of rights, licenses, ownership, or eligibility;
+
+deceptive monetization practices or misleading pricing;
+
+abuse of reporting, appeal, or dispute mechanisms.
+
+Shobble may treat patterns of abuse, even absent a single violation, as grounds for enforcement.
+
+6. MARKETPLACE AND MONETIZATION RULES
+
+When participating in monetization, marketplaces, or payouts, you must:
+
+provide accurate identity, tax, and payout information;
+
+comply with all licensing, rights-clearance, and disclosure obligations;
+
+refrain from prohibited content, AI-generated material, or misrepresentation;
+
+comply with advertiser, affiliate, and payment-processor rules.
+
+Violations may result in withholding, reversal, or forfeiture of payouts as permitted by the Terms.
+
+7. PROHIBITED USE OF AI AND AUTOMATION
+
+Except as expressly permitted by the Terms or an applicable addendum, you may not:
+
+upload or monetize content generated in whole or substantial part by Generative Models;
+
+use Platform content to train or improve AI systems;
+
+deploy unauthorized automation, bots, or scraping tools;
+
+misrepresent human-created content as non-AI-generated.
+
+Disclosure or labeling does not make prohibited AI content permissible.
+
+8. AGE-RESTRICTED USERS AND DELEGATED ACCESS
+
+Users interacting with age-restricted users or delegated-access users must:
+
+comply with child-protection, safety, and privacy laws;
+
+avoid age-inappropriate content or interactions;
+
+refrain from solicitation, grooming, or exploitation;
+
+comply with Platform eligibility, delegated-access, and age-gating requirements.
+
+Users under eighteen (18) may not access restricted or adult-oriented environments, participate in monetization, receive payouts, or use payment-enabled creator tools. Violations involving age-restricted users are treated as high-severity enforcement matters.
+
+9. ENFORCEMENT AND CONSEQUENCES
+9.1 Enforcement Authority
+
+Shobble may take action, at its discretion and to the fullest extent permitted by law, including:
+
+content removal or restriction;
+
+account warnings, suspensions, or termination;
+
+monetization restrictions or payout reversals;
+
+API access revocation;
+
+reporting to authorities where required.
+
+9.2 No Safe Harbor
+
+Good-faith intent, lack of awareness, or reliance on guidance does not create immunity from enforcement.
+
+9.3 No Obligation to Warn
+
+Shobble is not required to provide warnings or progressive discipline before taking action.
+
+10. REPORTING AND COOPERATION
+
+Users may report violations through designated reporting tools.
+You agree to cooperate with lawful investigations, audits, or compliance reviews as required.
+
+False, abusive, or bad-faith reporting is itself a violation of this AUP.
+
+11. NO WAIVER; NO RIGHTS CREATED
+
+Failure to enforce this AUP in any instance does not constitute a waiver.
+This AUP does not create third-party rights, guarantees, or entitlements.
+
+12. MODIFICATIONS
+
+Shobble may update this AUP in accordance with the Terms. Continued use of the Platform constitutes acceptance of any updates, to the extent permitted by law.
+
+13. CONTACT
+
+Questions or reports regarding acceptable use may be directed to:
+
+Email: Legal@shobbl.com
+
+(For informational purposes only; does not constitute formal legal notice unless required by law.)

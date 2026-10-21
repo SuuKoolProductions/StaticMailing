@@ -1,0 +1,485 @@
+API PARTNER POLICY
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This API Partner Policy (“API Policy”) governs access to and use of Shobble’s application programming interfaces, SDKs, webhooks, and related developer tools and documentation (collectively, the “APIs”) by approved third parties (“API Partners”).
+
+This API Policy is incorporated by reference into the Master Terms of Use, any applicable Partner Agreement, and the Shobble Global Privacy Policy, including the Supplemental Privacy Addendum (International Data Transfers & SCCs).
+
+Order of Precedence
+
+In the event of a conflict, the following order of precedence applies:
+
+Any executed API Order Form or written agreement expressly referencing this API Policy;
+
+This API Partner Policy;
+
+The applicable Partner Agreement; and
+
+The Master Terms of Use.
+
+1. PURPOSE & SCOPE
+
+Shobble provides APIs solely to enable approved, documented, and compliance-aligned integrations that interact with the Shobble platform, including but not limited to:
+
+content publishing, moderation, and management;
+
+asset listing, licensing, and entitlement verification;
+
+payments, payouts, and transaction metadata;
+
+analytics, reporting, and moderation workflows; and
+
+authorized third-party services that extend platform functionality.
+
+APIs may not be used for general scraping, data harvesting, platform replication, or any purpose not expressly approved by Shobbl.
+
+2. DEFINITIONS
+
+For purposes of this API Policy:
+
+“API Data” means any data accessed, transmitted, or processed through the APIs, including Personal Data, content metadata, entitlement data, transaction metadata, and system identifiers.
+
+“Personal Data” has the meaning given under applicable data protection laws, including GDPR, UK GDPR, CPRA, PIPEDA, and analogous laws.
+
+“Compliance Region” has the meaning set forth in Shobble’s Global Privacy Policy.
+
+“Processing” has the meaning given under GDPR and analogous laws.
+
+3. API ACCESS & AUTHORIZATION
+3.1 Approval Required
+
+API access is granted solely at Shobble’s discretion and requires prior written approval. Approval may be conditioned on technical review, security assessment, compliance review, and execution of applicable agreements, including any required Data Processing Addendum (“DPA”).
+
+To the extent the API Partner processes Personal Data on Shobble’s behalf, API access is expressly conditioned on execution of Shobble’s Data Processing Addendum, which is incorporated by reference into this API Policy and forms part of the binding agreement between the parties.
+
+Shobble may suspend, restrict, rate-limit, or revoke API access at any time where continued access poses legal, security, operational, or reputational risk, or where this API Policy is violated.
+
+API access is non-transferable and may not be assigned, sublicensed, or shared without Shobble’s prior written consent.
+
+3.2 Credentials, Authentication & Key Management
+
+API credentials, keys, tokens, secrets, and certificates (“Credentials”) are confidential and must be protected using industry-standard security practices.
+
+API Partners must:
+
+keep Credentials secret and secure;
+
+use Credentials only for the approved integration;
+
+rotate Credentials periodically and immediately upon suspected compromise;
+
+restrict Credential access to authorized personnel only; and
+
+not embed Credentials in client-side code, public repositories, or distributed applications.
+
+API Partners are fully responsible for all activity conducted using their Credentials, whether authorized or not.
+
+3.3 Rate Limits, Technical Controls & Acceptable Use
+
+API usage is subject to rate limits, quotas, usage caps, and technical controls as determined by Shobble and documented in applicable developer documentation or dashboards.
+
+API Partners may not:
+
+bypass, disable, or interfere with authentication, authorization, rate limits, quotas, logging, or security mechanisms;
+
+attempt to reverse engineer, enumerate, or probe undocumented endpoints or fields;
+
+use automated means to access the APIs beyond documented and approved functionality; or
+
+conduct load testing, stress testing, vulnerability scanning, or penetration testing without Shobble’s prior written authorization.
+
+Shobble may modify, throttle, deprecate, or discontinue APIs or specific endpoints at any time. Shobble does not guarantee backward compatibility.
+
+4. LICENSE GRANT
+
+Subject to compliance with this API Policy, Shobble grants the API Partner a limited, non-exclusive, non-transferable, revocable license to access and use the APIs solely to implement the approved integration.
+
+No ownership or intellectual property rights are transferred.
+
+5. ROLE OF THE PARTIES (DATA PROTECTION)
+5.1 Controller / Processor Allocation
+
+Unless otherwise expressly agreed in writing:
+
+Shobble acts as a Data Controller with respect to API Data originating from the platform; and
+
+API Partner acts as a Data Processor (or sub-processor) when processing API Data on Shobble’s behalf.
+
+Where the API Partner independently determines the purposes and means of processing API Data, the API Partner acts as an independent Data Controller and assumes all corresponding legal obligations.
+
+5.2 No Joint Controllership
+
+Nothing in this API Policy creates a joint-controller relationship unless expressly agreed in writing.
+
+6. PURPOSE LIMITATION & DATA MINIMIZATION
+
+API Partners may process API Data only:
+
+for the specific, documented, and approved integration purposes;
+
+in a manner consistent with Shobble’s Global Privacy Policy; and
+
+in compliance with applicable licenses, access controls, age-gating, and entitlement rules.
+
+API Partners must:
+
+collect and process only the minimum data necessary;
+
+refrain from secondary use, enrichment, profiling, or repurposing; and
+
+avoid any processing incompatible with the original collection purpose.
+
+7. PROHIBITED USES
+
+API Partners may not:
+
+scrape, crawl, index, mirror, or harvest Shobble content or metadata outside documented endpoints;
+
+build or operate a competing platform, dataset, or marketplace using API Data;
+
+sell, license, disclose, share, or monetize API Data except as expressly permitted in a written agreement signed by Shobble;
+
+use API Data for advertising, behavioral tracking, profiling, or targeted marketing without Shobble’s express written authorization and applicable lawful consent;
+
+infer sensitive attributes beyond what is strictly necessary for the approved service;
+
+reidentify anonymized or aggregated data;
+
+circumvent regional compliance, age-gating, entitlement, or access restrictions; or
+
+enable third parties to extract, reuse, or repurpose Shobble content, assets, or data outside the approved integration.
+
+8. AI & AUTOMATED SYSTEM RESTRICTIONS
+
+Unless explicitly authorized in writing:
+
+API Data may not be used to train, fine-tune, benchmark, or operate artificial intelligence or machine learning systems, including embeddings or datasets;
+
+APIs may not be used to simulate, reconstruct, or replicate Shobble datasets; and
+
+public accessibility of content does not imply consent for automated or AI use.
+
+Unauthorized AI or automated use constitutes a material breach.
+
+9. DATA RETENTION & DELETION
+
+API Partners must align retention practices with Shobble’s Data Retention and Deletion Policy.
+
+API Data may be retained only as long as necessary to provide the approved service.
+Personal Data must be deleted or irreversibly anonymized upon:
+
+termination of API access;
+
+completion of the processing purpose; or
+
+Shobble’s written request.
+
+API Partners must certify deletion upon request and ensure reasonable propagation to backups and authorized subprocessors.
+
+10. INTERNATIONAL DATA TRANSFERS & SCCs
+
+Where API Data includes Personal Data subject to international transfer restrictions:
+
+API Partners must implement Standard Contractual Clauses (SCCs) or equivalent safeguards consistent with Shobble’s Supplemental Privacy Addendum;
+
+API Data may not be transferred outside approved processing locations without Shobble’s prior written consent; and
+
+API Partners must notify Shobble promptly of any government access request unless legally prohibited.
+
+11. SECURITY, CONFIDENTIALITY & INCIDENT RESPONSE
+11.1 Security Safeguards
+
+API Partners must implement appropriate technical and organizational measures to protect API Data against unauthorized access, disclosure, alteration, or destruction, consistent with:
+
+industry standards;
+
+Shobble’s Information Security Policy; and
+
+applicable data protection laws.
+
+Such measures must include, at a minimum, risk-appropriate safeguards for access control, credential protection, system integrity, and incident detection.
+
+11.2 Confidentiality
+
+API Partners must treat as confidential and non-public:
+
+API documentation, specifications, and technical materials;
+
+Credentials and authentication materials;
+
+non-public endpoints, fields, schemas, and metadata;
+
+security signals, audit information, and incident details; and
+
+any non-public API Data.
+
+Confidential information may be accessed solely by personnel with a legitimate need-to-know who are bound by enforceable confidentiality obligations, and may be used only to implement and operate the approved integration.
+
+API Partners may not disclose confidential information to any third party except where required by law or expressly authorized in writing by Shobbl. Upon termination of API access, confidential information must be returned or securely destroyed to the extent reasonably feasible.
+
+11.3 Incident Detection & Notification
+
+A Security Incident means any actual or reasonably suspected unauthorized access to, disclosure of, loss of, or compromise of API Data, Credentials, or systems used to process API Data.
+
+API Partners must:
+
+promptly investigate any suspected Security Incident; and
+
+notify Shobble at security@shobbl.com
+ without undue delay and no later than seventy-two (72) hours after discovery.
+
+Incident notifications must include, to the extent known:
+
+a description of the nature of the Security Incident;
+
+the categories and approximate volume of API Data affected;
+
+the systems or integrations impacted;
+
+mitigation measures taken or planned; and
+
+a point of contact for incident coordination.
+
+11.4 Cooperation & Remediation
+
+API Partners must:
+
+cooperate fully with Shobble in investigating, containing, and remediating any Security Incident;
+
+take prompt corrective actions to prevent recurrence; and
+
+not make public statements, notifications, or disclosures regarding a Security Incident involving Shobble API Data without Shobble’s prior written consent, except where required by law.
+
+Failure to comply with this Section constitutes a material breach of this API Policy.
+
+12. SUBPROCESSORS
+
+API Partners may not engage any subprocessor to process API Data (including Personal Data) without Shobble’s prior written authorization or express authorization provided in the applicable Agreement or this API Policy.
+
+Where subprocessors are authorized:
+
+each subprocessor must be bound by data protection and confidentiality obligations no less protective than those set forth in this API Policy and any applicable DPA; and
+
+the API Partner remains fully responsible and liable for the acts and omissions of its subprocessors.
+
+13. MONITORING, AUDIT & COOPERATION
+
+Shobble may monitor API usage for compliance, security, and performance.
+
+API Partners must:
+
+provide reasonable documentation demonstrating compliance;
+
+cooperate with data subject requests, regulatory inquiries, and audits; and
+
+promptly remediate identified non-compliance.
+
+Failure to comply constitutes a material breach.
+
+14. API DATA CATEGORIES
+
+Subject to the principles of purpose limitation, data minimization, regional compliance, age-gating, and license enforcement, Shobble APIs may expose only the following categories of data, and only to the extent strictly necessary to support an approved integration.
+
+14.1 Account & Identity Identifiers (Limited)
+
+May include:
+
+Platform-generated user or account identifiers (pseudonymous)
+
+Account status indicators (e.g., active, suspended, restricted)
+
+Role or capability flags (e.g., user, creator, seller, moderator)
+
+Compliance Region indicator (coarse, non-precise)
+
+May not include:
+
+Real names, government-issued identifiers, full addresses, or contact details unless expressly authorized in writing.
+
+14.2 Content & Asset Metadata
+
+May include:
+
+Content or Asset identifiers
+
+Titles, descriptions, tags, and categories
+
+Content classification and age-rating indicators
+
+Visibility and access-restriction flags
+
+Licensing descriptors associated with the content or asset
+
+May not include:
+
+Raw content files or media binaries unless expressly authorized
+
+Access to restricted content without entitlement verification
+
+14.3 License, Entitlement & Access Control Data
+
+May include:
+
+Purchase or license confirmation status
+
+License tier and scope
+
+Seat, device, project, or account limits
+
+Expiration, revocation, or suspension status
+
+Managed-account or delegated-access indicators
+
+May not include:
+
+License escalation capabilities
+
+Bypass or circumvention of entitlement enforcement
+
+14.4 Transaction Metadata
+
+May include:
+
+Transaction identifiers
+
+Timestamps
+
+Transaction amounts, currency, and eligible platform credits
+
+Transaction status
+
+Pseudonymous buyer and seller identifiers
+
+May not include:
+
+Payment card numbers
+
+Bank account details
+
+Payment card credentials, payout account credentials, or account recovery secrets
+
+Full KYC or identity-verification documents
+
+14.5 Platform Usage & Analytics Data (Scoped or Aggregated)
+
+May include:
+
+Download counts
+
+View counts
+
+Engagement totals
+
+Performance metrics aggregated at the asset, creator, or category level
+
+May not include:
+
+Individual-level behavioral profiling
+
+Cross-service or cross-platform tracking datasets
+
+Targeted advertising profiles without authorization and consent
+
+14.6 Moderation, Safety & Compliance Signals
+
+May include:
+
+Content moderation status indicators
+
+Policy-violation or review flags
+
+Age-gate eligibility indicators
+
+Region-blocking or legal-restriction markers
+
+May not include:
+
+Reporter identities
+
+Internal risk scoring systems
+
+Law-enforcement-only metadata
+
+14.7 Device & Technical Data (Minimal)
+
+May include:
+
+Session or authentication tokens
+
+Rate-limit and abuse-prevention identifiers
+
+Device class indicators
+
+Coarse derived regional signals
+
+May not include:
+
+Persistent device fingerprinting
+
+Exact IP addresses where not strictly required
+
+Cross-service device correlation identifiers
+
+14.8 Aggregated or Anonymized Data
+
+May include:
+
+Fully anonymized or aggregated datasets that cannot reasonably be re-identified
+
+Platform-level statistics used for reporting, diagnostics, or compliance
+
+Such data remains subject to restrictions on re-identification and secondary use.
+
+14.9 Explicitly Excluded Data
+
+Unless expressly authorized in writing, APIs shall not expose:
+
+Government-issued identification
+
+Biometric data
+
+Precise location data
+
+Full payment credentials
+
+Private communications content
+
+AI training or dataset corpora
+
+Any data that would bypass age, regional, or license-based restrictions
+
+14.10 Governing Principle
+
+API access is limited to the minimum data necessary to support approved, license-compliant integrations, consistent with the original collection purpose, applicable privacy law, and Shobble’s regional, age-based, and access-restricted controls.
+
+
+15. TERMINATION
+
+Shobble may suspend or terminate API access immediately where continued access poses legal, security, or reputational risk, or where this API Policy is violated.
+
+Upon termination, all API use must cease and API Data must be deleted in accordance with this Policy.
+
+16. DISCLAIMERS & LIMITATION OF LIABILITY
+
+APIs are provided “as is” and “as available.”
+Shobble disclaims all warranties regarding availability, performance, or suitability.
+
+To the maximum extent permitted by law, Shobble shall not be liable for indirect, incidental, or consequential damages arising from API use. Total liability shall not exceed the fees paid (if any) for API access in the preceding twelve (12) months.
+
+17. SURVIVAL
+
+Sections relating to data protection, confidentiality, deletion, audit, liability, and dispute resolution survive termination for so long as the API Partner retains API Data.
+
+18. CONTACT
+
+Questions regarding API access, privacy, or compliance may be directed to:
+
+api@shobbl.com
+
+privacy@shobbl.com
+
+security@shobbl.com

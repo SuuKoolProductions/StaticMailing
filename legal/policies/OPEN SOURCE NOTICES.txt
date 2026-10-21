@@ -1,0 +1,136 @@
+OPEN-SOURCE NOTICES ADDENDUM
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This Open-Source Notices Addendum (“Open-Source Addendum”) forms part of the Shobble Master Terms of Use, and applies to all Shobble services, software, APIs, SDKs, developer tools, client applications, and related documentation (collectively, the “Services”).
+
+This Addendum is incorporated by reference into, and governed by, the Master Terms of Use and any applicable agreements, policies, or addenda. In the event of a conflict, the Master Terms of Use control except where an applicable open-source license expressly requires otherwise.
+
+1. PURPOSE & SCOPE
+
+Shobble’s Services may include or depend upon third-party software components that are subject to open-source or source-available licenses (“Open-Source Software”).
+
+This Addendum:
+
+provides notices required by applicable open-source licenses;
+
+identifies how such licenses apply to Shobble’s Services; and
+
+clarifies the relationship between open-source license terms and Shobble’s proprietary software, services, and content.
+
+2. OWNERSHIP & SEPARATION OF RIGHTS
+2.1 No Transfer of Proprietary Rights
+
+Except as expressly stated in an applicable open-source license:
+
+Shobble retains all right, title, and interest in its proprietary software, platform infrastructure, services, APIs, content, documentation, trademarks, and branding; and
+
+nothing in this Addendum grants any license to Shobble’s proprietary materials.
+
+Open-Source Software is licensed, not sold, under the terms of the applicable open-source license.
+
+2.2 No Open-Sourcing of Shobble Platform
+
+The inclusion or use of Open-Source Software within the Services does not:
+
+render any portion of Shobble’s platform open source;
+
+require Shobble to disclose source code beyond what is expressly required by the applicable open-source license; or
+
+grant any rights to reverse engineer, extract, or redistribute Shobble proprietary code or systems.
+
+3. OPEN-SOURCE LICENSES
+3.1 Applicable Licenses
+
+Open-Source Software used by Shobble may be licensed under one or more of the following (non-exhaustive examples):
+
+MIT License
+
+BSD License (2-Clause or 3-Clause)
+
+Apache License 2.0
+
+ISC License
+
+Mozilla Public License (MPL)
+
+GNU Lesser General Public License (LGPL)
+
+Other permissive or weak-copyleft licenses
+
+Each Open-Source Software component is governed solely by its own license terms.
+
+3.2 License Text Availability
+
+Where required, the full text of applicable open-source licenses and copyright notices will be made available:
+
+within the Services;
+
+in accompanying documentation;
+
+in an “Open-Source Notices” or “Licenses” file; or
+
+via a publicly accessible notice page maintained by Shobbl.
+
+4. COMPLIANCE WITH OPEN-SOURCE LICENSES
+
+Shobble complies with applicable open-source license obligations, including attribution, notice, and license availability requirements.
+
+To the extent required by an applicable license, Shobble will make available:
+
+license texts;
+
+copyright notices; and
+
+limited source code or modification disclosures, where legally required.
+
+Nothing in this Addendum expands Shobble’s obligations beyond what is required under the applicable open-source license.
+
+5. NO WARRANTY FOR OPEN-SOURCE SOFTWARE
+
+OPEN-SOURCE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR TITLE, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+This disclaimer applies regardless of whether the Open-Source Software is used independently or as part of Shobble’s Services.
+
+6. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law:
+
+Shobble shall not be liable for damages arising from the use of Open-Source Software, except as required by applicable law or the applicable open-source license; and
+
+any liability relating to Open-Source Software is limited as set forth in the Master Terms of Use.
+
+Some open-source licenses may include their own limitation or exclusion of liability provisions, which apply to the Open-Source Software governed by those licenses.
+
+7. NO SUPPORT OBLIGATION
+
+Unless expressly stated in writing:
+
+Shobble does not provide support, maintenance, or warranties for Open-Source Software as such; and
+
+any support provided relates only to Shobble’s Services as a whole, not to individual open-source components.
+
+8. THIRD-PARTY BENEFICIARIES
+
+Certain licensors of Open-Source Software may be intended third-party beneficiaries of the applicable open-source license terms, but not of the Master Terms of Use or this Addendum.
+
+9. CHANGES TO OPEN-SOURCE COMPONENTS
+
+Shobble may update, replace, or remove Open-Source Software components at any time as part of platform development, maintenance, security updates, or compliance efforts.
+
+Such changes do not modify the license terms applicable to previously distributed Open-Source Software.
+
+10. GOVERNING LAW
+
+This Open-Source Addendum is governed by the same governing law and dispute resolution provisions as the Master Terms of Use, except where an applicable open-source license requires otherwise.
+
+11. CONTACT & NOTICES
+
+Questions or notices regarding open-source licenses or attributions may be directed to:
+
+opensource@shobbl.com
+
+or through Shobble’s designated support channels.

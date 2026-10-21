@@ -1,0 +1,56 @@
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+COMMUNITY CONTENT GUIDELINES
+
+Reader Notice
+This document contains references to sensitive subject matter, including sexual violence, bodily harm, coercion, and other explicit themes, for the purpose of defining prohibited and restricted content. These references are descriptive and regulatory in nature and do not indicate endorsement, availability, or acceptability of such content on the Platform.
+
+1. PURPOSE & SCOPE
+
+Notice: These Guidelines Address Sensitive Topics
+
+These Community Content Guidelines (“Guidelines”) define the standards governing content uploaded, shared, distributed, or monetized on the Shobble platform.
+
+The Guidelines apply to all Users, Creators, Content Partners, and any other parties who access or use Shobble services, including all content formats (text, images, video, audio, games, interactive content, metadata, descriptions, thumbnails, and promotional materials).
+
+These Guidelines are incorporated by reference into the Master Terms of Use and operate alongside the Acceptable Use Policy (“AUP”), Privacy Policy, Monetization Addenda, and any feature-specific rules. In the event of a conflict, the Terms and applicable Addenda control.
+
+Shobble’s content standards are designed to:
+
+protect user safety and dignity;
+
+comply with legal, regulatory, and payment-processor obligations;
+
+preserve platform integrity and brand trust; and
+
+provide clear, enforceable boundaries for creators and audiences.
+
+Nothing in these Guidelines creates a right to publish, access, monetize, or continue hosting any content.
+
+Content Classification Flow Summary
+
+Shobble evaluates all content using a tiered, risk-based classification process. Content is assessed based on legality, safety impact, audience risk, and platform obligations.
+
+Step 1: Legality Check
+If the content is illegal under applicable law, depicts or treats any identifiable or reasonably identifiable real person in a Sexualized manner (as defined in the Sexual Content Definitions Policy), regardless of purported consent, or otherwise falls into categories that Shobble has determined cannot be safely hosted, moderated, or risk-mitigated—regardless of legality—it is classified as Forbidden Content and is never permitted under any circumstances.
+
+Step 2: Severe Risk Assessment
+If the content is lawful under applicable law but presents severe or irreducible safety, ethical, reputational, regulatory, or payment-processor risk such that it is not suitable for general access, distribution, or monetization, it is classified as Blacklisted Content, which is disallowed by default, suppressed from general availability, and never entitled to hosting, access, or monetization; any visibility—if permitted at all—is narrow, discretionary, revocable, and limited to verified 18+ users through explicit opt-in account settings, subject to strict controls.
+
+Step 3: Contextual Risk Assessment
+If the content is lawful but presents elevated or context-dependent risk, or contains Sexualized content, it is classified as Restricted Content. Restricted Content may be permitted only under narrow, discretionary conditions and may be subject to age-gating, reduced visibility, limited monetization, or placement within designated domains.
+
+Step 4: General Availability
+If the content is lawful, does not fall within Forbidden, Blacklisted, or Restricted classifications, and does not meaningfully elevate safety or compliance risk, it is classified as Allowed Content and may be made available to appropriate aged users subject to the Terms, Acceptable Use Policy, and these Guidelines.
+
+Be advised that:
+
+Classification is determined by Shobble in its sole discretion, based on the totality of circumstances.
+
+Context, presentation, cumulative behavior, and audience impact may affect classification.
+
+Absence from a specific category does not imply permission.
+
+Content may be reclassified, restricted, or removed at any time.
+
+

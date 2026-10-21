@@ -508,7 +508,7 @@ export function PrivacyPolicyContent() {
           <section>
             <h2 className="text-2xl font-semibold mb-4">9. COOKIES POLICY</h2>
             <p>
-              Shobble seeks your informed consent for the use of non-essential cookies and similar technologies, as outlined in our <a href="https://dev.shobble.com/policies/cookies-notice" className="text-blue-600 hover:underline">Cookies Notice</a>.
+              Shobble seeks your informed consent for the use of non-essential cookies and similar technologies, as outlined in our <a href="/policies/cookies-notice" className="text-blue-600 hover:underline">Cookies Notice</a>.
             </p>
           </section>
 
@@ -643,7 +643,7 @@ export function PrivacyPolicyContent() {
           <section>
             <h2 className="text-2xl font-semibold mb-4">14. JURISDICTION-SPECIFIC PROVISIONS</h2>
             <p>
-              We maintain jurisdiction-specific provisions in a supplemental document. For our comprehensive international data transfer and SCCs privacy policy, please refer to our <a href="https://dev.shobble.com/policies" className="text-blue-600 hover:underline">Supplemental Privacy Addendum: International Data Transfers & Standard Contractual Clauses (SCCs)</a>.
+              We maintain jurisdiction-specific provisions in a supplemental document. For our comprehensive international data transfer and SCCs privacy policy, please refer to our <a href="/policies/supplemental-privacy-addendum-international-data-transfers-and-standard-contractual-clauses-sccs" className="text-blue-600 hover:underline">Supplemental Privacy Addendum: International Data Transfers & Standard Contractual Clauses (SCCs)</a>.
             </p>
             
             <h3 className="text-xl font-semibold mb-3">14.1 European Economic Area and United Kingdom</h3>

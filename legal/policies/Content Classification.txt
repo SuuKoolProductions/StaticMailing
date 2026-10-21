@@ -1,0 +1,658 @@
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+
+1. CONTENT CLASSIFICATION
+
+Shobble classifies content into tiers based on risk, legality, safety, and platform impact. These classifications determine visibility, access controls, monetization eligibility, environment placement, and enforcement posture. Restricted and adult-oriented content environments are separately age-gated and isolated from standard Platform experiences.
+
+For determining the age appropriateness of a piece of content, refer to our Age Rating Policy
+
+For the definitions used for sexual content (e.g. Suggestive, Erotic, Sexualized), refer to the Sexual Content Definitions Policy.
+
+1.1 Classification Tiers
+
+Content on Shobble generally falls into one of the following categories:
+
+Allowed Content
+Content suitable for general audiences or specific age-gated audiences that complies with the Terms, AUP, and Community Guidelines.
+
+Restricted Content
+Content that may be lawful but presents elevated safety, reputational, or compliance risks. Restricted content may be subject to age-gating, limited distribution, reduced discoverability, limited monetization, or placement within designated domains.
+
+Blacklisted Content
+Content that is restricted and also suppressed by default, "opt-in" only, and not permitted for general access or monetization due to severe safety, ethical, legal, or platform-integrity risks. Any allowance—if permitted at all—is discretionary, narrow, and revocable.
+
+Forbidden Content
+Content that is illegal or rides so close to an illegal boundary that we have determined it to be beyond our ability to classify in any other manner.
+
+The categories listed in these Guidelines are illustrative, not exhaustive.
+
+Content may be restricted, blacklisted, or forbidden based on substance, impact, or risk, even if not expressly listed.
+
+2. ALLOWED CONTENT
+
+Allowed Content includes material that may be uploaded, shared, distributed, and (where applicable) monetized on Shobble, subject to compliance with the Master Terms of Use, Acceptable Use Policy (AUP), these Community Content Guidelines, and any feature-specific rules.
+
+Content is considered Allowed where it is lawful to host and distribute under applicable law, and where Shobble can reasonably make it available with appropriate access controls in relevant jurisdictions.
+
+Allowed Content is not unlimited. All content remains subject to review, reclassification, restriction, or removal at Shobble’s discretion.
+
+2.1 General Standard
+
+Content is considered Allowed where it:
+
+is lawful in the jurisdictions in which it is accessed;
+
+does not fall within Forbidden, Blacklisted, or Restricted classifications;
+
+does not meaningfully elevate safety, exploitation, or compliance risk;
+
+does not rely on shock, degradation, or harm as a core engagement mechanic; and
+
+is presented in a manner consistent with platform integrity, user safety, and audience expectations.
+
+Allowed Content may be suitable for general audiences or for age-gated audiences, depending on context.
+
+2.2 Examples of Allowed Content
+
+The following categories are generally Allowed, provided they comply with all other platform rules and do not escalate into Restricted, Blacklisted, or Forbidden territory.
+
+2.2.1 Creative, Expressive, and Entertainment Content
+
+Fictional stories, games, films, music, artwork, animations, and interactive media;
+
+Satire, parody, and commentary;
+
+Speculative, fantastical, or science-fiction narratives;
+
+Non-sexual depictions of conflict, danger, or adversity that are non-graphic and contextually appropriate; and
+
+Horror, thriller, or suspense content that does not rely on graphic violence, sexual harm, or exploitation.
+
+2.2.2 Educational, Informational, and Documentary Content
+
+Educational materials, tutorials, and explainers;
+
+Academic, scientific, historical, or cultural analysis;
+
+News reporting and journalistic commentary;
+
+Documentaries or investigative works addressing real-world events or issues; and
+
+Public-interest discussions of difficult or controversial topics, where the primary purpose is to inform or contextualize rather than to shock, exploit, or sensationalize.
+
+Such content must remain non-gratuitous and proportional to its informational purpose.
+
+2.2.3 Non-Sexual Adult Themes
+
+Mature themes such as grief, illness, mortality, addiction, trauma, or crime, where depicted responsibly;
+
+Non-sexual depictions of injury or violence that are non-graphic and narrative-relevant;
+
+Psychological tension or emotional distress presented without sexualization or glorification; and
+
+Depictions of wrongdoing that are clearly framed as fictional, critical, or condemnatory.
+
+2.3 Context Matters
+
+Classification is based on the totality of circumstances, including:
+
+narrative framing and emphasis;
+
+visual, textual, or interactive presentation;
+
+intended and likely audience response;
+
+patterns of creator behavior; and
+
+how the content is promoted, monetized, or contextualized.
+
+Content that is individually benign may be reclassified if combined, escalated, or framed in a manner that meaningfully increases risk.
+
+2.4 No Implied Approval or Entitlement
+
+The designation of content as Allowed:
+
+does not imply endorsement by Shobble;
+
+does not guarantee monetization, discoverability, or continued hosting; and
+
+does not prevent future reclassification, restriction, or removal.
+
+Allowed Content remains subject to evolving standards, regulatory obligations, payment-processor requirements, and platform-wide risk assessments.
+
+3. RESTRICTED CONTENT
+
+Restricted Content includes material that may be lawful but presents elevated safety, reputational, regulatory, or payment-processor risk. Such content is not suitable for general distribution and may be allowed only under narrowly defined, discretionary conditions.
+
+Restricted Content is not entitled to hosting, distribution, discoverability, monetization, or continued availability.
+
+Where permitted, Restricted Content is subject to appropriate access controls, including age-gating or placement on Shobble’s adult domain, as determined by Shobble based on context, presentation, and risk.
+
+3.1 Baseline Principles Applicable to All Restricted Content
+3.1.1 No Reclassification by Framing
+
+Content that otherwise qualifies as Blacklisted or Forbidden does not become Allowed or Restricted solely by virtue of educational, documentary, journalistic, artistic, or contextual framing, unless explicitly permitted by Shobble in writing.
+
+3.1.2 Conditional Allowance Only
+
+Any allowance of Restricted Content is:
+
+content-specific, not category-wide;
+
+discretionary, revocable, and non-precedential; and
+
+subject to heightened review and enforcement at all times.
+
+3.1.3 No Entitlement
+
+The presence of Restricted Content in any Shobble environment does not imply approval, endorsement, entitlement, monetization eligibility, or continued availability.
+
+3.1.4 Risk-Based Controls
+
+Where permitted, Shobble may, at its sole discretion:
+
+limit or disable distribution, discoverability, recommendations, monetization, or interactive features;
+
+impose access controls, age gates, or identity verification; or
+
+remove, reclassify, or restrict content if escalation, misuse, cumulative presentation, or audience behavior reasonably indicates increased risk.
+
+3.1.5 Patterns and Aggregation
+
+Shobble may consider patterns of uploads, thematic repetition, cumulative presentation, or behavioral indicators when determining classification or enforcement, even where individual items might otherwise qualify for conditional allowance.
+
+3.1.6 Terminology Clarification
+
+For the avoidance of doubt, the “exceptions” described below do not create new categories of Allowed Content and operate solely as conditional allowances within the Restricted Content classification.
+
+3.2 Domain Allocation
+3.2.1 General Rule
+
+Restricted Content may appear only in the environment designated by Shobble for its classification and only where expressly permitted and subject to applicable access controls. Adult-oriented restricted environments require users to be at least eighteen (18) years old and are separated from standard Platform experiences.
+
+3.2.2 Sexualized Content Limitation
+
+Sexualized or erotic content, if permitted at all, may appear only within Shobble’s restricted adult-oriented environment, is never permitted on standard Platform surfaces, and is not accessible to users under eighteen (18).
+
+3.3 Indecent Content (Conditional Allowance)
+3.3.1 Definition
+
+Indecent Content refers to fictional or real-world depictions of nudity or bodily functions that are non-sexual in nature.
+
+3.3.2 Conditional Allowance Standard
+
+Indecent Content that would otherwise be Blacklisted or Forbidden may be self-uploaded and made available at Shobble’s discretion only where it appears exclusively outside eroticized or sexual contexts.
+
+3.3.3 Mandatory Conditions
+
+Indecent Content may be conditionally allowed only where all of the following apply:
+
+the depiction is stylized, abstracted, schematic, or non-photorealistic;
+
+accurate anatomical texture, fine detail, or realistic rendering is not depicted;
+
+active bodily excretion or elimination is not depicted;
+
+the content does not emphasize, linger on, aestheticize, or dramatize otherwise restricted material;
+
+the content is not framed, promoted, reused, or extracted for shock value, arousal, or spectacle; and
+
+the content does not rely on repetition or thematic use of indecent elements beyond contextual or narrative necessity.
+
+3.3.4 Enforcement Posture
+
+Any allowance for Indecent Content is narrow, conditional, and revocable, and remains subject to heightened review and discretionary enforcement.
+
+3.4 Educational, Documentary, and Informational Content (Conditional Allowance)
+3.4.1 Definition
+
+Educational Content refers to bona fide documentary, educational, scientific, medical, historical, or journalistic works whose primary and evident purpose is to inform or explain.
+
+3.4.2 Conditional Allowance Standard
+
+Content that would otherwise be Blacklisted or Forbidden may be self-uploaded and made available at Shobble’s discretion only where the informational purpose is primary, evident, and non-pretextual.
+
+3.4.3 Mandatory Conditions
+
+Educational Content may be conditionally allowed only where all of the following apply:
+
+the content is presented with clear, proportional, and non-gratuitous context;
+
+restricted material is limited strictly to what is necessary to convey the informational purpose;
+
+the content does not emphasize, linger on, aestheticize, or dramatize restricted elements;
+
+the content is not framed, promoted, reused, or extracted for shock value, arousal, or spectacle; and
+
+the content does not rely on repetition or thematic use of restricted material beyond informational necessity.
+
+3.4.4 No Retroactive Reframing
+
+Educational framing must be present at the time of upload and may not be added retroactively to reclassify, restore, or legitimize content following enforcement action.
+
+3.4.5 Enforcement Posture
+
+Any allowance under this section is narrow, conditional, revocable, and subject to heightened review, access controls, and discretionary enforcement.
+
+3.5 Sexualized Content (Highly Restricted)
+3.5.1 Definition
+
+Sexualized Content refers to content that depicts sexual or fetishized acts in an eroticized, detailed, or gratuitous manner.
+
+3.5.2 Domain and Access Restrictions
+
+Sexualized Content, if permitted at all:
+
+may appear only on adult.shobbl.com; and
+
+is accessible only to users who are verifiably 18 years of age or older.
+
+Shobble may require age or identity verification at any time.
+
+3.5.3 Mandatory Eligibility Conditions for Sexualized Content
+
+Self-uploaded Sexualized Content may be permitted only where all of the following conditions are met:
+
+no real persons are depicted sexually;
+
+all depicted characters are fictional, not based on or reasonably identifiable as real persons, and are verifiably 18 years of age or older;;
+
+the content does not involve any Forbidden or Blacklisted themes;
+
+the content is appropriately tagged at the time of upload;
+
+the content is not framed, promoted, reused, or extracted for shock value or spectacle;
+
+the content is not reused outside its original narrative or artistic context for arousal; and
+
+the content complies with all jurisdictional, access-control, and verification requirements.
+
+3.5.4 Sexual Objects Used as Non-Sexual Props (Conditional Allowance)
+
+Sexual objects or products (including sex toys or items primarily associated with sexual use) may appear as non-sexual props within Restricted Content and are not treated as Sexualized Content solely by virtue of the object’s presence, only where their presentation does not function as sexualized or arousal-oriented material and all conditions below are satisfied:
+
+a. the object is not used for sexual stimulation and does not depict, simulate, or imply sexual acts;
+b. the dominant and evident purpose of the content is comedic, satirical, absurdist, or performative, rather than sexual arousal;
+c. the presentation does not emphasize, aestheticize, linger on, or otherwise frame the object as a sexual stimulus;
+d. titles, descriptions, tags, thumbnails, captions, and promotional materials do not employ sexualized, pornographic, fetishistic, or arousal-oriented framing;
+e. such content is not monetizable by default and remains subject to heightened review and discretionary monetization controls; and
+f. repeated reliance on sexual objects as shock-based or boundary-testing elements may result in escalation under Shobble’s patterns and aggregation standards.
+
+Any allowance under this subsection is narrow, discretionary, revocable, and non-precedential.
+
+3.5.5 Limitations and Controls
+
+Sexualized Content may be subject to reduced discoverability, monetization limitations, recommendation suppression, or removal at any time.
+
+3.5.6 Enforcement Posture
+
+Any allowance for Sexualized Content is narrow, conditional, revocable, and subject to heightened review, discretionary enforcement, and evolving platform standards.
+
+3.6 No Rights Created
+
+Nothing in this Section 3 creates a right to upload, access, monetize, or continue hosting Restricted Content, even where such content is authentic, factually accurate, or otherwise lawful.
+4. BLACKLISTED CONTENT
+
+(Restricted by Default; Opt-In Through 18+ User Blacklist Settings Only)
+
+Blacklisted Content includes material that presents severe safety, ethical, reputational, regulatory, or payment-processor risk and is not suitable for general access, distribution, or monetization.
+
+Blacklisted Content is suppressed by default and is never entitled to hosting, access, monetization, or continued availability.
+
+4.1 Baseline Principles Applicable to All Blacklisted Content
+
+4.1.1 Default Prohibition
+Blacklisted Content is not permitted for general upload, access, distribution, or monetization.
+
+Any allowance—if permitted at all is exceptional, narrow, and discretionary.
+
+4.1.2 No Entitlement; No Reliance
+No user has any right to upload, access, distribute, monetize, or continue hosting Blacklisted Content.
+Payment, subscription, prior access, or creator status never guarantees availability.
+
+4.1.3 Non-Precedential Allowance
+Any allowance of Blacklisted Content:
+
+is content-specific, not category-wide;
+
+does not establish precedent or expectation; and
+
+may be revoked at any time without notice.
+
+4.1.4 Suppression and Controls
+Where permitted in limited form, Shobble may, at its sole discretion:
+
+suppress discoverability, search indexing, and recommendations;
+
+disable monetization, interaction, sharing, or remix features;
+
+impose access, age, or identity verification controls; or
+
+remove, restrict, or reclassify the content at any time.
+
+4.1.5 Patterns and Escalation
+Shobble may consider patterns of uploads, cumulative presentation, thematic escalation, or audience behavior when determining enforcement, even where individual items might otherwise qualify for discretionary review.
+
+4.2 Mandatory Conditions (If Permitted at All)
+
+Blacklisted Content may be allowed only where all of the following conditions are met:
+
+a. the content is purely fictional;
+b. no real persons are depicted, referenced, implied, or reasonably identifiable;
+c. the content complies with all age and identity verification requirements;
+d. the content is confined exclusively to Shobble’s designated adult domain (adult.shobbl.com); and
+e. the content remains subject to immediate removal or restriction at any time, regardless of payment or subscription status.
+
+Failure to meet any condition results in denial or removal.
+
+4.3 Permissible Framing (If Allowed)
+
+Where Blacklisted Content is permitted in limited form, it may include fictional, artistic, or narrative depictions only where:
+
+the depiction does not promote, instruct, validate, normalize, or eroticize real-world systems of abuse or exploitation;
+
+the work is clearly framed as fictional, critical, tragic, condemnatory, or cautionary in nature;
+
+sexual arousal is not the primary purpose, focus, or outcome of the work; and
+
+all access-control, age-verification, and adult-domain requirements are strictly enforced.
+
+Such content remains opt-in only, non-monetizable unless expressly approved, and subject to removal at any time.
+
+4.4 Blacklisted Content Categories
+
+The following categories are Blacklisted when sexualized, normalized, aestheticized, or framed primarily for erotic, consumptive, or boundary-escalating purposes.
+
+4.4.1 Consent and Agency-Violation Themes
+
+Includes depictions involving:
+
+non-consensual or pseudo-non-consensual scenarios (“dubious consent”);
+
+coercion, blackmail, extortion, or leverage-based sexual compliance;
+
+mind control, hypnosis, possession, or removal of agency;
+
+sexual enslavement, ownership, or permanent domination tropes; or
+
+sexualized authority imbalances, including captivity or institutional power.
+
+4.4.2 Extreme Physical Harm and Bodily Violation
+
+Includes depictions involving:
+
+graphic injury, exposed organs, or visible bodily trauma;
+
+mutilation, dismemberment, amputation, or irreversible bodily damage;
+
+pain, suffering, or physical harm presented as the primary sexual stimulus or outcome; or
+
+medical or surgical acts framed as sexual, including invasive procedures, experimentation, or forced treatment.
+
+4.4.3 Ambiguous Sapience and Consent Capacity
+
+Includes sexualized depictions of:
+
+sapient beings difficult to distinguish from non-sapient animals; or
+
+animals or entities with unclear intelligence or consent capacity.
+
+For clarity, this category does not include plants, fungi, or amorphous entities lacking cognition.
+
+4.4.4 Bodily Functions and Abjection Fetishes
+
+Includes sexualized depictions involving:
+
+urine (“watersports”);
+
+feces (“scat”);
+
+excessive flatulence;
+
+vomiting or emesis as a sexual focus;
+
+menstrual blood; or
+
+decay, infestation, filth, or abjection as an erotic stimulus.
+
+4.4.5 Psychological Degradation and Identity Erasure
+
+Includes sexualized depictions involving:
+
+irreversible loss of agency or autonomy;
+
+a person presented as property, an object, or a non-person;
+
+psychological coercion or “breaking” as the intended sexual outcome; or
+
+financial coercion resulting in loss of autonomy or self-determination.
+
+4.4.6 Shock-Escalation and Boundary-Testing Content
+
+Includes content that:
+
+intentionally combines, sequences, or escalates restricted themes to progressively violate platform boundaries;
+
+relies on “no-limits,” “anything goes,” or escalation-based framing; or
+
+attempts to circumvent content standards through stacking of borderline elements.
+
+Such content may be restricted or removed even where individual components might otherwise appear permissible.
+
+4.5 No Rights Created
+
+Nothing in this Section 4 creates a right to upload, access, monetize, or continue hosting Blacklisted Content, regardless of legality, fictional framing, payment, or prior availability.
+
+5. FORBIDDEN CONTENT
+
+Forbidden Content includes material that is never permitted on Shobble under any circumstances. This prohibition applies to upload, storage, sharing, distribution, promotion, monetization, access, and any attempt to test, evade, or circumvent enforcement systems.
+
+Forbidden Content is disallowed regardless of:
+
+fictional framing, roleplay, or narrative context;
+
+purported consent between depicted parties;
+
+age-gating, labeling, tagging, or content warnings;
+
+subscription, paywall, or private-access controls;
+
+artistic, literary, political, academic, or ideological justification; or
+
+whether similar material may be lawful in some jurisdictions.
+
+No user has any right to upload, access, distribute, or monetize Forbidden Content.
+
+5.1 Baseline Principles Applicable to All Forbidden Content
+
+5.1.1 Absolute Prohibition
+Forbidden Content is not eligible for classification, exception, opt-in access, or discretionary allowance.
+
+5.1.2 Non-Waivable Obligations
+This category exists to satisfy non-waivable legal duties, child-safety requirements, and baseline harm-prevention obligations. It is not subject to business, artistic, or contextual balancing.
+
+5.1.3 No Contextual Override
+Forbidden Content remains prohibited regardless of context, intent, or presentation, including educational, documentary, journalistic, or speculative uses.
+
+5.1.4 No Entitlement or Reliance
+No prior availability, payment, subscription, or creator status creates a right to access or continue hosting Forbidden Content.
+
+5.2 Core Definition
+
+Forbidden Content includes material that is:
+a) illegal under applicable law;
+b) inherently exploitative, abusive, or gratuitously violent in a manner that meaningfully elevates real-world harm, safety risk, or victimization;
+c) so closely associated with real-world harm, abuse, or criminal activity that Shobble has determined it cannot be safely hosted, moderated, or risk-mitigated; or
+d) not conclusively illegal in every jurisdiction, but creates an unreasonable risk of illegality, victimization, or facilitation (including CSAM risk, non-consensual sexual content risk, or trafficking/exploitation risk) such that Shobble cannot reliably verify legality, consent, age, or provenance at scale.
+
+5.3 Forbidden Content Categories
+
+The following categories are Forbidden in all forms, without exception.
+
+5.3.1 Sexual Content Involving Minors
+
+Includes any content that depicts, simulates, or is intended to arouse sexual interest involving a minor, including:
+
+sexual activity involving minors, whether explicit or implied;
+
+sexualized depictions of minors, including poses, attire, or contexts intended to sexualize youth; or
+
+sexual content involving characters presented as minors or under custodial, educational, or dependency authority.
+
+5.3.2 Sexual Exploitation, Trafficking, and Commercialized Abuse
+
+Includes content that promotes, facilitates, depicts, or sexualizes systems of real-world sexual exploitation, including:
+
+sex trafficking, forced prostitution, or sexual servitude;
+
+the sale, purchase, transfer, or ownership of persons for sexual purposes;
+
+sexual exploitation tied to debt, survival, shelter, food, employment, or immigration status;
+
+“pay-to-harm,” “pay-to-degrade,” or outcome-based sexual abuse; or
+
+instructional, promotional, or recruitment-oriented depictions of exploitation networks.
+
+5.3.3 Rape, Sexual Violence, and Non-Consensual Acts
+
+Includes any depiction, narration, or simulation of sexual violence, including:
+
+rape or attempted rape;
+
+sexual assault or sexual battery;
+
+forced sexual acts under threat of violence, harm, or exposure;
+
+drug- or intoxication-facilitated sexual acts;
+
+sexual acts involving unconscious, incapacitated, or unaware individuals; or
+
+content that presents sexual violence as acceptable, arousing, humorous, or justified.
+
+This category is distinct from Blacklisted consent-violation themes and is not eligible for opt-in or adult-domain treatment.
+
+5.3.4 Bestiality
+
+Includes any sexual act or sexualized depiction involving humans and real-world animals, or animals that are biologically non-sapient or incapable of consent, where prohibited by law.
+
+Fictional species are excluded only where they are clearly portrayed as sapient, autonomous persons with human-equivalent intelligence and agency, and where the depiction does not function as a proxy for real-world animals.
+
+5.3.5 Incest and Familial Sexualization
+
+Includes content that depicts or sexualizes:
+
+sexual activity between close family members;
+
+parent-child, guardian-dependent, or sibling sexual dynamics;
+
+step-family or “pseudo-incest” structures designed to simulate familial relationships; or
+
+sexualized grooming within a family or household structure.
+
+This prohibition applies even where characters are described as adults.
+
+5.3.6 Real-World Sexual Abuse Material and Voyeurism
+
+Includes any sexualized or erotic material involving real, purportedly real, or reasonably identifiable persons that:
+
+constitutes real or purportedly real sexual abuse material;
+
+is a non-consensual recording, leaked sexual content, or hidden-camera material;
+
+depicts upskirting, downblousing, or other surreptitious capture of intimate areas;
+
+involves private individuals without their explicit consent;
+
+is obtained through coercion, threats, manipulation, or exploitation; or
+
+constitutes “revenge porn,” extortion-based sexual material, or sexual blackmail.
+
+5.3.7 Sexual Content Involving Real Persons
+
+Includes sexual content depicting identifiable real persons with or without their explicit consent, including:
+
+deepfakes, manipulated media, or synthetic sexual depictions;
+
+sexual content depicting, simulating, or closely resembling any identifiable or reasonably identifiable real person; or
+
+impersonation or identity misuse for sexual purposes.
+
+5.3.8 Facilitation, Instruction, or Normalization of Sexual Harm
+
+Includes material that:
+
+provides instructions, guidance, or tips for committing sexual harm;
+
+normalizes, encourages, or validates sexual abuse, exploitation, or coercion;
+
+frames sexual violence as a lifestyle, ideology, or kink culture; or
+
+recruits, organizes, or builds communities around sexual harm.
+
+5.4 No Exceptions; No Substitutes
+
+Forbidden Content is not eligible for:
+
+educational, documentary, journalistic, artistic, or academic exceptions;
+
+fictional framing or speculative settings;
+
+adult domains or opt-in access systems;
+
+content warnings, disclaimers, or labeling; or
+
+self-upload, archival, or “reference-only” treatment,
+
+except where Shobble allows it minimally and conditionally as Restricted educational, documentary, journalistic, artistic, or academic exceptions.
+
+Where discussion of such material is necessary for legitimate reporting or education, only external references or links may be used, subject to separate review and only where permitted by law.
+
+5.5 Enforcement
+
+Shobble enforces Forbidden Content through immediate action, which may include:
+
+removal without notice;
+
+account suspension or termination;
+
+withholding or forfeiture of payouts or balances;
+
+revocation of licenses or access rights; and
+
+reporting to law enforcement or relevant authorities where legally required or reasonably necessary.
+
+Attempts to test, probe, evade, or incrementally approach Forbidden Content boundaries may be treated as aggravated violations.
+
+6. SUMMARY FOR CREATORS
+
+If your content:
+
+relies on loss of consent or agency,
+
+eroticizes extreme harm or bodily violation,
+
+blurs adult/child, human/animal, or sapient/non-sapient boundaries,
+
+depends on canon, lore, or disclaimers to justify sexualization, or
+
+exists primarily to shock or escalate boundaries,
+
+it is Restricted, Blacklisted, or Forbidden regardless of legality or tags.
+
+7. ENFORCEMENT & DISCLAIMERS
+7.1 No Entitlement; Discretion Preserved
+
+Content classification and enforcement decisions are determined by Shobble in its sole discretion, based on context, presentation, audience impact, cumulative risk, and evolving legal, regulatory, and platform standards. Classification decisions are made using internal standards designed to promote consistency and proportionality, though outcomes may vary based on content-specific facts, risk signals, and patterns of use.
+
+The absence of a specific example, category, or prohibition does not imply permission. Compliance with labeling, tagging, disclaimers, fictional framing, lore, age-gating, subscription access, or content warnings does not override classification or enforcement determinations.
+
+Shobble may reclassify, restrict, suppress, demonetize, or remove content at any time, including retroactively, where necessary to comply with applicable law, regulatory obligations, payment-processor requirements, platform safety standards, or newly identified risk factors. Shobble is not obligated to provide advance notice, explanation, or justification for such actions, except where required by law.
+
+Shobble does not endorse, sell, license, or guarantee access to Blacklisted or Restricted Content. No payment, subscription, prior availability, or creator status creates any entitlement to continued hosting, access, discoverability, or monetization.
+
+Enforcement actions may include, without limitation, content removal, visibility suppression, demonetization, feature restrictions, account suspension, account termination, withholding or forfeiture of balances, or revocation of platform access rights.
+
+Illegal content is reported to appropriate authorities where required by law or where reasonably necessary to protect users, victims, or the platform.
+
+These classifications, examples, and enforcement mechanisms are illustrative, not exhaustive, and may be applied based on substance, impact, risk, or cumulative behavior even where specific conduct is not expressly listed.

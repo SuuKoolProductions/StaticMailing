@@ -1,0 +1,167 @@
+AI USE-CASE POLICY
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+
+This AI Use-Case Policy (“Policy”) governs the use of artificial intelligence, machine learning, and automated systems in connection with content made available on the Shobble platform (“Platform”).
+
+This Policy applies to all users, creators, developers, partners, and third parties who access, use, or interact with the Platform or any content made available through it (“Content”).
+
+This Policy is incorporated by reference into the Master Terms of Use and operates alongside the Creator Content License Agreement, Acceptable Use Policy, Music Licensing Policy, Monetization Addenda, and any feature-specific rules. In the event of conflict, the Master Terms control.
+
+1. DEFINITIONS
+
+For purposes of this Policy:
+
+1.1 Generative AI
+
+“Generative AI” means any system designed to generate new expressive content, including text, audio, visual, or interactive works, that substitutes for, imitates, or replicates human creative output.
+This includes, without limitation, large language models (LLMs), diffusion models, generative adversarial networks (GANs), voice or likeness models, style-transfer systems, and similar technologies.
+
+1.2 Non-Generative Machine Learning
+
+“Non-Generative Machine Learning” means machine learning techniques used solely for analysis, optimization, simulation, classification, testing, moderation, accessibility, fraud prevention, or operational support, where such techniques do not produce expressive, creative, or substitutive outputs.
+
+1.3 Expressive or Substitutive Output
+
+An “Expressive or Substitutive Output” is any output that:
+
+replaces or competes with human-authored creative works;
+
+imitates artistic style, voice, narrative, or visual identity; or
+
+could reasonably be consumed as creative content rather than operational output.
+
+2. PLATFORM-LEVEL POSITION
+
+Shobble is a human-authored, compliance-first platform.
+
+The Platform is designed to support lawful creative expression, distribution, and monetization without enabling the extraction, replication, or replacement of creator labor through generative systems.
+
+As such:
+
+Generative AI use of Platform Content is categorically disfavored and prohibited by default.
+
+Non-Generative Machine Learning is permitted only in narrow, expressly authorized contexts.
+
+3. PROHIBITED AI USES (ABSOLUTE)
+
+Unless expressly authorized through a separate, written agreement executed by Shobble, the following uses are strictly prohibited:
+
+3.1 Generative AI Training and Operation
+
+Using any Content to:
+
+train, fine-tune, validate, evaluate, or benchmark Generative AI systems;
+
+operate Generative AI systems that produce expressive or substitutive outputs;
+
+generate synthetic text, images, audio, music, dialogue, assets, or interactive content.
+
+3.2 Dataset Creation and Model Inputs
+
+Extracting, aggregating, or compiling Content (including assets, metadata, stems, or derivatives) into datasets for AI or machine learning use;
+
+Creating embeddings, weights, feature vectors, or latent representations derived from Content for generative or substitutive purposes.
+
+3.3 Style, Voice, and Likeness Modeling
+
+Training or operating systems intended to imitate artistic style, narrative voice, musical performance, vocal characteristics, or creative identity;
+
+Voice cloning, likeness synthesis, or identity modeling based on Platform Content.
+
+3.4 Circumvention and Shadow Use
+
+Using Content indirectly, through intermediaries or proxies, to evade this Policy;
+
+Claiming public availability, Creative Commons designation, or technical accessibility as justification for prohibited AI use.
+
+4. CONDITIONAL USE: NON-GENERATIVE MACHINE LEARNING
+4.1 Permitted in Principle
+
+Non-Generative Machine Learning may be permitted where all of the following are true:
+
+the use does not produce expressive, creative, or substitutive outputs;
+
+the use does not involve dataset creation or reuse beyond the authorized scope;
+
+the use is expressly authorized by the applicable license, Platform feature, or written approval.
+
+Examples of potentially permitted uses (subject to authorization):
+
+physics simulation and pathfinding;
+
+performance optimization and testing;
+
+quality assurance and bug detection;
+
+accessibility tooling (e.g., tagging, classification);
+
+moderation, safety, fraud detection, or anti-cheat systems;
+
+compression, upscaling, or denoising that does not alter creative expression.
+
+4.2 No Implied Permission
+
+The absence of Generative AI output does not by itself authorize machine learning use.
+
+If a use case is not clearly authorized, it is prohibited.
+
+5. CREATOR CONTENT & LICENSE INTERACTION
+5.1 No Implied AI License
+
+No license—whether proprietary, Creative Commons, educational, royalty-free, or otherwise—grants any right to use Content for Generative AI or prohibited ML purposes unless explicitly stated in a separate agreement.
+
+Public licensing selections do not override this Policy.
+
+5.2 Creator Protection
+
+This Policy exists to protect:
+
+creator livelihoods and market value;
+
+originality and authorship;
+
+licensing integrity across games, assets, music, and mixed media.
+
+Unauthorized AI use may constitute both contractual breach and intellectual property infringement.
+
+6. SHOBBLE INTERNAL USE
+
+Unless explicitly disclosed and consented to by the Creator through a separate agreement, Shobble itself does not use Creator Content for:
+
+Generative AI training or operation;
+
+dataset creation for AI systems;
+
+style, voice, or content modeling.
+
+This restriction applies regardless of Content visibility or access level.
+
+7. ENFORCEMENT
+
+Violations of this Policy may result in:
+
+immediate suspension or termination of access;
+
+removal or restriction of Content;
+
+revocation of licenses or permissions;
+
+legal action, including injunctive relief and damages.
+
+Unauthorized Generative AI use is deemed knowing and intentional where this Policy applies.
+
+8. NO WAIVER; RESERVATION OF RIGHTS
+
+Public access, discoverability, or technical accessibility of Content does not constitute consent to AI or machine learning use.
+
+All rights not expressly granted are reserved by Creators and by Shobbl.
+
+9. LICENSING & EXCEPTIONS
+
+Requests for AI training, dataset use, or other non-standard machine learning use must be submitted through channels expressly designated by Shobble and require a separate, written agreement.
+
+Silence or inaction does not constitute consent.
