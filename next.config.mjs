@@ -31,7 +31,7 @@ const nextConfig = {
         source: "/:path*",
         has: [{ type: "host", value: "(?:www\\.)?shobbl\\.com" }],
         destination: "https://www.shobble.com/:path*",
-        permanent: true,
+        statusCode: 301,
       },
       {
         source: "/shobbl_enterprise_press_kit.html",
