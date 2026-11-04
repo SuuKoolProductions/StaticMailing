@@ -11,6 +11,9 @@ import { ProtectionLayer } from "@/components/sections/ProtectionLayer";
 import { PlatformWall } from "@/components/sections/PlatformWall";
 import { AccessRequest } from "@/components/sections/AccessRequest";
 import { RoughDivider } from "@/components/artifacts/Motifs";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata = pageMetadata("/");
 
 export default function Home() {
   return (

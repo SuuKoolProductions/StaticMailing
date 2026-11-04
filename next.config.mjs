@@ -28,6 +28,12 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: "/:path*",
+        has: [{ type: "host", value: "(?:www\\.)?shobbl\\.com" }],
+        destination: "https://www.shobble.com/:path*",
+        permanent: true,
+      },
+      {
         source: "/shobbl_enterprise_press_kit.html",
         destination: "/shobble_enterprise_press_kit.html",
         permanent: true,

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { notFound } from "next/navigation";
 import { LegalShell } from "@/components/LegalShell";
 import { PolicyDocument } from "@/components/legal/PolicyDocument";
@@ -14,6 +15,7 @@ export async function generateMetadata(
   const { slug } = await props.params;
   const doc = getPolicyDocBySlug(slug);
   return {
+    ...(doc ? pageMetadata(`/policies/${doc.slug}`) : {}),
     title: doc ? `${doc.title} — Shobble` : "Policy — Shobble",
   };
 }

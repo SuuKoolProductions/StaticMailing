@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { SITE_URL, siteOpenGraph } from "@/lib/seo";
 import { Bricolage_Grotesque, Fraunces, Newsreader, Montserrat } from "next/font/google";
 import "./globals.css";
 
@@ -35,7 +36,7 @@ const brand = Montserrat({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://shobbl.com"),
+  metadataBase: new URL(SITE_URL),
   title: "Shobble — All-in-one creator marketplace",
   description:
     "Shobble is a creator marketplace for artists, musicians, game developers, writers, and independent makers. Storefronts, memberships, communities, and payouts stay with the people who make the work.",
@@ -55,13 +56,8 @@ export const metadata: Metadata = {
     shortcut: "/shobble-icon.svg",
   },
   openGraph: {
-    type: "website",
-    url: "https://shobbl.com/",
-    siteName: "Shobble",
-    title: "Shobble — All-in-one creator marketplace",
-    description:
-      "A creator marketplace for humans. Storefronts, memberships, digital goods, and communities, owned by the people who make the work.",
-    images: [{ url: "/ShobbleIcon.svg", width: 100, height: 100 }],
+    ...siteOpenGraph,
+    url: SITE_URL,
   },
   twitter: {
     card: "summary_large_image",
