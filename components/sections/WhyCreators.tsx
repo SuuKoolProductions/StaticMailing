@@ -19,34 +19,34 @@ export function WhyCreators() {
             <h2 className="headline mt-4 text-[clamp(2rem,5vw,3.8rem)] text-bone">
               You built a living
               <br />
-              on <span className="text-red-shobbl">rented land</span>.
+              on <span className="text-red-shobbl">crumbling infrastructure</span>.
             </h2>
             <p className="serif-lead mt-5 max-w-narrow text-lg text-bone-dim">
-              You poured years into the work. Then a feed decided who got to see
-              it. A payout got frozen the week rent was due. An account you didn&apos;t
-              own held the people you spent years gathering.
+              You poured years into your craft. Then the algorithm decided who got
+              to see it. A payout got frozen the week rent was due. An account you
+              spent years building a following on was shut down without support.
             </p>
             <p className="serif-lead mt-4 max-w-narrow text-lg text-bone-dim">
-              None of it was yours to keep. That&apos;s the part that has to change.
+              None of it was really yours. That&apos;s the part that has to change.
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
-              <ModerationLabel code="Sound familiar" text="Payout on hold" tone="warn" rotate={-2} />
-              <ModerationLabel code="Sound familiar" text="Reach throttled" tone="kill" rotate={1.5} />
+              <ModerationLabel code="Sound familiar?" text="Payout on hold" tone="warn" rotate={-2} />
+              <ModerationLabel code="This, too?" text="Account closed" tone="kill" rotate={1.5} />
             </div>
 
             <div className="mt-8 grid gap-3">
               {[
                 [
-                  "Stop feeding someone else's machine",
-                  "Client-side protection and controlled access help prevent your work from becoming free training material, scraped archives, or repost bait.",
+                  "Stop feeding their slop machine",
+                  "Client-side encryption and rate limiting help to keep your work from being used as training material or added to scraped archives.",
                 ],
                 [
                   "Bot protection",
-                  "Scraper and bot defenses help stop mass harvesting before your work gets lifted, mirrored, or fed into someone else's dataset.",
+                  "Anti-scraping measures and bot management help to stop mass harvesting before your work gets lifted, mirrored, or fed into someone else's dataset.",
                 ],
                 [
-                  "Payouts that move",
-                  "Clear payment rails and human-readable review rules reduce arbitrary holds, so creators are not waiting months for money they earned.",
+                  "Quick Payouts",
+                  "Clear payment rails and strong policies reduce arbitrary holds so that creators can get paid out in days, not months.",
                 ],
               ].map(([title, copy]) => (
                 <div key={title} className="border border-line bg-[#21191d] p-4">
@@ -61,7 +61,7 @@ export function WhyCreators() {
             </div>
           </div>
 
-          {/* the receipts: real creator pain, pinned up like a kitchen drawer */}
+          {/* the receipts: fictional payees only - never real creators */}
           <div className="relative mt-7 grid gap-6 border border-line bg-[#21191d] p-6 lg:min-h-[540px] lg:block lg:p-8">
             <div className="absolute -top-[1.65rem] left-5">
               <FolderTab>the receipts</FolderTab>
@@ -71,13 +71,13 @@ export function WhyCreators() {
             </span>
 
             <div className="relative mt-8 lg:absolute lg:left-10 lg:top-[72px] lg:z-20 lg:mt-0">
-              <PayoutSlip payee="@bunnyjaneartist" amount="$6,120" status="FROZEN" note="No explanation. 90-day review. Rent was due Friday." rotate={-4} slipId="2769" />
+              <PayoutSlip payee="@RoaryMotors" amount="$6,120" status="FROZEN" note="No explanation. 90-day review. Rent was due Friday." rotate={-4} slipId="2769" />
             </div>
             <div className="relative justify-self-end lg:absolute lg:right-10 lg:top-20 lg:z-10">
-              <PayoutSlip payee="@ansimuz" amount="$842" status="WITHHELD" note="Flagged by review. No human ever replied." rotate={5} slipId="1330" />
+              <PayoutSlip payee="@CafeCat" amount="$842" status="WITHHELD" note="Flagged by review. No human ever replied." rotate={5} slipId="1330" />
             </div>
             <div className="relative lg:absolute lg:left-[220px] lg:top-[296px] lg:z-30">
-              <PayoutSlip payee="@gabemtnz" amount="$3,300" status="UNDER REVIEW" note="A chargeback I never saw froze a year of work." rotate={2} slipId="1530" />
+              <PayoutSlip payee="@MayaStreams" amount="$3,300" status="UNDER REVIEW" note="A chargeback I never saw froze a year of work." rotate={2} slipId="1530" />
             </div>
             <p className="relative z-40 mt-2 font-display text-[0.62rem] uppercase tracking-[0.1em] text-bone-dim lg:absolute lg:bottom-4 lg:left-8 lg:mt-0">
               *payout figures for illustrative purposes

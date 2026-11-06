@@ -18,35 +18,36 @@ export function Manifesto() {
             <span className="brand-word text-sm text-bone">SHOBBLE</span>
             <span className="h-px w-16 bg-line" />
             <span className="font-display text-xs uppercase tracking-[0.14em] text-bone-dim">
-              Social platform for creators
+              Social platform for human creativity
             </span>
           </div>
 
           <p className="serif-lead mb-4 max-w-narrow text-xl italic text-bone-dim">
-            &ldquo;I finally found one place to run my whole creator business.&rdquo;
+            &ldquo;I finally found one place that does literally everything.&rdquo;
           </p>
 
           <h1 className="headline max-w-[15ch] text-[clamp(2.1rem,6.65vw,5.32rem)] text-bone">
             One home
             <br />
-            for your shop,
+            for your fun,
             <br />
-            your people,
+            your friends,
             <br />
-            your <span className="marker">work</span>.
+            your <span className="marker">content</span>.
           </h1>
 
           <div className="mt-10 flex flex-col gap-8 md:flex-row md:items-end md:justify-between">
             <div className="max-w-narrow">
               <p className="serif-lead text-balance text-lg leading-relaxed text-bone-dim">
-                Shobble is a creator-owned social platform where artists, musicians,
-                game developers, writers, and independent makers sell their work
-                and keep their people. Your shop, your members, your community,
-                and your archive - all under one roof that actually belongs to you.
+                Shobble is a creator-first social platform where artists, musicians,
+                game developers, authors, and filmmakers share their work and build
+                an audience. Your shop, your members, your community, and your
+                library - all on one platform for human-made content.
               </p>
               <p className="mt-4 font-display text-sm uppercase leading-relaxed tracking-[0.12em] text-bone">
-                Sell commissions, memberships, digital products, art, music,
-                writing, and community access from one creator-owned platform.
+                Users share posts, commissions, memberships, art, music, video,
+                games, and writing. Find communities or fandoms with real people,
+                no AI slop.
               </p>
             </div>
 

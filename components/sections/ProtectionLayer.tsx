@@ -18,7 +18,7 @@ export function ProtectionLayer() {
     <section className="relative overflow-hidden bg-ink py-28 md:py-44">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_72%_30%,rgba(182,106,112,0.16),transparent_30rem)]" aria-hidden />
       <div className="relative mx-auto max-w-wall px-5">
-        <SectionTag index="06" label="how your work is protected" />
+        <SectionTag index="04" label="how your work is protected" />
 
         {/* the loud statement */}
         <h2 className="headline mt-6 max-w-[14ch] text-[clamp(3rem,10vw,8rem)] leading-[0.86] text-bone">
@@ -126,12 +126,11 @@ export function ProtectionLayer() {
             </div>
             <div>
               <h3 className="font-display text-2xl leading-tight text-bone md:text-3xl">
-                And everyone here is a <span className="text-red-shobbl">person</span>, not a prompt.
+                Everyone here is keeping it <span className="text-red-shobbl">real</span>.
               </h3>
               <p className="serif-lead mt-3 max-w-md text-bone-dim">
-                Verification is a promise to the room: human makers, human
-                context, and no pretending a scraped imitation is the same as a
-                person with a name.
+                Verification is our way forward: human creators, human-made
+                content. No generative AI outputs.
               </p>
             </div>
           </div>

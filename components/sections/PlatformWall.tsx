@@ -46,17 +46,13 @@ export function PlatformWall() {
       <div className="mx-auto max-w-wall px-5">
         <div className="mb-12 flex flex-col items-start justify-between gap-4 md:flex-row md:items-end">
           <div>
-            <SectionTag index="07" label="what it actually looks like" />
+            <SectionTag index="05" label="what it actually looks like" />
             <h2 className="mt-4 font-display text-[clamp(1.9rem,4.5vw,3.4rem)] text-bone">
-              This is your studio,
+              This is your content,
               <br />
-              hung on the wall.
+              Foster community.
             </h2>
           </div>
-          <p className="max-w-xs font-display text-sm leading-relaxed text-bone-dim">
-            Walk the rooms before you move in - the shop, the community, the
-            member spaces, the drops - all the same creator-owned home.
-          </p>
         </div>
 
         {/* curated, asymmetric - mixed artifacts with room to breathe */}
@@ -68,27 +64,27 @@ export function PlatformWall() {
               </div>
               <div className="mt-3 flex items-start justify-between gap-4">
                 <div>
-                  <span className="font-display text-[0.72rem] uppercase tracking-[0.08em] text-black/55">Work table</span>
-                  <p className="mt-1 font-display text-lg font-bold">Signed print, process notes, member-only wallpaper.</p>
+                  <span className="font-display text-[0.72rem] uppercase tracking-[0.08em] text-black/55">Your Art</span>
+                  <p className="mt-1 font-display text-lg font-bold">Create and sell OCs, Adoptables, YCH listings</p>
                 </div>
                 <span className="font-display text-red-shobbl">$18</span>
               </div>
             </div>
           </div>
           <div className="md:col-span-6 md:mt-16">
-            <EvidenceFrame src="/Shobbl/dakidaki-memberships.jpg" alt="DakiDaki membership tiers on Shobble" variant="taped" exhibit="Memberships" caption="Members, supporters, collectors, and early access gathered around the same creator." rotate={1.4} ratio="1024 / 583" />
+            <EvidenceFrame src="/Shobbl/dakidaki-memberships.jpg" alt="DakiDaki membership tiers on Shobble" variant="taped" exhibit="Memberships" caption="Amass followers and convert them to paid members." rotate={1.4} ratio="1024 / 583" />
           </div>
 
           <div className="md:col-span-5">
             <div className="relative border border-line bg-[#21191d] p-5" style={{ transform: "rotate(-1.1deg)" }}>
               <span className="absolute -top-4 left-4 bg-bone px-3 py-1 font-display text-[0.72rem] uppercase tracking-[0.08em] text-ink">
-                Collection shelf
+                On Every Device
               </span>
               <div className="grid gap-3">
                 {[
-                  ["Chapter bundle", "claimed by collectors"],
-                  ["Stem pack", "supporters listening first"],
-                  ["Playable build", "members choosing the route"],
+                  ["Browser or desktop", "Windows, Linux, Mac"],
+                  ["Phone", "Android or iOS"],
+                  ["Smart TV", "We're even on the TV."],
                 ].map(([title, detail]) => (
                   <div key={title} className="border border-line bg-coal p-4">
                     <div className="font-display text-base text-bone">{title}</div>

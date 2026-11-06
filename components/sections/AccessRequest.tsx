@@ -60,17 +60,17 @@ export function AccessRequest() {
               </Stamp>
             </div>
 
-            <SectionTag index="08" label="your invite" />
+            <SectionTag index="06" label="your invite" />
             <h2 className="headline mt-4 max-w-[16ch] text-[clamp(2.2rem,5.5vw,4rem)] text-bone">
-              Come run your
+              Join the best
               <br />
-              business in{" "}
-              <span className="marker">one place</span>.
+              <span className="marker">all-in-one</span>
+              <br />
+              platform.
             </h2>
             <p className="serif-lead mt-4 max-w-prose text-lg text-bone-dim">
-              Shobble opens in waves. Join the creator invite list for early
-              storefront slots, founding-creator standing, and a real say in what
-              gets built next.
+              Shobble invites users in phases. Join the invite list for early
+              access, and help us make the best experience possible.
             </p>
 
             <form onSubmit={onSubmit} className="mt-8" noValidate>

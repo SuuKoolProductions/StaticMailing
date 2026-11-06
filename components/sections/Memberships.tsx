@@ -21,10 +21,10 @@ const roomNotes = [
 
 export function Memberships() {
   return (
-    <section id="modules" className="relative overflow-hidden bg-[#181214] py-24 md:py-36">
+    <section id="features" className="relative overflow-hidden bg-[#181214] py-24 md:py-36">
       <div className="relative mx-auto max-w-wall px-5">
         <div className="mb-12 max-w-narrow">
-          <SectionTag index="05" label="how memberships work" />
+          <SectionTag index="03" label="how memberships work" />
           <h2 className="mt-4 font-display text-[clamp(1.9rem,4.5vw,3.4rem)] text-bone">
             Every fan in{" "}
             <span className="marker">one room</span>.
