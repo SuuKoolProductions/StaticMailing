@@ -23,6 +23,8 @@ export type Creator = {
   coverSrc?: string;
   /** Overrides the cover alt when the image is a portrait rather than artwork. */
   coverAlt?: string;
+  /** Cover frame ratio. Defaults to 16 / 10 on small tiles and 4 / 3 when featured. */
+  coverRatio?: string;
   /** Optional real avatar image, e.g. "/Shobbl/pixelwitch.jpg" */
   avatarSrc?: string;
   /** Small status pill, e.g. "New", "Open" */
@@ -62,7 +64,7 @@ export function CreatorCard({
         className={`relative overflow-hidden ${
           featured ? "md:w-1/2" : ""
         }`}
-        style={{ aspectRatio: featured ? "4 / 3" : "16 / 10" }}
+        style={{ aspectRatio: creator.coverRatio ?? (featured ? "4 / 3" : "16 / 10") }}
       >
         <div className="absolute inset-0" style={{ background: creator.cover }} aria-hidden />
         {creator.coverSrc && (

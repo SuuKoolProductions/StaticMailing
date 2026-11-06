@@ -60,11 +60,12 @@ const creators: Creator[] = [
     accent: "var(--amber-soft)",
     cover:
       "radial-gradient(circle at 50% 30%, #e7c27a, transparent 55%), linear-gradient(160deg, #c4783a, #2a1810)",
-    coverSrc: "/Shobbl/sasha-sanders-cover.jpg",
-    coverAlt: "Floating village game environment by Sasha Sanders",
+    coverSrc: "/Shobbl/sasha-sanders-concepts.jpg",
+    coverAlt: "Game concept sheet of building studies, dragon-headed roofs, and a creature study, by Sasha Sanders",
+    coverRatio: "1024 / 703",
     avatarSrc: "/Shobbl/sasha-sanders-profile.jpg",
-    latest: "A floating village of wooden houses, rope bridges, and cliff dwellings.",
-    roomNote: "Concept sheets of game buildings drawn for the same world.",
+    latest: "Concept studies of game buildings for the same world: dragon roofs, cliff houses, and a creature study.",
+    roomNote: "A gray sheet of rope-bridge houses and dragon-headed roofs.",
   },
 ];
 
