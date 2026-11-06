@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import { Analytics } from "@vercel/analytics/next";
-import { SITE_URL, siteOpenGraph } from "@/lib/seo";
+import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL, siteOpenGraph } from "@/lib/seo";
 import "./globals.css";
 
 // UI / display face - quirkier and more characterful than a generic grotesk.
@@ -46,10 +46,10 @@ const brand = localFont({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: "Shobble - The platform built for creators",
-  description:
-    "The platform built for creators. Shobble is the next-gen social media platform where indie creators thrive and sell content. Full control over your content.",
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
   keywords: [
+    "all-in-one platform",
     "social platform",
     "indie creators",
     "creator ownership",
@@ -70,9 +70,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Shobble - The platform built for creators",
-    description:
-      "The platform built for creators. Shobble is the next-gen social media platform where indie creators thrive and sell content. Full control over your content.",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
     images: ["/og-shobble.png"],
   },
 };
