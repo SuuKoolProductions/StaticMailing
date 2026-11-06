@@ -135,7 +135,7 @@ export function CreatorCard({
 
         <div className="mt-4 border border-line bg-[#171113] p-3">
           <div className="font-display text-[0.62rem] uppercase tracking-[0.12em] text-bone-dim">
-            Latest in the room
+            Publishing
           </div>
           <p className="mt-1 text-sm leading-snug text-bone">{creator.latest}</p>
           <p className="mt-2 text-xs leading-snug text-bone-dim">{creator.roomNote}</p>

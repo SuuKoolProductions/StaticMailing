@@ -20,7 +20,7 @@ const featured: Creator = {
   coverAlt: "Black-and-white photo of Gabe Martinez",
   avatarSrc: "/Shobbl/gabemtnz.png",
   latest: "Independent albums including Desert, OUTSIDE, and Computer Angels, plus newer singles such as killer fish from san diego.",
-  roomNote: "Breakcore, jungle, melodic rap, and experimental hip-hop, released on their own.",
+  roomNote: "Breakcore, jungle, melodic rap, and experimental hip-hop.",
 };
 
 const creators: Creator[] = [
@@ -28,14 +28,14 @@ const creators: Creator[] = [
     name: "Bunny Jane Artist",
     handle: "bunnyjaneartist",
     discipline: "Artist",
-    tags: ["Furry art", "Digital illustration", "Character art"],
-    bio: "Furry-styled digital paintings of original characters. Soft portraits, costume pieces, and seasonal scenes, drawn and painted by hand.",
+    tags: ["Anthro art", "Digital illustration", "Character art"],
+    bio: "Anthro-styled digital paintings of original characters. Soft portraits, costume pieces, and seasonal scenes, drawn and painted by hand.",
     accent: "var(--shobbl-red)",
     cover:
       "radial-gradient(circle at 30% 24%, #f3b4d0, transparent 52%), linear-gradient(145deg, #c47aa4, #2a1524)",
     coverSrc: "/Shobbl/bunnyjaneartist.jpg",
     avatarSrc: "/Shobbl/bunnyjaneartist.jpg",
-    latest: "Bright furry character art, from painted portraits to costume and seasonal pieces.",
+    latest: "Anthro art, including painted portraits and costumed or seasonal pieces.",
     roomNote: "Commissions are open. Say hello at @bunnyjaneartist.",
   },
   {
@@ -50,7 +50,7 @@ const creators: Creator[] = [
     coverSrc: "/Shobbl/luiz-zuno.png",
     avatarSrc: "/Shobbl/luiz-zuno.png",
     latest: "16-bit packs such as Gothicvania, Sunny Land, and the complete collection of tiles, sprites, and effects.",
-    roomNote: "Hand-made assets for Godot, Unity, GameMaker, and RPG Maker, plus the games and music around them.",
+    roomNote: "Hand-made assets for Godot, Unity, GameMaker, and RPG Maker, plus standalone games and music.",
   },
   {
     name: "Sasha Sanders",
@@ -64,8 +64,8 @@ const creators: Creator[] = [
     coverAlt: "Game concept sheet of building studies, dragon-headed roofs, and a creature study, by Sasha Sanders",
     coverRatio: "1024 / 703",
     avatarSrc: "/Shobbl/sasha-sanders-profile.jpg",
-    latest: "Concept studies of game buildings for the same world: dragon roofs, cliff houses, and a creature study.",
-    roomNote: "A gray sheet of rope-bridge houses and dragon-headed roofs.",
+    latest: "A floating village of wooden houses, rope bridges, and cliff dwellings.",
+    roomNote: "Concept art for game worlds.",
   },
 ];
 
@@ -85,15 +85,15 @@ export function Creators() {
             <p className="serif-lead mt-6 max-w-narrow text-xl leading-relaxed text-bone-dim">
               Not logos. Not "users." Artists, musicians, writers, and game devs
               running actual creator businesses - each with their own shop,
-              members, and catalog. Imagine your card on this wall.
+              members, and galleries. Check out some of our featured creators.
             </p>
           </div>
           <div className="grid gap-3 sm:grid-cols-2">
             {[
-              ["artist alley", "brush packs, commissions, layered files"],
-              ["listening room", "stems, demos, sample drops"],
-              ["writer table", "chapters, zines, margin notes"],
-              ["dev corner", "builds, tilesets, playable updates"],
+              ["Artists", "Illustrations and commissions"],
+              ["Musicians", "Tracks and albums"],
+              ["Writers", "Books and comics"],
+              ["Game Developers", "Games and assets"],
             ].map(([room, detail]) => (
               <div key={room} className="jitter border border-line bg-[#21191d] p-4">
                 <div className="font-display text-sm uppercase tracking-[0.12em] text-bone">{room}</div>
