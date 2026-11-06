@@ -55,8 +55,7 @@ export function SiteFooter() {
             <span className="brand-word text-sm text-bone">SHOBBLE</span>
           </div>
           <p className="mt-4 max-w-md text-sm leading-relaxed text-bone-dim">
-            The platform built for creators, by creators. Your content, your
-            rules, your success.
+            The social platform for human creativity.
           </p>
         </div>
 

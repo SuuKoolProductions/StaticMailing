@@ -6,17 +6,17 @@ import { SectionTag } from "@/components/artifacts/SectionTag";
  * platforms. Fan-club / membership-board language.
  */
 const tiers = [
-  { name: "Free followers", perk: "Public posts, shop updates, a way in the door", price: "Free" },
-  { name: "Members", perk: "Monthly drops, WIPs, members-only releases", price: "$5" },
-  { name: "Supporters", perk: "Behind-the-scenes, priority replies, early looks", price: "$12" },
-  { name: "Collectors", perk: "Digital goods, archive bundles, special editions", price: "$25" },
-  { name: "Early access", perk: "First looks, requests, credits, private drops", price: "$50" },
+  { name: "Free Tier", perk: "Kudos, and member-only posts!", price: "Free" },
+  { name: "Supporters", perk: "WIPs and exclusive posts", price: "$5" },
+  { name: "Backers", perk: "All of the above, plus free assets!", price: "$12" },
+  { name: "Collectors", perk: "All of the above, plus discounts on my products", price: "$25" },
+  { name: "Besties", perk: "All of the above, plus exclusive commission slots", price: "$50" },
 ];
 
 const roomNotes = [
-  { name: "Mina", tier: "Collector", note: "This belongs next to the winter print." },
-  { name: "Jon", tier: "Supporter", note: "Early access made my Friday." },
-  { name: "Ari", tier: "Member", note: "Her character sketches are adorable." },
+  { name: "Mina", tier: "Collector", note: "I love getting good deals!" },
+  { name: "Jon", tier: "Supporter", note: "Lauren does great sketches." },
+  { name: "Ari", tier: "Bestie", note: "Lauren's art keeps me going." },
 ];
 
 export function Memberships() {
@@ -26,13 +26,11 @@ export function Memberships() {
         <div className="mb-12 max-w-narrow">
           <SectionTag index="03" label="how memberships work" />
           <h2 className="mt-4 font-display text-[clamp(1.9rem,4.5vw,3.4rem)] text-bone">
-            Every fan in{" "}
-            <span className="marker">one room</span>.
+            Every fan on{" "}
+            <span className="marker">one platform</span>.
           </h2>
           <p className="serif-lead mt-4 text-lg text-bone-dim">
-            Not five accounts on five platforms. Free followers and your most
-            devoted collectors live in the same creator space - the only thing
-            that changes is how close they get.
+            Offer perks to subscribers as your following grows.
           </p>
         </div>
 
@@ -40,7 +38,7 @@ export function Memberships() {
           {/* the access ladder */}
           <div className="relative border border-line bg-[#130f11] p-6 md:p-8">
             <span className="absolute right-4 top-4 font-display text-[0.62rem] uppercase tracking-[0.14em] text-bone-dim">
-              one room · many ways closer
+              Example membership plan
             </span>
             <div className="mt-6 space-y-3">
               {tiers.map((t, i) => (
@@ -58,19 +56,19 @@ export function Memberships() {
               ))}
             </div>
             <p className="serif-lead mt-6 text-sm text-bone-dim">
-              You set the levels, the perks, and the prices. Fans move up when
-              they&apos;re ready - and never have to leave to do it.
+              You set the levels, the perks, and the prices. Fans sign up when
+              they&apos;re ready.
             </p>
           </div>
 
           {/* a community room, not a control panel */}
           <div className="relative lg:mt-10">
             <div className="absolute -right-4 -top-6 hidden rotate-3 border border-line bg-bone px-4 py-3 font-display text-xs uppercase tracking-[0.12em] text-ink md:block">
-              Friday drop night
+              Lauren&apos;s Corner
             </div>
             <div className="border border-line bg-[#21191d] p-5 md:p-7">
               <div className="flex flex-wrap items-center gap-3 border-b border-line pb-5">
-                {["Free", "Member", "Supporter", "Collector", "Early"].map((label, i) => (
+                {["Free", "Supporter", "Backer", "Collector", "Bestie"].map((label, i) => (
                   <span
                     key={label}
                     className="rounded-full border border-line bg-coal px-3 py-1 font-display text-[0.62rem] uppercase tracking-[0.12em] text-bone-dim"
@@ -98,19 +96,19 @@ export function Memberships() {
 
                 <div className="receipt self-start px-6 py-6 text-[#161616]" style={{ transform: "rotate(1.4deg)" }}>
                   <div className="flex items-center justify-between font-display text-[0.66rem] uppercase tracking-[0.12em]">
-                    <span>Room receipt</span>
-                    <span>#0312</span>
+                    <span>Bestie receipt</span>
+                    <span>#0030</span>
                   </div>
                   <div className="my-3 border-t border-dashed border-black/40" />
                   <ul className="space-y-1.5 text-[0.72rem] text-black/75">
-                    <li>✓ new chapter unlocked early</li>
-                    <li>✓ collector bundle claimed</li>
-                    <li>✓ creator replied in the thread</li>
-                    <li>✓ support went straight to the maker</li>
+                    <li>✓ WIPs</li>
+                    <li>✓ Free Assets</li>
+                    <li>✓ Discounts</li>
+                    <li>✓ Exclusive Commissions</li>
                   </ul>
                   <div className="my-3 border-t border-dashed border-black/40" />
                   <div className="font-display text-[0.6rem] uppercase tracking-[0.12em] text-black/55">
-                    Thank you for keeping art human.
+                    Thank you for supporting me!
                   </div>
                 </div>
               </div>

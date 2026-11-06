@@ -11,7 +11,7 @@ import { CreatorIdCard } from "@/components/artifacts/CreatorIdCard";
  * art with a redacted AI-crawler censor bar and a signed rights slip.
  * Verification follows as a lighter, supporting beat.
  */
-const denied = ["Training without consent", "Dataset resale", "Style theft", "Bulk harvesting"];
+const denied = ["Training without consent", "Sale of data", "Style theft", "Bulk harvesting"];
 
 export function ProtectionLayer() {
   return (
@@ -70,15 +70,15 @@ export function ProtectionLayer() {
           {/* the rights slip + signature - receipt brand language, not a feature box */}
           <div className="relative">
             <p className="serif-lead max-w-narrow text-xl leading-relaxed text-bone-dim">
-              You didn&apos;t spend a decade learning your craft so someone else
-              could strip it for parts. Your art carries your boundary with it:
-              permission, credit, context, and the right to say no.
+              You didn&apos;t spend years honing your craft so someone else could
+              use it to generate slop. Shobble protects creators&apos; work through
+              anti-scraping mechanisms and provenance.
             </p>
 
             <div className="receipt mt-8 w-full max-w-sm px-6 py-6 text-[#161616]" style={{ transform: "rotate(-1.5deg)" }}>
               <div className="flex items-center justify-between font-display text-[0.66rem] uppercase tracking-[0.12em]">
-                <span>Maker&apos;s boundary</span>
-                <span>kept by you</span>
+                <span>Problem</span>
+                <span>Answer</span>
               </div>
               <div className="my-3 border-t border-dashed border-black/40" />
               <ul className="space-y-2">
@@ -107,11 +107,11 @@ export function ProtectionLayer() {
                     />
                   </svg>
                   <div className="mt-1 font-display text-[0.6rem] uppercase tracking-[0.12em] text-black/55">
-                    Signed by the maker
+                    Digitally Signed
                   </div>
                 </div>
                 <span className="font-display text-[0.6rem] uppercase tracking-[0.12em] text-black/55">
-                  Shobble · witnessed
+                  Witness · Shobble
                 </span>
               </div>
             </div>
