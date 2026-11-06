@@ -16,7 +16,6 @@ const featured: Creator = {
   accent: "var(--signal-green)",
   cover:
     "radial-gradient(circle at 30% 30%, #d8d8d8, transparent 55%), linear-gradient(140deg, #3a3a3a, #111111)",
-  showStudio: false,
   coverSrc: "/Shobbl/gabemtnz.png",
   coverAlt: "Black-and-white photo of Gabe Martinez",
   avatarSrc: "/Shobbl/gabemtnz.png",
@@ -31,11 +30,9 @@ const creators: Creator[] = [
     discipline: "Artist",
     tags: ["Furry art", "Digital illustration", "Character art"],
     bio: "Furry-styled digital paintings of original characters. Soft portraits, costume pieces, and seasonal scenes, drawn and painted by hand.",
-    joined: "November 2026",
     accent: "var(--shobbl-red)",
     cover:
       "radial-gradient(circle at 30% 24%, #f3b4d0, transparent 52%), linear-gradient(145deg, #c47aa4, #2a1524)",
-    showStudio: false,
     coverSrc: "/Shobbl/bunnyjaneartist.jpg",
     avatarSrc: "/Shobbl/bunnyjaneartist.jpg",
     latest: "Bright furry character art, from painted portraits to costume and seasonal pieces.",
@@ -50,11 +47,24 @@ const creators: Creator[] = [
     accent: "var(--shobbl-red)",
     cover:
       "radial-gradient(circle at 70% 30%, #e07a4a, transparent 52%), linear-gradient(135deg, #3a2418, #120e0c)",
-    showStudio: false,
     coverSrc: "/Shobbl/luiz-zuno.png",
     avatarSrc: "/Shobbl/luiz-zuno.png",
     latest: "16-bit packs such as Gothicvania, Sunny Land, and the complete collection of tiles, sprites, and effects.",
     roomNote: "Hand-made assets for Godot, Unity, GameMaker, and RPG Maker, plus the games and music around them.",
+  },
+  {
+    name: "Sasha Sanders",
+    discipline: "CG artist",
+    tags: ["Game art", "Concept art", "Environments"],
+    bio: "CG artist and founder of DreamSail Games. Previously at Insomniac Games. Game art, from concept sheets to finished environments.",
+    accent: "var(--amber-soft)",
+    cover:
+      "radial-gradient(circle at 50% 30%, #e7c27a, transparent 55%), linear-gradient(160deg, #c4783a, #2a1810)",
+    coverSrc: "/Shobbl/sasha-sanders-cover.jpg",
+    coverAlt: "Floating village game environment by Sasha Sanders",
+    avatarSrc: "/Shobbl/sasha-sanders-profile.jpg",
+    latest: "A floating village of wooden houses, rope bridges, and cliff dwellings.",
+    roomNote: "Concept sheets of game buildings drawn for the same world.",
   },
 ];
 
@@ -98,9 +108,9 @@ export function Creators() {
         </div>
 
         {/* the populated wall */}
-        <div className="grid gap-6 sm:grid-cols-2">
+        <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
           {creators.map((c) => (
-            <CreatorCard key={c.handle} creator={c} />
+            <CreatorCard key={c.handle ?? c.name} creator={c} />
           ))}
         </div>
 

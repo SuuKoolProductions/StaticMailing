@@ -2,7 +2,8 @@ import { ProtectedImage } from "@/components/artifacts/ProtectedImage";
 
 export type Creator = {
   name: string;
-  handle: string;
+  /** Omit when no public handle is verified. */
+  handle?: string;
   /** Short creator type, e.g. "Illustrator", "Musician", "Writer" */
   discipline: string;
   /** comma-free list of disciplines, shown as "· " separated tags */
@@ -14,8 +15,6 @@ export type Creator = {
   joined?: string;
   /** "From $5/mo" style hook */
   from?: string;
-  /** Featured real profiles can omit the studio link. */
-  showStudio?: boolean;
   /** CSS color (token or hex) used for accents on this card */
   accent: string;
   /** Cover gradient used until a real cover image is added */
@@ -113,7 +112,9 @@ export function CreatorCard({
             <h3 className={`font-display font-bold text-bone ${featured ? "text-2xl" : "text-xl"}`}>
               {creator.name}
             </h3>
-            <div className="font-display text-sm text-bone-dim">@{creator.handle}</div>
+            {creator.handle && (
+              <div className="font-display text-sm text-bone-dim">@{creator.handle}</div>
+            )}
           </div>
         </div>
 
@@ -148,16 +149,6 @@ export function CreatorCard({
             )}
             {creator.joined && <span>joined {creator.joined}</span>}
           </div>
-        )}
-
-        {creator.showStudio !== false && (
-          <span
-            className="mt-4 inline-flex w-fit items-center gap-2 font-display text-sm font-semibold transition-transform group-hover:translate-x-0.5"
-            style={{ color: creator.accent }}
-          >
-            Visit studio
-            <span aria-hidden>→</span>
-          </span>
         )}
       </div>
     </article>

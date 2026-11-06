@@ -33,10 +33,10 @@ export function ProtectionLayer() {
           {/* THE VISUAL METAPHOR - framed art with a redacted crawler bar */}
           <figure className="relative mx-auto w-full max-w-xl">
             <div className="rotate-[-1.2deg] border-[12px] border-[#2a2024] bg-bone p-3 shadow-[0_50px_120px_-50px_rgba(0,0,0,0.95)]">
-              <div className="relative aspect-[1024/903] overflow-hidden">
+              <div className="relative aspect-[1024/650] overflow-hidden">
                 <ProtectedImage
-                  src="/Shobbl/bunnyjane-autumn.jpg"
-                  alt="Furry illustration by @bunnyjaneartist"
+                  src="/Shobbl/sasha-sanders-cover.jpg"
+                  alt="Game environment of a floating village with wooden houses, rope bridges, and cliff dwellings, by Sasha Sanders"
                   className="object-cover"
                 />
                 <div className="absolute inset-0 bg-black/10" aria-hidden />
@@ -56,7 +56,7 @@ export function ProtectionLayer() {
               {/* gallery placard */}
               <figcaption className="mt-3 flex items-center justify-between px-1 text-ink">
                 <span className="font-display text-sm font-semibold">
-                  Autumn bench - @bunnyjaneartist
+                  Sky village - Sasha Sanders
                 </span>
                 <span className="font-display text-xs uppercase tracking-[0.12em] text-black/55">2026 · all rights kept</span>
               </figcaption>
