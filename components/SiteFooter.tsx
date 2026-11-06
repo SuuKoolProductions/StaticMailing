@@ -65,8 +65,8 @@ export function SiteFooter() {
           </h4>
           <ul className="space-y-3 text-sm text-bone-dim">
             <li><a href="/#why-us" className="hover:text-red-shobbl">Why Us?</a></li>
-            <li><a href="/#features" className="hover:text-red-shobbl">Features</a></li>
-            <li><a href="/#gallery" className="hover:text-red-shobbl">Gallery</a></li>
+            <li><a href="/#features" className="hover:text-red-shobbl">Memberships</a></li>
+            <li><a href="/#gallery" className="hover:text-red-shobbl">Preview</a></li>
             <li><a href="/#access" className="hover:text-red-shobbl">Contact</a></li>
           </ul>
         </div>
