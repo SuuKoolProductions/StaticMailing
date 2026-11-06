@@ -64,8 +64,8 @@ const creators: Creator[] = [
     coverAlt: "Game concept sheet of building studies, dragon-headed roofs, and a creature study, by Sasha Sanders",
     coverRatio: "1024 / 703",
     avatarSrc: "/Shobbl/sasha-sanders-profile.jpg",
-    latest: "A floating village of wooden houses, rope bridges, and cliff dwellings.",
-    roomNote: "Concept art for game worlds.",
+    latest: "Professional concept art for the games industry.",
+    roomNote: "Concept sketches and environmental art.",
   },
 ];
 

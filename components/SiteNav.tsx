@@ -4,8 +4,8 @@ export function SiteNav() {
   const links = [
     { href: "/#top", label: "Home" },
     { href: "/#why-us", label: "Why Us?" },
-    { href: "/#features", label: "Features" },
-    { href: "/#gallery", label: "Gallery" },
+    { href: "/#features", label: "Memberships" },
+    { href: "/#gallery", label: "Preview" },
     { href: "/#access", label: "Contact" },
   ];
 
