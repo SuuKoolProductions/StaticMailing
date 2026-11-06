@@ -1,7 +1,7 @@
 import { ReactNode } from "react";
 
 /**
- * RoughDivider — a warm paper-gallery divider. Full-bleed; sits between sections.
+ * RoughDivider - a warm paper-gallery divider. Full-bleed; sits between sections.
  */
 export function RoughDivider() {
   return (
@@ -35,7 +35,7 @@ export function RoughDivider() {
 }
 
 /**
- * Annotation — a red hand-written margin note, like a founder scribbled on a
+ * Annotation - a red hand-written margin note, like a founder scribbled on a
  * printout. Optional circled emphasis + arrow.
  */
 export function Annotation({
@@ -68,12 +68,12 @@ export function Annotation({
   );
 }
 
-/** FolderTab — a clipped file tab that sits on top of a panel. */
+/** FolderTab - a clipped file tab that sits on top of a panel. */
 export function FolderTab({ children }: { children: ReactNode }) {
   return <span className="folder-tab">{children}</span>;
 }
 
-/** PolicyStamp — circular rubber policy stamp. */
+/** PolicyStamp - circular rubber policy stamp. */
 export function PolicyStamp({
   top,
   bottom,

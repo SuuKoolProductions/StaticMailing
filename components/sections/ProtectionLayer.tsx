@@ -1,13 +1,13 @@
-import Image from "next/image";
 import { SectionTag } from "@/components/artifacts/SectionTag";
+import { ProtectedImage } from "@/components/artifacts/ProtectedImage";
 import { NotForScraping } from "@/components/artifacts/NotForScraping";
 import { Stamp } from "@/components/artifacts/Stamp";
 import { HumanMark } from "@/components/artifacts/HumanMark";
 import { CreatorIdCard } from "@/components/artifacts/CreatorIdCard";
 
 /**
- * Q6 — How is content protected?
- * The page's anti-AI moment: a single large visual metaphor — a framed piece of
+ * Q6 - How is content protected?
+ * The page's anti-AI moment: a single large visual metaphor - a framed piece of
  * art with a redacted AI-crawler censor bar and a signed rights slip.
  * Verification follows as a lighter, supporting beat.
  */
@@ -30,17 +30,14 @@ export function ProtectionLayer() {
         </h2>
 
         <div className="mt-14 grid items-center gap-12 lg:grid-cols-[1.1fr_0.9fr] md:mt-20">
-          {/* THE VISUAL METAPHOR — framed art with a redacted crawler bar */}
+          {/* THE VISUAL METAPHOR - framed art with a redacted crawler bar */}
           <figure className="relative mx-auto w-full max-w-xl">
             <div className="rotate-[-1.2deg] border-[12px] border-[#2a2024] bg-bone p-3 shadow-[0_50px_120px_-50px_rgba(0,0,0,0.95)]">
-              <div className="relative aspect-[4/5] overflow-hidden">
-                <Image
-                  src="/Shobbl/artheroshowcase.jpg"
-                  alt="Human-made artwork protected from AI training"
-                  fill
+              <div className="relative aspect-[1024/903] overflow-hidden">
+                <ProtectedImage
+                  src="/Shobbl/bunnyjane-autumn.jpg"
+                  alt="Furry illustration by @bunnyjaneartist"
                   className="object-cover"
-                  sizes="(max-width: 1024px) 100vw, 560px"
-                  priority={false}
                 />
                 <div className="absolute inset-0 bg-black/10" aria-hidden />
 
@@ -59,7 +56,7 @@ export function ProtectionLayer() {
               {/* gallery placard */}
               <figcaption className="mt-3 flex items-center justify-between px-1 text-ink">
                 <span className="font-display text-sm font-semibold">
-                  Anime Farmhouse Sunset - by jensenartofficial
+                  Autumn bench - @bunnyjaneartist
                 </span>
                 <span className="font-display text-xs uppercase tracking-[0.12em] text-black/55">2026 · all rights kept</span>
               </figcaption>
@@ -70,7 +67,7 @@ export function ProtectionLayer() {
             </div>
           </figure>
 
-          {/* the rights slip + signature — receipt brand language, not a feature box */}
+          {/* the rights slip + signature - receipt brand language, not a feature box */}
           <div className="relative">
             <p className="serif-lead max-w-narrow text-xl leading-relaxed text-bone-dim">
               You didn&apos;t spend a decade learning your craft so someone else
@@ -121,7 +118,7 @@ export function ProtectionLayer() {
           </div>
         </div>
 
-        {/* lighter beat — real humans, not prompts */}
+        {/* lighter beat - real humans, not prompts */}
         <div className="mt-20 grid gap-10 border-t border-line pt-14 md:mt-28 md:grid-cols-[0.95fr_1.05fr] md:items-center md:pt-16">
           <div className="flex items-start gap-5">
             <div className="shrink-0">
@@ -141,18 +138,18 @@ export function ProtectionLayer() {
 
           <div className="relative flex flex-wrap items-center justify-start gap-4 md:justify-end">
             <CreatorIdCard
-              handle="@pixel_witch"
-              discipline="Illustrator"
+              handle="@ansimuz"
+              discipline="Pixel artist"
               id="SHB-44129"
-              avatarSrc="/Shobbl/mayarenderprofile.png"
+              avatarSrc="/Shobbl/luiz-zuno.png"
               rotate={-4}
               swatch="var(--shobbl-red)"
             />
             <CreatorIdCard
-              handle="@inkbones"
-              discipline="Game Developer"
+              handle="@gabemtnz"
+              discipline="Musician"
               id="SHB-10256"
-              avatarSrc="/Shobbl/samkotoprofile.png"
+              avatarSrc="/Shobbl/gabemtnz.png"
               rotate={3}
               swatch="var(--signal-green)"
             />

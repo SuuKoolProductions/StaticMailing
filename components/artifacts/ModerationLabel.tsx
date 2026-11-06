@@ -1,5 +1,5 @@
 /**
- * Moderation / classification label — like a card pinned to a case file.
+ * Moderation / classification label - like a card pinned to a case file.
  * tone drives the color: neutral system tag, warn (restricted), kill (takedown).
  */
 export function ModerationLabel({

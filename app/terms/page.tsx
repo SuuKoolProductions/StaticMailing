@@ -7,7 +7,7 @@ import { getTermsOfUsePath } from "@/lib/policies";
 
 export const metadata: Metadata = {
   ...pageMetadata("/terms"),
-  title: "Terms of Use — Shobble",
+  title: "Terms of Use - Shobble",
   description: "Shobble Terms of Use and incorporated policies.",
 };
 

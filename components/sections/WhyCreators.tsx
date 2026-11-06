@@ -4,7 +4,7 @@ import { ModerationLabel } from "@/components/artifacts/ModerationLabel";
 import { FolderTab } from "@/components/artifacts/Motifs";
 
 /**
- * Q2 — Why do creators need it?
+ * Q2 - Why do creators need it?
  * Emotional story of building a living on borrowed platforms, with the
  * receipt wall as lived proof rather than an investigation board.
  */
@@ -71,14 +71,17 @@ export function WhyCreators() {
             </span>
 
             <div className="relative mt-8 lg:absolute lg:left-10 lg:top-[72px] lg:z-20 lg:mt-0">
-              <PayoutSlip payee="@pixel_witch" amount="$6,120" status="FROZEN" note="No explanation. 90-day review. Rent was due Friday." rotate={-4} slipId="2769" />
+              <PayoutSlip payee="@bunnyjaneartist" amount="$6,120" status="FROZEN" note="No explanation. 90-day review. Rent was due Friday." rotate={-4} slipId="2769" />
             </div>
             <div className="relative justify-self-end lg:absolute lg:right-10 lg:top-20 lg:z-10">
-              <PayoutSlip payee="@lofi_ghost" amount="$842" status="WITHHELD" note="Flagged by review. No human ever replied." rotate={5} slipId="1330" />
+              <PayoutSlip payee="@ansimuz" amount="$842" status="WITHHELD" note="Flagged by review. No human ever replied." rotate={5} slipId="1330" />
             </div>
             <div className="relative lg:absolute lg:left-[220px] lg:top-[296px] lg:z-30">
-              <PayoutSlip payee="@inkbones" amount="$3,300" status="UNDER REVIEW" note="A chargeback I never saw froze a year of work." rotate={2} slipId="1530" />
+              <PayoutSlip payee="@gabemtnz" amount="$3,300" status="UNDER REVIEW" note="A chargeback I never saw froze a year of work." rotate={2} slipId="1530" />
             </div>
+            <p className="relative z-40 mt-2 font-display text-[0.62rem] uppercase tracking-[0.1em] text-bone-dim lg:absolute lg:bottom-4 lg:left-8 lg:mt-0">
+              *payout figures for illustrative purposes
+            </p>
           </div>
         </div>
       </div>

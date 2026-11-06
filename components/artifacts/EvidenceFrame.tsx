@@ -1,10 +1,10 @@
-import Image from "next/image";
 import { ReactNode } from "react";
+import { ProtectedImage } from "@/components/artifacts/ProtectedImage";
 
 type Variant = "pinned" | "taped" | "stamped" | "filed";
 
 /**
- * EvidenceFrame — screenshots presented like portfolio/storefront previews.
+ * EvidenceFrame - screenshots presented like portfolio/storefront previews.
  * Each variant has a distinct frame so screenshots never sit in identical
  * rounded rectangles. Accepts an optional overlay (stamps, labels).
  */
@@ -37,7 +37,7 @@ export function EvidenceFrame({
       {variant === "pinned" && (
         <div className="tape tape-right border border-line bg-[#21191d] p-3 shadow-[0_28px_70px_-42px_rgba(0,0,0,0.9)]">
           <div className="relative w-full overflow-hidden border border-line/70 bg-coal" style={{ aspectRatio: ratio }}>
-            <Image src={src} alt={alt} fill className="object-cover" sizes="(max-width:768px) 100vw, 50vw" />
+            <ProtectedImage src={src} alt={alt} className="object-cover" />
           </div>
         </div>
       )}
@@ -45,7 +45,7 @@ export function EvidenceFrame({
       {variant === "taped" && (
         <div className="tape tape-left border border-line bg-bone p-2">
           <div className="relative w-full overflow-hidden" style={{ aspectRatio: ratio }}>
-            <Image src={src} alt={alt} fill className="object-cover grayscale-[0.15]" sizes="(max-width:768px) 100vw, 40vw" />
+            <ProtectedImage src={src} alt={alt} className="object-cover grayscale-[0.15]" />
           </div>
         </div>
       )}
@@ -53,7 +53,7 @@ export function EvidenceFrame({
       {variant === "stamped" && (
         <div className="relative border border-line bg-[#21191d] p-3">
           <div className="relative w-full overflow-hidden" style={{ aspectRatio: ratio }}>
-            <Image src={src} alt={alt} fill className="object-cover" sizes="(max-width:768px) 100vw, 33vw" />
+            <ProtectedImage src={src} alt={alt} className="object-cover" />
           </div>
         </div>
       )}
@@ -61,7 +61,7 @@ export function EvidenceFrame({
       {variant === "filed" && (
         <div className="relative border border-line bg-[#2b2025] p-3">
           <div className="relative w-full overflow-hidden border border-line/70" style={{ aspectRatio: ratio }}>
-            <Image src={src} alt={alt} fill className="object-cover" sizes="(max-width:768px) 100vw, 25vw" />
+            <ProtectedImage src={src} alt={alt} className="object-cover" />
           </div>
         </div>
       )}

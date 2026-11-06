@@ -16,7 +16,7 @@ export async function generateMetadata(
   const doc = getPolicyDocBySlug(slug);
   return {
     ...(doc ? pageMetadata(`/policies/${doc.slug}`) : {}),
-    title: doc ? `${doc.title} — Shobble` : "Policy — Shobble",
+    title: doc ? `${doc.title} - Shobble` : "Policy - Shobble",
   };
 }
 

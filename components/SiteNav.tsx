@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { ProtectedImage } from "@/components/artifacts/ProtectedImage";
 
 export function SiteNav() {
   const links = [
@@ -13,13 +13,9 @@ export function SiteNav() {
     <div className="sticky top-0 z-50 border-b border-line bg-[#0f0f10]/95 shadow-[0_12px_28px_-24px_rgba(0,0,0,0.9)] backdrop-blur">
       <div className="mx-auto flex max-w-wall items-center justify-between gap-6 px-5 py-4">
         <a href="/" className="flex items-center gap-3">
-          <Image
-            src="/shobble-icon.svg"
-            alt=""
-            width={34}
-            height={34}
-            className="h-8 w-8"
-          />
+          <span className="relative block h-8 w-8">
+            <ProtectedImage src="/shobble-icon.svg" alt="" />
+          </span>
           <span className="brand-word text-[1rem] text-bone">SHOBBLE</span>
         </a>
 

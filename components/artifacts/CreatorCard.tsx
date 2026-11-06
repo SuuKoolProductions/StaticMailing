@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { ProtectedImage } from "@/components/artifacts/ProtectedImage";
 
 export type Creator = {
   name: string;
@@ -8,11 +8,14 @@ export type Creator = {
   /** comma-free list of disciplines, shown as "· " separated tags */
   tags: string[];
   bio: string;
-  members: string;
-  posts: string;
-  joined: string;
+  members?: string;
+  posts?: string;
+  /** Omit when a real join month is not known. */
+  joined?: string;
   /** "From $5/mo" style hook */
-  from: string;
+  from?: string;
+  /** Featured real profiles can omit the studio link. */
+  showStudio?: boolean;
   /** CSS color (token or hex) used for accents on this card */
   accent: string;
   /** Cover gradient used until a real cover image is added */
@@ -30,7 +33,7 @@ export type Creator = {
 };
 
 /**
- * CreatorCard — a believable artist-alley / gallery card for one creator.
+ * CreatorCard - a believable artist-alley / gallery card for one creator.
  * Cover + avatar fall back to styled placeholders until real photos are added
  * (drop files in /public/Shobbl and set coverSrc / avatarSrc on the data).
  */
@@ -62,16 +65,15 @@ export function CreatorCard({
       >
         <div className="absolute inset-0" style={{ background: creator.cover }} aria-hidden />
         {creator.coverSrc && (
-          <Image
+          <ProtectedImage
             src={creator.coverSrc}
             alt={`${creator.name}'s work`}
-            fill
             className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
-            sizes="(max-width: 768px) 100vw, 33vw"
           />
         )}
-        {/* a faint brush-stroke texture so the placeholder reads as art */}
-        <div className="absolute inset-0 opacity-50 bg-[repeating-linear-gradient(125deg,transparent_0_26px,rgba(0,0,0,0.05)_26px_28px)]" aria-hidden />
+        {!creator.coverSrc && (
+          <div className="absolute inset-0 opacity-50 bg-[repeating-linear-gradient(125deg,transparent_0_26px,rgba(0,0,0,0.05)_26px_28px)]" aria-hidden />
+        )}
 
         <span className="absolute left-3 top-3 bg-ink/80 px-2.5 py-1 font-display text-[0.62rem] font-semibold uppercase tracking-[0.14em] text-bone">
           {creator.discipline}
@@ -81,9 +83,11 @@ export function CreatorCard({
             {creator.status}
           </span>
         )}
-        <span className="absolute right-3 top-3 bg-bone px-2.5 py-1 font-display text-[0.62rem] font-bold uppercase tracking-[0.12em] text-ink">
-          {creator.from}
-        </span>
+        {creator.from && (
+          <span className="absolute right-3 top-3 bg-bone px-2.5 py-1 font-display text-[0.62rem] font-bold uppercase tracking-[0.12em] text-ink">
+            {creator.from}
+          </span>
+        )}
       </div>
 
       {/* body */}
@@ -96,7 +100,7 @@ export function CreatorCard({
           style={{ background: creator.accent }}
         >
           {creator.avatarSrc ? (
-            <Image src={creator.avatarSrc} alt={creator.name} fill className="object-cover" sizes="64px" />
+            <ProtectedImage src={creator.avatarSrc} alt={creator.name} className="object-cover" />
           ) : (
             <span>{initials}</span>
           )}
@@ -132,19 +136,27 @@ export function CreatorCard({
           <p className="mt-2 text-xs leading-snug text-bone-dim">{creator.roomNote}</p>
         </div>
 
-        <div className="mt-4 flex items-center justify-between border-t border-line pt-3 font-display text-[0.7rem] uppercase tracking-[0.08em] text-bone-dim">
-          <span><strong className="text-bone">{creator.members}</strong> members</span>
-          <span><strong className="text-bone">{creator.posts}</strong> posts</span>
-          <span>joined {creator.joined}</span>
-        </div>
+        {(creator.members || creator.posts || creator.joined) && (
+          <div className="mt-4 flex items-center justify-between border-t border-line pt-3 font-display text-[0.7rem] uppercase tracking-[0.08em] text-bone-dim">
+            {creator.members && (
+              <span><strong className="text-bone">{creator.members}</strong> members</span>
+            )}
+            {creator.posts && (
+              <span><strong className="text-bone">{creator.posts}</strong> posts</span>
+            )}
+            {creator.joined && <span>joined {creator.joined}</span>}
+          </div>
+        )}
 
-        <span
-          className="mt-4 inline-flex w-fit items-center gap-2 font-display text-sm font-semibold transition-transform group-hover:translate-x-0.5"
-          style={{ color: creator.accent }}
-        >
-          Visit studio
-          <span aria-hidden>→</span>
-        </span>
+        {creator.showStudio !== false && (
+          <span
+            className="mt-4 inline-flex w-fit items-center gap-2 font-display text-sm font-semibold transition-transform group-hover:translate-x-0.5"
+            style={{ color: creator.accent }}
+          >
+            Visit studio
+            <span aria-hidden>→</span>
+          </span>
+        )}
       </div>
     </article>
   );

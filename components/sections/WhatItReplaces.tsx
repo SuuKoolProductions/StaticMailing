@@ -2,7 +2,7 @@ import { SectionTag } from "@/components/artifacts/SectionTag";
 import { Stamp } from "@/components/artifacts/Stamp";
 
 /**
- * Q3 — What does it replace?
+ * Q3 - What does it replace?
  * The duct-taped stack of tools every creator juggles, crossed out and
  * collapsed into one place. Sticky-note / pinboard energy, not a feature grid.
  */
@@ -28,7 +28,7 @@ export function WhatItReplaces() {
           </h2>
           <p className="serif-lead mt-4 max-w-prose text-base text-bone-dim/80">
             Your studio is held together with rented tools that don&apos;t talk to
-            each other &mdash; and each one takes a cut.
+            each other - and each one takes a cut.
           </p>
         </div>
 
@@ -74,7 +74,7 @@ export function WhatItReplaces() {
               <ul className="mt-5 space-y-2 text-sm text-black/70">
                 <li>✓ Storefront, members, and community together</li>
                 <li>✓ Your files, your audience, your payouts</li>
-                <li>✓ One flat fee &mdash; not six middlemen</li>
+                <li>✓ One flat fee - not six middlemen</li>
               </ul>
             </div>
           </div>

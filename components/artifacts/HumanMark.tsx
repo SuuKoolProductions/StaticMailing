@@ -1,5 +1,5 @@
 /**
- * Human-created verification mark — a hand-inked seal, deliberately imperfect.
+ * Human-created verification mark - a hand-inked seal, deliberately imperfect.
  * Not a clean checkmark badge. Drawn as an irregular wax-seal-ish blob + glyph.
  */
 export function HumanMark({ size = 84, label = true }: { size?: number; label?: boolean }) {

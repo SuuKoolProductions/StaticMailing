@@ -7,7 +7,7 @@ import { Stamp } from "@/components/artifacts/Stamp";
 type Status = "idle" | "loading" | "ok" | "dupe" | "error";
 
 /**
- * Section 10 — Waitlist reframed as an ACCESS REQUEST.
+ * Section 10 - Waitlist reframed as an ACCESS REQUEST.
  * Looks like an intake form / application stamped on arrival, not an email box.
  * Posts to the existing /api/subscribe MailerLite endpoint.
  */

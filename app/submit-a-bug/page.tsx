@@ -5,7 +5,7 @@ import { BugReportForm } from "@/components/bug/BugReportForm";
 
 export const metadata: Metadata = {
   ...pageMetadata("/submit-a-bug"),
-  title: "Submit a Bug — Shobble",
+  title: "Submit a Bug - Shobble",
   description: "Report a problem and help us improve Shobble.",
 };
 

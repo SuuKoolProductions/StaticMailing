@@ -1,5 +1,5 @@
 /**
- * "NOT FOR SCRAPING" protection stamp — diagonal warning tape feel.
+ * "NOT FOR SCRAPING" protection stamp - diagonal warning tape feel.
  * Sits over content to signal anti-AI / anti-scrape protection.
  */
 export function NotForScraping({

@@ -7,7 +7,7 @@ export function PrivacyPolicyContent() {
         <h1 className="text-3xl font-bold mb-8">Global Privacy Policy</h1>
         
         <div className="text-sm text-gray-600 mb-8">
-          <p><strong>SHOBBL INCORPORATED, DOING BUSINESS AS SHOBBLE — GLOBAL PRIVACY POLICY</strong></p>
+          <p><strong>SHOBBL INCORPORATED, DOING BUSINESS AS SHOBBLE - GLOBAL PRIVACY POLICY</strong></p>
           <p><strong>Effective Date:</strong> July 1, 2025</p>
           <p><strong>Last Updated:</strong> {POLICY_LAST_UPDATED_DISPLAY}</p>
         </div>
@@ -33,7 +33,7 @@ export function PrivacyPolicyContent() {
               <li>Visit our offices as a service provider, customer, or guest at an event hosted or co-hosted by us.</li>
             </ul>
             <p>
-              Our platform serves as a marketplace connecting independent creators with users and customers, providing tools for content distribution, community engagement, payment processing, and creator monetization. We recognize the trust you place in us with your sensitive personal and financial information, and we take this responsibility seriously.
+              Shobble is a social platform where independent creators sell to their audience, with tools for content distribution, community, payment processing, and creator monetization. We recognize the trust you place in us with your sensitive personal and financial information, and we take this responsibility seriously.
             </p>
             <p>
               By using our services, you acknowledge that you have read, understood, and agree to the collection and processing of your personal information as described in this Policy. If you do not agree with these practices, please discontinue use of our platform and services.
@@ -43,7 +43,7 @@ export function PrivacyPolicyContent() {
           <section>
             <h2 className="text-2xl font-semibold mb-4">2. INFORMATION WE COLLECT</h2>
             <p>
-              We collect specific categories of personal information in order to provide our marketplace services, ensure platform security and legal compliance, process payments, and to enhance your user experience ("UX"). The specific information collected depends on how you interact with our platform, where you are from, your real or inferred age, and which services you use.
+              We collect specific categories of personal information in order to provide the platform, ensure platform security and legal compliance, process payments, and to enhance your user experience ("UX"). The specific information collected depends on how you interact with our platform, where you are from, your real or inferred age, and which services you use.
             </p>
             
             <h3 className="text-xl font-semibold mb-3">2.1 Information You Provide Directly</h3>
@@ -79,7 +79,7 @@ export function PrivacyPolicyContent() {
                   <tr>
                     <td className="border border-gray-300 px-4 py-2 font-semibold">Creator Content Data</td>
                     <td className="border border-gray-300 px-4 py-2">Digital content files, descriptions, pricing information, release schedules, content metadata</td>
-                    <td className="border border-gray-300 px-4 py-2">Content hosting, content distribution, marketplace listings, and analytics</td>
+                    <td className="border border-gray-300 px-4 py-2">Content hosting, content distribution, listings, and analytics</td>
                   </tr>
                   <tr>
                     <td className="border border-gray-300 px-4 py-2 font-semibold">Communication Data</td>

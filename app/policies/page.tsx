@@ -6,7 +6,7 @@ import { POLICY_LAST_UPDATED_DISPLAY, listPolicyDocs } from "@/lib/policies";
 
 export const metadata: Metadata = {
   ...pageMetadata("/policies"),
-  title: "Policies — Shobble",
+  title: "Policies - Shobble",
   description: "Shobble policies and addendums referenced by the Terms of Use.",
 };
 

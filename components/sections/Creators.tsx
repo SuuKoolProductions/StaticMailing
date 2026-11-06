@@ -2,85 +2,59 @@ import { SectionTag } from "@/components/artifacts/SectionTag";
 import { CreatorCard, type Creator } from "@/components/artifacts/CreatorCard";
 
 /**
- * Creators — the page's "this place is alive" moment.
+ * Creators - the page's "this place is alive" moment.
  * Mock creator profiles (artist, musician, game dev, writer + more) shown as
  * believable studio cards. Drop real images into /public/Shobbl and set
  * coverSrc / avatarSrc on each entry to replace the placeholder art.
  */
 const featured: Creator = {
-  name: "Maya Render",
-  handle: "pixel_witch",
+  name: "Bunny Jane Artist",
+  handle: "bunnyjaneartist",
   discipline: "Artist",
-  tags: ["Illustration", "Live2D models", "Brush packs"],
-  bio: "Painterly portraits, monthly brush drops, and a sketch club that critiques every WIP. Members get the layered files, not just the flats.",
-  members: "2,480",
-  posts: "312",
-  joined: "Jan 2026",
-  from: "From $5/mo",
+  tags: ["Furry art", "Digital illustration", "Character art"],
+  bio: "Furry-styled digital paintings of original characters. Soft portraits, costume pieces, and seasonal scenes, drawn and painted by hand.",
+  joined: "November 2026",
   accent: "var(--shobbl-red)",
   cover:
-    "radial-gradient(circle at 26% 28%, #e98a98, transparent 56%), radial-gradient(circle at 76% 70%, #8e6f96, transparent 52%), linear-gradient(135deg, #b66a70, #241116)",
-  status: "Open for members",
-  coverSrc: "/Shobbl/mayarenderbanner.png",
-  avatarSrc: "/Shobbl/mayarenderprofile.png",
-  latest: "Layered portrait file, palette notes, and a messy brush test for the next pack.",
-  roomNote: "Collectors are voting between rose-gold lighting and rainy-window blues.",
+    "radial-gradient(circle at 30% 24%, #f3b4d0, transparent 52%), linear-gradient(145deg, #c47aa4, #2a1524)",
+  status: "Commissions open",
+  showStudio: false,
+  coverSrc: "/Shobbl/bunnyjaneartist.jpg",
+  avatarSrc: "/Shobbl/bunnyjaneartist.jpg",
+  latest: "Bright furry character art, from painted portraits to costume and seasonal pieces.",
+  roomNote: "Commissions are open. Say hello at @bunnyjaneartist.",
 };
 
 const creators: Creator[] = [
   {
-    name: "Theo Vale",
-    handle: "lofi_ghost",
+    name: "Gabe Martinez",
+    handle: "gabemtnz",
     discipline: "Musician",
-    tags: ["Lo-fi", "Sample packs", "Stems"],
-    bio: "Late-night beats and the loops behind them. Supporters get stems, project files, and first listens.",
-    members: "1,120",
-    posts: "540",
-    joined: "Feb 2026",
-    from: "From $3/mo",
-    accent: "var(--signal-amber)",
-    cover:
-      "radial-gradient(circle at 30% 30%, #e7c66a, transparent 55%), linear-gradient(140deg, #6f5a74, #16121a)",
-    coverSrc: "/Shobbl/theovalebanner.png",
-    avatarSrc: "/Shobbl/theovaleprofilepic.png",
-    latest: "A four-track sleep tape with the unmastered stems tucked behind the member door.",
-    roomNote: "Supporters are leaving rain samples and naming the midnight mix.",
-  },
-  {
-    name: "Sam Koto",
-    handle: "inkbones",
-    discipline: "Game developer",
-    tags: ["Pixel art", "Tilesets", "Devlogs"],
-    bio: "Building a pixel RPG in the open. Members vote on mechanics and get every tileset I make along the way.",
-    members: "860",
-    posts: "198",
-    joined: "Dec 2025",
-    from: "From $8/mo",
+    tags: ["Breakcore", "Jungle", "Experimental hip-hop"],
+    bio: "Bay Area producer, vocalist, DJ, and visual artist. Early-internet and web-aesthetic visuals, with frantic drums, distorted bass, and melancholic vocals.",
     accent: "var(--signal-green)",
     cover:
-      "radial-gradient(circle at 70% 30%, #4fbf7d, transparent 52%), linear-gradient(135deg, #234b3a, #10130f)",
-    coverSrc: "/Shobbl/samkotobanner.png",
-    avatarSrc: "/Shobbl/samkotoprofile.png",
-    latest: "Forest shrine tiles, a boss-room sketch, and the build notes that made it work.",
-    roomNote: "Members picked the lantern color before it went into the demo.",
+      "radial-gradient(circle at 30% 30%, #d8d8d8, transparent 55%), linear-gradient(140deg, #3a3a3a, #111111)",
+    showStudio: false,
+    coverSrc: "/Shobbl/gabemtnz.png",
+    avatarSrc: "/Shobbl/gabemtnz.png",
+    latest: "Independent albums including Desert, OUTSIDE, and Computer Angels, plus newer singles such as killer fish from san diego.",
+    roomNote: "Breakcore, jungle, melodic rap, and experimental hip-hop, released on their own.",
   },
   {
-    name: "Wren Ash",
-    handle: "margins",
-    discipline: "Writer",
-    tags: ["Serial fiction", "Essays", "Zines"],
-    bio: "A chapter a week, plus the messy drafts and margin notes. Collectors get the print zine when each arc wraps.",
-    members: "1,940",
-    posts: "421",
-    joined: "Nov 2025",
-    from: "From $4/mo",
-    accent: "var(--purple-dust)",
+    name: "Luis Zuno",
+    handle: "ansimuz",
+    discipline: "Pixel artist",
+    tags: ["16-bit assets", "Pixel art", "Game music"],
+    bio: "Mexican indie game developer, composer, and pixel artist in Guadalajara. 15+ years of 16-bit assets inspired by the SNES and Sega Genesis.",
+    accent: "var(--shobbl-red)",
     cover:
-      "radial-gradient(circle at 28% 70%, #9b86a2, transparent 55%), linear-gradient(135deg, #2b2330, #14101a)",
-    coverSrc: "/Shobbl/wrenash%20banner.jpg",
-    avatarSrc: "/Shobbl/Wren%20Ash%20Profile%20Pic.jpg",
-    latest: "Chapter seven, a deleted scene, and the margin note that explains the ending.",
-    roomNote: "Readers are trading theories in the spoiler thread before Friday's drop.",
+      "radial-gradient(circle at 70% 30%, #e07a4a, transparent 52%), linear-gradient(135deg, #3a2418, #120e0c)",
+    showStudio: false,
+    coverSrc: "/Shobbl/luiz-zuno.png",
+    avatarSrc: "/Shobbl/luiz-zuno.png",
+    latest: "16-bit packs such as Gothicvania, Sunny Land, and the complete collection of tiles, sprites, and effects.",
+    roomNote: "Hand-made assets for Godot, Unity, GameMaker, and RPG Maker, plus the games and music around them.",
   },
 ];
 
@@ -99,7 +73,7 @@ export function Creators() {
             </h2>
             <p className="serif-lead mt-6 max-w-narrow text-xl leading-relaxed text-bone-dim">
               Not logos. Not "users." Artists, musicians, writers, and game devs
-              running actual creator businesses &mdash; each with their own shop,
+              running actual creator businesses - each with their own shop,
               members, and catalog. Imagine your card on this wall.
             </p>
           </div>
@@ -124,7 +98,7 @@ export function Creators() {
         </div>
 
         {/* the populated wall */}
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-6 sm:grid-cols-2">
           {creators.map((c) => (
             <CreatorCard key={c.handle} creator={c} />
           ))}

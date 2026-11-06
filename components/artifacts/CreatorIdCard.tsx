@@ -1,7 +1,7 @@
-import Image from "next/image";
+import { ProtectedImage } from "@/components/artifacts/ProtectedImage";
 
 /**
- * Creator profile card — a laminated creator credential / archive card.
+ * Creator profile card - a laminated creator credential / archive card.
  */
 export function CreatorIdCard({
   handle,
@@ -41,13 +41,7 @@ export function CreatorIdCard({
           aria-hidden
         >
           {avatarSrc && (
-            <Image
-              src={avatarSrc}
-              alt=""
-              fill
-              className="object-cover"
-              sizes="56px"
-            />
+            <ProtectedImage src={avatarSrc} alt="" className="object-cover" />
           )}
           <span className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-ink/80 to-transparent" />
         </div>

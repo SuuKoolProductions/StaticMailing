@@ -1,9 +1,9 @@
-import Image from "next/image";
 import { PayoutSlip } from "@/components/artifacts/PayoutSlip";
+import { ProtectedImage } from "@/components/artifacts/ProtectedImage";
 import { Stamp } from "@/components/artifacts/Stamp";
 
 /**
- * Section 1 — Opening manifesto panel.
+ * Section 1 - Opening manifesto panel.
  * Off-center editorial headline, slammed stamp, torn strip, hand-labelled intro.
  * Deliberately NOT a centered hero.
  */
@@ -18,7 +18,7 @@ export function Manifesto() {
             <span className="brand-word text-sm text-bone">SHOBBLE</span>
             <span className="h-px w-16 bg-line" />
             <span className="font-display text-xs uppercase tracking-[0.14em] text-bone-dim">
-              All-in-one creator marketplace
+              Social platform for creators
             </span>
           </div>
 
@@ -39,10 +39,10 @@ export function Manifesto() {
           <div className="mt-10 flex flex-col gap-8 md:flex-row md:items-end md:justify-between">
             <div className="max-w-narrow">
               <p className="serif-lead text-balance text-lg leading-relaxed text-bone-dim">
-                Shobble is a creator-owned marketplace for artists, musicians, game
-                developers, writers, and independent makers. Your storefront, your
-                members, your community, and your archive &mdash; all under one roof
-                that actually belongs to you.
+                Shobble is a creator-owned social platform where artists, musicians,
+                game developers, writers, and independent makers sell their work
+                and keep their people. Your shop, your members, your community,
+                and your archive - all under one roof that actually belongs to you.
               </p>
               <p className="mt-4 font-display text-sm uppercase leading-relaxed tracking-[0.12em] text-bone">
                 Sell commissions, memberships, digital products, art, music,
@@ -80,14 +80,14 @@ export function Manifesto() {
         <div className="space-y-4 md:hidden">
           <div className="border border-line bg-bone p-3 text-ink">
             <div className="relative aspect-[4/3] overflow-hidden border border-black/10">
-              <Image src="/Shobbl/mayarenderbanner.png" alt="Maya Render artwork preview" fill className="object-cover" sizes="100vw" />
+              <ProtectedImage src="/Shobbl/bunnyjaneartist.jpg" alt="Artwork by @bunnyjaneartist" className="object-cover" />
             </div>
-            <div className="mt-3 font-display text-xl font-bold">@pixel_witch</div>
-            <p className="mt-1 text-sm text-black/65">Illustration, brush drops, and a room full of people choosing the next palette.</p>
+            <div className="mt-3 font-display text-xl font-bold">@bunnyjaneartist</div>
+            <p className="mt-1 text-sm text-black/65">Illustration, animations, monthly sketch club.</p>
           </div>
           <div className="border border-line bg-ash p-4">
             <span className="font-display text-sm text-bone">Member note</span>
-            <div className="text-bone-dim">"make the rainy one"</div>
+            <div className="text-bone-dim">"her fox sketch is so cute"</div>
           </div>
           <PayoutSlip
             payee="@you"
@@ -102,14 +102,14 @@ export function Manifesto() {
         <div className="relative hidden min-h-[520px] md:block">
           <div className="absolute left-0 top-4 w-[305px] rotate-[-2deg] border border-line bg-bone p-4 text-ink shadow-[0_26px_80px_-48px_rgba(0,0,0,0.9)]">
             <div className="relative aspect-[4/3] overflow-hidden border border-black/10">
-              <Image src="/Shobbl/mayarenderbanner.png" alt="Maya Render artwork preview" fill className="object-cover" sizes="320px" priority />
+              <ProtectedImage src="/Shobbl/bunnyjaneartist.jpg" alt="Artwork by @bunnyjaneartist" className="object-cover" />
             </div>
             <div className="mb-4 mt-4 flex items-center justify-between border-b border-black/10 pb-3">
               <span className="font-display text-sm uppercase tracking-[0.12em] text-black/60">Creator profile</span>
               <span className="h-3 w-3 rounded-full bg-red-shobbl" />
             </div>
-            <div className="font-display text-2xl font-bold">@pixel_witch</div>
-            <p className="mt-2 text-sm text-black/65">Illustration, brushes, monthly sketch club.</p>
+            <div className="max-w-[12.5rem] font-display text-xl font-bold leading-none">@bunnyjaneartist</div>
+            <p className="mt-2 text-sm text-black/65">Illustration, animations, monthly sketch club.</p>
             <div className="mt-5 grid grid-cols-3 gap-2 text-center">
               <div className="bg-black/5 p-2">
                 <strong className="block font-display">42k</strong>
@@ -130,9 +130,9 @@ export function Manifesto() {
             <span className="font-display text-xs uppercase tracking-[0.12em] text-bone-dim">Membership room</span>
             <div className="mt-3 space-y-3">
               {[
-                ["Mina", "Collector", "the rainy palette won me over"],
-                ["Jon", "Supporter", "can we get the flat colors too?"],
-                ["Ari", "Member", "using this brush in tonight's study"],
+                ["Mina", "Collector", "her animal characters are so cute"],
+                ["Jon", "Supporter", "nicest furry artist to work with"],
+                ["Ari", "Member", "sketch club characters are adorable"],
               ].map(([name, tier, comment]) => (
                 <div key={name} className="border border-line bg-coal px-3 py-2">
                   <div className="flex items-center justify-between">

@@ -3,7 +3,7 @@ import { SITE_URL, siteOpenGraph } from "@/lib/seo";
 import { Bricolage_Grotesque, Fraunces, Newsreader, Montserrat } from "next/font/google";
 import "./globals.css";
 
-// UI / display face — quirkier and more characterful than a generic grotesk.
+// UI / display face - quirkier and more characterful than a generic grotesk.
 const display = Bricolage_Grotesque({
   subsets: ["latin"],
   weight: ["400", "500", "600", "700", "800"],
@@ -11,7 +11,7 @@ const display = Bricolage_Grotesque({
   display: "swap",
 });
 
-// Expressive editorial headline face — "wonky" optical serif for the big moments.
+// Expressive editorial headline face - "wonky" optical serif for the big moments.
 const headline = Fraunces({
   subsets: ["latin"],
   weight: ["400", "500", "600", "700", "800", "900"],
@@ -37,11 +37,11 @@ const brand = Montserrat({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: "Shobble — All-in-one creator marketplace",
+  title: "Shobble - The platform built for creators",
   description:
-    "Shobble is a creator marketplace for artists, musicians, game developers, writers, and independent makers. Storefronts, memberships, communities, and payouts stay with the people who make the work.",
+    "The platform built for creators. Shobble is the next-gen social media platform where indie creators thrive and sell content. Full control over your content.",
   keywords: [
-    "creator marketplace",
+    "social platform",
     "indie creators",
     "creator ownership",
     "anti-AI",
@@ -61,10 +61,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Shobble — All-in-one creator marketplace",
+    title: "Shobble - The platform built for creators",
     description:
-      "A creator marketplace for humans. Built around verified creators, ownership, and protection from scraping.",
-    images: ["/ShobbleIcon.svg"],
+      "The platform built for creators. Shobble is the next-gen social media platform where indie creators thrive and sell content. Full control over your content.",
+    images: ["/og-shobble.png"],
   },
 };
 

@@ -3,13 +3,13 @@ import { PayoutSlip } from "@/components/artifacts/PayoutSlip";
 import { PolicyStamp, Annotation } from "@/components/artifacts/Motifs";
 
 /**
- * Section 4 — Creator ownership.
+ * Section 4 - Creator ownership.
  * A studio ownership board with warm cards and a payout receipt.
  */
 const owned = [
   { k: "01", t: "Your content", d: "Files stay yours. Export anytime, in full quality." },
   { k: "02", t: "Your audience", d: "Email + member list you can take with you." },
-  { k: "03", t: "Your storefront", d: "Pricing, perks, presentation — your call." },
+  { k: "03", t: "Your storefront", d: "Pricing, perks, presentation - your call." },
   { k: "04", t: "Your money", d: "Direct payouts. No mystery holds, no clawbacks." },
 ];
 
@@ -30,7 +30,7 @@ export function OwnershipSystem() {
           <p className="serif-lead mx-auto mt-9 max-w-2xl text-2xl leading-relaxed text-bone-dim">
             Not licensed back to you. Not held hostage the day you decide to
             leave. Your work, your people, and your money stay attached to you
-            &mdash; the way it should have been the whole time.
+            - the way it should have been the whole time.
           </p>
         </div>
 
@@ -93,7 +93,7 @@ export function OwnershipSystem() {
                 payee="@you"
                 amount="92%"
                 status="RELEASED"
-                note="Your cut. We take a flat platform fee — no escalating tiers, no surprise deductions."
+                note="Your cut. We take a flat platform fee - no escalating tiers, no surprise deductions."
                 rotate={-3}
               />
               <div className="absolute -right-24 top-2 hidden lg:block">

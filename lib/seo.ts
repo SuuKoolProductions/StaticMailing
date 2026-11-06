@@ -5,10 +5,10 @@ export const SITE_URL = "https://www.shobble.com";
 export const siteOpenGraph: Metadata["openGraph"] = {
   type: "website",
   siteName: "Shobble",
-  title: "Shobble — All-in-one creator marketplace",
+  title: "Shobble - The platform built for creators",
   description:
-    "A creator marketplace for humans. Storefronts, memberships, digital goods, and communities, owned by the people who make the work.",
-  images: [{ url: "/ShobbleIcon.svg", width: 100, height: 100 }],
+    "The platform built for creators. Shobble is the next-gen social media platform where indie creators thrive and sell content. Full control over your content.",
+  images: [{ url: "/og-shobble.png", width: 1024, height: 682, alt: "Shobble, red ocarinas on black" }],
 };
 
 export function pageMetadata(path: string): Metadata {

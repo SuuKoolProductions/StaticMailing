@@ -1,7 +1,7 @@
 import { SectionTag } from "@/components/artifacts/SectionTag";
 
 /**
- * Q5 — How do memberships work?
+ * Q5 - How do memberships work?
  * Tiers shown as levels of access inside ONE creator space, not separate
  * platforms. Fan-club / membership-board language.
  */
@@ -16,7 +16,7 @@ const tiers = [
 const roomNotes = [
   { name: "Mina", tier: "Collector", note: "This belongs next to the winter print." },
   { name: "Jon", tier: "Supporter", note: "Early access made my Friday." },
-  { name: "Ari", tier: "Member", note: "I tried the brush pack on my own study." },
+  { name: "Ari", tier: "Member", note: "Her character sketches are adorable." },
 ];
 
 export function Memberships() {
@@ -31,7 +31,7 @@ export function Memberships() {
           </h2>
           <p className="serif-lead mt-4 text-lg text-bone-dim">
             Not five accounts on five platforms. Free followers and your most
-            devoted collectors live in the same creator space &mdash; the only thing
+            devoted collectors live in the same creator space - the only thing
             that changes is how close they get.
           </p>
         </div>
@@ -59,7 +59,7 @@ export function Memberships() {
             </div>
             <p className="serif-lead mt-6 text-sm text-bone-dim">
               You set the levels, the perks, and the prices. Fans move up when
-              they&apos;re ready &mdash; and never have to leave to do it.
+              they&apos;re ready - and never have to leave to do it.
             </p>
           </div>
 
