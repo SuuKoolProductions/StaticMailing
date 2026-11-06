@@ -22,6 +22,8 @@ export type Creator = {
   cover: string;
   /** Optional real cover image, e.g. "/Shobbl/pixelwitch-cover.jpg" */
   coverSrc?: string;
+  /** Overrides the cover alt when the image is a portrait rather than artwork. */
+  coverAlt?: string;
   /** Optional real avatar image, e.g. "/Shobbl/pixelwitch.jpg" */
   avatarSrc?: string;
   /** Small status pill, e.g. "New", "Open" */
@@ -67,7 +69,7 @@ export function CreatorCard({
         {creator.coverSrc && (
           <ProtectedImage
             src={creator.coverSrc}
-            alt={`${creator.name}'s work`}
+            alt={creator.coverAlt ?? `${creator.name}'s work`}
             className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
           />
         )}

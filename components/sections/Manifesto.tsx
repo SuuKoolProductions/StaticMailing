@@ -80,14 +80,14 @@ export function Manifesto() {
         <div className="space-y-4 md:hidden">
           <div className="border border-line bg-bone p-3 text-ink">
             <div className="relative aspect-[4/3] overflow-hidden border border-black/10">
-              <ProtectedImage src="/Shobbl/bunnyjaneartist.jpg" alt="Artwork by @bunnyjaneartist" className="object-cover" />
+              <ProtectedImage src="/Shobbl/gabemtnz.png" alt="Black-and-white photo of Gabe Martinez" className="object-cover" />
             </div>
-            <div className="mt-3 font-display text-xl font-bold">@bunnyjaneartist</div>
-            <p className="mt-1 text-sm text-black/65">Illustration, animations, monthly sketch club.</p>
+            <div className="mt-3 font-display text-xl font-bold">@gabemtnz</div>
+            <p className="mt-1 text-sm text-black/65">Breakcore, jungle, experimental hip-hop.</p>
           </div>
           <div className="border border-line bg-ash p-4">
             <span className="font-display text-sm text-bone">Member note</span>
-            <div className="text-bone-dim">"her fox sketch is so cute"</div>
+            <div className="text-bone-dim">&ldquo;your drops are sick&rdquo;</div>
           </div>
           <PayoutSlip
             payee="@you"
@@ -102,27 +102,20 @@ export function Manifesto() {
         <div className="relative hidden min-h-[520px] md:block">
           <div className="absolute left-0 top-4 w-[305px] rotate-[-2deg] border border-line bg-bone p-4 text-ink shadow-[0_26px_80px_-48px_rgba(0,0,0,0.9)]">
             <div className="relative aspect-[4/3] overflow-hidden border border-black/10">
-              <ProtectedImage src="/Shobbl/bunnyjaneartist.jpg" alt="Artwork by @bunnyjaneartist" className="object-cover" />
+              <ProtectedImage src="/Shobbl/gabemtnz.png" alt="Black-and-white photo of Gabe Martinez" className="object-cover" />
             </div>
             <div className="mb-4 mt-4 flex items-center justify-between border-b border-black/10 pb-3">
               <span className="font-display text-sm uppercase tracking-[0.12em] text-black/60">Creator profile</span>
               <span className="h-3 w-3 rounded-full bg-red-shobbl" />
             </div>
-            <div className="max-w-[12.5rem] font-display text-xl font-bold leading-none">@bunnyjaneartist</div>
-            <p className="mt-2 text-sm text-black/65">Illustration, animations, monthly sketch club.</p>
+            <div className="max-w-[12.5rem] font-display text-xl font-bold leading-none">@gabemtnz</div>
+            <p className="mt-2 text-sm text-black/65">Breakcore, jungle, experimental hip-hop.</p>
             <div className="mt-5 grid grid-cols-3 gap-2 text-center">
-              <div className="bg-black/5 p-2">
-                <strong className="block font-display">42k</strong>
-                <span className="text-xs text-black/55">fans</span>
-              </div>
-              <div className="bg-black/5 p-2">
-                <strong className="block font-display">12</strong>
-                <span className="text-xs text-black/55">drops</span>
-              </div>
-              <div className="bg-black/5 p-2">
-                <strong className="block font-display">$9</strong>
-                <span className="text-xs text-black/55">club</span>
-              </div>
+              {["Producer", "Vocalist", "DJ"].map((role) => (
+                <div key={role} className="bg-black/5 p-2">
+                  <strong className="block font-display text-sm">{role}</strong>
+                </div>
+              ))}
             </div>
           </div>
 
@@ -130,9 +123,9 @@ export function Manifesto() {
             <span className="font-display text-xs uppercase tracking-[0.12em] text-bone-dim">Membership room</span>
             <div className="mt-3 space-y-3">
               {[
-                ["Mina", "Collector", "her animal characters are so cute"],
-                ["Jon", "Supporter", "nicest furry artist to work with"],
-                ["Ari", "Member", "sketch club characters are adorable"],
+                ["Mina", "Collector", "your drops are sick"],
+                ["Jon", "Supporter", "nicest producer to work with"],
+                ["Ari", "Member", "hard drums, the bass, the vocals"],
               ].map(([name, tier, comment]) => (
                 <div key={name} className="border border-line bg-coal px-3 py-2">
                   <div className="flex items-center justify-between">
