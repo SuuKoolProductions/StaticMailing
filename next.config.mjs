@@ -34,8 +34,8 @@ const nextConfig = {
         statusCode: 301,
       },
       {
-        source: "/shobbl_enterprise_press_kit.html",
-        destination: "/shobble_enterprise_press_kit.html",
+        source: "/:file(shobbl_enterprise_press_kit\\.html|shobble_enterprise_press_kit\\.html|press-kit\\.html|press)",
+        destination: "/press-kit",
         permanent: true,
       },
       {
@@ -49,6 +49,9 @@ const nextConfig = {
         permanent: true,
       },
     ];
+  },
+  async rewrites() {
+    return [{ source: "/press-kit", destination: "/press-kit.html" }];
   },
   async headers() {
     return [
