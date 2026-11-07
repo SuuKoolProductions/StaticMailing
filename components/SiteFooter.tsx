@@ -1,4 +1,5 @@
 import { ProtectedImage } from "@/components/artifacts/ProtectedImage";
+import { ShareShobble } from "@/components/ShareShobble";
 
 const socials = [
   {
@@ -31,6 +32,24 @@ const socials = [
     ),
   },
   {
+    name: "YouTube",
+    href: "https://www.youtube.com/@Shobble",
+    icon: (
+      <svg viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="currentColor" aria-hidden="true">
+        <path d="M22 8.2c-.2-1.6-.9-2.7-2.6-2.9C16.8 5 12 5 12 5s-4.8 0-7.4.3C2.9 5.5 2.2 6.6 2 8.2 1.8 9.6 1.8 12 1.8 12s0 2.4.2 3.8c.2 1.6.9 2.7 2.6 2.9 2.6.3 7.4.3 7.4.3s4.8 0 7.4-.3c1.7-.2 2.4-1.3 2.6-2.9.2-1.4.2-3.8.2-3.8s0-2.4-.2-3.8ZM10 15.2V8.8l5.5 3.2-5.5 3.2Z" />
+      </svg>
+    ),
+  },
+  {
+    name: "Facebook",
+    href: "https://www.facebook.com/Shobble.inc/",
+    icon: (
+      <svg viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="currentColor" aria-hidden="true">
+        <path d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H7.8v3h2.6V21h3.1Z" />
+      </svg>
+    ),
+  },
+  {
     name: "Bluesky",
     href: "https://bsky.app/profile/shobble.bsky.social",
     icon: (
@@ -41,58 +60,56 @@ const socials = [
   },
 ];
 
+const columns = [
+  {
+    title: "Platform",
+    links: [
+      { label: "Why Us?", href: "/#why-us" },
+      { label: "Memberships", href: "/#features" },
+      { label: "Preview", href: "/#gallery" },
+      { label: "Join the invite list", href: "/#access" },
+    ],
+  },
+  {
+    title: "Legal",
+    links: [
+      { label: "Privacy Policy", href: "/privacy" },
+      { label: "Terms of Use", href: "/terms" },
+      { label: "Community Guidelines", href: "/policies/community-content-guidelines" },
+      { label: "Monetization Terms", href: "/policies/monetization-terms" },
+      { label: "DMCA / Copyright", href: "/policies/dmca-policy" },
+      { label: "Cookie Notice", href: "/policies/cookies-notice" },
+      { label: "All policies", href: "/policies" },
+    ],
+  },
+  {
+    title: "Help & Company",
+    links: [
+      { label: "Contact us", href: "mailto:team@shobble.com" },
+      { label: "Discord community", href: "https://discord.gg/9eRQhybKaW", external: true },
+      { label: "Submit a bug", href: "/submit-a-bug" },
+      { label: "Press kit", href: "/press-kit" },
+    ],
+  },
+];
+
 export function SiteFooter() {
   const year = new Date().getFullYear();
 
   return (
     <footer className="relative border-t border-line bg-[#111113]">
-      <div className="mx-auto grid max-w-wall gap-12 px-5 py-14 md:grid-cols-[1.35fr_0.65fr_0.75fr]">
-        <div>
+      <div className="mx-auto grid max-w-wall grid-cols-2 gap-x-6 gap-y-10 px-5 py-14 lg:grid-cols-[1.3fr_0.7fr_0.85fr_0.85fr]">
+        <div className="col-span-2 lg:col-span-1">
           <div className="flex items-center gap-2.5">
             <span className="relative block h-8 w-8">
               <ProtectedImage src="/shobble-icon.svg" alt="" />
             </span>
             <span className="brand-word text-sm text-bone">SHOBBLE</span>
           </div>
-          <p className="mt-4 max-w-md text-sm leading-relaxed text-bone-dim">
-            The social platform for human creativity.
+          <p className="mt-4 max-w-sm text-sm leading-relaxed text-bone-dim">
+            The social platform for human creativity. Human-made content, creator-first tools, no AI slop.
           </p>
-        </div>
-
-        <div>
-          <h4 className="mb-4 font-display text-sm font-bold text-bone">
-            Platform
-          </h4>
-          <ul className="space-y-3 text-sm text-bone-dim">
-            <li><a href="/#why-us" className="hover:text-red-shobbl">Why Us?</a></li>
-            <li><a href="/#features" className="hover:text-red-shobbl">Memberships</a></li>
-            <li><a href="/#gallery" className="hover:text-red-shobbl">Preview</a></li>
-            <li><a href="/#access" className="hover:text-red-shobbl">Contact</a></li>
-          </ul>
-        </div>
-
-        <div>
-          <h4 className="mb-4 font-display text-sm font-bold text-bone">
-            Resources
-          </h4>
-          <ul className="space-y-3 text-sm text-bone-dim">
-            <li><a href="/privacy" className="hover:text-red-shobbl">Privacy</a></li>
-            <li><a href="/terms" className="hover:text-red-shobbl">Terms</a></li>
-            <li><a href="/policies" className="hover:text-red-shobbl">All policies</a></li>
-            <li><a href="/submit-a-bug" className="hover:text-red-shobbl">Submit a bug</a></li>
-            <li><a href="/press-kit" className="hover:text-red-shobbl">Press Kit</a></li>
-            <li>
-              <a href="https://discord.gg/9eRQhybKaW" className="hover:text-red-shobbl">
-                Discord
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-      <div className="mx-auto flex max-w-wall flex-wrap items-center justify-between gap-x-6 gap-y-3 border-t border-line px-5 py-6 text-xs text-bone-dim">
-        <div className="flex flex-wrap items-center gap-3">
-          <div className="flex items-center gap-2">
+          <div className="mt-5 flex items-center gap-2">
             {socials.map((social) => (
               <a
                 key={social.name}
@@ -107,22 +124,36 @@ export function SiteFooter() {
               </a>
             ))}
           </div>
-          <span>© {year} Shobbl Incorporated</span>
         </div>
-        <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
-        <a href="/privacy" className="hover:text-red-shobbl">
-          Privacy
-        </a>
-        <a href="/terms" className="hover:text-red-shobbl">
-          Terms
-        </a>
-        <a href="/policies" className="hover:text-red-shobbl">
-          All policies
-        </a>
-        <a href="/submit-a-bug" className="hover:text-red-shobbl">
-          Submit a bug
-        </a>
-        </div>
+
+        {columns.map((column) => (
+          <div key={column.title}>
+            <h4 className="mb-4 font-display text-sm font-bold text-bone">{column.title}</h4>
+            <ul className="space-y-3 text-sm text-bone-dim">
+              {column.links.map((link) => (
+                <li key={link.label}>
+                  <a
+                    href={link.href}
+                    className="hover:text-red-shobbl"
+                    {...("external" in link && link.external
+                      ? { target: "_blank", rel: "noopener noreferrer" }
+                      : {})}
+                  >
+                    {link.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+
+      <div className="mx-auto max-w-wall border-t border-line px-5 py-6">
+        <ShareShobble />
+      </div>
+
+      <div className="mx-auto max-w-wall border-t border-line px-5 py-5 text-xs text-bone-dim">
+        © {year} Shobbl Incorporated. All rights reserved.
       </div>
     </footer>
   );
