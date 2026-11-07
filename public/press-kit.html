@@ -1062,6 +1062,36 @@
       margin-top: 0.4rem;
     }
 
+    .tools-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+
+    @media (max-width: 820px) {
+      .tools-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .tool-card {
+      margin: 0;
+      padding: 0.8rem 0.8rem 1.4rem;
+      transform: rotate(var(--rot, 0deg));
+    }
+
+    .tool-card .art {
+      margin-bottom: 1.1rem;
+      border: 1px solid var(--line);
+    }
+
+    .tool-card .label,
+    .tool-card h3,
+    .tool-card p {
+      margin-left: 0.6rem;
+      margin-right: 0.6rem;
+    }
+
     .creator-feature {
       display: grid;
       grid-template-columns: 1.15fr 1fr;
@@ -1492,9 +1522,9 @@
               sell digital releases, and build relationships with the people who support them.
             </p>
             <p class="hero-caps">
-              Creators retain ownership of their work. Shobble gives them practical tools to build
-              a business around it, with published fees, clear usage rights, and a policy against
-              AI-generated content.
+              Creators retain ownership of their content. Shobble gives them practical tools to
+              build a business around it, with published fees and a policy against AI-generated
+              content.
             </p>
             <div class="hero-actions">
               <a class="button" href="#media">Media pack <span aria-hidden="true">-&gt;</span></a>
@@ -1518,11 +1548,11 @@
             </div>
 
             <div class="room-card panel">
-              <span style="font-family: 'Bricolage Grotesque', system-ui, sans-serif; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--bone-dim);">Membership room</span>
-              <div class="room-note"><strong>Mina</strong> <span style="float:right; color: var(--shobbl-red);">Collector</span><br><span>"your drops are sick"</span></div>
-              <div class="room-note"><strong>Jon</strong> <span style="float:right; color: var(--shobbl-red);">Supporter</span><br><span>"nicest producer to work with"</span></div>
-              <div class="room-note"><strong>Ari</strong> <span style="float:right; color: var(--shobbl-red);">Member</span><br><span>"hard drums, the bass, the vocals"</span></div>
-              <p class="slip-note">Illustrative example - not real members</p>
+              <span style="font-family: 'Bricolage Grotesque', system-ui, sans-serif; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--bone-dim);">Example membership perks</span>
+              <div class="room-note"><strong>Free</strong> <span style="float:right; color: var(--shobbl-red);">$0</span><br><span>Member-only posts</span></div>
+              <div class="room-note"><strong>Supporter</strong> <span style="float:right; color: var(--shobbl-red);">$5</span><br><span>WIPs and exclusive posts</span></div>
+              <div class="room-note"><strong>Collector</strong> <span style="float:right; color: var(--shobbl-red);">$25</span><br><span>Discounts and free assets</span></div>
+              <p class="slip-note">Example plan - creators set their own</p>
             </div>
 
             <div class="hero-receipt receipt">
@@ -1554,7 +1584,7 @@
               <span>About Shobble</span>
               <button class="copy-button" type="button" data-copy="#boilerplate-text">Copy</button>
             </div>
-            <p id="boilerplate-text">Shobble is a social platform for human creativity. It brings creator discovery, digital storefronts, memberships, and community together, so artists, musicians, writers, game developers, and filmmakers can share their work, sell digital releases, and build relationships with the people who support them. Creators retain ownership of their work, and generative AI outputs are not allowed. Shobble is operated by Shobbl Incorporated.</p>
+            <p id="boilerplate-text">Shobble is a social platform for human creativity. It brings creator discovery, digital storefronts, memberships, and community together, so artists, musicians, writers, game developers, and filmmakers can share their work, sell digital releases, and build relationships with the people who support them. Creators retain ownership of their content, and generative AI outputs are not allowed. Shobble is operated by Shobbl Incorporated.</p>
           </div>
 
           <dl class="fact-list">
@@ -1562,9 +1592,10 @@
             <div><dt>Company</dt><dd>Shobbl Incorporated</dd></div>
             <div><dt>Category</dt><dd>Social platform for human creativity: discovery, storefronts, memberships, and community in one account</dd></div>
             <div><dt>Built for</dt><dd>Artists, musicians, writers, game developers, and filmmakers, plus the fans who support them</dd></div>
-            <div><dt>Status</dt><dd>Early access. Invites roll out in phases through the <a href="/#access">invite list</a>.</dd></div>
-            <div><dt>Platforms</dt><dd>Browser and desktop (Windows, Linux, Mac), Android and iOS, Smart TV</dd></div>
-            <div><dt>Fees</dt><dd>Platform fees vary by content type and licensing status. Licensed-IP content carries a flat 15% fee. See the <a href="/policies/monetization-terms">Monetization Terms</a>.</dd></div>
+            <div><dt>Status</dt><dd>Pre-launch. Early access opens November 17, 2026. Sign up through the <a href="/#access">invite list</a>.</dd></div>
+            <div><dt>Platforms</dt><dd>Web, iOS, and Android: early access November 17, 2026.<br>Windows, macOS, and Linux desktop apps and Amazon Fire TV: early access December 17, 2026.</dd></div>
+            <div><dt>Fees</dt><dd>Platform fees range from 5% to 15% by category, for example 5% for digital art, 8% for creator-run subscriptions, 10% for music, and 15% for games. Licensed-IP content (work that uses someone else's licensed characters, music, or brands beyond fair use) has a flat 15% platform fee. Payment-processing fees and taxes are separate from the platform fee. See the <a href="/policies/monetization-terms">Monetization Terms</a>.</dd></div>
+            <div><dt>In development</dt><dd>Shobblisk Vestige (writing) and Shobblisk Artifex (painting): creative apps with built-in publishing and cryptographically signed provenance. Early access planned for December 17, 2026. <a href="#tools">More below</a>.</dd></div>
             <div><dt>Content policy</dt><dd>Human-made content only. See the <a href="/policies/ai-use-policy">AI Use Policy</a> and <a href="/policies/community-content-guidelines">Community Content Guidelines</a>.</dd></div>
             <div><dt>Website</dt><dd><a href="https://www.shobble.com">shobble.com</a></dd></div>
             <div><dt>Contact</dt><dd><a href="mailto:team@shobble.com">team@shobble.com</a></dd></div>
@@ -1594,8 +1625,8 @@
           </div>
           <div class="card jitter" style="--rot: 0.8deg;">
             <span class="label">Ownership</span>
-            <h3>Creators retain ownership of their work</h3>
-            <p>Creators keep all right, title, and interest in their content. Shobble receives only the limited licenses described in the <a href="/policies/creator-content-license-agreement" style="border-bottom: 1px solid var(--line);">Creator Content License</a>.</p>
+            <h3>Creators retain ownership of their content</h3>
+            <p>Shobble's limited permissions to host and display it are explained in the <a href="/policies/creator-content-license-agreement" style="border-bottom: 1px solid var(--line);">Creator Content License</a>.</p>
           </div>
           <div class="card jitter" style="--rot: -0.6deg;">
             <span class="label">Human-made</span>
@@ -1705,7 +1736,7 @@
                   <div class="art"><canvas data-src="/Shobbl/social-feed-phone.png" aria-label="Shobble social feed screenshot"></canvas></div>
                 </div>
                 <h3>Choose your Social feed</h3>
-                <p>Post, remix, and reshare. React, reply, create Rhythms, and support creators right from the feed.</p>
+                <p>Post Vibes (Shobble's name for posts), echo them (repost), or remix them (quote-repost with your own comment). Build Rhythms - custom feeds around the topics you love, a play on "algorithm" - and share them with others.</p>
               </figure>
               <figure class="phone">
                 <div class="phone-shell" style="--rot: 2deg;">
@@ -1724,15 +1755,58 @@
             </figure>
 
             <div class="devices receipt">
-              <div class="receipt-title"><span>On every device</span><span>Shobble</span></div>
+              <div class="receipt-title"><span>Rollout schedule</span><span>Early access</span></div>
               <div class="dash"></div>
-              <div class="receipt-row"><span>Browser or desktop</span><strong>Windows, Linux, Mac</strong></div>
-              <div class="receipt-row"><span>Phone</span><strong>Android or iOS</strong></div>
-              <div class="receipt-row"><span>Smart TV</span><strong>Yes</strong></div>
+              <div class="receipt-row"><span>Web</span><strong>Nov 17, 2026</strong></div>
+              <div class="receipt-row"><span>iOS and Android</span><strong>Nov 17, 2026</strong></div>
+              <div class="receipt-row"><span>Windows, macOS, Linux</span><strong>Dec 17, 2026</strong></div>
+              <div class="receipt-row"><span>Amazon Fire TV</span><strong>Dec 17, 2026</strong></div>
+              <div class="receipt-row"><span>Shobblisk Vestige and Artifex</span><strong>Dec 17, 2026</strong></div>
               <div class="dash"></div>
-              <p style="font-size: 0.78rem;">Access rolls out in phases during early access.</p>
+              <p style="font-size: 0.78rem;">Planned dates. Invites go out in phases from the invite list.</p>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="divider" aria-hidden="true"></div>
+
+    <section id="tools">
+      <div class="wall">
+        <div class="section-head">
+          <div class="section-tag" data-index="05">in development</div>
+          <h2>Shobblisk: create, publish, and show your process.</h2>
+          <p>
+            Shobblisk is Shobble's own creative software, with publishing and provenance built in.
+            Creators can export work straight to Shobble along with an optional, cryptographically
+            signed record of its creation history. That record documents how a piece came together;
+            Shobble still verifies every upload separately.
+          </p>
+        </div>
+
+        <div class="tools-grid">
+          <figure class="card tool-card" style="--rot: -0.6deg;">
+            <div class="art" style="aspect-ratio: 1800 / 1126;"><canvas data-src="/Shobbl/shobblisk-vestige.jpg" aria-label="Shobblisk Vestige writing app screenshot"></canvas></div>
+            <span class="label">Writing</span>
+            <h3>Shobblisk Vestige</h3>
+            <p>A full word processor with built-in publishing to Shobble and a cryptographically signed record of the writing process.</p>
+          </figure>
+          <figure class="card tool-card" style="--rot: 0.6deg;">
+            <div class="art" style="aspect-ratio: 1914 / 1028;"><canvas data-src="/Shobbl/shobblisk-artifex.jpg" aria-label="Shobblisk Artifex painting app with the Export to Shobble dialog"></canvas></div>
+            <span class="label">Painting</span>
+            <h3>Shobblisk Artifex</h3>
+            <p>A layered digital painting app. Export to Shobble publishes a piece as a private draft, with the option to include its recorded creation history.</p>
+          </figure>
+        </div>
+
+        <div class="receipt" style="margin-top: 1.6rem; padding: 1.4rem 1.6rem; transform: rotate(-0.6deg);">
+          <div class="receipt-title"><span>Shobblisk status</span><span>In development</span></div>
+          <div class="dash"></div>
+          <div class="receipt-row"><span>Built-in publishing</span><strong>Post and sell directly on Shobble</strong></div>
+          <div class="receipt-row"><span>Provenance</span><strong>Cryptographic signatures</strong></div>
+          <div class="receipt-row"><span>Creation history</span><strong>Optional signed record of how the work was made</strong></div>
+          <div class="receipt-row"><span>Early access</span><strong>Planned for Dec 17, 2026</strong></div>
         </div>
       </div>
     </section>
@@ -1742,7 +1816,7 @@
     <section id="media">
       <div class="wall">
         <div class="section-head">
-          <div class="section-tag" data-index="05">media pack</div>
+          <div class="section-tag" data-index="06">media pack</div>
           <h2>Logos and brand basics.</h2>
           <p>Free to use in coverage of Shobble. Please don't alter the logo.</p>
         </div>
@@ -1799,8 +1873,8 @@
     <section class="cta">
       <div class="wall">
         <div class="cta-panel panel">
-          <div class="section-tag" data-index="06" style="justify-content: center;">contact</div>
-          <h2 class="headline" style="margin-top: 1rem;">Join the best <span class="marker">all-in-one</span> platform.</h2>
+          <div class="section-tag" data-index="07" style="justify-content: center;">contact</div>
+          <h2 class="headline" style="margin-top: 1rem;">Cover Shobble. <span class="marker">Meet the team.</span></h2>
           <p>
             Shobble invites users in phases. Writing about Shobble or want a demo? Email the team, or
             join the invite list for early access.

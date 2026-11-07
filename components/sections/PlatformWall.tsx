@@ -82,9 +82,10 @@ export function PlatformWall() {
               </span>
               <div className="grid gap-3">
                 {[
-                  ["Browser or desktop", "Windows, Linux, Mac"],
-                  ["Phone", "Android or iOS"],
-                  ["Smart TV", "We're even on the TV."],
+                  ["Web", "Early access November 17, 2026"],
+                  ["Phone", "iOS and Android - early access November 17, 2026"],
+                  ["Desktop", "Windows, macOS, and Linux - early access December 17, 2026"],
+                  ["TV", "Amazon Fire TV - early access December 17, 2026"],
                 ].map(([title, detail]) => (
                   <div key={title} className="border border-line bg-coal p-4">
                     <div className="font-display text-base text-bone">{title}</div>
@@ -99,9 +100,9 @@ export function PlatformWall() {
               <div className="grid grid-cols-1 gap-12 min-[1200px]:grid-cols-2 min-[1200px]:gap-6">
                 <PhoneShot
                   src="/Shobbl/social-feed-phone.png"
-                  alt="Shobble Social feed, where you choose a feed, post, remix, reply, share Rhythms, and support creators"
+                  alt="Shobble Social feed, where you post Vibes, echo and remix them, build Rhythms, and support creators"
                   headline="Choose your Social feed"
-                  description="Post, remix, and reshare. React, reply, create Rhythms, and support creators right from the feed."
+                  description={`Post Vibes (that's what we call posts), echo them to repost, or remix them to quote-repost with your own take. Build Rhythms - your own custom feeds around topics you love, a play on "algorithm" - and share them with friends.`}
                   rotate={-4}
                   tape="tape-left"
                 />
