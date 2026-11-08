@@ -60,6 +60,38 @@ function slackEscape(value: string): string {
 
 type SlackApiResponse = { ok: boolean; error?: string; [key: string]: unknown };
 
+const SLACK_ERROR_HINTS: Record<string, string> = {
+  not_allowed_token_type: "- SLACK_BOT_TOKEN must be the Bot User OAuth Token (xoxb-), not an app-level or config token.",
+  invalid_auth: "- SLACK_BOT_TOKEN is invalid or was revoked; reinstall the app and copy the new xoxb- token.",
+  token_revoked: "- the app was uninstalled or the token revoked; reinstall and update SLACK_BOT_TOKEN.",
+  token_expired: "- token rotation is on; disable it or refresh the token.",
+  missing_scope: "- add chat:write and files:write, then reinstall the app.",
+  channel_not_found: "- check SLACK_BUG_REPORT_CHANNEL_ID, and /invite the bot to the private channel.",
+  not_in_channel: "- /invite the bot to the channel.",
+};
+
+function readEnv(name: string): string | undefined {
+  const raw = process.env[name];
+  if (!raw) return undefined;
+  const value = raw
+    .trim()
+    .replace(/^(['"])(.*)\1$/, "$2")
+    .replace(/^Bearer\s+/i, "")
+    .trim();
+  return value || undefined;
+}
+
+// Prefix only, never the token itself, so the result is safe to log.
+function slackTokenProblem(token: string): string | null {
+  if (token.startsWith("xoxb-") || token.startsWith("xoxe.xoxb-")) return null;
+  if (token.startsWith("xapp-")) return "an app-level token (xapp-)";
+  if (token.startsWith("xoxe.xoxp-")) return "an app configuration token (xoxe.xoxp-)";
+  if (token.startsWith("xoxe-")) return "a refresh token (xoxe-)";
+  if (token.startsWith("xoxp-")) return "a user token (xoxp-)";
+  if (token.startsWith("https://hooks.slack.com/")) return "an incoming webhook URL";
+  return "an unrecognized token format";
+}
+
 async function slackApi(token: string, method: string, body: Record<string, string>): Promise<SlackApiResponse> {
   const response = await fetch(`https://slack.com/api/${method}`, {
     method: "POST",
@@ -156,13 +188,26 @@ export async function POST(req: Request) {
   }
   const attachmentName = attachment ? attachment.name || "attachment" : null;
 
-  const botToken = process.env.SLACK_BOT_TOKEN;
-  const channel = process.env.SLACK_BUG_REPORT_CHANNEL_ID;
-  const webhook = process.env.SLACK_BUG_REPORT_WEBHOOK_URL;
+  const botToken = readEnv("SLACK_BOT_TOKEN");
+  const channel = readEnv("SLACK_BUG_REPORT_CHANNEL_ID");
+  const webhook = readEnv("SLACK_BUG_REPORT_WEBHOOK_URL");
   const useBot = Boolean(botToken && channel);
   if (!useBot && !webhook) {
     console.error("Bug reports need SLACK_BOT_TOKEN + SLACK_BUG_REPORT_CHANNEL_ID, or SLACK_BUG_REPORT_WEBHOOK_URL");
     return NextResponse.json({ error: "Failed to submit bug report" }, { status: 500 });
+  }
+  if (useBot && botToken && channel) {
+    const tokenProblem = slackTokenProblem(botToken);
+    if (tokenProblem) {
+      console.error(
+        `SLACK_BOT_TOKEN looks like ${tokenProblem}. Use the Bot User OAuth Token (xoxb-) from OAuth & Permissions.`,
+      );
+      return NextResponse.json({ error: "Failed to submit bug report" }, { status: 500 });
+    }
+    if (!/^[CG][A-Z0-9]{8,}$/.test(channel)) {
+      console.error("SLACK_BUG_REPORT_CHANNEL_ID should be a channel ID starting with C or G");
+      return NextResponse.json({ error: "Failed to submit bug report" }, { status: 500 });
+    }
   }
 
   const id = randomUUID();
@@ -227,7 +272,7 @@ export async function POST(req: Request) {
         unfurl_links: "false",
       });
       if (!posted.ok || typeof posted.ts !== "string") {
-        console.error("Slack chat.postMessage failed", posted.error);
+        console.error("Slack chat.postMessage failed", posted.error, SLACK_ERROR_HINTS[posted.error || ""] || "");
         return NextResponse.json({ error: "Failed to submit bug report" }, { status: 502 });
       }
       threadTs = posted.ts;
