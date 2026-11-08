@@ -39,6 +39,11 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: "/:path(en|en/.*|browse)",
+        destination: "/#access",
+        permanent: false,
+      },
+      {
         source: "/shobbl-icon.svg",
         destination: "/shobble-icon.svg",
         permanent: true,

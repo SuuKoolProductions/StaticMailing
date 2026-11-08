@@ -12,6 +12,8 @@ const SEVERITIES: Array<{ value: Severity; label: string; description: string }>
 
 const AREAS = ["Upload", "Player", "Subtitles", "Tagging", "Auth", "Payments", "Wallet", "Explore", "Other"] as const;
 
+const MAX_ATTACHMENT_BYTES = 4 * 1024 * 1024;
+
 const fieldClass =
   "w-full border border-line bg-[#130f11] px-3 py-3 font-display text-sm text-bone outline-none transition-colors placeholder:text-bone-dim/50 focus:border-red-shobbl";
 
@@ -26,6 +28,7 @@ export function BugReportForm() {
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [reportId, setReportId] = useState<string | null>(null);
+  const [attachmentDelivered, setAttachmentDelivered] = useState<boolean | null>(null);
 
   const captured = useMemo(() => {
     if (typeof window === "undefined") return null;
@@ -47,6 +50,7 @@ export function BugReportForm() {
     setAttachment(null);
     setError(null);
     setReportId(null);
+    setAttachmentDelivered(null);
   }
 
   async function submit(event: FormEvent<HTMLFormElement>) {
@@ -58,8 +62,8 @@ export function BugReportForm() {
       setError("Please add a short title.");
       return;
     }
-    if (attachment && attachment.size > 5 * 1024 * 1024) {
-      setError("Attachment too large (max 5MB).");
+    if (attachment && attachment.size > MAX_ATTACHMENT_BYTES) {
+      setError("Attachment too large (max 4MB).");
       return;
     }
 
@@ -82,9 +86,14 @@ export function BugReportForm() {
       const response = await fetch("/api/bug-reports", { method: "POST", body: form });
       const data = await response.json().catch(() => ({}));
       if (!response.ok) {
-        setError(typeof data.error === "string" ? data.error : "Failed to submit bug report.");
+        if (response.status === 413) {
+          setError("Attachment too large (max 4MB).");
+        } else {
+          setError(typeof data.error === "string" ? data.error : "Failed to submit bug report.");
+        }
         return;
       }
+      setAttachmentDelivered(data.attachmentDelivered === false ? false : null);
       setReportId(typeof data.id === "string" ? data.id : "submitted");
     } catch {
       setError("Network error. Please try again.");
@@ -102,6 +111,12 @@ export function BugReportForm() {
           Thanks for helping us improve Shobble. Your report ID is{" "}
           <span className="font-mono text-bone">{reportId}</span>.
         </p>
+        {attachmentDelivered === false ? (
+          <p className="mx-auto mt-3 max-w-md text-xs leading-5 text-bone-dim">
+            Your report went through, but the attachment couldn&apos;t be delivered. Feel free to send it to{" "}
+            <a href="mailto:team@shobble.com" className="text-bone underline">team@shobble.com</a> with your report ID.
+          </p>
+        ) : null}
         <button
           type="button"
           onClick={reset}
@@ -220,7 +235,7 @@ export function BugReportForm() {
 
       <div>
         <label htmlFor="bug-page-attachment" className="mb-2 block font-display text-xs uppercase tracking-[0.12em] text-bone-dim">
-          Screenshot or video (optional, max 5MB)
+          Screenshot or video (optional, max 4MB)
         </label>
         <input
           id="bug-page-attachment"

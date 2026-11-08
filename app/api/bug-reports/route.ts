@@ -4,7 +4,8 @@ import { NextResponse } from "next/server";
 export const runtime = "nodejs";
 
 const MAX_TEXT = 10_000;
-const MAX_ATTACHMENT_BYTES = 5 * 1024 * 1024;
+// Vercel rejects function request bodies over ~4.5MB before this handler runs.
+const MAX_ATTACHMENT_BYTES = 4 * 1024 * 1024;
 const SEVERITIES = new Set(["blocker", "major", "minor"]);
 const AREAS = new Set([
   "upload",
@@ -57,6 +58,53 @@ function slackEscape(value: string): string {
   return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
 }
 
+type SlackApiResponse = { ok: boolean; error?: string; [key: string]: unknown };
+
+async function slackApi(token: string, method: string, body: Record<string, string>): Promise<SlackApiResponse> {
+  const response = await fetch(`https://slack.com/api/${method}`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/x-www-form-urlencoded",
+    },
+    body: new URLSearchParams(body),
+  });
+  if (!response.ok) return { ok: false, error: `http_${response.status}` };
+  return (await response.json()) as SlackApiResponse;
+}
+
+async function uploadToSlackThread(
+  token: string,
+  channel: string,
+  threadTs: string,
+  file: File,
+): Promise<string | null> {
+  const bytes = new Uint8Array(await file.arrayBuffer());
+  const filename = file.name || "attachment";
+
+  const ticket = await slackApi(token, "files.getUploadURLExternal", {
+    filename,
+    length: String(bytes.byteLength),
+  });
+  if (!ticket.ok || typeof ticket.upload_url !== "string" || typeof ticket.file_id !== "string") {
+    return ticket.error || "upload_url_failed";
+  }
+
+  const upload = await fetch(ticket.upload_url, {
+    method: "POST",
+    headers: { "Content-Type": file.type || "application/octet-stream" },
+    body: bytes,
+  });
+  if (!upload.ok) return `upload_http_${upload.status}`;
+
+  const complete = await slackApi(token, "files.completeUploadExternal", {
+    files: JSON.stringify([{ id: ticket.file_id, title: filename }]),
+    channel_id: channel,
+    thread_ts: threadTs,
+  });
+  return complete.ok ? null : complete.error || "complete_upload_failed";
+}
+
 export async function POST(req: Request) {
   const ip = clientIp(req);
   if (isRateLimited(ip)) {
@@ -94,27 +142,26 @@ export async function POST(req: Request) {
   const source = clampText(form.get("source"), 64) || "page";
   const commitHash = process.env.VERCEL_GIT_COMMIT_SHA || null;
 
-  let attachmentName: string | null = null;
-  let attachmentSize: number | null = null;
+  let attachment: File | null = null;
   const file = form.get("attachment");
   if (file && typeof file === "object" && "arrayBuffer" in file && file.size > 0) {
     if (file.size > MAX_ATTACHMENT_BYTES) {
-      return NextResponse.json(
-        { error: `Attachment too large (max ${MAX_ATTACHMENT_BYTES} bytes)` },
-        { status: 413 },
-      );
+      return NextResponse.json({ error: "Attachment too large (max 4MB)." }, { status: 413 });
     }
     const mime = file.type || "application/octet-stream";
     if (!mime.startsWith("image/") && !mime.startsWith("video/")) {
-      return NextResponse.json({ error: "Attachment must be an image or video" }, { status: 400 });
+      return NextResponse.json({ error: "Attachment must be an image or video." }, { status: 400 });
     }
-    attachmentName = file.name || "attachment";
-    attachmentSize = file.size;
+    attachment = file;
   }
+  const attachmentName = attachment ? attachment.name || "attachment" : null;
 
+  const botToken = process.env.SLACK_BOT_TOKEN;
+  const channel = process.env.SLACK_BUG_REPORT_CHANNEL_ID;
   const webhook = process.env.SLACK_BUG_REPORT_WEBHOOK_URL;
-  if (!webhook) {
-    console.error("Missing SLACK_BUG_REPORT_WEBHOOK_URL");
+  const useBot = Boolean(botToken && channel);
+  if (!useBot && !webhook) {
+    console.error("Bug reports need SLACK_BOT_TOKEN + SLACK_BUG_REPORT_CHANNEL_ID, or SLACK_BUG_REPORT_WEBHOOK_URL");
     return NextResponse.json({ error: "Failed to submit bug report" }, { status: 500 });
   }
 
@@ -155,8 +202,10 @@ export async function POST(req: Request) {
               `Source: \`${slackEscape(source)}\``,
               userAgent ? `Browser: ${slackEscape(userAgent).slice(0, 300)}` : null,
               viewportW && viewportH ? `Viewport: ${viewportW}x${viewportH}` : null,
-              attachmentName
-                ? `Attachment named on the form: \`${slackEscape(attachmentName)}\` (${attachmentSize || 0} bytes). This site does not store the file.`
+              attachment && attachmentName
+                ? useBot
+                  ? `Attachment: \`${slackEscape(attachmentName)}\` (${attachment.size} bytes), uploaded in this thread.`
+                  : `Attachment named on the form: \`${slackEscape(attachmentName)}\` (${attachment.size} bytes). Not delivered: set SLACK_BOT_TOKEN to upload files.`
                 : null,
               commitHash ? `Commit: \`${slackEscape(commitHash)}\`` : null,
             ]
@@ -168,8 +217,48 @@ export async function POST(req: Request) {
     ],
   };
 
+  if (useBot && botToken && channel) {
+    let threadTs: string;
+    try {
+      const posted = await slackApi(botToken, "chat.postMessage", {
+        channel,
+        text: payload.text,
+        blocks: JSON.stringify(payload.blocks),
+        unfurl_links: "false",
+      });
+      if (!posted.ok || typeof posted.ts !== "string") {
+        console.error("Slack chat.postMessage failed", posted.error);
+        return NextResponse.json({ error: "Failed to submit bug report" }, { status: 502 });
+      }
+      threadTs = posted.ts;
+    } catch (error) {
+      console.error("Slack chat.postMessage request failed", error);
+      return NextResponse.json({ error: "Failed to submit bug report" }, { status: 502 });
+    }
+
+    if (attachment) {
+      try {
+        const uploadError = await uploadToSlackThread(botToken, channel, threadTs, attachment);
+        if (uploadError) {
+          console.error("Slack attachment upload failed", uploadError);
+          await slackApi(botToken, "chat.postMessage", {
+            channel,
+            thread_ts: threadTs,
+            text: `Attachment upload failed (${uploadError}).`,
+          }).catch(() => undefined);
+          return NextResponse.json({ ok: true, id, attachmentDelivered: false });
+        }
+      } catch (error) {
+        console.error("Slack attachment upload request failed", error);
+        return NextResponse.json({ ok: true, id, attachmentDelivered: false });
+      }
+    }
+
+    return NextResponse.json({ ok: true, id, attachmentDelivered: attachment ? true : undefined });
+  }
+
   try {
-    const response = await fetch(webhook, {
+    const response = await fetch(webhook as string, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
@@ -183,5 +272,5 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "Failed to submit bug report" }, { status: 502 });
   }
 
-  return NextResponse.json({ ok: true, id });
+  return NextResponse.json({ ok: true, id, attachmentDelivered: attachment ? false : undefined });
 }
