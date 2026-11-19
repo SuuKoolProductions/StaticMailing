@@ -1,223 +1,135 @@
-ACCEPTABLE USE POLICY (AUP)
+SHOBBLE ACCEPTABLE USE POLICY
 
-Effective Date: January 1, 2026
-Last Updated: January 8, 2026
+Version: 2.0
+Effective date: November 16, 2026
+Application: This Policy applies through Shobble's designated valid acceptance process to the identified Platform participation. It replaces the earlier Acceptable Use Policy for that accepted scope without retrospectively rewriting acquisitions, accrued earnings or independent rights.
 
-This Acceptable Use Policy (“AUP”) governs access to and use of the Platform operated by Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”). Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+1. PURPOSE, SCOPE AND DOCUMENT RELATIONSHIPS
 
-This AUP is incorporated by reference into the Master Terms of Use (“Terms”) and applies to all Users, Creators, Content Partners, API partners, and any other person or entity accessing or using the Platform.
+1.1 Shobbl Incorporated, doing business as Shobble (Shobble, we), provides the Platform. This Policy governs acceptable conduct and use of its accounts, submissions, listings, communications, marketplaces, delivery routes, APIs and other enabled features. It applies to users, Creators, representatives and partners within their actual participation and authority.
 
-Capitalized terms not defined in this AUP have the meanings set forth in the Terms. In the event of any conflict, the Terms and applicable Addenda control.
+1.2 The accepted Master Terms govern remaining Platform matters and subject-specific document priority. The selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record govern that acquisition within its own scope. The Creator Content License Agreement governs Creator authority, approved Offers and surviving fulfillment. The accepted AI Use Case Policy, Schedule and published Errata (AI Framework) govern contractual AI activity within underlying rights. Afterdark, financial and other feature instruments govern their actual subjects and parties when validly accepted. This Policy creates no additional content license, financial deduction, processing consent or general agency.
 
-1. PURPOSE AND SCOPE
+1.3 Mandatory law, independently applicable component/public licenses and the protected acquisition baseline remain. No general priority statement, classification or enforcement discretion makes acquired grants revocable at will, supplies missing third-party rights, or removes promised continuity, independently lawful-use protections, review or remedies. Permission under one instrument does not establish publication, earning, privacy or provider authority under another.
 
-The Platform is intended to support lawful, creative, expressive, and commercial activity within defined technical, legal, and safety boundaries.
+1.4 Shobble must make the exact applicable Policy and incorporated rules accessible before acceptance and retain retrievable accepted versions. Community Content Guidelines explain classifications and examples; they do not supply undisclosed restrictions or override accepted rights. A later live page, internal work order or receipt cannot manufacture an unaccepted term.
 
-You may use the Platform only in compliance with:
+2. UNLAWFUL AND HARMFUL CONDUCT
 
-this AUP;
+2.1 Do not use the Platform for unlawful activity, fraud, theft, trafficking, exploitation, money laundering, sanctions or export-control evasion, or unauthorized regulated goods or services. Applicable law means law actually applicable to the person, activity or service; this Policy does not require every submission to comply with every jurisdiction worldwide.
 
-the Terms and all Incorporated Policies;
+2.2 Do not threaten, stalk, harass, intimidate or coerce others; solicit or facilitate violence or self-harm; promote hateful violence or targeted dehumanizing abuse based on protected characteristics; or unlawfully discriminate. Do not disclose private identifying, intimate, financial or confidential information without an appropriate legal basis or use it to expose someone to harm.
 
-applicable laws and regulations; and
+2.3 Do not groom, sexually solicit or exploit minors, distribute child sexual abuse material, facilitate sexual trafficking, or publish nonconsensual intimate imagery or covered digital forgeries. Do not solicit, commission, link to or conceal prohibited material to evade these rules. Actual threats, exploitation and unlawful material remain prohibited regardless of fictional framing or disclaimers.
 
-any feature-specific rules, licenses, or addenda.
+2.4 Assess the conduct and its context. Depiction, criticism, reporting, education, recovery discussion, consensual lawful fictional themes or discussion of wrongdoing is not automatically endorsement or facilitation. It must still satisfy applicable content, audience, rights and Afterdark restrictions. Context does not excuse an actual threat, targeted abuse or a prohibited depiction.
 
-Any use outside these boundaries is prohibited.
+3. CONTENT, RIGHTS AND CLASSIFICATION
 
-2. GENERAL PROHIBITIONS
+3.1 Do not upload, offer or distribute unlawful or infringing material, malware, fraudulent claims or content violating applicable privacy, publicity, confidentiality or data-protection rights. Do not impersonate another person or misrepresent authorship, identity, authority, rights, eligibility or an endorsement. Clearly identified lawful parody, criticism and pseudonymous participation are not impersonation merely because they refer to another person.
 
-You may not, directly or indirectly, use the Platform to engage in, facilitate, enable, promote, or support any of the following:
+3.2 Hold the rights or another supportable legal basis for each offered act and component. Owning a file, paying for a commission, crediting a source, applying a parody label or obtaining one component's permission supplies no missing rights. Conversely, a valid independent license or applicable legal exception need not originate on Shobble. A claim, notice or automated match alone does not conclusively establish infringement. Copyright notices and counter-notices follow the published DMCA procedure and law.
 
-2.1 Illegal, Unlawful, or Regulated Activity
+3.3 Use the correct audience, category, warnings and material disclosures, including for previews, alternate tracks, companion files, links and later edits. Do not hide a restricted component in an otherwise eligible work. Publication, discovery, advertising, sales and continuing delivery are separate decisions. Approval is limited to its actual reviewed scope and is not legal certification or a promise of earnings.
 
-Any activity that violates applicable local, state, federal, or international law.
+3.4 Afterdark's hosting categories are Eligible, Review, Blacklisted and Prohibited, with their exact meanings in its accepted Policy and Adult Content Schedule. Review requires the specified approval; Blacklisted requires the eligible adult user to remove every applicable category from their default blacklist. Approval, purchase or membership does not make that choice for them. A Blacklisted work is not prohibited merely because it is Blacklisted.
 
-Facilitation of criminal conduct, including fraud, theft, exploitation, trafficking, or money laundering.
+3.5 The most restrictive applicable content-category conditions govern the affected Afterdark activity, not priority between content licenses. Hosting approval and blacklist removal never waive a prohibition or earning restriction. Other classification rules retain their accepted scope but cannot redefine Afterdark categories or automatically extinguish an acquired grant. Later restrictions require the distinct rights and remedy assessment in Section 9.
 
-Circumvention of sanctions, export controls, or trade restrictions.
+4. PLATFORM INTEGRITY, COLLECTION AND SECURITY
 
-Promotion or sale of illegal or regulated goods or services without proper authorization.
+4.1 Do not disrupt or overload systems, introduce malicious code, steal credentials, access accounts or private material without authority, defeat applicable access controls, or use unauthorized bots, distributed requests or intermediaries to evade restrictions. API access and automation must remain within the authorized feature, data, purpose and rate limits.
 
-2.2 Harmful, Abusive, or Dangerous Conduct
+4.2 Do not scrape, harvest, extract or systematically collect content or user data without actual authorization, subject to independently applicable rights and the accepted licenses' lawful-use protections. Public availability, a purchase, an absent barrier or a robots allowance is not a collection license. Do not neutralize protective transformations to enable prohibited collection, training or reuse.
 
-Harassment, threats, stalking, coercion, or intimidation.
+4.3 Authorized ordinary capture, permitted excerpts and gameplay, licensed production copies, supported accessibility, and other actually granted or independently protected uses are not prohibited merely because they use recording, copying or automation. Their scope does not authorize unrelated bulk collection, source redistribution, privacy violations or circumvention. Access-control and circumvention rules have their own applicable legal requirements.
 
-Hate speech, hateful conduct, or discrimination based on protected characteristics, where prohibited by law.
+4.4 Do not probe, scan, exploit or otherwise test Shobble's systems outside an expressly authorized security scope or independently applicable legal right. Reverse engineering, decompilation and disassembly restrictions apply only to the extent lawfully imposed and do not negate an acquired permission or protected interoperability, repair or security-research right. No public testing authorization or immunity is created here. Report a suspected vulnerability privately without unnecessarily accessing, retaining or disclosing others' data.
 
-Promotion or glorification of violence, self-harm, or physical injury.
+5. FRAUD, ENGAGEMENT AND PROCESS ABUSE
 
-Doxxing or unauthorized disclosure of personal or confidential information.
+5.1 Do not use stolen payment methods, fabricate transactions, manipulate auctions or payouts, conceal material fees, falsify rights or verification evidence, or engage in intentional refund or chargeback fraud. A good-faith dispute, withdrawal request, mistaken payment or unresolved chargeback is not fraud merely because it reduces revenue.
 
-Activities that endanger minors or exploit vulnerable individuals.
+5.2 Do not buy or generate fake engagement, use coordinated accounts or automation to inflate allocations, collude on sham commission bids, or misrepresent qualifying activity. For the Creator Fund, the accepted Schedule determines qualifying events, follow or membership gates, eligibility, weighting and allocation. Genuine permitted repeat activity, a paid membership's disclosed weighting or an ordinary qualifying auction bid is not manipulation merely because it affects a score.
 
-3. CONTENT-RELATED RESTRICTIONS
-3.1 Prohibited Content
+5.3 Do not knowingly fabricate allegations or evidence, coordinate abusive reporting, impersonate a complainant or evade a valid restriction through replacement accounts or disguised submissions. Good-faith questions, unsuccessful reports, appeals and renewed notices with material new grounds are not abuse. Patterns may support a reasoned decision but must be assessed individually; common ownership, disagreement or an adverse outcome alone is insufficient.
 
-You may not upload, post, distribute, or otherwise make available content that:
+6. MARKETPLACE, MONETIZATION AND FINANCIAL SAFEGUARDS
 
-is illegal, infringing, deceptive, or fraudulent;
+6.1 Creators must provide accurate necessary identity, rights, tax and payout information; authorize complete Offers; disclose material product, price, access, license and dependency terms before acquisition; and fulfill accepted obligations. A selected license or completed payment does not make an otherwise ineligible work publishable or monetizable.
 
-violates privacy, publicity, or data-protection rights;
+6.2 Fees, royalties, refunds, payout conditions, reserves, reversals and recovery follow the actual accepted Creator Monetization Terms and applicable feature schedule. This Policy imposes no additional percentage, payout forfeiture, indemnity or automatic offset. Private provider arrangements cannot create undisclosed user liabilities.
 
-contains malware, spyware, or malicious code;
+6.3 A credible financial or rights concern may justify an identified proportionate interim hold under an accepted or legal basis. Shobble must distinguish pending review from final liability, explain and reassess the measure where lawful, provide correction/review, and release amounts when its basis ends. Demonetization, account closure or unpaid status alone does not make earned compensation unearned.
 
-impersonates others or misrepresents identity or authority;
+6.4 Creator Fund allocations, subscriber carry, costs, finalization, payout timing, privacy and exit follow its accepted Schedule. General fraud or enforcement language does not transfer Shobble's assigned ordinary losses to innocent Creators, round away earned fractions, treat unallocated subscriber support as Creator proceeds, or authorize confiscation. A subscriber's own allocation report does not authorize disclosure of individual contributors to Creators.
 
-violates intellectual property rights;
+7. AI AND AUTOMATION
 
-violates the AI-Generated Content prohibition set forth in Section 10.9 of the Terms.
+7.1 Every AI operation and affected component must satisfy the exact applicable AI Framework's actor, purpose, inputs, output, boundaries, Outcome, human review, approvals and provider conditions. Prohibited, Pending and unavailable activities cannot proceed outside an actual express exception. Conditional activities require verified completion of their conditions. A generic written permission, paid tier or similar third-party tool does not bypass them.
 
-3.2 No Circumvention of Content Controls
+7.2 Do not submit or monetize material produced or modified through an unauthorized AI activity unless an express Framework permission covers that operation and intended submission. Preserve the Framework's bounded coding assistance, critical display, technical outputs, internal placeholders and other express exceptions within their actual limits. Ordinary predetermined non-AI computation is not prohibited merely because it computes. Disclosure, human review, tracing, retyping or performance does not cure prohibited generation.
 
-You may not:
+7.3 Do not use entrusted content or user data for dataset preparation, training, fine-tuning, evaluation, benchmarking, model improvement, style or voice modeling, or independent provider reuse without the Framework's actual purpose-limited permission and all required rights, agreements, approvals and privacy authority. Operational moderation, verification, search or recommendation permission does not establish model-development permission. Acceptance, uploading or purchase alone is not training consent.
 
-evade moderation, filtering, enforcement, or safety systems;
+7.4 Preserve required provenance, edit history, notices and human review. Do not conceal material AI involvement or falsely claim human authorship. Provider access, artifacts, retention and deletion must remain purpose-limited under the accepted Framework and applicable processing instruments. Shobble-only permissions are not user permissions; conditional proprietary-feature permissions require the exact approved release and scope. Internal integration records create no permission.
 
-re-upload removed content to bypass enforcement;
+7.5 Afterdark's prohibition on all voice cloning remains, including authorized and self-voice cloning. Permitted prerecorded human fictional performances are distinct. No general AI exception overrides Afterdark's content or earning restrictions. This Policy does not silently amend a buyer acquisition's accepted AI set or authorize a new processing purpose for previously entrusted files.
 
-coordinate reporting abuse or manipulation campaigns;
+8. AGE, MANAGED ACCESS AND AFTERDARK
 
-interfere with visibility, ranking, discovery, or monetization systems.
+8.1 General Shobble use requires age sixteen or older, subject to higher ages and regional restrictions. Users below legal majority need legally required parental or guardian permission. An educational license, managed account, representative or organizational administrator does not bypass the actual minimum age or establish capacity for every transaction.
 
-3.3 Community Content Guidelines
+8.2 Afterdark requires a separate account, valid acceptance and verified age of at least eighteen, together with any higher local requirements, before activation or use of its account features. Public nonexplicit policy information, reporting, support and privacy requests remain available without an Afterdark account. Do not evade age, regional, blacklist or account controls. A VPN or privacy tool is not prohibited merely by its use.
 
-Shobble publishes Community Content Guidelines to provide illustrative examples, explanations, and contextual guidance regarding acceptable and unacceptable conduct and content on the Platform.
+8.3 Explicit material must remain behind the required adult-access controls. General-platform surfaces and public or unauthenticated previews must remain nonexplicit under the Afterdark Policy. Its fictional-content boundaries, real-person and minor exclusions, non-sapient-subject prohibition, prohibited sexual abuse/exploitation and severe sexual harm, censorship requirements and permitted supporting-material exceptions retain their precise scope. Fiction, censorship, free hosting or opt-in does not override a prohibition.
 
-The Community Content Guidelines do not limit, modify, or replace this AUP, the Terms, or Shobble’s enforcement discretion. Content or conduct may violate this AUP or the Terms even if not expressly addressed in the Community Content Guidelines.
+8.4 Afterdark earning categories are Limited, Ads + commissions only and None under its Schedule. None bars work-attributable earning, including subscription-gated access; Blacklisted status does not change that outcome. Adult advertising uses the separate Afterdark marketplace. New Afterdark Enterprise and Educational offerings, renewals and expansions are excluded; the accepted Policy preserves existing-rights safeguards. Creator Fund scope is determined separately and is not expanded to Afterdark by this Policy.
 
-3.4 Content Classification
+8.5 Use supported delegation rather than sharing credentials. Apply the selected license's actual holder, participant, device, seat or other metric; do not presume one active user always consumes one separate license. Administrator status, employment, graduation or affiliation changes do not themselves cancel organization-held acquisitions, valid independent learner grants or surviving Client/portfolio rights. Recovery and reassignment follow the actual accepted scope.
 
-Certain categories of content may be Restricted, Blacklisted, or Forbidden under Shobble’s Content Classification framework, based on risk, legality, safety, regulatory obligations, payment-processor requirements, and platform-integrity considerations.
+9. ENFORCEMENT, ACQUIRED RIGHTS AND CONTINUITY
 
-The identification, scope, conditions, and treatment of such content—including any limited, discretionary allowances that may apply—are governed exclusively by Shobble’s Content Classification policies, including the Community Content Guidelines and any applicable addenda.
+9.1 Shobble may investigate credible concerns and impose justified warnings, content or visibility restrictions, affected-feature limits, monetization suspension, API revocation or account action under accepted terms and law. Decisions must be objective, proportionate and scoped to the actual issue, considering context, severity, recurrence, apparent intent and harm. Automated flags may assist but do not conclusively establish illegality, breach or final financial liability.
 
-Content classified as Restricted, Blacklisted, or Forbidden is not entitled to hosting, visibility, discoverability, monetization, or continued availability. Depending on classification and context, such content may be subject to age or identity verification, access controls, domain segregation (including placement on designated adult domains such as adult.shobble.com, where applicable), jurisdiction-based restrictions, automated enforcement systems, or human review.
+9.2 Before terminating acquired rights for curable material breach, identify the conduct, affected rights, required correction and reasonable cure opportunity under the selected license and Master Terms. Immediate measures may precede notice where required by law or reasonably necessary against serious safety/security harm, fraud, deliberate unauthorized distribution or a risk that cannot await cure. Urgency does not remove required subsequent reasons, review or correction. Ordinary prospective service exit and final license termination are distinct.
 
-Shobble may block, suppress, restrict, reclassify, or remove content classified under these categories at any time through technical, operational, or policy-based controls.
-No payment, subscription, creator status, prior availability, or reliance creates any right to upload, access, distribute, monetize, or continue hosting content that is Restricted, Blacklisted, or Forbidden.
+9.3 Shobble will give required adverse-decision reasons identifying material facts, the rule or legal basis, affected scope, duration or release conditions where known, material automation and available review. Notices must be sufficiently meaningful to challenge the actual decision, subject to justified legal, security, privacy and investigation limits. Required durable-medium notices, business-user termination periods and other statutory safeguards remain.
 
-Shobble does not sell, endorse, license, or guarantee access to content subject to restriction, blacklisting, or prohibition and may refuse to host or continue hosting such content at its discretion.
+9.4 Delisting, reclassification, demonetization, account or API suspension, Creator departure, affiliation loss or a pending payment/verification issue does not itself revoke permanent or unexpired content rights, Permanent Capacity, valid downstream grants or qualifying surviving publications. Shobble must separately assess lawful continuing delivery, recovery, alternatives and the selected license's express remedies. No prohibited supply or access bypass is required. Where the promised continuing route cannot lawfully be restored or supplied, apply the accepted remedy without an invented purchase-age cutoff.
 
-4. PLATFORM INTEGRITY AND TECHNICAL ABUSE
+9.5 Interim measures must be reassessed and lifted when their basis ends. Following an overturned decision, correct records and promptly restore lawful access, visibility, eligibility and valid amounts as applicable. Necessary restrictions on one work, feature or account do not justify unrelated purchase or earnings forfeiture. This Policy grants no invasive device inspection, remote deletion or recall of authorized local copies.
 
-You may not:
+10. REPORTING, REVIEW AND COOPERATION
 
-reverse engineer, decompile, or disassemble the Platform;
+10.1 Report suspected violations through the published reporting tools or legal@shobble.com; ordinary questions and appeals may use support@shobble.com. Identify the item or location, explain the concern and provide reasonably necessary lawful evidence. Do not download or resend suspected illegal imagery merely to report it. Submit necessary lawful review files only through an expressly authorized private route and within its instructions. Verification documents must use the designated authorized verification process, not ordinary support or public records.
 
-bypass DRM, access controls, or technical restrictions;
+10.2 Shobble will apply the required notice-and-action, copyright, intimate-imagery, child-protection, threat-reporting and evidence-preservation processes under the Master Terms and applicable law. Statutory notices retain their actual requirements; an ordinary policy report need not satisfy a separate statutory form to receive appropriate safety review. A notice alone is not a court determination, and an appeal cannot require unlawful restoration.
 
-scrape, harvest, or extract data or content;
+10.3 Affected users and reporters may request review through the applicable published route, including support@shobble.com. Shobble will consider actual permissions, relevant context, asserted exceptions and correction evidence, provide required human review and a reasoned outcome, and correct unsupported decisions without undue delay. Afterdark's free electronic appeal period of at least six months and qualified human supervision remain; applicable statutory complaint periods and external remedies also remain. This Policy does not shorten a specific feature's review or payment deadline or require formal litigation notice for ordinary support.
 
-create datasets or train AI models using Platform content;
+10.4 For repeated manifest abuse of reporting or complaints, apply any required prior warning, identify the conduct and correction, and use a proportionate restriction with reasons, duration and review. Preserve routes for valid statutory notices, urgent safety reports and privacy requests. Unsuccessful good-faith challenges do not justify punishment.
 
-interfere with servers, networks, APIs, or security measures;
+10.5 Cooperate with lawful, proportionate requests within actual authority and applicable privacy/confidentiality limits. This is not consent to unrestricted audits, device searches, disclosure of confidential recipient data or surrender of legal defenses. Shobble and its providers may retain necessary evidence only for an authorized purpose and lawful period; restricted backups and legal holds permit no unrelated reuse.
 
-introduce automated scripts, bots, or tools without authorization.
+11. RESPONSIBILITY AND LIMITS
 
-Any attempt to probe, scan, or test Platform security without written permission is prohibited.
+11.1 Users remain responsible for their own conduct and actual authorizations. Good faith does not itself make prohibited conduct eligible, but relevant mistakes, correction, legal defenses and accepted reliance must be considered. Failure to enforce once is not a waiver or permission for future violations.
 
-5. FRAUD, DECEPTION, AND MISUSE
+11.2 Shobble does not guarantee perfect detection, universal prescreening or a risk-free service. It remains responsible for its own express duties, decisions, required notices, review and remedies. This Policy creates no new general damages exclusion, consumer indemnity, arbitration agreement or class-action waiver.
 
-You may not engage in:
+12. CHANGES AND SURVIVAL
 
-payment fraud, chargeback abuse, or financial manipulation;
+12.1 Changes follow the Master Terms' actual notice, effective-date and acceptance process, ordinarily including at least thirty days' advance notice for material adverse changes unless another lawful period or urgent legal/security requirement applies. Publication or continued use alone does not replace legally required assent. Explain material changes and retain identifiable accepted versions.
 
-artificial engagement, fake accounts, or traffic inflation;
-
-misrepresentation of rights, licenses, ownership, or eligibility;
-
-deceptive monetization practices or misleading pricing;
-
-abuse of reporting, appeal, or dispute mechanisms.
-
-Shobble may treat patterns of abuse, even absent a single violation, as grounds for enforcement.
-
-6. MARKETPLACE AND MONETIZATION RULES
-
-When participating in monetization, marketplaces, or payouts, you must:
-
-provide accurate identity, tax, and payout information;
-
-comply with all licensing, rights-clearance, and disclosure obligations;
-
-refrain from prohibited content, AI-generated material, or misrepresentation;
-
-comply with advertiser, affiliate, and payment-processor rules.
-
-Violations may result in withholding, reversal, or forfeiture of payouts as permitted by the Terms.
-
-7. PROHIBITED USE OF AI AND AUTOMATION
-
-Except as expressly permitted by the Terms or an applicable addendum, you may not:
-
-upload or monetize content generated in whole or substantial part by Generative Models;
-
-use Platform content to train or improve AI systems;
-
-deploy unauthorized automation, bots, or scraping tools;
-
-misrepresent human-created content as non-AI-generated.
-
-Disclosure or labeling does not make prohibited AI content permissible.
-
-8. AGE-RESTRICTED USERS AND DELEGATED ACCESS
-
-Users interacting with age-restricted users or delegated-access users must:
-
-comply with child-protection, safety, and privacy laws;
-
-avoid age-inappropriate content or interactions;
-
-refrain from solicitation, grooming, or exploitation;
-
-comply with Platform eligibility, delegated-access, and age-gating requirements.
-
-Users under eighteen (18) may not access restricted or adult-oriented environments, participate in monetization, receive payouts, or use payment-enabled creator tools. Violations involving age-restricted users are treated as high-severity enforcement matters.
-
-9. ENFORCEMENT AND CONSEQUENCES
-9.1 Enforcement Authority
-
-Shobble may take action, at its discretion and to the fullest extent permitted by law, including:
-
-content removal or restriction;
-
-account warnings, suspensions, or termination;
-
-monetization restrictions or payout reversals;
-
-API access revocation;
-
-reporting to authorities where required.
-
-9.2 No Safe Harbor
-
-Good-faith intent, lack of awareness, or reliance on guidance does not create immunity from enforcement.
-
-9.3 No Obligation to Warn
-
-Shobble is not required to provide warnings or progressive discipline before taking action.
-
-10. REPORTING AND COOPERATION
-
-Users may report violations through designated reporting tools.
-You agree to cooperate with lawful investigations, audits, or compliance reviews as required.
-
-False, abusive, or bad-faith reporting is itself a violation of this AUP.
-
-11. NO WAIVER; NO RIGHTS CREATED
-
-Failure to enforce this AUP in any instance does not constitute a waiver.
-This AUP does not create third-party rights, guarantees, or entitlements.
-
-12. MODIFICATIONS
-
-Shobble may update this AUP in accordance with the Terms. Continued use of the Platform constitutes acceptance of any updates, to the extent permitted by law.
+12.2 Changes govern their valid prospective scope, not retrospective repricing, cancellation of accrued compensation or silent replacement of accepted acquisition/AI terms. Current mandatory law and justified urgent protection retain their actual effect. Refusal of optional successor terms alone does not forfeit existing rights. Necessary evidence, payment, confidentiality, fulfillment and remedy obligations survive for their proper purposes.
 
 13. CONTACT
 
-Questions or reports regarding acceptable use may be directed to:
+Reports and legal concerns: legal@shobble.com
+Support, appeals, recovery and privacy requests: support@shobble.com
 
-Email: Legal@shobble.com
+Use the applicable published statutory-notice procedure where formal requirements apply. Ordinary support and reporting need no formal litigation notice or Afterdark account. If a contact route changes, Shobble will provide a reasonably accessible successor.
 
-(For informational purposes only; does not constitute formal legal notice unless required by law.)
+END OF POLICY
+

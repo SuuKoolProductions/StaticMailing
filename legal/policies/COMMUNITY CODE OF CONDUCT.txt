@@ -1,21 +1,19 @@
-SHOBBLE COMMUNITY CODE OF CONDUCT
+SHOBBL COMMUNITY CODE OF CONDUCT
 
 (REVISED – INDUSTRY-BASELINE)
 
-Effective Date: December 29, 2025
-Last Updated: May 11, 2026
+Effective Date: November 16, 2026
+Last Updated: November 16, 2026
 
-Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+This Community Code of Conduct (“Code”) establishes baseline expectations for user behavior and account identity on the Shobbl platform (“Platform”).
 
-This Community Code of Conduct (“Code”) establishes baseline expectations for user behavior and account identity on the Shobble platform (“Platform”).
-
-This Code is intended to align with prevailing industry standards for large-scale creator platforms and social media services. It governs user conduct, interactions, and account representation, and is distinct from Shobble’s Community Content Guidelines and Content Classification framework, which govern what content may be published.
+This Code is intended to align with prevailing industry standards for large-scale creator platforms and social media services. It governs user conduct, interactions, and account representation, and is distinct from Shobbl’s Community Content Guidelines and Content Classification framework, which govern what content may be published.
 
 This Code operates in conjunction with the Master Terms of Use, Acceptable Use Policy, and Enforcement procedures. In the event of conflict, the Master Terms control.
 
 1. PURPOSE & SCOPE
 
-Shobble supports open expression, creative debate, commentary, criticism, satire, and political speech. Users may engage in robust, controversial, or unpopular speech, including criticism of public figures, institutions, companies, ideologies, or public policy, provided such conduct does not cross clearly defined legal or safety boundaries.
+Shobbl supports open expression, creative debate, commentary, criticism, satire, and political speech. Users may engage in robust, controversial, or unpopular speech, including criticism of public figures, institutions, companies, ideologies, or public policy, provided such conduct does not cross clearly defined legal or safety boundaries.
 
 This Code is not a civility policy and does not require users to adopt any particular tone, viewpoint, or style of expression.
 
@@ -85,7 +83,7 @@ Users may not:
 
 impersonate another individual or organization in a manner intended to deceive;
 
-falsely claim official affiliation with Shobble; or
+falsely claim official affiliation with Shobbl; or
 
 engage in scams, fraud, or deceptive financial practices.
 
@@ -103,19 +101,19 @@ technical interference with Platform services.
 
 4. ACCOUNT IDENTITY & NAMING STANDARDS (MINIMAL)
 
-Shobble permits pseudonyms, stage names, satire, and creative identities.
+Shobbl permits pseudonyms, stage names, satire, and creative identities.
 
 Account names, handles, avatars, or bios may not:
 
 impersonate a real person or entity in a deceptive manner;
 
-falsely imply official affiliation with Shobble; or
+falsely imply official affiliation with Shobbl; or
 
 include explicit threats of violence.
 
 Names that are offensive, provocative, political, or controversial are not prohibited solely on that basis.
 
-Shobble may require name changes where legally necessary or to prevent material deception.
+Shobbl may require name changes where legally necessary or to prevent material deception.
 
 5. EVENTS, LIVE INTERACTIONS & AUDIENCE EFFECTS
 
@@ -137,7 +135,7 @@ Users may report conduct they reasonably believe violates this Code using availa
 
 Reports must be submitted in good faith. Misuse of reporting systems, including knowingly false or abusive reports, may result in enforcement action.
 
-Shobble uses a combination of automated systems and human review to evaluate reports, identify patterns of behavior, and prioritize cases for review. Automated tools assist with detection and triage; enforcement decisions are made based on applicable policies and contextual review.
+Shobbl uses a combination of automated systems and human review to evaluate reports, identify patterns of behavior, and prioritize cases for review. Automated tools assist with detection and triage; enforcement decisions are made based on applicable policies and contextual review.
 
 7. ENFORCEMENT
 
@@ -151,11 +149,11 @@ account suspension or termination in cases of severe or repeated violations, or 
 
 Enforcement actions are applied based on the nature, severity, and frequency of the conduct at issue. Responses may escalate over time and may be applied immediately where necessary to address unlawful content, credible safety risks, or platform integrity concerns.
 
-Shobble is not required to provide individualized explanations for enforcement decisions, though it may do so at its discretion.
+Shobbl is not required to provide individualized explanations for enforcement decisions, though it may do so at its discretion.
 
 8. NO ENTITLEMENT
 
-Access to the Platform is provided subject to compliance with Platform policies. Shobble reserves the right to restrict or remove access where required by law or to protect Platform integrity, safety, or operational stability.
+Access to the Platform is provided subject to compliance with Platform policies. Shobbl reserves the right to restrict or remove access where required by law or to protect Platform integrity, safety, or operational stability.
 
 9. MODIFICATIONS
 

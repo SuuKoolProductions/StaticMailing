@@ -1,0 +1,241 @@
+SHOBBL EVENT & COLLABORATIVE JAM POLICY
+
+Effective Date: November 16, 2026
+Last Updated: November 16, 2026
+
+This Event & Collaborative Jam Policy (“Event Policy”) governs the creation, hosting, participation, distribution, recording, and monetization of Events on the Shobbl platform (“Platform”).
+
+This Policy applies to all users who organize, host, participate in, contribute to, or attend Events, including collaborative creation activities and live, semi-live, or scheduled digital performances. It operates in conjunction with the Master Terms of Use, Creator Content License & Rights Framework, Content Classification Policy, AI Use-Case Policy, Monetization Addenda, and any applicable Event-specific rules. In the event of conflict, the Master Terms control.
+
+1. DEFINITIONS
+
+Event
+A time-bound or scheduled activity hosted on the Platform involving live, semi-live, or asynchronous participation, including but not limited to jams, performances, showcases, workshops, tournaments, exhibitions, and virtual or mixed-reality experiences.
+
+Jam
+A collaborative creation Event in which multiple Participants contribute original content toward a shared or parallel creative objective. Jams may include, but are not limited to:
+
+Game jams
+
+Art or illustration jams
+
+Music or audio jams
+
+Writing or narrative jams
+
+Modding or asset-creation jams
+
+Event Organizer
+A user or entity responsible for creating, configuring, publishing, administering, and moderating an Event.
+
+Participant
+Any user who contributes content, performs, collaborates, or otherwise actively participates in an Event.
+
+Audience Member
+Any user who attends, views, or experiences an Event without contributing content.
+
+Live Event
+An Event delivered in real time or near-real time, including livestreamed, VR, or synchronous digital performances.
+
+Event Content
+All content created, performed, displayed, streamed, recorded, transmitted, or distributed in connection with an Event.
+
+2. EVENT TYPES SUPPORTED BY SHOBBL
+
+Shobbl supports, subject to eligibility and policy compliance:
+
+2.1 Collaborative Creation Events (Jams)
+
+Time-limited or open-ended creative collaboration
+
+Parallel or shared-output workflows
+
+Optional themes, constraints, or prompts
+
+2.2 Live & Scheduled Performances
+
+Livestreamed music, audiovisual, or mixed-media performances
+
+Virtual or VR-based events and exhibitions
+
+Interactive showcases or premieres
+
+2.3 Educational & Demonstrative Events
+
+Workshops, tutorials, or demonstrations
+
+Portfolio reviews or critiques
+
+Skill-building sessions
+
+2.4 Hybrid or Experimental Formats
+
+Cross-media or cross-tool events
+
+Mixed asynchronous and live participation
+
+Shobbl does not guarantee support for any Event format and may limit, restrict, or discontinue Event types based on legal, regulatory, technical, safety, or risk considerations.
+
+3. EVENT CREATION & ORGANIZER RESPONSIBILITIES
+
+Event Organizers are solely responsible for:
+
+ensuring the Event complies with all Platform policies and applicable laws, including local, national, and international regulations;
+
+ensuring they hold all necessary rights and permissions to host, stream, perform, display, or publicly present Event Content, including music, audiovisual works, and third-party materials;
+
+clearly defining Event rules, timelines, participation requirements, and deliverables;
+
+specifying any applicable licenses, rights, reuse permissions, or downstream uses of Event Content;
+
+accurately labeling age ratings, content classifications, and access restrictions;
+
+moderating Event spaces, communications, submissions, and live interactions; and
+
+responding to reports, disputes, or policy violations during the Event lifecycle.
+
+Shobbl does not endorse, sponsor, supervise, or control Events and does not assume responsibility for Event outcomes, participant conduct, content legality, or compliance failures.
+
+4. CONTENT OWNERSHIP & LICENSING IN EVENTS
+4.1 Participant Ownership
+
+Unless expressly stated otherwise:
+
+Participants retain ownership of the original content they contribute to an Event.
+
+Participation in an Event does not transfer ownership to the Event Organizer, other Participants, or Shobbl.
+
+4.2 Event-Specific Licenses
+
+Event Organizers may require Participants to grant limited, purpose-specific licenses for uses such as:
+
+compilation or presentation of Event outputs;
+
+livestreaming or recording of performances;
+
+post-Event showcases, archives, or recaps.
+
+Any such license must be:
+
+clearly disclosed prior to participation;
+
+compatible with Shobbl’s licensing framework and Platform policies; and
+
+limited to the stated Event purposes.
+
+Ambiguous, implied, retroactive, or undisclosed rights claims are prohibited.
+
+4.3 Platform Operations License
+
+To the extent necessary to operate, secure, moderate, and deliver Events, Participants grant Shobbl a limited, non-exclusive, non-transferable license to host, stream, transmit, record, cache, transcode, display, and reproduce Event Content solely for Platform operations, safety, compliance, feature functionality, moderation, dispute resolution, and enforcement, in accordance with applicable licenses and Platform policies.
+
+This license does not transfer ownership and does not authorize independent commercial exploitation by Shobbl.
+
+5. LIVE STREAMING, RECORDING & VR EVENTS
+5.1 Live Conduct
+
+All live or real-time Events must comply with:
+
+Platform Content Classification standards;
+
+harassment, abuse, and safety rules;
+
+applicable age-gating and access controls; and
+
+jurisdictional restrictions on live broadcasts, performances, or interactive content.
+
+Event Organizers are expected to apply reasonable, proportionate moderation practices during live interactions.
+
+5.2 Recording, Archival Use & Visibility
+
+If an Event is recorded, clipped, archived, or replayed:
+
+Participants must be informed in advance;
+
+recorded content remains subject to all Platform policies; and
+
+any post-Event distribution must respect the licenses granted.
+
+Participation in Events is public or semi-public by design. Users acknowledge that Event Content, communications, and interactions may be viewed, captured, reported, moderated, reviewed, or retained by other users or by Shobbl in accordance with Platform policies. No expectation of privacy is created by participation in an Event.
+
+Shobbl may limit recording, replay, clipping, or archival functionality for certain Event types or risk profiles.
+
+6. AI & AUTOMATION RESTRICTIONS
+
+Event Content is subject to Shobbl’s AI Use-Case Policy.
+
+Unless expressly permitted by the applicable license:
+
+Event Content may not be used for AI training, fine-tuning, dataset creation, embeddings, or generative substitution;
+
+automated capture, scraping, or extraction of Event Content is prohibited; and
+
+Event formats may not be used to circumvent AI, automation, or dataset restrictions.
+
+Event Organizers may not require Participants to waive AI-related protections or grant rights that conflict with Platform policy.
+
+7. MONETIZATION & PRIZES
+
+Events may include monetization mechanisms such as:
+
+ticketed access;
+
+tips or audience contributions;
+
+prize pools or rewards;
+
+revenue-sharing arrangements.
+
+All monetization is subject to:
+
+eligibility requirements;
+
+payment processor rules;
+
+applicable consumer protection, gambling, sweepstakes, and contest laws;
+
+jurisdictional law; and
+
+applicable Monetization Addenda.
+
+Shobbl does not guarantee payouts, prize fulfillment, tax treatment, or financial outcomes and is not responsible for organizer-managed rewards or compensation.
+
+8. AGE, ACCESS & CONTENT RESTRICTIONS
+
+Event Organizers must:
+
+assign appropriate age ratings and access restrictions;
+
+ensure Events involving mature, restricted, or regulated content are properly gated; and
+
+prohibit participation by users who do not meet eligibility requirements.
+
+Events involving minors must comply with all managed account requirements, parental or guardian consent rules, and applicable child-safety and privacy laws.
+
+9. ENFORCEMENT & MODERATION
+
+Shobbl may, at its discretion and without obligation to provide advance notice:
+
+restrict visibility, discoverability, chat, monetization, or functionality;
+
+suspend or terminate Events in progress;
+
+remove, disable, or limit access to Event Content; or
+
+take enforcement action against Event Organizers or Participants.
+
+Enforcement actions may be automated or manual, partial or complete, and are applied as necessary to protect users, partners, legal compliance, payment integrity, or Platform stability.
+
+10. DISCLAIMERS
+
+Shobbl is not responsible for disputes between Event Organizers and Participants.
+
+Participation in Events is at the user’s own risk.
+
+Event success, audience size, visibility, or creative outcomes are not guaranteed.
+
+Absence of enforcement does not imply permission, approval, or compliance.
+
+11. MODIFICATIONS
+
+This Policy may be updated at any time. Continued use of Event features constitutes acceptance of the revised Policy.

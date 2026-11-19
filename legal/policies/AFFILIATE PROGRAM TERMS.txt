@@ -1,11 +1,9 @@
 AFFILIATE PROGRAM TERMS
 
-Effective Date: December 29, 2025
-Last Updated: May 11, 2026
+Effective Date: November 16, 2026
+Last Updated: November 16, 2026
 
-Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
-
-These Affiliate Program Terms (“Affiliate Terms”) govern participation in the Shobble affiliate and referral program (“Affiliate Program”). These Affiliate Terms supplement and are incorporated into the Master Terms of Use, Monetization Addendum, Advertising Marketplace Terms, Acceptable Use Policy, and all other applicable Shobble policies (collectively, the “Terms”).
+These Affiliate Program Terms (“Affiliate Terms”) govern participation in the Shobbl affiliate and referral program (“Affiliate Program”). These Affiliate Terms supplement and are incorporated into the Master Terms of Use, Monetization Addendum, Advertising Marketplace Terms, Acceptable Use Policy, and all other applicable Shobbl policies (collectively, the “Terms”).
 
 Capitalized terms not defined herein have the meanings set forth in the Master Terms of Use or other Incorporated Policies.
 
@@ -13,7 +11,7 @@ Capitalized terms not defined herein have the meanings set forth in the Master T
 
 The Affiliate Program enables eligible users (“Affiliates”) to generate tracked links, codes, or identifiers (“Affiliate Links”) that attribute downstream conversions (“Conversions”) and earn referral-based compensation (“Affiliate Royalties”).
 
-For purposes of the Affiliate Program, a Conversion may include, as applicable and as determined by Shobble, a completed purchase, subscription enrollment, content access transaction, license acquisition, event registration, or other qualifying monetization action designated by the Platform.
+For purposes of the Affiliate Program, a Conversion may include, as applicable and as determined by Shobbl, a completed purchase, subscription enrollment, content access transaction, license acquisition, event registration, or other qualifying monetization action designated by the Platform.
 
 Affiliate Royalties may be earned in connection with eligible products and content categories, which may include, without limitation:
 
@@ -49,7 +47,7 @@ Participation in the Affiliate Program:
 
 does not create an agency, partnership, employment, fiduciary, franchise, reseller, or representative relationship;
 
-does not authorize Affiliates to bind Shobble, creators, sellers, or advertisers;
+does not authorize Affiliates to bind Shobbl, creators, sellers, or advertisers;
 
 does not grant ownership or control over Products, pricing, inventory, or campaigns; and
 
@@ -61,7 +59,7 @@ Affiliates act solely as independent referrers.
 
 Eligibility may be conditioned on account standing, verification, content classification, jurisdictional requirements, and fraud or abuse assessments.
 
-Shobble may approve, deny, suspend, or revoke Affiliate Program participation at its sole discretion.
+Shobbl may approve, deny, suspend, or revoke Affiliate Program participation at its sole discretion.
 
 5. Affiliate Links & Attribution
 5.1 Attribution Conditions
@@ -80,7 +78,7 @@ Attribution windows, weighting, caps, exclusions, and eligibility rules may vary
 
 5.2 No Guarantee of Attribution
 
-Shobble does not guarantee attribution, conversions, or Affiliate Royalties for any traffic, impressions, clicks, or referrals. Attribution determinations are final.
+Shobbl does not guarantee attribution, conversions, or Affiliate Royalties for any traffic, impressions, clicks, or referrals. Attribution determinations are final.
 
 6. Affiliate Royalties & Platform Fees
 6.1 Royalty Nature
@@ -119,17 +117,17 @@ fail to disclose affiliate relationships where required;
 
 generate artificial, automated, or misleading traffic or Conversions;
 
-engage in self-referrals, self-dealing, or circular referral schemes, except where expressly permitted by Shobble;
+engage in self-referrals, self-dealing, or circular referral schemes, except where expressly permitted by Shobbl;
 
 collude with other users to manipulate attribution or payouts;
 
-impersonate creators, advertisers, or Shobble;
+impersonate creators, advertisers, or Shobbl;
 
 use malware, spyware, or unauthorized tracking technologies; or
 
 violate any applicable law or platform policy.
 
-Shobble may invalidate Conversions or reverse Affiliate Royalties associated with prohibited conduct.
+Shobbl may invalidate Conversions or reverse Affiliate Royalties associated with prohibited conduct.
 
 9. Content, Brand Safety & Eligibility
 
@@ -141,19 +139,19 @@ Affiliate participation does not override advertising restrictions, monetization
 
 Affiliate reporting is provided for informational purposes only and may be delayed, estimated, corrected, or revised.
 
-Shobble may verify Conversions, delay or withhold Affiliate Royalties, reverse payouts, or modify attribution methodologies. No payout is final until settlement is complete.
+Shobbl may verify Conversions, delay or withhold Affiliate Royalties, reverse payouts, or modify attribution methodologies. No payout is final until settlement is complete.
 
 11. Taxes
 
-Affiliates are solely responsible for all taxes arising from Affiliate Royalties. Shobble may collect tax documentation or withhold taxes where required by law.
+Affiliates are solely responsible for all taxes arising from Affiliate Royalties. Shobbl may collect tax documentation or withhold taxes where required by law.
 
 12. Suspension & Termination
 
-Shobble may suspend or terminate Affiliate Program participation at any time. Termination does not entitle Affiliates to unpaid, unverified, or reversed Affiliate Royalties.
+Shobbl may suspend or terminate Affiliate Program participation at any time. Termination does not entitle Affiliates to unpaid, unverified, or reversed Affiliate Royalties.
 
 13. No Endorsement
 
-Participation in the Affiliate Program does not constitute endorsement, sponsorship, or approval by Shobble of any Affiliate, Product, or creator.
+Participation in the Affiliate Program does not constitute endorsement, sponsorship, or approval by Shobbl of any Affiliate, Product, or creator.
 
 14. Modification & Governing Terms
 

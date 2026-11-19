@@ -1,161 +1,179 @@
-CREATOR CONTENT LICENSE AGREEMENT
+SHOBBLE CREATOR CONTENT LICENSE AGREEMENT
 
-Effective Date: December 29, 2025
-Last Updated: May 11, 2026
+Version: 2.4
+Effective date: November 18, 2026
+Application: This Agreement takes effect when you accept it through Shobble's designated acceptance process on or after the effective date above. It governs participation and Offers authorized under it. Existing acquisitions retain their accepted terms.
 
-This Creator Content License Agreement (“License”) is a binding legal agreement governing the rights granted by creators (“Creators”) to Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us”) and the limited rights granted to end users with respect to content uploaded, published, distributed, or monetized on the Platform (“Content”). Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+1. PARTIES, PURPOSE AND DEFINITIONS
 
-This License is incorporated by reference into the Master Terms of Use and operates alongside the Acceptable Use Policy, AI Use-Case Policy, Music Licensing Policy, Monetization Addenda, and any feature-specific rules. In the event of conflict, the Master Terms control.
+1.1 This Agreement is between Shobbl Incorporated, doing business as Shobble (Shobble, we), and the creator, publisher or authorized rights-holder accepting it (Creator, you). A representative must identify the person or entity represented and have authority to bind it. Payment, account control or possession of a file alone does not establish that authority.
 
-1. SCOPE
+1.2 This Agreement governs your authorization for Shobble to host, offer and deliver your Content and administer the rights you offer. Content means the identified works, editions, releases, files and companion materials submitted or authorized for those purposes. Future installments, editions and additions are included only where expressly covered. A changing-catalog or membership Offer must define its covered material, additions, access period and removal rules before acquisition. Each addition requires actual rights-holder authority and a retained identification linking it to that arrangement; describing a future catalog alone supplies no missing rights. Catalog changes must follow the accepted terms and preserve separate permanent grants and other surviving rights.
 
-1. OWNERSHIP & CREATOR RIGHTS
-1.1 Creator Ownership
+1.3 An Offer is an identified, Creator-authorized licensing arrangement presented for acceptance, including its substantive terms, applicable documents, selections and conditions. An Acquisition is formed by the identified holder's or authorized representative's acceptance of a complete authorized Offer under its disclosed formation rules. Unless the Offer expressly requires further confirmation, no fresh Creator approval is required for each acquisition. Acceptance, order confirmation, payment authorization, settlement, record generation and effectiveness are distinct events; their sequence and any material conditions must be disclosed before acceptance. An authorization hold, settlement delay or generated receipt alone neither forms nor cancels an acquisition. The person identified as granting the content rights is the Licensor; the individual or legal entity identified as receiving them is the license holder or Licensee, as the selected license provides.
 
-Creators retain all right, title, and interest in and to their Content, including all copyrights, neighboring rights, moral rights (to the extent waivable), and other intellectual property rights, except for the limited licenses expressly granted under this License.
+1.4 The Acquisition Record is the retained contractual record generated from the authorized, accepted Offer. It includes or identifies the material accepted terms, fixed incorporated documents and modules, parties, Content, acquisition basis, acceptance evidence and any required execution or effectiveness conditions. A receipt generated afterward cannot add undisclosed terms or replace missing authorization.
 
-Nothing in this License transfers ownership of Content to Shobble or to any third party.
+1.5 Shobble offers four content-license types: Personal Use, Commercial Use, Enterprise and Educational. Each acquisition is governed by its selected type, exact accepted version, applicable schedules and authorized Acquisition Record terms. This Agreement does not grant every type on upload, combine their scopes or establish priority between them. Valid historical grants and independently held rights remain unaffected.
 
-1.2 No Editorial Control
+1.6 Shobble is responsible for its express recordkeeping, delivery, recovery, review and other commitments in the applicable accepted documents. Providing these services does not make Shobble the owner or Licensor of third-party Content. You grant only rights you control; neither your selection nor a buyer's acceptance binds another person to an unauthorized obligation.
 
-Shobble does not claim authorship, endorsement, or creative control over Content. Classification, moderation, monetization eligibility, licensing configuration, or rights-clarity indicators do not affect ownership.
+2. OWNERSHIP AND AUTHORITY
 
-2. LICENSE GRANTED TO SHOBBLE (PLATFORM OPERATIONS)
-2.1 Limited Platform License
+2.1 You retain the rights you actually hold in Content, subject to valid grants. Uploading, moderation, classification, licensing configuration and hosting do not transfer ownership or make Shobble an author. Each party reserves its actual rights not granted. A separately authorized and properly executed ownership transfer applies only to its expressly identified subject and scope.
 
-Creators grant Shobble a non-exclusive, worldwide, royalty-free, revocable license, sublicensable solely as necessary, to host, store, reproduce, transmit, display, perform, distribute, and format Content only for the purposes of:
+2.2 You represent that you have authority to enter this Agreement, authorize each Offer and grant its stated rights, including the operational and surviving fulfillment authority below. You must obtain necessary permissions from represented rights-holders and disclose material limits before an Offer is available for acquisition. A statement that you control one component does not establish authority over all components.
 
-operating, maintaining, and improving the Platform;
+2.3 Accurately identify material third-party components and restrictions relevant to the advertised use, including co-owner, publisher, label, performer, composition, recording, sample, software, public-license, trademark, likeness, privacy and confidentiality interests. Disclose relevant territories, durations, collecting-society obligations, releases and remaining clearances. Disclosed exclusions must not contradict an advertised grant.
 
-enabling lawful distribution, download, execution, and monetization of Content as configured by the Creator;
+2.4 No general ownership statement waives moral rights, publicity rights or personal-data rights. Necessary editing or other consents must be within your authority, appropriate to the actual use and lawful. You retain actual rights in your original contributions; buyers, Clients, students and other contributors retain their actual independent rights subject to underlying material and valid agreements.
 
-performing content moderation, safety review, fraud prevention, and compliance functions;
+2.5 Promptly notify Shobble of a material error, credible rights defect or change affecting an Offer or fulfillment of acquisitions. Provide reasonably available supporting information and cooperate in correction and lawful resolution. A declaration, badge, identifier, automated check or review status is not conclusive clearance. Shobble must not present it as such.
 
-marketing or promoting the Platform solely in connection with showcasing Content made publicly available by the Creator.
+3. LIMITED PLATFORM OPERATIONS
 
-This license does not authorize Shobble to exploit Content outside the Platform, beyond Creator-configured scope, or for any purpose not strictly necessary to operate, distribute, or display the Content as intended.
-	
-2.2 No Generative AI License
+3.1 You grant Shobble a nonexclusive license to store, host, reproduce, transmit, display, perform, distribute, format, transcode, install or execute Content as necessary to provide your authorized listing, access, delivery and Platform features. It includes necessary backups, secure processing, compatibility work, migration and rights-record administration within those purposes. Audience and exploitation territories remain the territories actually authorized. Necessary infrastructure processing may occur worldwide within your authority unless a specific accepted processing-location restriction applies; it does not expand audience or exploitation rights. Shobble must comply with actual processing-location commitments, confidentiality, privacy and international-transfer requirements. A territory label alone neither promises local-only hosting nor authorizes processing contrary to a disclosed restriction or applicable law. This grant does not authorize unrelated exploitation, materially different creative editions or rights beyond your authority.
 
-The license granted to Shobble expressly excludes any right to use Content for:
+3.2 Shobble may give necessary hosting, storage, delivery, technical and other providers limited authority to perform these functions under restricted instructions and appropriate written terms. Providers receive no independent exploitation, training, resale or other-customer-use rights. Their access, copies, confidentiality, retention and deletion must remain limited to the authorized function. Section 7 applies to every actual AI operation.
 
-training, fine-tuning, validating, or benchmarking neural networks, large language models, or generative AI models;
+3.3 Within actual authority and applicable privacy limits, the operational grant includes proportionate moderation, safety, security, fraud prevention, rights review, legal compliance and technical troubleshooting. General operation, maintenance or improvement language grants no model-development rights and no right to reuse private submissions for unrelated development or marketing.
 
-creating embeddings, synthetic datasets, or derivative model outputs;
+3.4 No additional content royalty is payable solely for the limited platform operations authorized here. This does not waive your sale proceeds, separately agreed royalties, accounting rights or applicable third-party payments. Platform fees, processing, taxes, payouts, reserves and other commerce terms are governed by their actually accepted instruments.
 
-automated content generation, replication, voice cloning, or style imitation.
+3.5 You may withdraw future Offers and ordinary listing authority prospectively through the supported process. Shobble will promptly acknowledge and record the request. Self-service withdrawal takes effect when the system disables new acceptance. For assisted withdrawal, existing authority continues only for the reasonable processing interval needed to disable acceptance; Shobble must act without unreasonable delay and confirm the cutoff. An expressly requested or agreed later cutoff may apply. A request identifying illegality or missing rights requires prompt assessment and suspension of affected new acceptance where reasonably necessary or legally required. Shobble will retain request and cutoff times and identify pending-order treatment. Acquisitions formed before the cutoff retain their accepted terms, including disclosed fulfillment conditions and Section 5; an unaccepted cart does not qualify. Acceptance after the cutoff supplies no missing Creator authority and requires prompt correction and applicable buyer remedies.
 
-Any such use requires a separate, express, written agreement executed by Shobble and the Creator.
+4. OFFER AUTHORIZATION AND BUYER GRANTS
 
-3. LICENSE GRANTED TO OTHER USERS (END-USER LICENSE)
-3.1 Limited End-User License
+4.1 Before an Offer is made, Shobble must make its material terms available to you and obtain your authorization. The retained approval must identify you or your authorized representative, Content/version, selected license and version, applicable schedules and substantive modules, AI document versions, material permissions and limits, price or acquisition basis, relevant economics and required approvals or execution. You may authorize a defined range of supported selections where its substantive terms and boundaries are clear; authorization of one selection is not authorization of an unlimited future variation.
 
-Subject to the Master Terms and applicable policies, Creators grant other users a limited, non-exclusive, non-transferable, non-sublicensable license to access, view, stream, download, locally execute, or otherwise interact with Content only as expressly permitted by:
+4.2 You authorize Shobble to present and administer the approved Offer, receive and record acceptance, and communicate the resulting agreement and grant on your behalf within that actual authorization. A complete authorized Offer may be accepted without a further discretionary Creator confirmation unless that requirement was expressly disclosed before acceptance. You grant the identified holder the stated rights when the Offer's applicable grant-effectiveness conditions are satisfied; Shobble may not invent an additional settlement or approval condition afterward. This limited authority does not allow Shobble to change your grant, execute an unapproved ownership transfer, settle your claims or bind you to an unapproved service or financial obligation.
 
-the Content’s license selection,
+4.3 Personal Use authorization includes the rights supplied by its accepted terms, including qualifying monetized creator excerpts and applicable gameplay permissions. Commercial Use authorization includes the selected production and exploitation scope and its actually permitted collaborators, Clients, providers, source handoff and downstream grants. Enterprise authorization covers its identified entities, participants, capacity, deployment and selected uses. Educational authorization covers its selected instructional, production, portfolio, lending, public-delivery or copying scope and actual participant grant routes. These descriptions do not add rights absent from the selected license and Offer.
 
-its technical configuration,
+4.4 Where the selected terms authorize Client or institutional participant sublicenses, you expressly authorize issuance of those limited grants within the accepted scope, including permitted technical providers and survival. No universal non-sublicensability restriction in this Agreement defeats them. Identification of a recipient within an already authorized class implements the existing permission; it does not require a second purchase or fresh approval solely for that identification. Rights outside that scope require actual additional authorization.
 
-and applicable Platform features.
+4.5 The Acquisition Record may contain complete operative modular terms directly or incorporate fixed, identifiable modules available before acceptance. A separate document is not necessary solely because rights are modular. Each grant, variation, royalty, exclusivity or transfer still requires the relevant parties' authority, substantive terms and any legally required execution. Buyer checkout, a label, blank field or internal note supplies no missing rights or signatures.
 
-3.2 Prohibited Uses by Users
+4.6 Optional music, sample, public release, source distribution and ownership arrangements must identify the rights actually included and remaining obligations. Composition and recording rights are distinct. Capacity, a commercial badge, source access or an AI classification does not clear every use. Shobble must not offer an incomplete option as publication-ready; you must not authorize a misleading description.
 
-No user is granted any right to:
+4.7 Later settings, listing edits, price changes, account policies and notices in files do not amend accepted acquisitions. Variations must identify their actual effect and obtain every necessary party's authority and assent, consistently with the selected license's protected baseline. You cannot remove its no-at-will-revocation, applicable permanent-access/remedy, lawful-use, justified-restriction or AI safeguards through an Offer or general priority clause.
 
-scrape, crawl, archive, mirror, or bulk-collect Content except where expressly enabled by Platform features or Creator-authorized licenses;
+4.8 Shobble will retain identifiable agreement, Offer, approval, module and document versions and reliable acceptance evidence, linked to the acquisition. It will keep transaction, payment and operational entitlement references distinct and preserve original evidence and material correction history. A correction records the actual agreement; it cannot manufacture assent. Shobble will provide a reasonable retrieval and dispute route without exposing unrelated personal or confidential information.
 
-redistribute, resell, sublicense, or commercially exploit Content beyond the scope of the applicable license;
+5. ACQUIRED RIGHTS, CAPACITY AND SURVIVING FULFILLMENT
 
-extract assets, stems, metadata, or outputs for dataset creation, model training, or automated reuse;
+5.1 A Permanent Acquisition has continuing rights without ordinary contractual expiry within its accepted scope. Permanent Capacity means capacity expressly acquired without ordinary contractual expiry under the selected Enterprise or Educational license. Neither is revocable at will. Ordinary delisting, your departure or account closure, a changed price or preference, membership cancellation, inactivity or an expired payment card after full payment does not cancel either. Accepted project, territory, quantity, participant and similar limits remain limits; they are not discretionary withdrawal rights. Permanent Capacity does not supply unacquired catalog rights or extend separately time-limited content, production, exploitation or optional services; expiry of one does not cancel a separately enduring entitlement.
 
-use Content for training, fine-tuning, evaluating, or operating generative artificial intelligence systems, including large language models, diffusion models, voice or style models, or other machine learning systems that produce expressive, creative, or substitutive outputs;
+5.2 By authorizing an Offer, you grant Shobble and necessary providers under its restricted instructions authority to retain, host, reproduce, securely process, format, transcode and deliver the identified Content and administer its expressly authorized access, recipients and capacity as necessary to fulfill resulting accepted acquisitions for their agreed duration and scope. This includes Permanent Acquisitions, valid timed access and paid membership intervals, agreed replay periods, and actual surviving recipient and output rights. For Permanent Capacity, it includes the necessary administration, assignment, permitted reassignment, recovery and supporting technical authority within the capacity actually sold, without supplying unacquired or expired content rights. This limited fulfillment authority survives ordinary removal, creator departure and termination of the ordinary hosting or account relationship for as long as necessary to perform those obligations. It is not subject to unilateral revocation for those events. A general contrary removal or automatic-termination term between you and Shobble does not withdraw it. Survival authorizes no new sale, renewal or extension after withdrawal without an actual authorized basis and creates no unoffered service commitment.
 
-use Content in connection with neural networks, machine learning, or automated systems where such use is intended to, or does, result in the generation, replication, imitation, or substitution of creative content, except where expressly authorized by the applicable license or Platform feature.
+5.3 Actual buyer and valid downstream rights survive where the selected license and accepted Offer provide, including authorized Finished Products, Client maintenance, student portfolios, creator excerpts and gameplay publications. Finished Product, Project, Client, participant sublicense and other license-specific terms have the meanings supplied by that selected license and its accepted terms, without importing another license type. Source access, new Projects, timed exploitation and services continue only within their actual scope; no expired grant is extended or enduring grant reduced.
 
-4. CREATIVE COMMONS & SIMILAR LICENSES (AI OVERRIDE)
+5.4 You authorize necessary technical migration and lawful alternative delivery preserving the acquired work, scope and materially promised functionality. A change of encoding, checksum, storage location, identity arrangement or delivery provider does not cancel rights. A compatible successor may receive only the authority needed for lawful fulfillment under protected scope and applicable confidentiality, privacy and security duties. This is not an unrestricted assignment or sale of Content or personal data.
 
-Where Content is made available under a Creative Commons or similar public license, such license applies only to the extent expressly permitted under its terms and does not grant any right to use such Content for artificial intelligence, machine learning, dataset creation, or generative purposes.
+5.5 Shobble must provide the continuing-access, restoration, administration, notice, alternatives and remedies it expressly promises under the selected license, including for Permanent Capacity where applicable. Your authorization supports those duties but does not excuse them, create an unoffered export method or require you to operate indefinite servers or support services absent an actual commitment. A library entry or unusable encrypted copy is not a substitute for the promised usable delivery. No new purchase or membership may be required solely to preserve a valid Permanent Acquisition or Permanent Capacity contrary to its accepted terms. Timed acquisitions receive fulfillment for their actual agreed duration, not an invented permanent entitlement.
 
-Public licensing selections do not override Platform-level AI prohibitions or grant implied AI rights.
+5.6 Mandatory law, binding legal restrictions and rights you lack or cannot continue to grant remain applicable. Nothing requires unlawful delivery or waives statutory termination rights. A rights problem must be handled through justified protection, review, lawful alternatives and applicable remedies; it is not a contractual right to cancel purchases for convenience.
 
-5. EXPRESS EXCLUSION OF GENERATIVE AI RIGHTS
-5.1 No Implied AI License
+6. DELIVERY MATERIALS, DEPENDENCIES AND PROMOTION
 
-No rights are granted—explicitly or implicitly—for the use of Content in connection with neural networks, large language models, generative systems, or similar technologies.
+6.1 Supply the files, notices, permissions and technical materials you have agreed to provide and that are necessary for the advertised Offer. Disclose material server dependencies, activation or device limits, DRM, download/cache distinctions, compatibility, update/support terms and external-service conditions before acquisition. Do not advertise permanent functionality whose essential authority or delivery arrangement is unavailable.
 
-Public availability, discoverability, or technical accessibility of Content does not constitute consent to such use.
+6.2 This Agreement does not require every creator to supply source code, unrestricted master files, escrow, unlimited updates or perpetual live services. Such obligations require actual, clearly accepted terms. Shobble and you must accurately distinguish continued content rights, usable delivery, production permission and a separately timed service.
 
-5.2 Reservation of Rights
+6.3 You authorize use of the public preview, thumbnail, title, credited creator name and public descriptive material you designate for contextual storefront, discovery and promotion of that Content through the authorized channels. Shobble may make necessary presentation changes without misleadingly altering the work or implying endorsement. You must hold the necessary preview rights; exposing a listing does not clear unrelated music or likeness rights.
 
-All rights not expressly granted under this License are reserved by the Creator and by Shobbl.
+6.4 Private, unpublished, member-only or otherwise restricted Content is not a public preview merely because hosted on Shobble. Paid campaigns, unrelated advertising, endorsements, standalone reuse and additional soundtrack or identity uses need separate actual authorization. Shobble will stop new prospective promotional use when the relevant authority is withdrawn and remove controlled promotional displays within a reasonable time, subject to lawful records and independently valid publications. Withdrawal does not cancel buyer excerpts or other rights already effectively granted.
 
-6. COMMERCIAL VALUE & HARM ACKNOWLEDGMENT
-6.1 Acknowledgment of Value
+7. AI POLICY, SCHEDULE AND PROCESSING LIMITS
 
-Content made available on the Platform is professionally authored, commercially monetized, and distributed under controlled, rights-managed conditions.
+7.1 Two version records must be distinguished. The Creator operational AI framework is the exact Shobble AI Use Case Policy and AI Use Case Schedule set expressly identified, made available and accepted for Shobble's and its authorized providers' specified processing of Creator material. Each buyer acquisition's AI framework is the exact set authorized in its Offer, made available before buyer acceptance and retained in its Acquisition Record. Each set includes published Errata in that Schedule release and is incorporated for its stated subject. Shobble will retain these sets and expressly map any different components, purposes or processing arrangements. Internal integration work orders, administrative records and unadopted edits grant nothing. If a required version or authorization cannot be identified, the disputed AI operation must not proceed until resolved. An operational permission does not amend buyer rights, and a buyer permission does not supply Shobble's missing processing authority. No later set is automatically substituted.
 
-Unauthorized reuse—particularly for automated, generative, or dataset-driven systems—deprives Creators and Shobble of licensing revenue, market exclusivity, and competitive advantage.
+7.2 Every AI stage requires sufficient rights in affected inputs and uses, the framework's eligible actor, purpose, material and output, all applicable conditions, required human review and approvals, and necessary confidentiality, privacy and provider authority. Processing permission does not itself authorize upload, publication, distribution, source sharing, synchronization or resale. An eligible upload does not automatically qualify for advertising or monetization.
 
-6.2 Irreparable Harm
+7.3 No independent dataset preparation, training, fine-tuning, evaluation, benchmarking, model improvement, style or voice modeling, or provider reuse is granted. An express purpose-limited exception requires the framework's actual permission and all required specific disclosures, separate rights-holder agreements, approvals and processing authority. Accepting this Agreement or uploading, selling or purchasing Content is not itself training consent. A separate agreement cannot override a prohibition unless the framework expressly permits that exception. No exception permits independent provider improvement, other-customer use or unrelated general-purpose or creative-model development using entrusted Content or data.
 
-Unauthorized AI or dataset use of Content causes immediate and irreparable harm, including:
+7.4 Shobble-only permissions are not buyer permissions. Shobblisk-only activities require the exact approved feature, released version and scope. Pending, unavailable and prohibited activities remain unauthorized outside their actual express exceptions. A feature release, vote, checkbox or similar third-party tool does not activate missing permission. Mixed works and chained operations must qualify at each affected stage and component.
 
-dilution of creative market value;
+7.5 Embeddings, operational review, search, moderation, verification and recommendations are limited to their exact permitted purposes and retention; none supplies a general model-development grant. Ordinary predetermined non-AI rendering, decoding, compression and technical copying are not barred merely because computational. Actual AI stages remain subject to this Section.
 
-displacement of human authorship;
+7.6 Shobble and authorized providers must use only necessary material and document purposes and retention for inputs, outputs, logs, embeddings and other artifacts. When the authorized purpose and lawful retention end, Shobble must delete material it controls and require its providers to delete theirs under the applicable documented retention and deletion schedule. Restricted backups and legal holds permit only their actual retention purpose, no unrelated operational use, and scheduled deletion when that retention ends. Section 5's necessary fulfillment copies have their own continuing purpose; it does not authorize indefinite retention of every private submission or AI artifact.
 
-loss of future licensing opportunities;
+7.7 Preserve required provenance, disclosures, edit history and human review; do not conceal prohibited generation through retyping, tracing or relabeling. Permissions for criticism, code assistance, placeholders and other exceptions remain bounded by their actual entry. No blanket statement here eliminates an express eligible activity or expands its publication boundary.
 
-reputational and career harm;
+7.8 Independently lawful uses and rights that applicable law does not permit the parties to restrict remain available. This Section supplies no missing consent, third-party rights or personal-data authority. Changes to operational AI processing require an identified version, stated purpose and affected material, the necessary authority, notice and assent, and any separate agreement or privacy requirements. Later Creator acceptance alone does not authorize a new purpose for previously entrusted material or amend an existing buyer acquisition; actual authorization must cover that purpose and material. Existing buyer AI terms change only through the selected license's valid amendment process with every necessary party's authority. Lawful current safety requirements and conditions inherent in a conditional permission remain applicable, but neither creates unrelated processing rights or silently expands a grant.
 
-contamination of proprietary or curated datasets.
+8. INDEPENDENT RIGHTS AND PROTECTIVE MEASURES
 
-Monetary damages alone are insufficient to remedy such harm.
+8.1 Independently applicable public and component licenses retain their actual permissions and conditions. This Agreement does not add a NoAI restriction to a Creative Commons license, withdraw public-domain status or cancel rights granted independently. A proprietary Offer may grant only the additional or alternative rights actually controlled and must not misstate existing rights or conflicting obligations.
 
-7. ENFORCEMENT & REMEDIES
-7.1 Enforcement Rights
+8.2 Public availability, discoverability, free access, purchase, silence and technical accessibility alone grant no additional permission. Platform participation, upload, advertising and monetization eligibility may have their own valid conditions; those conditions must not be represented as rewriting an independent copyright license.
 
-Shobble may enforce this License on behalf of itself and, where applicable, on behalf of Creators, including through takedowns, account actions, technical measures, and legal proceedings.
+8.3 Applicable fair use, teaching, accessibility and other independently lawful uses remain available as preserved by law and the selected license. Express excerpt, gameplay, production and other permissions do not require a separate fair-use showing. Their contractual conditions are not universal legal tests for an independent exception. Monetization alone neither defeats an express permission nor decides fair use.
 
-7.2 Remedies Reserved
+8.4 Do not authorize ungranted scraping, collection, dataset use, independent source redistribution or unlawful circumvention. Protective controls must be administered consistently with actual rights. This Agreement imposes no blanket ban on permitted capture, necessary runtime or production copies, authorized source handoff, ordinary format changes or privacy-preserving watermark redaction. No permission here grants unauthorized access or unlawful circumvention.
 
-Shobble and Creators reserve all rights and remedies available at law or in equity, including injunctive relief, disgorgement of profits, statutory damages, enhanced damages where applicable, and recovery of enforcement costs.
+9. PRIVATE MATERIAL, CONFIDENTIALITY AND DATA
 
-8. TERMINATION & SURVIVAL
-8.1 License Termination
+9.1 Shobble will restrict entrusted nonpublic Content and related private files to authorized delivery, collaboration, support, safety, security, compliance and other expressly accepted purposes. Access must be limited to authorized recipients and necessary personnel/providers under appropriate confidentiality and purpose restrictions. Shobble will use reasonable safeguards and will not use private material for unrelated promotion, public examples, independent reuse or model development absent actual separate lawful authority and Section 7 compliance.
 
-This License terminates automatically upon removal of Content from the Platform, except to the extent required for:
+9.2 Where legally permitted, Shobble will give the affected Creator or other person entitled to notice reasonable notice of compelled disclosure of entrusted private material and disclose only what is required. Private uploads, learner work, team files and support attachments do not become nonconfidential feedback merely by submission. Valid incident, export, retention, deletion and exit commitments in the selected license or service instrument remain applicable.
 
-legal compliance;
+9.3 A content license is not personal-data consent or proof of a processing role. Actual purposes, roles, lawful bases, notices, transfers and data-subject rights govern. Necessary processing agreements and service commitments require the relevant parties' authorization. No enterprise or educational label promises universal compliance, certification, residency, unlimited storage, support or export capability.
 
-dispute resolution;
+10. CLAIMS, RESTRICTIONS AND REMEDIES
 
-residual technical storage for backups or system integrity.
+10.1 You and Shobble may protect your respective actual rights and seek available legal remedies where their requirements are met. Unauthorized exploitation may cause harm, but this Agreement does not establish automatic infringement, irreparable harm, an injunction, statutory damages, enhanced damages or fee recovery. Courts and applicable law determine those matters.
 
-8.2 Survival
+10.2 Shobble may administer its own contractual rights and reasonably assist with evidence and supported rights-reporting processes. Acting as your notice agent, initiating litigation, settling a claim or allocating recoveries requires the actual authority necessary for that action. This Agreement creates no copyright litigation standing, assignment of your claims or unrestricted settlement power.
 
-Sections relating to ownership, exclusions, AI prohibitions, remedies, and harm acknowledgment survive termination.
+10.3 Restrictions must have a valid legal basis, fit the affected rights and be no broader than reasonably necessary. Credible claims, suspected fraud, payment disputes or serious security risks may justify legally supportable temporary measures; an allegation or pending chargeback alone is not final invalidation. The party imposing a measure must review its basis, preserve relevant evidence and lift it when its basis ends. Shobble remains responsible for its Platform decisions and applicable buyer review obligations.
 
-9. NO WAIVER BY PUBLIC ACCESS
+10.4 Before terminating for a curable material breach, the party seeking termination must provide notice identifying the conduct, affected rights, required correction and a reasonable cure opportunity. The party taking immediate protection may act where legally required or reasonably necessary for deliberate unauthorized distribution, fraud, serious security harm or another material risk that cannot await cure. That party must provide required subsequent notice and review; Shobble's review obligations remain. Legal or legitimate investigative restrictions may limit or delay notice. Ordinary prospective termination of hosting under Section 11.1 does not require an allegation of breach, but cannot be used to evade this process for cancellation of accepted rights or surviving obligations.
 
-Public or free access to Content does not waive any rights, place Content in the public domain, or grant any additional license beyond those expressly stated herein.
+10.5 Shobble will provide an accessible support/review route, explain adverse decisions and scope where lawful, consider actual grants and asserted legal exceptions, correct mistakes and restore lawful delivery after an overturned restriction. Applicable notice/counter-notice, complaint, appeal and court rights remain. Ordinary support does not require litigation-notice formalities merely to be considered.
 
-10. RELATIONSHIP TO OTHER POLICIES
+10.6 A creator-account or unrelated community sanction does not automatically revoke acquired content rights. Shobble must assess affected library access and downstream interests separately under their accepted licenses and preserve lawful delivery where reasonably feasible. Binding law and justified broader restrictions remain applicable. No invasive device inspection or remote deletion power is created.
 
-This License operates in conjunction with, and does not limit, restrictions contained in:
+11. WITHDRAWAL, TERMINATION AND FINANCIAL CONSEQUENCES
 
-the Master Terms of Use;
+11.1 Either party may end the ordinary creator hosting relationship prospectively through an available account or notice process, subject to actual accepted service terms, applicable notice and lawful requirements. Such an end need not be based on breach. Shobble will record its effective date and the affected future Offers; Creator-requested withdrawal follows Section 3.5. Ending that relationship stops future authority only to the extent applicable and does not automatically terminate this entire Agreement, accepted permanent or timed acquisitions, Permanent Capacity, or surviving rights and obligations in Sections 4–5. Termination for breach and measures affecting acquired rights follow Section 10 and the selected license.
 
-the Acceptable Use Policy;
+11.2 Timed Access, membership-only access, production periods, replay and other limited rights end under their accepted conditions. Shobble and the Creator, each for the delivery or rights it administers, must end only the affected new delivery or use and preserve separate Permanent Acquisitions, Permanent Capacity and actual surviving outputs, recipients and independently held rights. Section 5's fulfillment authority continues for unexpired accepted access and surviving scope. A later membership cancellation cannot retroactively convert an acquired permanent benefit into a rental or shorten an already accepted paid interval contrary to its terms and applicable law.
 
-the AI Use-Case Policy;
+11.3 On a lawful end, each party must stop its affected uses and remove copies it controls only to the extent required by the actual outcome and law. Shobble and its restricted providers may retain necessary fulfillment copies for the scope and durations in Section 5. Each party may retain agreement and transaction evidence, restricted legal/compliance material and independently permitted copies only for their proper purposes and retention periods. No unrelated reuse follows from retention.
 
-the Music Licensing Policy;
+11.4 Shobble remains responsible for its express buyer-facing continuity, refund and other remedies. Any reimbursement, reserve, deduction, indemnity or other allocation between you and Shobble requires a valid, clearly accepted basis in the relevant agreement and compliance with law. This Agreement alone creates no unlimited creator indemnity, automatic chargeback liability or authority to deduct every platform loss from creator proceeds.
 
-Monetization Addenda and feature-specific rules.
+11.5 A claimed financial allocation must identify its basis, affected transaction or obligation and amount, permit a reasonable dispute route, and avoid double recovery, subject to justified urgent protections under actual accepted commerce terms. Creator rights misrepresentation and Shobble service failure must be assessed according to their actual responsibility. A buyer remedy does not automatically rescind valid Client, student or Finished Product rights; the selected license and actual remedial outcome govern.
 
-Violations may constitute both breach of contract and infringement of intellectual property rights.
+12. PRIORITY, CHANGES AND GENERAL TERMS
 
-11. CONTACT & LICENSING INQUIRIES
+12.1 Mandatory law and independently applicable component rights control within their scope. This Agreement governs creator authorization, platform operations and surviving fulfillment authority. The selected buyer license and its accepted Acquisition Record govern that acquisition's substantive rights and express duties, without importing another license type. The accepted AI framework governs contractual AI within Section 7. Valid privacy and service instruments govern their actual subjects and parties.
 
-Requests for AI training, dataset use, synchronization rights, or other non-standard licensing must be submitted directly to the Creator. Silence or inaction does not constitute consent.
+12.2 As between you and Shobble, general Master Terms, removal, revocation, policy-update, disclaimer or automatic-termination language does not override this Agreement's specific authorization, surviving fulfillment, confidentiality, AI or justified-restriction commitments for Offers authorized under it. General service terms apply consistently to remaining matters. A general priority statement or specific module cannot remove the protected acquisition baseline or waive another party's independent rights.
+
+12.3 Shobble will identify revisions and their effective application and retain accepted versions. New terms may govern new Offers after valid acceptance. Changing this Agreement does not itself amend an existing acquisition, authorize a new processing purpose or supply a missing rights-holder grant. Operational and acquisition AI version changes follow Section 7. Material amendments require actual legal authority, notice, assent and remedies where applicable. Refusal of an optional successor version alone does not cancel existing permanent rights, valid unexpired timed rights, Permanent Capacity or their necessary fulfillment authority.
+
+12.4 You must notify Shobble of a rights transfer or succession affecting your authority and provide reasonably available supporting information. An administrative correction for the same legal person is not an ownership transfer. Assignment to a different person requires actual authority, necessary consent and compliance with existing grants and applicable law. Neither party may use assignment to evade surviving obligations. No term purports to bind a nonconsenting third party beyond a valid prior grant or independent legal basis.
+
+12.5 Nevada law governs except where applicable mandatory law requires otherwise. This Agreement does not independently impose arbitration or a class-action waiver. A dispute procedure applies only where validly agreed by the parties to that dispute and applicable to the claim. Nonwaivable courts, rights and remedies remain available.
+
+12.6 Shobble will maintain accessible creator-support, purchase-support, AI-permissions and formal rights-notice routes, identify their current addresses or links at acceptance, and retain that routing information with the accepted Agreement or Offer. Shobble will provide a reasonably accessible successor route if a channel changes. Use creator or purchase support for administration and acquisition issues, the AI-permissions route for activities requiring that approval, and the formal rights-notice procedure where applicable. Ordinary support and review requests need not satisfy litigation-notice formalities. Additional rights require the relevant rights-holder's authorization; Shobble approval is also required where the AI framework or an affected Shobble obligation requires it. No second permission request is necessary solely to exercise a complete grant already accepted. Silence is not consent.
+
+12.7 Ownership, accrued obligations and claims, accepted acquisitions and downstream grants, necessary fulfillment authority, records, proper confidentiality/privacy and retention limits, justified restriction safeguards, and dispute provisions survive for their actual purposes and durations. Unenforceable terms will be limited or severed where lawful while preserving the essential acquired-rights purpose. Non-enforcement on one occasion is not a general waiver.
+
+13. ADULT UPLOADS — HUMAN SEXUAL CONTENT IS PROHIBITED
+
+13.1 You will not upload illegal content, or content that violates Shobble's platform standards or the standards of the payment service used for that content.
+
+13.2 PROHIBITED. Human sexual content is prohibited. Shobble does not permit, and you must not upload, a sexually explicit photograph, a live-action video, or any other sexual depiction of a human. The prohibition includes an actual human performer, an identifiable real individual, a drawn human, and an AI-generated human. A human body, a human face, or a human-like face is enough. Source files do not authorize this content. This ban is absolute. It applies on every Shobble host, including the adult host. It applies to the main file, the thumbnail, a preview, a frame, and any companion file.
+
+13.3 Written consent, a model release, a performer's permission, an age record, and an identity document do not authorize an upload banned by section 13.2. Keeping those records does not make the upload lawful on Shobble. Sending them to Shobble does not make the upload lawful on Shobble. Shobble does not accept them as clearance. Shobble does not keep 18 U.S.C. §§ 2257 or 2257A performer records for its permitted adult catalog, and Shobble does not publish private identity documents. Do not send identity documents unless Shobble asks for a different, lawful purpose. A request for documents is not permission to upload banned content.
+
+13.4 The only adult sexual content this Agreement publishes without a source-file review is fictional illustration and animation of fictional adult characters that are not human, made without an actual human performer, and not classified as AI-generated. If Shobble's check classifies a sexual drawing as AI-generated and does not classify it as a depiction of a human, Shobble does not publish it. Shobble asks for the source files, and a person reviews them before that file can be uploaded again. Sending source files is not permission to upload. A moderator accepting those files applies only to that file. It does not authorize a sexual depiction of a human. Furry characters and other non-human fictional characters are in the illustrated category. A sexual depiction of a human is not, whether the human is photographed, filmed, drawn, or generated by AI. That is the same rule as the 18 U.S.C. §§ 2257 and 2257A Content Compliance Statement, published at /policies/18-usc-2257-statement. Material in the permitted category does not ordinarily fall within the performer identification and recordkeeping requirements of 18 U.S.C. §§ 2257 and 2257A. This section does not claim an exemption for a photograph, a live-action video, a sexual depiction of a human, or any other material that would otherwise be subject to those requirements. If you cannot tell whether a figure is human, you must not upload it.
+
+13.5 Shobble may reject or remove any upload that is outside section 13.4. Shobble does not need a release, an age record, or the depicted person's consent paperwork before rejecting or removing it, because the upload was never allowed. A person shown in a banned upload may still demand removal under the Depicted Person Removal Policy. That remedy does not create a path to upload the content.
+
+13.6 An adult-content upload requires a separate affirmative acceptance of this Agreement, version 2.4, including this section 13 and the distribution acknowledgment shown at upload. That acceptance is stored with your account, the time, and version 2.4. It is separate from acceptance of the Master Terms. It is not preselected. Acceptance of version 2.3 or any earlier version does not satisfy version 2.4.
+
+END OF AGREEMENT

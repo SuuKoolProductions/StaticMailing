@@ -1,0 +1,22 @@
+SHOBBLE COMPLAINTS AND CONTENT REMOVAL POLICY
+
+Effective date: November 18, 2026
+Contact: team@shobble.com
+
+1. How to complain
+
+1.1 On adult.shobble.com and adult.dev.shobble.com, open the content menu or the content page and choose Report / Request Removal. You can report illegal content, a violation of platform standards, or ask for the content to be removed.
+
+1.2 The same form explains that Shobble reviews and resolves these complaints within five business days. Business days skip Saturday and Sunday. The moderation record stores that deadline.
+
+2. Review
+
+2.1 Shobble reads the report, the content, and any note you included. The case stays in the moderation queue until it is resolved or dismissed.
+
+2.2 Outcomes can include no action, a warning, hiding the content, or removing it. Shobble tells the reporter that a decision can be appealed.
+
+2.3 To appeal a decision about your own content, use Settings → Moderation, or email team@shobble.com. Appeals already available under the Community Content Guidelines and the Acceptable Use Policy still apply. This policy does not replace the DMCA Policy for copyright notices.
+
+3. Depicted persons
+
+3.1 A request from a person who says they are depicted in the content is not an ordinary five-business-day complaint. Use the separate choice in the report form. That process is described in the Depicted Person Removal Policy.

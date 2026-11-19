@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 import Link from "next/link";
 import { LegalShell } from "@/components/LegalShell";
-import { POLICY_LAST_UPDATED_DISPLAY, listPolicyDocs } from "@/lib/policies";
+import { listPolicyDocs } from "@/lib/policies";
 
 export const metadata: Metadata = {
   ...pageMetadata("/policies"),
@@ -17,19 +17,16 @@ export default function PoliciesPage() {
     <LegalShell title="Policies">
       <div className="legal-prose max-w-3xl">
         <h1>Policies and addendums</h1>
-        <p>These documents are referenced by the Terms of Use.</p>
-        <p className="legal-meta-line">
-          <strong>Last Updated:</strong> {POLICY_LAST_UPDATED_DISPLAY}
-        </p>
+        <p>These documents are referenced by the Terms of Use. Each document states its own date.</p>
         <div className="legal-index">
           <Link href="/terms" className="legal-index-item">
             <strong>Master Terms of Use</strong>
-            <span>terms · Last Updated: {POLICY_LAST_UPDATED_DISPLAY}</span>
+            <span>terms</span>
           </Link>
           {docs.map((doc) => (
             <Link key={doc.slug} href={`/policies/${doc.slug}`} className="legal-index-item">
               <strong>{doc.title}</strong>
-              <span>{doc.type} · Last Updated: {POLICY_LAST_UPDATED_DISPLAY}</span>
+              <span>{doc.type}</span>
             </Link>
           ))}
         </div>

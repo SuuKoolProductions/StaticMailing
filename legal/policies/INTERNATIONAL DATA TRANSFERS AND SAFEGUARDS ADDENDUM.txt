@@ -1,0 +1,139 @@
+SHOBBLE INTERNATIONAL DATA TRANSFERS & SAFEGUARDS ADDENDUM
+
+Version: 2.0
+Effective date: November 16, 2026
+Last updated: November 16, 2026
+
+This Addendum supplements the Shobble Privacy Policy. It explains Shobble's cross-border safeguards and contains regional provisions for transfers subject to the identified laws. It is not itself a completed set of Standard Contractual Clauses, an adequacy decision, or consent to an international transfer.
+
+1. APPLICATION AND DOCUMENT RELATIONSHIPS
+
+1.1 Shobbl Incorporated, doing business as Shobble (Shobble, we), applies this Addendum to personal information transferred or made accessible across borders in its actual services, provider relationships and customer processing. Hosting, replication, backups, support, remote access, onward disclosure and deletion arrangements must be assessed where they constitute a transfer under applicable law.
+
+1.2 This Addendum governs the processing to which the relevant law actually applies. Mentioning a region does not establish that accounts, sales, creator onboarding or Afterdark are supported there. A person's residence, service eligibility, data location and applicable transfer law are distinct. Unsupported processing must not begin merely because a regional provision appears here.
+
+1.3 The Privacy Policy explains categories, purposes, legal bases, recipients, retention and individual rights. Actual processing agreements govern documented processor instructions. Validly executed approved transfer clauses govern their transfer subjects and prevail over conflicting general commercial terms within their mandatory scope. This Addendum does not rewrite their standard text or replace required selections, annexes, authority or execution.
+
+1.4 The Master Terms, selected content license, Creator Agreement, AI Framework and feature instruments retain their actual subjects and accepted parties. A data-transfer safeguard supplies no copyright grant, AI exception, publication permission, advertising consent or new processing purpose. Nothing here makes acquired rights revocable at will or removes mandatory remedies, confidentiality or protected recipient rights.
+
+1.5 Public notice of these commitments does not bind an unnamed recipient to an unexecuted agreement. Shobble must obtain the necessary recipient commitments and verify the applicable mechanism before the affected transfer. A generic reference to this Addendum in an older DPA cannot manufacture completed clauses or automatically assign a module.
+
+2. ACTUAL ROLES, RECIPIENTS AND LOCATIONS
+
+2.1 Identify the actual exporter, importer and any controller, processor, subprocessor or independent-controller role for each processing activity. Shobble may act in different roles for different activities. An API relationship, employer, institution, provider label or no-joint-controller clause cannot override roles or responsibilities established by facts and law.
+
+2.2 Transfer only the information necessary for the identified purpose to authorized recipients. Potential service categories include hosting/storage/delivery, authentication, verification, payments/payouts, security, authorized moderation, support, communications and actually enabled analytics. These categories do not authorize every provider, data type or country.
+
+2.3 Shobble is based in the United States. The applicable collection, provider or transfer disclosures must identify relevant recipients, countries of storage and access, material onward processing and applicable safeguards before the affected processing begins. Include remote-support and backup locations where relevant, rather than describing only a primary data center. Required public transparency cannot be replaced solely by an internal register or a request route.
+
+2.4 No particular residency, local-only processing, certification or transfer-framework participation is promised unless actually supplied and accurately disclosed. A change of region or provider must not defeat an accepted residency, confidentiality or service commitment. Where new authority, notice, consent or an objection period is required, complete it before the affected change.
+
+3. CONDITIONS BEFORE TRANSFER
+
+3.1 Establish the underlying lawful purpose, legal basis and any additional sensitive-data condition. Identify the information, affected people, recipients, destinations, frequency, duration and retention. Confirm applicable collection, localization, identification, disclosure and onward-transfer restrictions. A valid transfer mechanism does not cure unlawful initial collection or an incompatible use.
+
+3.2 Use an actually available mechanism where transfer restrictions apply: a relevant adequacy decision within its scope; a properly completed approved contractual safeguard; another valid statutory safeguard; or an exceptional derogation only within its actual legal conditions. Do not use routine acceptance of Platform terms as explicit informed transfer consent or rely on an exceptional derogation as a default for recurring provider operations.
+
+3.3 Verify mechanism scope and continued validity. If relying on an adequacy framework covering a particular recipient, confirm that recipient's active coverage, relevant entity and data/service scope. This Addendum makes no claim that Shobble or every US provider is certified under a particular framework.
+
+3.4 Where required for the selected mechanism, document a transfer assessment covering destination laws and practices, government-access risks, the actual recipient and processing, onward transfers and effective supplementary safeguards. Reassess material changes. If the necessary level of protection cannot be achieved, do not initiate, or suspend, the affected transfer and implement the required lawful outcome.
+
+3.5 Safeguards must address actual risks and may include data minimization, restricted access, pseudonymization, separation of account links, encryption and key controls, access logging, contractual purpose limits and appropriate review. A particular algorithm or provider certification alone does not establish effective protection. Do not promise technical protection that the actual processing cannot supply.
+
+4. PROCESSORS, ONWARD TRANSFERS AND GOVERNMENT ACCESS
+
+4.1 Where processing is on behalf of a controller, establish the required processing agreement, instructions, confidentiality, security, rights assistance, incident cooperation, retention and deletion duties. An ordinary DPA does not by itself satisfy international-transfer requirements. Independent-controller disclosures require their own lawful authority and appropriate arrangements rather than inaccurate processor labels.
+
+4.2 Obtain the subprocessor authorization required by the actual agreement and law. Give required advance notice and a meaningful applicable objection route; resolve objections under the governing arrangement without treating silence as consent where it is insufficient. Record authorized subprocessors and locations, impose required protections and meet the governing responsibility for their performance.
+
+4.3 Onward disclosures and remote access must satisfy the selected mechanism, necessary authorization and purpose restrictions. A provider may not add independent model improvement, other-customer use or marketing under a generic service clause. A contractual flow-down must cover the actual recipient and processing; calling an onward recipient a partner does not remove transfer obligations.
+
+4.4 Where a recipient faces a government-access request, the governing clauses and law determine its notification, review, challenge, minimization, documentation and disclosure duties. Shobble will seek appropriate recipient commitments, assess requests directed to it and notify affected parties where required and lawful. No promise requires violating a binding legal prohibition, and no blanket government-access exception authorizes indiscriminate voluntary disclosure.
+
+4.5 A provider must inform the responsible party promptly if it can no longer comply, assist with required rights and incident responses, and implement the governing suspension, return, deletion or termination measures. A regulator-notification deadline is not permission to delay processor escalation or miss an earlier contractual duty.
+
+5. PROTECTED DATA AND PURPOSE LIMITS
+
+5.1 Verification inputs, adult-account links, blacklist settings, sensitive inferences, private submissions and payment credentials need safeguards reflecting their actual sensitivity. Documents, selfies and liveness inputs use the designated authorized collection route. Shobble receives only necessary disclosed results and attributes that law permits it to receive and retain. A transfer mechanism cannot override a local collection, identification or deletion prohibition.
+
+5.2 Afterdark's separate profile and account controls remain. Internal links are limited to disclosed necessary recovery, fraud, payment or compliance purposes. Adult data does not automatically move into general advertising, and sensitive-data profiling is not authorized. Verification-only records cannot be reused for model development, marketing or unrelated improvement. An overseas provider receives no broader authority than a domestic one.
+
+5.3 Creator Fund transfers must preserve subscriber reporting and contributor confidentiality: subscribers see their own allocation recipients and amounts; Creators receive the permitted aggregate reporting, not individual contributors, weights or histories. Payment, validation and legal disclosures must remain limited to their actual authority. The closed-account carry rule does not authorize transferring a former subscriber's browsing history to contest entrants.
+
+5.4 Managed, educational and organizational processing must respect actual representative authority and role-based access. A school contract is not blanket parental consent or permission to disclose every learner's personal activity. Private assessment, files and grant evidence remain purpose-limited. An overseas administrator or support worker needs actual authorized access; a management title supplies no independent right to receive unrelated records.
+
+5.5 AI processing must remain within the exact accepted Framework, necessary rights and privacy authority. Operational inference is distinct from model development. SCCs, a DPA, customer acceptance or consent to a transfer cannot activate a prohibited, Pending or unavailable AI operation, independent provider reuse or an undisclosed new purpose.
+
+6. RETENTION, EXIT AND CONTINUITY
+
+6.1 Transfers do not extend retention. Apply the Privacy Policy's category-specific criteria, actual collection notices, governing instructions and stricter local rules. Distinguish raw verification inputs, limited results, financial records, engagement validation, private files and enduring grant evidence. No universal indefinite or five-year retention period is created here.
+
+6.2 Return or delete information when the authorized purpose or governing agreement requires, subject only to an actual lawful retention basis. Restricted residual backups must follow a documented deletion cycle, remain unavailable for unrelated processing and reapply effective deletion instructions after restoration. Required retention must be limited, documented and reassessed.
+
+6.3 If a transfer must stop, protect data promptly and apply the actual mechanism's return, deletion and other safeguards. Separately assess lawful alternatives for continuing service or fulfillment; the need to preserve an acquisition cannot justify an unlawful transfer. Where promised lawful access cannot be restored or supplied, apply the accepted remedy rather than silently cancelling rights or demanding repurchase.
+
+6.4 Ending a provider contract or account does not automatically erase valid acquisitions, recipient grants, unpaid compensation or required evidence. Keep only the minimum lawful records needed for actual surviving duties. This provision does not override a valid deletion request, applicable transfer-clause remedy or local retention prohibition.
+
+SCHEDULE A — EUROPEAN ECONOMIC AREA
+
+A1. Where GDPR Chapter V applies, use an applicable lawful transfer route. A transfer to another EEA country is not treated as a third-country transfer merely because it crosses a national border, but underlying processing, security and local requirements remain. Direct collection and later disclosures must each be assessed under their actual facts.
+
+A2. If relying on the European Commission transfer SCCs adopted by Implementing Decision (EU) 2021/914, verify that they are legally suitable for the exporter, importer and processing. Select only the module matching the actual relationship:
+
+    Module One: controller to controller.
+    Module Two: controller to processor.
+    Module Three: processor to processor.
+    Module Four: processor to controller.
+
+Different flows may require different selections. The 2021/915 controller-processor clauses are distinct from the 2021/914 international-transfer clauses. No module applies simply because it is listed here, and an instrument outside its permitted legal scope must not be represented as sufficient.
+
+A3. Complete the actual parties, contacts, roles and execution; data subjects and categories; sensitive-data safeguards; nature, purpose and frequency; retention or meaningful criteria; processor-processing details where applicable; competent supervisory authority; specific technical and organizational measures; required subprocessor information; and applicable optional selections, governing law and courts. A service contract may incorporate the approved text and populated annexes through legally effective execution; a separate signature page is not universally required.
+
+A4. Approved clauses must remain unmodified except for permitted module/option choices and annex completion. Additional terms must not contradict them or prejudice data-subject rights. Their applicable third-party-beneficiary rights, liability, cooperation, complaints and court protections remain. A Nevada choice-of-law clause, ordinary liability cap, arbitration provision or internal-support requirement cannot displace those protected rights.
+
+A5. Apply the clauses' actual requirements for local-law assessments, public-authority access, onward transfers, assistance, audit and inability to comply. Supplementary measures must be effective for the actual processing. A paper assurance or unpopulated annex is insufficient; suspend or decline the transfer where required protection cannot be established.
+
+SCHEDULE B — UNITED KINGDOM
+
+B1. This Schedule applies only where UK restricted-transfer rules actually govern. It does not open UK account registration or another unsupported feature.
+
+B2. Where required and suitable, use the applicable UK adequacy route, the ICO's approved International Data Transfer Agreement (IDTA), or the ICO's approved UK Addendum to the identified EU SCCs. Complete the correct instrument's parties, transfer details, linked EU clauses where relevant, security, selections and mandatory terms. This Shobble Addendum is not the ICO-approved UK Addendum and must not be represented as its replacement.
+
+B3. Complete the applicable transfer risk assessment/data protection test and necessary additional protections, and preserve the instrument's mandatory UK rights, regulator and court provisions. A UK route does not automatically cover an EEA transfer, or vice versa. Maintain current legally available instruments and any required transition arrangements.
+
+SCHEDULE C — CANADA
+
+C1. Where PIPEDA applies to outsourcing, the accountable organization must use contractual or other appropriate means to provide a comparable level of protection for information transferred for processing. Explain material foreign-processing practices and the possibility of lawful foreign-authority access. Assess and protect the actual arrangement; do not describe a generic “Canada SCC” or “LATAM SCC” as a universal legal mechanism.
+
+C2. Apply relevant provincial requirements separately. Where Quebec law requires it, conduct the necessary privacy impact assessment before communication or entrusted processing outside Quebec and use a written agreement reflecting the assessment and any required risk mitigation. Other provincial notice, accountability or contractual requirements apply within their actual scope.
+
+C3. Determine whether an activity is processing on behalf of the organization or a new disclosure for an independent purpose. A processing arrangement does not authorize unrelated commercialization or negate a required consent or other legal condition. Canadian rights and regulator routes remain available where the relevant law applies.
+
+7. OTHER REGIONS AND CHANGES TO MECHANISMS
+
+7.1 Transfers subject to another country's rules require the actual applicable instrument, formalities, assessments, notices and authorizations before proceeding. This Addendum does not automatically execute Brazilian, Turkish, Saudi or any other national clauses, create a common LATAM mechanism or assert that the same legal route applies everywhere.
+
+7.2 Shobble must assess a mechanism's suspension, invalidation, expiration, coverage change or replacement and implement required protections within applicable deadlines. A later notice cannot retrospectively cure a transfer made without authority. A lawful replacement must preserve required protections and meet necessary contracting, transparency and processing requirements; a live link does not silently execute new terms for another party.
+
+8. RIGHTS, COPIES AND CONTACT
+
+8.1 Ask support@shobble.com for relevant recipient/location information, transfer safeguards or assistance with access, correction, deletion, objection and other applicable rights. We provide required copies and meaningful information subject only to necessary lawful redactions protecting others, legitimate confidential information or security. Redactions must not prevent understanding the applicable protection. A request route supplements rather than replaces required advance disclosure.
+
+8.2 Data subjects retain applicable regulator, court and approved-clause complaint and enforcement routes without a new purchase, Afterdark verification, internal exhaustion or consent to another party's arbitration. We reasonably verify authority where necessary, explain lawful limits and apply the Privacy Policy's actual response rules. Transfer-related rights do not depend on whether the person owns the underlying content.
+
+8.3 Postal contact: Shobbl Incorporated, c/o Registered Agent (Privacy Requests), 732 S 6th St, Ste N, Las Vegas, NV 89101, United States.
+Privacy and transfer questions: support@shobble.com.
+Legal notices and concerns: legal@shobble.com.
+
+This address is not an EU establishment or representative. Required representative and data-protection-officer details must be published for the processing that requires them. Ordinary requests need no special subject line or litigation formalities.
+
+9. VERSIONS AND EFFECT
+
+9.1 This version replaces the earlier public Supplemental Privacy Addendum / International Data Transfers & SCCs text for the processing governed by this release. It does not alter existing executed SCCs, IDTAs or other third-party instruments merely by publication. Those agreements retain their actual effect until lawfully changed; identified inconsistencies require actual resolution before the affected processing proceeds.
+
+9.2 Keep prior applicable notices and exact executed transfer instruments retrievable. Material notice changes ordinarily receive at least thirty days' advance notice under the Privacy Policy unless a different lawful period or urgent legal/security action applies. Obtain any required additional consent, contractual acceptance or authority before the affected new use or transfer. Reading or continuing to use the Platform alone does not replace it.
+
+9.3 Required protective measures, lawful suspension and mandatory current law retain their effect. Necessary confidentiality, rights assistance, evidence, return/deletion and enforceable third-party protections survive for their proper purposes. No general no-rights-created clause defeats rights granted by an executed approved instrument or law.
+
+END OF ADDENDUM
+

@@ -1,156 +1,109 @@
 SHOBBLE ACCOUNT ELIGIBILITY & ACCESS POLICY
 
-Effective Date: December 29, 2025
-Last Updated: May 11, 2026
+Version: 1.1
+Effective date: November 16, 2026
+Application: This Policy applies through Shobble's designated valid acceptance process to the identified Platform participation. It replaces the earlier Account Eligibility & Access Policy for that accepted scope without retrospectively rewriting acquisitions, recipient grants or accrued rights.
 
-Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+1. PURPOSE AND DOCUMENT RELATIONSHIPS
 
-This Account Eligibility & Access Policy (“Eligibility Policy”) governs who may create, maintain, and access accounts on the Shobble platform (“Platform”), including eligibility requirements related to age, jurisdiction, standard account access, monetization, restricted environments, and regional availability.
+1.1 Shobbl Incorporated, doing business as Shobble (Shobble, we), provides the Platform. This Policy governs account and feature eligibility, age and regional restrictions, verification, correction and recovery. Content eligibility follows the accepted AUP, Community Content Guidelines and applicable content schedules; legal capacity, payment-provider eligibility and content permissions are separate matters.
 
-This Policy operates in conjunction with the Master Terms of Use, Community Code of Conduct, Content Classification Policy, Privacy Policy, and Enforcement Procedures. In the event of conflict, the Master Terms control.
+1.2 The Master Terms govern remaining Platform matters and subject-specific priority. The selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record govern only that acquisition. The Delegated Access & Managed Accounts Policy governs supported administration within actual grants. Afterdark, AI, financial, privacy and processing instruments retain their actual subjects, parties and requirements.
 
-1. PURPOSE & SCOPE
+1.3 This Policy creates no new content license, management authority, processing consent or financial deduction. Mandatory law, independent component/public licenses and protected acquisition commitments remain. Account access, current credentials, content grants, Capacity and surviving recipient rights are distinct. A restriction on one does not automatically cancel the others.
 
-Shobble is designed to operate in compliance with applicable laws governing age-based access, safety, privacy, monetization, and regional availability. This Policy establishes:
+1.4 Shobble must disclose material age, regional, verification and feature limits before the affected registration, activation or acquisition and retain the applicable fixed terms. It must not knowingly accept an Offer for a person ineligible to receive it without a lawful supported arrangement. An internal setting, later receipt or unidentified policy cannot add undisclosed contractual restrictions.
 
-eligibility requirements for account creation and use;
+2. GENERAL ELIGIBILITY AND AUTHORITY
 
-how users below age eighteen (18) are restricted from certain Platform features;
+2.1 General Shobble use requires age sixteen or older, subject to higher local ages, regional prohibitions and other lawful disclosed eligibility requirements. Sixteen is the minimum supported age, not a universal statement of contractual majority or eligibility for every feature.
 
-how delegated or educational access may be limited where supported;
+2.2 Provide accurate required age, location, contact and eligibility information, keep material details current, and use only accounts and features you are authorized to access. Public pseudonyms need not disclose your legal name, but required verification, contracting, payment and tax information must be accurate. Do not impersonate a participant or submit false evidence.
 
-how independent access thresholds vary by jurisdiction; and
+2.3 A person acting for another individual, an institution or an organization must have actual authority for the act. Payment, an email domain, employment, enrollment, parent status or being the first administrator does not alone establish the Holder or authority over every account, purchase or private file.
 
-how access is handled in regions where the Platform is not yet available.
+2.4 Feature eligibility may differ for purchasing, recurring billing, creator monetization, payouts, commissions, advertising, events, API access or managed administration. Disclose and apply the actual legal-capacity, age, provider, rights and verification conditions before activation. General account eligibility does not imply that a user can enter every contract or receive payouts.
 
-This Policy governs account eligibility and access, not content permissibility. Content availability is governed separately by Shobble’s Content Classification and access-control systems.
+2.5 No optional feature, payment method, supported region or management route is promised merely because it is mentioned here. Technical availability does not supply missing eligibility, authority or acceptance. Actual promised service, acquisition and remedy commitments remain.
 
-2. GENERAL ELIGIBILITY REQUIREMENTS
+3. USERS BELOW LEGAL MAJORITY AND MANAGED ACCESS
 
-To create or use a standard Platform account, a user must:
+3.1 Users who meet the applicable minimum age but remain below legal majority must have legally required parental or guardian permission and applicable notices/privacy safeguards. Independent account administration and legal capacity are different. A required guardian permission must cover the actual activity; a general checkbox cannot replace it.
 
-be at least sixteen (16) years old, or older where required by applicable law;
+3.2 There is no supported under-sixteen account exception through a parent, guardian, school, homeschooling, gift, employer, educational license or Managed Account. A higher applicable local restriction cannot be bypassed through management. Public nonexplicit policy, reporting, privacy and support routes remain available without requiring an ordinary account.
 
-provide accurate and truthful account information, including age and location;
+3.3 Supported management requires appropriate authority and the actual personal, educational or organizational permission. A teacher is not automatically a parent or authorized institutional purchaser. Managers may not create unauthorized accounts, claim another person's assent, share credentials or expose users to content or features for which they are ineligible.
 
-access the Platform only from regions where it is offered; and
+3.4 Apply actual age-appropriate defaults and feature safeguards and disclose material administrative visibility. Management does not authorize unrestricted access to private communications, personal acquisitions or unrelated activity. Mandatory personal-data rights and the participant's actual authority remain.
 
-comply with all applicable Platform policies.
+3.5 Reaching majority, graduating or leaving management does not automatically transfer an acquisition, create a new license, trigger an undisclosed grace period or require repurchase. Distinguish temporary delegated access, institution-held participation, authorized surviving sublicenses and direct recipient acquisitions. Their continuation and evidence follow their actual grants and the Managed Accounts Policy.
 
-Providing false, misleading, or incomplete eligibility information may result in restriction, suspension, reclassification, or termination of access.
+4. AFTERDARK ELIGIBILITY
 
-3. AGE-BASED ELIGIBILITY
+4.1 Afterdark requires a separate account, valid acceptance of its Policy and verified age of at least eighteen, together with any higher local age or other regional requirements, before activation or use of its account features. This includes profiles, messaging, commissions, purchases and restricted-content access. Necessary nonexplicit registration and verification steps may precede activation but must not expose restricted material or enable other account features.
 
-3.1 Standard Platform Accounts
+4.2 A general Shobble account, payment card, declared birth date, platform subscription, household status, parent, institution, employer, gift or delegated assignment is insufficient. Each actual recipient of Afterdark access must qualify. Adult-access verification and eligibility for creator payments or contracting are distinct checks.
 
-Standard Platform accounts require users to be at least sixteen (16) years old, or older where applicable law requires a higher minimum age.
+4.3 Purchase, membership, approval or verification does not remove a user's content blacklist. Each eligible adult must deliberately remove every applicable category to access Blacklisted material and may restore it. Do not use shared credentials, links, previews, APIs or alternate delivery routes to bypass adult, regional or blacklist controls.
 
-Users below the minimum account age may not create, maintain, or use independent Platform accounts through third-party, educational, household, or delegated authorization.
+4.4 New Afterdark Enterprise and Educational offerings, renewals, expansions and access/capacity supplied through those license types are excluded. The Afterdark Policy's Personal Use and Commercial Use routes remain within their actual scope and each user's eligibility. This exclusion does not itself revoke a previously valid acquisition or surviving output.
 
-3.2 Features Requiring Users to Be 18+
+4.5 Nonexplicit policy information, reporting, privacy requests, ordinary support and appeals require no Afterdark account or adult verification. Use the published reporting routes rather than accessing or redistributing suspect explicit material to make a report.
 
-Users must be at least eighteen (18) years old to access or use:
+5. VERIFICATION AND PERSONAL INFORMATION
 
-Creator accounts or tools for monetization;
+5.1 Shobble may require proportionate verification for actual age, identity, region, representative-authority, recovery, payment, legal or credible fraud/security needs. Checks must be suited to the actual requirement and use the least intrusive effective lawful method, with an appropriate alternative where required. Reverification needs an identified continuing or new basis; an expired result alone is not final invalidation of an acquisition.
 
-payouts, revenue-share programs, or creator earnings features;
+5.2 Verification documents, selfies and liveness inputs use the designated authorized provider or secure collection route, not ordinary support, public profiles or an Acquisition Record. Shobble receives only necessary disclosed results and compliance attributes that law permits it to receive and retain. Tell users the actual provider role, information, purpose, material consequences and relevant privacy notice before collection.
 
-payment-enabled creator functionality;
+5.3 The Privacy Policy and applicable processing/transfer instruments govern legal bases, sensitive or biometric conditions, recipients, countries, retention and rights. Policy acceptance, a managed role or verification is not blanket consent to profiling, advertising, model development or provider improvement. Pseudonymous results do not escape stricter local collection, identification or deletion limits.
 
-restricted or adult-oriented environments;
+5.4 Authorized automated tools may assist but can err. A signal, inconsistent record or unsuccessful attempt is not conclusive proof of age, fraud or deliberate evasion. Shobble must provide the explanations, correction and human review required by law or promised in the accepted instruments. No general permission for a solely automated legally or similarly significant decision is created here.
 
-restricted or adult-oriented content access; and
+6. REGIONAL AVAILABILITY AND TRAVEL
 
-any other feature Shobble designates as requiring adult eligibility, identity verification, or age verification.
+6.1 Availability may differ by account role, product, content category, payment or payout route and current location. Actual law, sanctions/export controls, provider scope and disclosed operational limits determine supported activity. A privacy notice discussing a jurisdiction does not open service there.
 
-3.3 Delegated or Educational Access
+6.2 Do not deliberately evade applicable regional restrictions or falsify location/eligibility information. VPNs, proxies and privacy tools are not prohibited merely by their use, but cannot be used to bypass an actual restriction. A network or IP signal alone may be inaccurate and must have a correction route.
 
-Where supported, delegated or educational access is limited, revocable, and subject to Platform controls. Delegated or educational access does not authorize accounts for users below the minimum account age and does not confer monetization, payout, payment-enabled creator, or restricted-environment eligibility.
+6.3 Shobble must identify material restrictions before the affected purchase or activation and apply lawful controls. A new transaction may be unavailable while an existing acquisition retains its accepted scope. Travel, relocation or a later service restriction requires a separate assessment of lawful delivery, recovery and remedies rather than automatic worldwide cancellation.
 
-3.4 Prohibited Underage Access
+6.4 Planned material regional changes require the applicable notice and transition process; urgent legal or security restrictions may precede notice where justified. Shobble must not promise access contrary to binding law, but must assess lawful alternatives and preserve unaffected rights. Provider restrictions create no undisclosed customer liability or blanket cancellation power.
 
-Users may not:
+7. CORRECTION, RECOVERY AND REPRESENTATION
 
-misrepresent their age to bypass eligibility or access restrictions;
+7.1 Users may request correction of mistaken age, region, affiliation, authority or account status through supported settings or support@shobble.com. Shobble will explain reasonably necessary evidence, provide proportionate verification and reassess erroneous restrictions. Do not require unnecessary raw identity documents through ordinary email.
 
-access age-restricted domains, content, or features for which they are not eligible;
+7.2 Where management or another account configuration is legally required and supported, establish the necessary authority, notices and effective permissions before assigning a Manager. Shobble must not appoint a stranger or give an institution control of private accounts merely because of an email domain or disputed age signal. Restrict affected activity where necessary while a lawful arrangement is resolved.
 
-participate in monetization, payout, or payment-enabled creator functionality unless they are at least eighteen (18) years old and otherwise approved; or
+7.3 Same-Holder contact/name corrections, administrator replacement, device replacement and recovery do not themselves transfer the acquisition or require repurchase merely to restore a valid grant. An actual transfer to another legal Holder needs the governing permission, required consents or independent legal basis. Verification of ownership and management authority must protect against account takeover.
 
-access restricted or adult-oriented environments unless they are at least eighteen (18) years old and satisfy applicable verification requirements.
+7.4 Loss of a school/employer login, graduation, staff turnover, family-management change or identity-provider failure does not itself cancel an effectively issued independent or surviving recipient grant. Supply the reasonable access and privacy-preserving evidence recovery promised by the selected license and Managed Accounts Policy. Missing paperwork calls for investigation and correction, not automatic forfeiture.
 
-4. AGE MISREPRESENTATION & ENFORCEMENT
+8. RESTRICTIONS, CONTINUITY AND REVIEW
 
-Users must not misrepresent their age or eligibility status.
+8.1 Credible eligibility, legal, fraud or security concerns may justify proportionate interim limits on the affected account or feature. Explain material facts, basis, scope, duration or release conditions and review route where lawful. An unresolved check or allegation alone does not authorize indefinite restriction, automatic earnings forfeiture or a finding of misconduct.
 
-Where Shobble has reasonable grounds to believe, based on available information, that an account holder is operating outside permitted age conditions, Shobble may take actions including:
+8.2 Curable material breaches receive the notice and reasonable cure opportunity required by the Master Terms and selected license. Immediate protection is permitted where required by law or reasonably necessary against serious harm that cannot await cure, with required subsequent notice, review and correction. Deliberate falsification may justify a distinct sanction; innocent error and underlying ineligibility are not interchangeable.
 
-applying age-appropriate safeguards or restrictions;
+8.3 Account suspension, reclassification, closure, expired verification, a regional change or loss of affiliation does not itself cancel permanent or unexpired content rights, Permanent Capacity, valid downstream grants, qualifying surviving outputs or earned compensation. Apply actual grounds and scope to any final rights decision rather than treating credentials as the grant.
 
-restricting access to features inconsistent with eligibility;
+8.4 Shobble must separately assess lawful continuing library access, recovery and usable alternatives under the selected license. No prohibited supply or age-gate bypass is required. If the promised lawful continuing route cannot be restored or supplied through the agreed process, provide its express remedy or another remedy the affected holder validly agrees to, without an invented purchase-age cutoff. Mandatory remedies remain.
 
-requiring age, identity, or eligibility verification;
+8.5 On a lawful end of participation, stop only affected access and follow actual cancellation, private-file retrieval, available export, retention and final-payment duties. Closure alone supplies no remote-deletion authority or general recall of authorized lawful copies. Refund accounting and rescission of a grant are distinct; a representative cannot surrender another person's independent rights without authority.
 
-suspending access pending correction or verification; or
+8.6 Affected users may seek review through support@shobble.com or the applicable published route. Shobble must consider actual evidence, relevant licenses and asserted legal rights, give required reasons and human review, reassess interim measures and promptly correct unsupported decisions. Apply any more specific Afterdark, financial or statutory periods and external remedies; ordinary support requires no formal litigation notice. Good-faith questions, mistakes and unsuccessful appeals are not abuse merely because they challenge a decision.
 
-terminating the account where required by law or policy.
+9. CHANGES AND CONTACT
 
-Eligibility determinations do not require proof of intent. Assessments are based on reasonable belief and available signals, and corrective actions do not imply misconduct or wrongdoing.
+9.1 Changes follow the Master Terms' actual notice, effective-date and acceptance process, ordinarily including at least thirty days' advance notice of material adverse changes unless another lawful period or urgent legal/security requirement applies. Keep accepted versions retrievable. Publication or continued use alone does not replace required assent.
 
-5. REGIONAL AVAILABILITY & JURISDICTIONAL ACCESS
+9.2 Changes apply within their valid prospective scope without silently rewriting acquisitions, recipient grants, accepted AI sets or accrued financial duties. Current mandatory law and justified urgent protection retain their actual effect. Refusal of optional successor terms alone does not forfeit existing rights or remove valid remedies.
 
-5.1 Supported Regions
+Eligibility, verification correction, recovery, managed access, privacy and appeals: support@shobble.com
+Legal concerns and reports: legal@shobble.com
 
-The Platform is offered only in regions where Shobble has elected to operate and where it can reasonably comply with applicable legal, regulatory, and operational requirements.
+If a contact route changes, Shobble will provide a reasonably accessible successor. Applicable statutory-notice procedures remain. Ordinary support, public nonexplicit reporting and privacy requests need no Afterdark account.
 
-Availability may vary by jurisdiction, feature, content category, or service.
+END OF POLICY
 
-5.2 Unsupported or Restricted Regions
-
-Users may not access or use the Platform from regions where Shobble does not currently offer service or where access is restricted due to:
-
-legal or regulatory limitations;
-
-sanctions, export controls, or trade restrictions;
-
-operational or compliance constraints; or
-
-safety or risk considerations.
-
-Circumventing regional restrictions through technical means (including VPNs or proxies) is prohibited.
-
-5.3 Changes in Regional Availability
-
-Regional availability may change over time. Shobble may:
-
-restrict or suspend access in certain regions;
-
-modify feature availability by jurisdiction; or
-
-require additional controls or information to maintain access.
-
-Users remain responsible for ensuring continued eligibility based on their location.
-
-6. ACCOUNT CORRECTION & RECLASSIFICATION
-
-Where eligibility issues are identified, Shobble may, at its discretion:
-
-correct or update account classification;
-
-apply age-appropriate defaults and restrictions;
-
-disable features inconsistent with eligibility; or
-
-require additional verification.
-
-Such actions are intended to maintain compliance, safety, and lawful operation of the Platform and do not imply fault, intent, or wrongdoing.
-
-7. NO ENTITLEMENT TO ACCESS
-
-Access to the Platform and its features is conditional and not guaranteed.
-
-Shobble reserves the right to restrict, modify, or revoke access where eligibility requirements are not met, where continued access would pose legal or safety risks, or where required by law or regulatory obligation.
-
-8. MODIFICATIONS
-
-This Policy may be updated at any time. Continued use of the Platform constitutes acceptance of the revised Policy.

@@ -1,20 +1,18 @@
-BANNED ADVERTISING PRODUCTS & SERVICES POLICY
+BANNED ADVERTISING PRODUCTS & SERVICES ADDENDUM
 
 (Consolidated & Clarified)
 
-Effective Date: December 29, 2025
-Last Updated: May 11, 2026
+Effective Date: November 16, 2026
+Last Updated: November 16, 2026
 
-Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
-
-This Banned Advertising Products & Services Policy (“Policy”) supplements and is incorporated into the Advertising Marketplace Terms, Master Terms of Use, Acceptable Use Policy, AI Use-Case Policy, and all other applicable Shobble policies.
+This Banned Advertising Products & Services Addendum (“Addendum”) supplements and is incorporated into the Advertising Marketplace Terms, Master Terms of Use, Acceptable Use Policy, AI Use-Case Policy, and all other applicable Shobbl policies.
 
 Capitalized terms not defined herein have the meanings set forth in the Master Terms of Use.
 
 1. Purpose & Policy Basis
 
-Shobble operates a compliance-first, creator-aligned Advertising Marketplace.
-Accordingly, Shobble prohibits advertising and sponsorships for certain products, services, and business models even where such products or services may be lawful, where Shobble determines that they:
+Shobbl operates a compliance-first, creator-aligned advertising marketplace.
+Accordingly, Shobbl prohibits advertising and sponsorships for certain products, services, and business models even where such products or services may be lawful, where Shobbl determines that they:
 
 pose elevated risk of consumer harm, deception, addiction, or exploitation;
 
@@ -24,7 +22,7 @@ conflict with platform integrity, values, or business model; or
 
 create regulatory, payment-processor, or reputational risk.
 
-Eligibility determinations under this Policy are policy-based and do not constitute a statement regarding the legality of any product or service.
+Eligibility determinations under this Addendum are policy-based and do not constitute a statement regarding the legality of any product or service.
 
 2. Global Prohibited Advertising Categories
 
@@ -163,15 +161,15 @@ Advertising intended to influence elections, political candidates, public policy
 
 European Union / United Kingdom: Political persuasion advertising is prohibited in accordance with the Digital Services Act, UK electoral law, and the ASA CAP Code.
 
-United States: Political advertising may be restricted or prohibited based on jurisdiction, targeting method, timing, or platform policy. Shobble reserves the right to prohibit political advertising entirely.
+United States: Political advertising may be restricted or prohibited based on jurisdiction, targeting method, timing, or platform policy. Shobbl reserves the right to prohibit political advertising entirely.
 
 4. Region-Specific Product Restrictions & Advertiser Responsibility
 
 Advertisements and sponsored content may not be issued, displayed, targeted, or made available in any jurisdiction where they would conflict with applicable laws, regulations, or platform policies governing that region.
 
-Advertisers and sponsors are solely responsible for determining whether their products, services, and advertising practices are permitted in each region where an advertisement is listed, targeted, or made available. When creating an Advertising Marketplace listing, advertisers must accurately designate applicable regions and ensure compliance with all regional restrictions.
+Advertisers and sponsors are solely responsible for determining whether their products, services, and advertising practices are permitted in each region where an advertisement is listed, targeted, or made available. When creating an advertising marketplace listing, advertisers must accurately designate applicable regions and ensure compliance with all regional restrictions.
 
-Shobble may restrict, geo-limit, disable, or remove advertisements or sponsorships in any region at its discretion and without advance notice.
+Shobbl may restrict, geo-limit, disable, or remove advertisements or sponsorships in any region at its discretion and without advance notice.
 
 4.1 United States
 
@@ -205,7 +203,7 @@ Evasive behavior may be treated as a material breach.
 
 6. Enforcement & Discretion
 
-Shobble may, at its sole discretion:
+Shobbl may, at its sole discretion:
 
 determine whether a product or service falls within a prohibited category;
 
@@ -215,17 +213,17 @@ suspend or terminate campaigns without prior notice;
 
 withhold or claw back revenue associated with prohibited advertising; or
 
-update this Policy at any time.
+update this Addendum at any time.
 
-Absence of a product or category from this Policy does not imply eligibility.
+Absence of a product or category from this Addendum does not imply eligibility.
 
 7. No Entitlement; No Endorsement
 
-Shobble is not obligated to accept advertising or sponsorships for any product or service, regardless of legality.
+Shobbl is not obligated to accept advertising or sponsorships for any product or service, regardless of legality.
 
-Nothing in this Policy constitutes an endorsement of any advertiser, product, or service.
+Nothing in this Addendum constitutes an endorsement of any advertiser, product, or service.
 
 8. Governing Terms
 
-This Policy is governed by and incorporated into the Master Terms of Use.
+This Addendum is governed by and incorporated into the Master Terms of Use.
 In the event of a conflict, the Master Terms control.

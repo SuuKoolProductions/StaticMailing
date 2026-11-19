@@ -1,0 +1,198 @@
+SHOBBLE PRIVACY POLICY
+
+Version: 2.0
+Effective date: November 16, 2026
+Last updated: November 16, 2026
+
+This Policy explains personal-information processing by Shobbl Incorporated, doing business as Shobble (we). Reading or acknowledging it is not blanket consent to processing, advertising, AI training or unrelated contractual restrictions. Where consent is required, we obtain it separately.
+
+1. SCOPE, RESPONSIBILITY AND CONTACT
+
+1.1 This Policy covers our websites, applications, marketplace, content delivery, accounts, communications and actually offered creator, membership, Fund, managed-access and Afterdark features. It does not imply that an optional feature is available in every region or that an unsupported service has launched.
+
+1.2 Shobble determines purposes and means for its own account, marketplace, payment administration, security, compliance and related operations. Where we process private organizational or educational material solely on a customer's documented instructions, the applicable processing agreement governs that activity. A customer's title or a contract label does not determine every processing role. Creators, institutions, payment and verification providers may have their own independent responsibilities; their applicable notices must be identified at the relevant interaction.
+
+1.3 Privacy requests and questions: support@shobble.com.
+Legal concerns and reports: legal@shobble.com.
+Postal privacy contact: Shobbl Incorporated, c/o Registered Agent (Privacy Requests), 732 S 6th St, Ste N, Las Vegas, NV 89101, United States.
+
+No account, Afterdark verification, special subject line or formal litigation notice is required for an ordinary privacy request. We use only proportionate identity checks necessary to act on it. If a route changes, we provide a reasonably accessible successor. Any legally required EU representative or data-protection-officer identity and contact details must be published before the processing requiring that appointment begins; this US address is not an EU establishment or representative.
+
+1.4 The Master Terms, selected license and other accepted instruments govern their contractual subjects. They do not supply a missing privacy legal basis. This Policy does not create content rights, waive confidentiality, amend an acquisition or replace a required processing agreement. More specific collection notices supplement this Policy for the identified activity; they cannot silently authorize a conflicting new use.
+
+2. INFORMATION AND SOURCES
+
+We collect information you provide, information generated through your use, and necessary information from authorized representatives, institutions, transaction counterparties and service providers. Collection depends on the actual feature and your role.
+
+2.1 Account and profile information: account identifiers, contact details, authentication records, disclosed age/eligibility attributes, profile text/images, settings and optional links. Public profile fields and private account information are different. Do not put identity documents, private contact information or payment credentials in public fields.
+
+2.2 Content and communications: uploaded works and metadata, listings, rights and provenance evidence, messages, comments, reviews, support requests, reports and appeals. Entrusted private files may include notes, saves, annotations, project files, assessment submissions and associated metadata where those features are supplied. A public submission and a private workspace do not have the same audience or permitted uses.
+
+2.3 Transactions and creator records: orders, purchases, license and Acquisition Record references, accepted document versions and assent evidence, memberships, bids and commissions, amounts, taxes, refunds, disputes, payout records and required tax or business details. Records may identify the Holder, payer, representative, seller, Creator and authorized recipient separately.
+
+2.4 Payment and payout information: payment-provider references and tokens, necessary limited payment-method details, authorization/settlement status, payout-destination information and verification or fraud results. Sensitive card, bank, identity and tax inputs use the designated provider or secure collection route. We disclose the recipient, necessary information and role at that collection step. Do not send full credentials or identity documents to ordinary support.
+
+2.5 Verification information: necessary age, identity, representative-authority or creator/payment eligibility results and lawfully permitted compliance attributes. Government documents, selfies and liveness inputs go directly to the designated authorized verification provider rather than an ordinary support inbox or Acquisition Record. The provider's collection notice must explain actual inputs, any biometric processing, purposes, recipients, retention and rights. Shobble receives only necessary disclosed results and attributes that law permits it to receive and retain.
+
+2.6 Activity and technical information: content and page identifiers, views, full-screen events, reading and listening/watch duration, downloads, searches, follows, membership status, bids, session timestamps, IP addresses, browser/device information, authentication events, error records and security signals. We use only the subset necessary for the actual purpose. A statutory or contractual collection limit still applies to a technical identifier or inference.
+
+2.7 Managed-access information: institution or organization identity, actual representative authority, eligible participant references, role and roster assignments, applicable Capacity, reassignment and recovery history, and necessary grant evidence. Management does not itself authorize collection of unrelated personal activity or private accounts.
+
+2.8 Afterdark information: separate profile and account settings, adult-eligibility results, access and regional checks, blacklist choices, restricted-content activity, earning/transaction records and moderation evidence. These records may reveal or permit sensitive inferences and receive the additional controls in Section 6.
+
+2.9 External sources: payment and verification providers supply necessary results; authorized managers provide roster or authority records; counterparties provide fulfillment or dispute information; security services supply necessary threat signals. Connected services provide only information within the connection you authorize. Public availability does not justify unrestricted harvesting or use. Where law requires notice about indirectly obtained data, we identify its source, categories and purpose within the required period.
+
+3. PURPOSES AND LEGAL BASES
+
+3.1 We use necessary account and authentication information to establish and secure accounts, administer access and provide the requested service. Where applicable, our basis is performance of the contract with the individual, a legal obligation, or a documented legitimate interest in secure service delivery. A contract with an institution does not automatically make contract performance the basis for processing every learner's data.
+
+3.2 We use content, rights records and technical delivery data to host and supply authorized material, maintain acquired libraries, administer actual license scope, support recovery and preserve valid recipient grants. The basis is the applicable contractual necessity, legal duty or documented legitimate interest in fulfilling and evidencing authorized rights, as appropriate to the person and activity.
+
+3.3 We use transaction, verification, tax and payout records to process actual purchases and payments, provide statements, administer renewals/cancellation and resolve errors, refunds and disputes. The basis is applicable contractual necessity, actual financial/tax duties or a documented legitimate interest in accurate accounting and fraud prevention. We do not claim that every participant or transaction is subject to identical KYC or AML obligations.
+
+3.4 We use limited activity, eligibility and ledger records to administer the Creator Fund under Section 5. Where applicable, the basis is necessity to provide the subscribed service or creator program, or a documented legitimate interest in reliable allocation, fraud prevention and accounting. Optional tracking and processing of sensitive information need their own applicable basis and additional conditions; a program label supplies neither.
+
+3.5 We use relevant reports, content, evidence and security signals to moderate, protect users, investigate abuse, enforce valid restrictions and provide appeals. The basis is an actual legal obligation or documented legitimate interest in safety, rights protection and service integrity. Processing special-category or criminal-offense information requires an applicable additional legal condition and safeguards; an accusation does not establish guilt.
+
+3.6 We use communications to answer requests, provide necessary service notices and deliver optional updates you request. Marketing relies on consent where required or another specifically applicable lawful basis. You may unsubscribe or object to direct marketing without losing an acquisition. Necessary receipts, security and legal notices are separate from optional marketing.
+
+3.7 Discovery, recommendations, analytics and reliability work use only information authorized for the actual operation and audience. Necessary service functions and optional analytics or personalization are distinguished at the feature or collection point. Nonessential device access/tracking uses consent where required; sensitive-data profiling and AI remain subject to Sections 6 and 8. This Policy is not authority for an undisclosed behavioral-advertising system.
+
+3.8 Where we rely on legitimate interests, we assess necessity and balance those interests against the person's rights and reasonable expectations. Where we rely on consent, the request identifies the purpose and withdrawal route; you may withdraw as easily as giving it. Withdrawal does not retrospectively invalidate prior lawful processing. We do not substitute another basis merely to defeat a valid withdrawal or objection.
+
+3.9 At collection, we identify whether information is required by law or necessary for the selected contract/feature, and the consequence of not providing it. Optional fields remain optional. If an essential lawful eligibility check cannot be completed, the affected feature may be unavailable; this does not itself cancel unrelated rights. A materially different new purpose requires notice and whatever additional authority, assessment or consent law requires before that use.
+
+4. PAYMENTS, ACQUISITIONS AND PRIVATE FILES
+
+4.1 Current purchases use supported payment methods and designated payment providers; we do not describe card purchases as conversion into crypto, USDC, Notes or a customer wallet. Provider notices and the checkout/onboarding flow identify actual collection and payment roles. A token or ledger balance is not a promise that Shobble holds no personal information or has no financial-law duties.
+
+4.2 Creators receive necessary order, fulfillment, rights and dispute information for the actual transaction. They do not receive unrestricted access to buyer identity documents, payment credentials, unrelated purchases, private messages or browsing history. Public-facing records and watermarks must disclose only the information actually required and disclosed for their purpose; an Acquisition Record is not automatically a public directory.
+
+4.3 We retain necessary accepted terms, scope, assent, corrections and recipient evidence to administer and substantiate valid rights. Changing a login, administrator or roster does not erase a surviving grant. We limit private-file access to the supplied feature and authorized audience; necessary technical hosting or backup does not permit public discovery, advertising or unrelated provider reuse.
+
+4.4 Ownership of private submissions remains determined by actual rights and agreements. We provide applicable access, retrieval, portability and exit processes while protecting others' rights. No unlimited storage or unoffered export capability is implied. A privacy request and the legal consequences of surrendering or rescinding a content grant are separate.
+
+5. CREATOR FUND DATA AND VISIBILITY
+
+5.1 For participating subscriptions, we process the applicable subscription period and revenue basis, follow or creator-membership relationship, Creator monetization eligibility, qualifying events, event-time membership weighting, validation and allocation records. Relevant events include covered artwork/asset views and downloads, video/music/podcast duration, book/comic reading/downloads and qualifying commission-auction bids, as specified in the accepted Fund Schedule. Points are allocation weights, not a purchase of the viewed work.
+
+5.2 Subscribers can see their own allocation recipients and amounts. Creators receive meaningful aggregate engagement and financial reports, not contributor identities, individual weights/amounts or identifying activity histories. Small-audience suppression or aggregation must prevent reports from being used to reconstruct protected individual contributions. A Creator's independently known membership roster does not entitle them to link members to private Fund allocations.
+
+5.3 Access to individual Fund activity is restricted to necessary authorized service administration, validation, fraud review, payment, lawful requests and dispute correction. Any permitted disclosure outside ordinary reports must have its actual lawful and Schedule basis and remain limited. We do not publish allocation histories or provide contributor lists for Creator marketing.
+
+5.4 The Fund Schedule's one-year closed-account preservation rule applies to the unallocated creator-support commitment, not a universal retention period for all viewing history. We retain only the identity/reference, amount, cutoff, restoration and other evidence necessary to operate that rule and meet actual legal duties. Later conditional contest application does not publish the former subscriber, enter them in the contest or transfer their engagement history to entrants. Earned Creator compensation is recorded separately.
+
+6. AFTERDARK AND SENSITIVE INFORMATION
+
+6.1 Afterdark uses a separate account, public profile and access settings. We do not publicly connect it to a general Shobble profile without your deliberate choice. Necessary internal links for recovery, fraud prevention, payments or legal compliance are limited and disclosed. Account separation is not complete anonymity or a separate legal entity.
+
+6.2 Adult verification, blacklist choices and policy acceptance are not consent to advertising, sexual-interest profiling, optional tracking or disclosure. We do not target advertisements using profiles based on sex life, sexual orientation or other legally protected sensitive information, including inferences. Adult inventory and audience data do not automatically cross into general Shobble advertising.
+
+6.3 Before collecting or using special-category or legally regulated sensitive data, including biometric identifiers where actually involved, we establish the necessary additional legal condition and required specific consent. A photograph, biometric template, verification result and pseudonymous token may have different treatment; relabeling information does not remove a collection, identification or retention prohibition. We do not reuse verification inputs for training, marketing or unrelated improvement.
+
+6.4 We limit access to adult-account links, restricted history, verification and blacklist settings to necessary authorized purposes. Public previews, emails and push bodies must respect the applicable nonexplicit presentation rules. We do not expose restricted content or sensitive histories merely to verify a privacy request, investigate a payment or provide a Creator report.
+
+7. MANAGED, EDUCATIONAL AND ORGANIZATIONAL ACCOUNTS
+
+7.1 General Shobble use is sixteen and older, subject to higher ages and regional restrictions. Afterdark requires verified age of at least eighteen and any higher local requirements. A parent, school, employer or managed arrangement does not create an under-sixteen exception or bypass Afterdark eligibility. Eligible users below legal majority require legally applicable permissions and safeguards.
+
+7.2 Managers receive only the access and records authorized for their actual role. Billing, roster or assignment authority is not unrestricted access to private submissions, messages, unrelated activity or personal acquisitions. Material administrative visibility must be disclosed before the affected use. Managers must have authority to provide participant data and instructions; an educator is not automatically a parent or copyright owner.
+
+7.3 We distinguish institution-held access, limited participant sublicenses and direct individual acquisitions. Graduation, employment changes and loss of a school login do not alone erase valid surviving rights. We provide promised privacy-preserving evidence and recovery without disclosing classmates' or coworkers' records. Data-processing and student-privacy duties depend on the actual flow, not merely the educational label.
+
+7.4 If we learn that an account is below the supported minimum age, we restrict the affected account and assess lawful deletion and any necessary safety, notice, evidence or recovery steps. We do not use parental consent as an undisclosed alternative under-sixteen service. Report an age concern to support@shobble.com without sending unnecessary identity documents or suspect content.
+
+8. AI, AUTOMATION AND HUMAN REVIEW
+
+8.1 The accepted AI Framework distinguishes each actor, activity, purpose, input, output, approval and provider condition. Authorized moderation, search, recommendations, transcription or other inference does not itself authorize model development. Private search must stay within the authorized audience. We do not expand a purpose merely because a tool is available.
+
+8.2 Uploading, purchasing, policy acknowledgment and feature use are not training consent. Creator Content and entrusted personal material cannot be used for dataset creation, training, fine-tuning, evaluation, benchmarking, model improvement or voice/style modeling outside an actual purpose-limited Framework permission and the necessary separate rights, agreements, disclosures, privacy basis and retention limits. Verification-only inputs cannot be repurposed for model development.
+
+8.3 No permission authorizes independent provider improvement, other-customer use or unrelated general-purpose/creative-model development from entrusted material. Provider contracts must restrict access, purpose, training, confidentiality, retention and deletion. Reviewing an individual operational result is not authorization to develop or compare models using it.
+
+8.4 Automated systems may support eligibility, moderation, fraud and discovery within actual authority. The specific feature's notices must explain material data inputs, purpose and decision role, and any required meaningful information about logic, significance and likely consequences. A general policy description is not a substitute for that disclosure.
+
+8.5 We provide the explanations, correction, human supervision and review required by law and expressly promised in accepted terms. We do not rely on this notice to authorize a solely automated decision producing legal or similarly significant effects; any such proposed operation needs its own lawful basis, applicable exception, specific notice and safeguards before activation. Afterdark appeals are not decided solely by automation. A human reviewer must be able to assess relevant evidence rather than merely repeat a tool's output.
+
+9. DISCLOSURE, COOKIES AND ADVERTISING
+
+9.1 Necessary providers may process data for hosting/storage/delivery, authentication, payments/payouts, verification, security, authorized moderation, support, communications and actually enabled analytics. Access must be limited to the actual service and appropriate contractual restrictions. A provider's independent statutory activities require its own basis and notice; they are not covered by a general no-reuse label.
+
+9.2 We disclose information to a counterparty or authorized administrator only within their actual role, and make information public only within the selected publication and audience settings. A public post can be copied by recipients outside our control; deletion cannot guarantee erasure from independent lawful copies. Private files and audience-restricted material do not become public because they use the same infrastructure.
+
+9.3 We may disclose necessary information for valid legal process, actual regulatory/reporting obligations, serious safety risks, rights protection and fraud investigation where law permits. We assess authority, scope and proportionality and notify affected people where required and lawful. A report does not justify unrestricted release of the reporter's or accused person's data.
+
+9.4 A genuine merger, financing, acquisition or business transfer may involve necessary due-diligence and successor disclosures under confidentiality and lawful safeguards. A successor remains subject to applicable privacy and contractual obligations. This provision is not permission for an unrelated sale of user lists or silent repurposing.
+
+9.5 Under this Policy, we do not sell personal information or disclose it for cross-context behavioral advertising or targeted advertising as those terms are defined by applicable US privacy law. Advertising reports must use appropriately aggregated or deidentified information rather than expose protected personal activity. We maintain required safeguards against reidentification and do not treat pseudonymous identifiers as anonymous. Any future materially different practice requires accurate advance notices, lawful choices and applicable authority before it begins; a policy edit alone is insufficient.
+
+9.6 Essential cookies and similar technologies support functions such as authentication, security and requested settings. The Cookie Notice and relevant controls must identify actually deployed technologies, purposes, recipients and duration. Nonessential storage/access, analytics, tracking and marketing require the applicable choice before activation. Rejecting or withdrawing optional consent must be available without blocking an independently available core service merely to force consent.
+
+9.7 We honor legally applicable opt-out preference signals, including Global Privacy Control, and required browser/device choices. If no sale, sharing or targeted advertising occurs, the absence of that processing does not negate your other rights. Marketing unsubscribe and privacy requests remain available through support@shobble.com even where a particular setting or portal is not supplied. We do not promise a universal response to every unspecified browser signal.
+
+10. RETENTION, DELETION AND CONTINUING RIGHTS
+
+10.1 Retain personal information only for the identified purpose and necessary lawful period. Our documented schedule must distinguish the following categories; it cannot assign every category indefinite retention:
+
+    Account/authentication records: while needed to provide the account and recover or secure it, followed by only the restricted period necessary for applicable obligations, actual disputes or justified abuse prevention.
+
+    Acquisitions and grant evidence: while necessary to fulfill and substantiate permanent or unexpired rights, recipient grants and associated remedies, with unnecessary profile or activity details removed where possible. Permanent delivery does not justify permanent retention of every usage event.
+
+    Financial/tax/payout records: for the specific applicable tax, accounting, payment, reporting, limitation or legal-hold period, measured from the relevant transaction or event. Unpaid compensation and unresolved claims remain distinct from ordinary analytics.
+
+    Verification records: only the minimum result or evidence legally permitted and needed for the actual eligibility, provider or compliance purpose. Raw inputs remain subject to the provider's disclosed period and any stricter local deletion rule. No universal five-year or indefinite identity-document retention applies.
+
+    Private files and submissions: for the supplied feature and agreed retention/exit process, plus only necessary restricted fulfillment, evidence or legal retention. Assessment, publication, source delivery and account recovery have different purposes.
+
+    Activity/Fund validation records: for the relevant calculation, fraud review and correction/appeal window, then delete or appropriately aggregate details no longer necessary. Preserve required allocation, compensation and carry records separately.
+
+    Security, moderation, support and appeal records: for the active issue and proportionate documented prevention, review, legal or limitation period, with reassessment of continuing need.
+
+    Optional marketing/analytics records: until the authorized purpose ends, consent is withdrawn or a valid objection applies, subject to any separate necessary lawful retention. Keep only minimal suppression information where needed to honor an opt-out.
+
+10.2 Where a definite period is required or can be given for a collection, its specific notice must state that period; otherwise it must explain meaningful criteria and the event from which retention is measured. Provider-specific deletion and backup cycles must be disclosed where material. A legal hold must identify an actual basis, restrict access/use and end when its justification expires.
+
+10.3 We delete or irreversibly deidentify data when its lawful retention ends and instruct restricted providers accordingly. Backups may follow a documented deletion cycle, but retained copies remain access-restricted and unavailable for unrelated processing; restoration must reapply effective deletion/opt-out instructions. A local rule requiring faster deletion controls. We do not promise immediate complete overwriting of every medium.
+
+10.4 Account closure does not require cancellation of surviving acquisitions or erase payment obligations. We explain necessary remaining records, applicable exit retrieval and consequences, and retain only what is required to fulfill or evidence the actual surviving scope. We do not condition every privacy request on surrendering a license. Where a requested deletion necessarily prevents a selected service, explain that specific effect and lawful alternatives rather than assert a universal forfeiture.
+
+11. INTERNATIONAL PROCESSING AND SAFEGUARDS
+
+11.1 Shobble is based in the United States. Data may be processed in the US and other countries in which the actual authorized providers or recipients operate. The applicable provider/transfer disclosures must identify the relevant recipients, processing countries and safeguards before that processing begins; a generic worldwide clause supplies no missing notice or transfer authority. We do not promise regional residency or a particular data center unless expressly supplied for that service.
+
+11.2 Where required, transfers must rely on an applicable adequacy decision, properly executed approved contractual clauses with the correct roles and completed annexes, or another actually available lawful mechanism. Conduct necessary transfer assessments and use supplementary safeguards where required. An ordinary DPA or a statement that clauses exist is not itself an international-transfer mechanism. We do not claim certification under a transfer framework without actual current coverage.
+
+11.3 Ask support@shobble.com for information about relevant processing locations and a copy of applicable transfer safeguards, subject only to necessary lawful redactions. Required transparency cannot be replaced solely by a request route. Unsupported territorial flows must not begin until their actual requirements are satisfied. This Policy does not declare a country served merely by discussing its privacy rights or silently validate an outdated transfer addendum.
+
+12. SECURITY AND INCIDENTS
+
+12.1 We use reasonable, risk-appropriate technical and organizational safeguards and restrict access to authorized purposes. Identity, payment, private-file and adult-account information require controls reflecting their sensitivity. We assess actual providers and instructions, minimize access and respond to credible incidents. No system is perfectly secure.
+
+12.2 We notify affected people, customers, regulators and other required recipients of qualifying incidents under the applicable legal and contractual deadlines. A controller's regulator deadline does not replace a processor's duty to notify its customer without undue delay where required. Reports may be sent to legal@shobble.com; do not publicly expose private data or exploit a vulnerability to demonstrate it.
+
+12.3 Product-specific security, encryption, certification and audit statements must accurately describe the actual feature, scope and current status. A provider's certification does not itself certify Shobble's whole service. We do not guarantee absolute security or anonymity.
+
+13. YOUR RIGHTS AND HOW TO EXERCISE THEM
+
+13.1 Depending on applicable law and the processing, you may request access, confirmation, a copy, correction, deletion, restriction, portability or information about disclosures; object to qualifying processing; withdraw consent; exercise applicable sensitive-data, sale/sharing/targeted-advertising choices; and challenge qualifying automated decisions. Scope and exceptions depend on the actual law. We do not require a new purchase or an Afterdark account to submit a request.
+
+13.2 Contact support@shobble.com or use an actually available relevant setting. Specify the right and information concerned without unnecessarily including sensitive documents. Authorized agents may act with the required authority. We may request proportionate verification for access/deletion or representative authority, but not require identity verification for a statutory opt-out where prohibited. We protect others' information and explain any lawful refusal or limitation and available review.
+
+13.3 For GDPR-covered requests, we respond without undue delay and ordinarily within one month; a legally available extension of up to two further months requires notice within the first month stating the reasons. Access/portability and other rights apply within their statutory scope. You may object to direct marketing at any time, including related profiling, and complain to your competent supervisory authority without first exhausting our internal process.
+
+13.4 Where the CCPA applies, rights include knowing/accessing, correcting and deleting covered information, opting out of sale/sharing, limiting qualifying sensitive-information use and nondiscrimination. For covered requests to know, correct or delete, we confirm receipt within ten business days and respond within forty-five calendar days, with a permitted extension explained when applicable. Covered opt-out and limit requests are implemented as soon as feasible and no later than fifteen business days. We honor legally applicable preference signals.
+
+13.5 Other applicable US state laws may provide comparable rights, targeted-advertising/profiling opt-outs and an appeal of a denied request. Send an appeal to support@shobble.com, identifying the decision. We provide the applicable response period, reasons and regulator complaint route; a shorter or more protective mandatory deadline controls. Lawful service differences directly resulting from a requested deletion or necessary feature withdrawal are explained and are not a penalty for exercising rights.
+
+13.6 Requests are ordinarily free. Any lawful fee or refusal for manifestly unfounded, excessive or qualifying repetitive requests requires its actual legal basis and explanation, not a penalty for criticism or an unsuccessful first request. We retain minimal request and suppression records necessary to document compliance and avoid undoing your choices.
+
+13.7 Categories, purposes, sources and ordinary recipients appear in Sections 2–9, and category-specific retention criteria in Section 10. Where required, the collection notice and regional disclosures must additionally state actual collection, disclosure, sale/sharing and sensitive-data practices for the relevant preceding twelve months. New commitments are not represented as proof of historical practices. No financial-incentive or data-for-discount program is created by this Policy; any such program requires its own accurate notice and lawful choices.
+
+14. UPDATES
+
+14.1 We identify the version and update date and keep prior applicable versions available. Material changes ordinarily receive at least thirty days' advance notice through an appropriate accessible route, unless a different lawful period or urgent legal/security action applies. Contractual privacy commitments also follow applicable agreement requirements. A shorter operational notice cannot remove a longer mandatory or accepted protection.
+
+14.2 We obtain required consent or other authority before a new purpose, sensitive-data use, optional tracking or material processing change begins. Publication, continued use, renewed Creator acceptance or a changed provider setting alone does not authorize it or rewrite an acquisition's accepted AI terms. Current mandatory law retains its effect. We review notices for accuracy and update them at least annually where required.
+
+END OF PRIVACY POLICY
+

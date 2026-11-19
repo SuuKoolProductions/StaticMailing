@@ -2,10 +2,8 @@ DMCA POLICY ADDENDUM
 
 (Notice-and-Takedown Procedure)
 
-Effective Date: December 29, 2025
-Last Updated: May 11, 2026
-
-Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+Effective Date: November 16, 2026
+Last Updated: November 16, 2026
 
 This DMCA Policy Addendum (“DMCA Policy”) governs copyright-related notices, counter-notices, takedowns, restorations, and repeat-infringer measures on the Platform. It is incorporated into and forms part of the Master Terms of Use (“Terms”). Capitalized terms not defined herein have the meanings given in the Terms.
 
@@ -19,15 +17,12 @@ Pursuant to 17 U.S.C. § 512(c)(2), notices of claimed copyright infringement mu
 
 Designated Agent:
 Shobbl Incorporated – Copyright Agent
-Email: dmca@shobble.com
+Email: dmca@shobbl.com
 
 Mailing Address:
 Shobbl Incorporated
-Attn: Legal
-404 S Boulder Hwy
-P.O. Box 90484
-Henderson, NV 89009
-United States of America
+Attn: Copyright Agent
+[Insert Physical Address]
 
 Notices sent to other addresses or channels (including customer support or in-app messaging) may not be received or processed.
 

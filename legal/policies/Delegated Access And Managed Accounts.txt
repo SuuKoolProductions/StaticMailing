@@ -1,125 +1,131 @@
-Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+SHOBBLE DELEGATED ACCESS & MANAGED ACCOUNTS POLICY
 
-Delegated Access Policy
+Version: 1.1
+Effective date: November 16, 2026
+Application: This Policy applies through Shobble's designated valid acceptance process to the identified managed-access arrangement. It replaces the earlier Delegated Access & Managed Accounts Policy for that accepted scope without retrospectively rewriting acquisitions, participant grants or accrued rights.
 
-1. Purpose and Scope
+1. PURPOSE AND DOCUMENT RELATIONSHIPS
 
-This Policy governs limited delegation of access to eligible licensed digital content, account administration, or institutional use cases by an authorized account holder, business administrator, or educational institution (“Manager”) to eligible users (“Delegated Users”) where Shobble supports such functionality.
+1.1 Shobbl Incorporated, doing business as Shobble (Shobble, we), provides the Platform. This Policy governs supported personal, household, educational and organizational access administration. It covers parents, legal guardians, educators, institutional and organizational administrators, authorized users and other actually covered participants across supported content formats.
 
-This Policy is designed to support controlled household, business, and educational use of licensed content while preserving compliance with applicable law, third-party license terms, age rules, and platform governance requirements.
+1.2 The accepted Master Terms govern remaining Platform matters. Each selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record governs only that acquisition's holder, scope, Capacity, participants, duration and protected commitments. This Policy administers permission already granted; it creates no fifth license, automatic household entitlement, general Seat scheme or new sublicense. Each license remains limited to its own scope.
 
-This Policy does not authorize accounts for users below the minimum Platform account age and does not override the Master Terms of Use, Content Classification Policy, Age Rating policies, or any feature-specific eligibility requirements.
+1.3 The accepted AUP, Community Content Guidelines, AI Framework and applicable feature rules retain their actual subjects. Afterdark access and exclusions follow Section 3. Financial and processing obligations require their own actual legal or accepted basis. Mandatory law, independent component/public licenses, independently lawful-use protections and the acquired-rights baseline remain. No general management setting overrides them.
 
-2. No Ownership Transfer
+1.4 Shobble must make the applicable fixed terms accessible before acceptance and retain the accepted package. Material access limits must be disclosed before acquisition or acceptance of an affected additional service. A later roster entry, credential, receipt or internal note cannot supply missing rights, authority or assent.
 
-Delegated access does not constitute a sale, transfer, assignment, or conveyance of ownership or license rights.
+2. HOLDERS, MANAGERS AND RECIPIENT RIGHTS
 
-All licenses remain held exclusively by the Manager, the relevant institution, or the original license holder.
+2.1 The Holder is the individual or legal entity identified as receiving the acquisition. A Manager is a person authorized to perform specified management functions for that Holder or another eligible participant. A Delegate receives only the access actually authorized for that person and role. Payment, account creation, an email domain, enrollment, employment or parent status alone does not determine who holds an acquisition.
 
-Delegated Users are permitted users only and acquire no ownership, transfer, sublicensing, resale, monetization, payout, or payment-enabled creator rights in any licensed content.
+2.2 Distinguish these arrangements:
 
-3. Delegated Access Eligibility
+    Personal delegation: A Holder permits another eligible person to access material within an expressly included household or personal managed-access arrangement. Delegation alone creates no independent permanent acquisition.
 
-Managers may delegate access only where:
+    Institutional or organizational participation: The identified institution or organization holds the acquisition and assigns eligible participants within its acquired scope and Capacity. Assigned access does not itself transfer the underlying grant to them.
 
-the Manager is the lawful holder or administrator of the applicable license;
+    Limited recipient sublicense: A participant or Client receives rights through an effective sublicense actually authorized by the controlling acquisition, including any specified output, portfolio, publication or maintenance rights.
 
-the applicable license terms permit household, institutional, or delegated use;
+    Independent recipient acquisition: The learner, child, employee, Client or other identified person holds their own direct acquisition through actual grant authority and required acceptance, even if someone else pays for or administers it.
 
-the Delegated User independently satisfies the Platform’s minimum account age and any applicable feature-specific eligibility requirement;
+2.3 A limited sublicense is not necessarily an independent acquisition, and an independent acquisition is not converted into institutional property by roster inclusion. Each route must identify the grantor, actual recipient, covered material or outputs, permitted acts, conditions, duration and survival. Managers cannot assert another person's assent, transfer their copyright or surrender independent rights without actual authority.
 
-access is configured in accordance with Platform controls and policies; and
+2.4 Personal household access requires its actual product permission. Ordinary private co-located enjoyment permitted by a Personal Use license is distinct from another person's remote account, independent copy or source access. Commercial project collaborators and authorized Client deliverables do not require another purchase solely to duplicate participation already granted; they do not create a general organizational source pool.
 
-the content made accessible is appropriate for the Delegated User in accordance with the Platform’s Age Rating and Content Classification policies.
+3. ELIGIBILITY, AGE AND AFTERDARK
 
-Delegated access is non-exclusive, revocable, and limited to personal, institutional, or internal use unless expressly permitted otherwise.
+3.1 General Shobble use requires age sixteen or older, subject to higher ages, regional restrictions and feature eligibility. Eligible users below legal majority need legally required parental or guardian permission and applicable privacy safeguards. A managed account, educator, homeschool arrangement or educational license does not create an under-sixteen exception or establish contractual capacity for every feature.
 
-4. 18+ Feature Restrictions
+3.2 A Manager must have actual authority for the specific management, procurement or representative act. An educator is not automatically a parent, an institutional purchaser or the owner of student work. An employee or first administrator is not automatically authorized to bind every affiliate or claim personal acquisitions. Shobble may require proportionate evidence through the designated process, with a correction route.
 
-Delegated access does not permit any user under eighteen (18) to access or use:
+3.3 Afterdark requires each actual user to hold a separate account, validly accept its Policy, verify an age of at least eighteen and meet any higher local requirements before activation or use of its account features. No parent, household, school, employer, gift or delegation bypasses that process. Public nonexplicit policies, reporting, privacy requests and support require no Afterdark account.
 
-restricted or adult-oriented environments;
+3.4 Do not offer new Afterdark Enterprise or Educational acquisitions, renewals, expansions, institutional pools or delivery through those license types. A managed-access setting cannot convert an excluded offering into an eligible one. Any otherwise supported Afterdark personal or commercial participation remains subject to each person's eligibility, actual grant, blacklist choices and audience controls. Existing valid acquisitions and surviving outputs retain the accepted Policy's safeguards without requiring unlawful delivery.
 
-monetization tools;
+3.5 Do not share credentials, impersonate a participant, falsify authority or bypass age, region, blacklist, account or capacity restrictions. A supported authorized-user invitation or assignment is distinct from giving someone a Holder's login.
 
-payouts or creator earnings features;
+4. CAPACITY AND COUNTING
 
-payment-enabled creator functionality; or
+4.1 Apply the actual selected license and accepted measure. Named people, concurrent sessions, devices, installations, activations, learner places, sites, cohorts, institutional scope, loans and consumption units are different metrics. The accepted terms must identify the relevant quantity or expressly unlimited scope, products, population or Pool, periods, aggregation and exhaustion effect. No universal one-active-user-one-license rule applies.
 
-any other feature Shobble designates as requiring adult eligibility, identity verification, or age verification.
+4.2 Mere procurement, billing, roster assignment, security administration or reading license records does not consume a content-use Seat unless a clearly accepted applicable product term provides otherwise. Actual authoring, execution or other metered content use follows its selected measure. Where the acquired Educational measure is learner places, necessary covered teaching, assessment and support roles do not reduce that learner count or trigger an unaccepted charge. Do not import one license's role or counting defaults into another.
 
-5. License Quantity Limits
+4.3 Receiving an authorized Finished Product or viewing a permitted portfolio does not itself consume a source or authoring Seat. Ordinary technical copies, accessibility support and purpose-limited builds or rendering do not consume human-user Seats merely because they exist; any separate service-account, build-agent, server or consumption measure must be actually stated. A service account cannot conceal multiple unlicensed users.
 
-Delegated access is subject to license quantity limits.
+4.4 Administrators must keep allocations within the acquired products, population, entities, locations and periods. Do not spend the same unit in incompatible assignments simultaneously. Named-person assignments cannot be rotated at every session to create an unacquired floating pool. A site-wide or institution-wide grant acquires no hidden per-user cap; permanent access does not make a course- or quantity-limited grant unlimited.
 
-Each active user of a licensed item (including Managers and Delegated Users) counts toward the total number of licenses owned where applicable.
+4.5 Offline reservations, concurrent-session release, activation resets and loan periods follow their disclosed rules. A reserved floating unit is not also available elsewhere while still allocated. Shobble must provide a reasonable route to correct stale sessions, erroneous counts, mistaken activations and invalid restrictions. Technical approximations do not amend the legal metric or themselves terminate a grant.
 
-If the number of Delegated Users accessing a licensed item exceeds the number of licenses held, the Manager must acquire additional licenses to remain in compliance.
+5. ASSIGNMENT, REASSIGNMENT AND MANAGEMENT
 
-The Platform may restrict, suspend, or revoke access where license limits are exceeded.
+5.1 Use supported controls or the applicable support route to assign or withdraw access within actual authority. Record the affected person or allocation, acquisition, material, scope, period and managing authority. Assignment implements the controlling grant rather than replacing its terms or changing its Holder.
 
-No license may be shared concurrently beyond the number of copies owned, unless expressly permitted by the licensor.
+5.2 Legitimate staff replacement, role change, leave, add/drop changes, roster correction, device replacement and recovery must have a reasonable route without repurchasing the same valid Capacity. The prior allocation must end before incompatible replacement use unless an accepted overlap allowance applies. Actual named-user, anti-rotation or other restrictions retain their stated scope; no undisclosed fixed cooldown, minimum tenure or transfer quota is added here.
 
-6. Manager Responsibilities
+5.3 A Manager may withdraw only delegated access within their actual authority. That does not revoke the Holder's underlying acquisition, another participant's unrelated rights or an effective surviving sublicense. A Manager may administer a recipient-held acquisition only within their actual representative role; removing management does not transfer the recipient's acquisition to the Manager.
 
-Managers are solely responsible for:
+5.4 Managers must use accurate eligibility and allocation information, communicate material limits to affected participants, configure appropriate permissions, protect credentials and promptly remove obsolete administrative privileges. Participants must remain within their actual permissions. Each party is responsible for its own duties; this Policy imposes no blanket personal liability on educators, guarantee against all misuse or release of Shobble's own obligations.
 
-ensuring compliance with all applicable license terms;
+5.5 Representatives and administrators cannot authorize unrelated access to private accounts or files, new content uses, broader source distribution, AI processing or financial charges merely by holding an administrative role. A new permission, Holder transfer or obligation requires actual authority and acceptance under the controlling instrument.
 
-supervising delegated access and use;
+6. GRADUATION, DEPARTURE AND SURVIVING RIGHTS
 
-configuring appropriate permissions and restrictions;
+6.1 Reaching legal majority, leaving a household, graduating, ending enrollment, changing employment or losing a school or employer login does not automatically change the Holder, create a new acquisition or cancel existing rights. Assess each affected access permission and grant separately.
 
-revoking access when required; and
+6.2 An assignment, enrollment, loan or membership period may end the affected institutional or delegated access under its accepted conditions. The institution's or organization's Permanent Acquisition or Permanent Capacity remains within its actual scope. A reusable resource may serve later groups only where the acquired terms permit it; retaining it does not expand a named-cohort grant.
 
-ensuring that Delegated Users do not engage in prohibited conduct, including resale, sublicensing, monetization, payout activity, or access to restricted environments for which they are not eligible.
+6.3 Where a recipient already holds a direct permanent acquisition, transition to independent administration must preserve that acquisition through appropriate verification and recovery. Where only personal delegation exists, continued access after management ends requires actual continuing authorization or a new valid grant if none already exists. There is no undisclosed automatic grace period, repurchase fee or conversion into another license type.
 
-The Platform is not responsible for misuse arising from delegated access.
+6.4 Authorized Finished Assignments, portfolios, Client products, publication, maintenance, assessment copies and evidence archives survive only as actually granted. Source-access or affiliation expiry does not automatically cancel them or require destroying all lawful outputs. Survival does not authorize new source access, broader release, expired exploitation or use of rights the grantor did not control.
 
-7. Retraction and Revocation of Access
+6.5 An institution issuing an authorized participant sublicense must effectively communicate its scope and conditions and record the actual grant through the supported process. Later identification of a recipient within a pre-authorized class implements existing authority; it does not create undisclosed charges or expanded rights. A new direct learner acquisition must have its own actual grant basis and required acceptance.
 
-Managers may retract delegated access at any time through Platform controls.
+6.6 Shobble will provide the readable, privacy-preserving scope records or certificates promised by the selected license to the relevant party or authorized representative. A missing certificate, former administrator's departure or loss of an old login does not itself cancel an effectively granted right. Evidence retrieval and correction must avoid exposing unrelated participants, buyer information or confidential files. A certificate evidences rights; it creates none that were never granted.
 
-The Platform may also revoke or suspend delegated access without notice where:
+7. RECOVERY, TRANSFERS AND CONTINUITY
 
-license limits are exceeded;
+7.1 Shobble will provide a reasonable process to restore permitted access after an identity error, compromised credentials, administrator departure, device replacement or identity-provider failure. Verify the actual Holder and representative authority proportionately. Domain control or being the first requester alone is insufficient to take another person's or entity's acquisition.
 
-the Manager’s account is suspended or terminated;
+7.2 A same-Holder name, contact, administrator, assignment or recovery correction is not resale or transfer and requires no repurchase merely to restore the valid grant. Transfer to a different legal Holder, including actual entity succession, requires the controlling transfer permission, necessary consent or independent legal basis. A gift, redemption or independent learner transition must identify its actual recipient, scope, authority and acceptance.
 
-a Delegated User violates Platform policies;
+7.3 Permanent content, Permanent Capacity, timed content, individual assignments, source access, production, output exploitation and optional services may have different periods. Ending a separately timed service or allocation does not itself cancel an enduring entitlement. The selected license must supply the applicable continuing-access or administration route; no undisclosed ongoing membership may be imposed as its only route.
 
-required verification cannot be completed or eligibility cannot be confirmed; or
+7.4 Shobble may change supported administrative or delivery technology while preserving acquired scope and materially promised functionality. It must provide applicable notice, reasonable recovery and lawful usable alternatives or the selected license's express remedy if promised continuity cannot be supplied. A library entry, expiring credential or unusable file is insufficient where the accepted promise requires usable access or administration. No ordinary purchase-age cutoff is invented for an express continuity remedy.
 
-continued access would violate law, regulation, platform policy, or licensor requirements.
+8. PRIVATE MATERIAL, AUTHORITY AND PROCESSING
 
-Revocation of access does not entitle any user to a refund, replacement, or continued availability.
+8.1 Student, employee and other contributors retain rights in their work as determined by law and actual agreements. Enrollment, employment, submission or management alone does not transfer copyright to Shobble, a Manager or an institution. Included third-party material retains its own scope.
 
-8. Educational and Institutional Accounts
+8.2 Manager access to private submissions, annotations, saves, grades, messages or activity must be limited to the actual authorized role and lawful purpose. Shobble must disclose material administrative visibility before the affected use. A school or employer account does not make every personal file or communication available to administrators; institutional authority is not blanket parental consent.
 
-For educational or institutional access, the institution remains the license holder or administrator unless otherwise stated in writing.
+8.3 Use only necessary lawful identity, roster and access records. The relevant Privacy Notices and actual processing instruments must identify purposes, roles, recipients, retention, transfers and rights. Where Shobble processes for an institution or customer, any required data-processing arrangement must cover that actual flow before it proceeds. This Policy is not a substitute for that instrument or a universal student-privacy compliance certification.
 
-Access is limited to the duration of enrollment, employment, membership, or authorization and terminates upon unenrollment, withdrawal, role change, or institutional revocation.
+8.4 Private assessment, support or administration does not authorize public promotion, unrelated commercialization, model development or provider reuse. Actual AI operations require the accepted Framework and independent rights and privacy authority. Management permission, an accessibility request or an institutional label supplies no AI exception.
 
-Educational or institutional access does not authorize monetization, payout eligibility, payment-enabled creator tools, or restricted/adult-oriented environment access for users who are not otherwise eligible.
+8.5 On exit, provide entrusted-file retrieval, available export and evidence access within the actual supplied features, accepted commitments and applicable law, with a reasonable opportunity and protection of others' rights. No general workspace, unlimited storage or unoffered export capability is promised. Restricted legal holds and backups permit no unrelated reuse; necessary retention must remain purpose-limited.
 
-9. No Expectation of Permanence
+9. RESTRICTIONS, REVIEW AND REMEDIES
 
-Delegated access is inherently temporary and conditional.
+9.1 Credible excess use, fraud, compromised administration, eligibility concerns or legal/safety risks may justify a proportionate interim restriction on affected access. Explain material facts, basis, scope, duration or release conditions and review where lawful. A disputed signal, verification lapse or allegation alone is not final invalidation or authority for indefinite confiscation.
 
-Users should not expect delegated content to remain accessible indefinitely, including after account changes, license expiration, role changes, or Manager revocation.
+9.2 Curable material breaches receive the notice and reasonable correction opportunity required by the Master Terms and selected license. Urgent lawful measures may precede notice where justified, with required subsequent review. Where a count is wrong or an allocation can be corrected, provide that route rather than automatically demanding a new purchase or cancelling the whole library.
 
-10. Consumer Disclosure
+9.3 A Manager's or participant's account sanction does not automatically revoke an institution's grant, an independent acquisition or another person's rights. Assess affected permissions, lawful continuing access, recovery and alternatives separately. Shobble must correct errors and restore valid access after overturned decisions. No obligation requires unlawful supply or an age-gate bypass.
 
-The Platform may display notices, labels, or prompts indicating:
+9.4 Withdrawal of delegation does not itself entitle a Delegate to acquire the Holder's license or receive its purchase price. It also does not eliminate the actual purchaser's or recipient's statutory rights or express remedies. Refund accounting, rescission, content rights and surviving recipient grants require their own actual basis. A representative cannot surrender another person's rights without authority.
 
-that content is accessed via delegated authorization;
+9.5 This Policy authorizes no payout forfeiture, unrelated setoff, invasive device inspection or remote deletion of lawful copies. Financial obligations and lawful retention follow their actual instruments. Reports and review follow the AUP, Master Terms, applicable feature commitments and law without shortening specific deadlines or requiring formal litigation notice for ordinary support.
 
-that ownership has not transferred; and
+10. CHANGES AND CONTACT
 
-that continued access is subject to change.
+10.1 Changes follow the Master Terms' actual notice, effective-date and acceptance process, ordinarily including at least thirty days' advance notice of material adverse changes unless another lawful period or urgent legal/security requirement applies. Publication or continued use alone does not replace required assent. Keep accepted versions and material assignment/correction history retrievable.
 
-Such disclosures are provided to ensure transparency and compliance with consumer-protection standards.
+10.2 Changes govern their valid prospective scope without silently replacing acquisitions, participant grants, accepted AI sets or accrued financial obligations. Refusal of optional successor terms alone does not forfeit existing rights. Current mandatory law, justified urgent restrictions and surviving fulfillment, confidentiality, evidence and remedy duties retain their proper effect.
 
-11. Reservation of Rights
+Support, delegation, reassignment, recovery, records and privacy requests: support@shobble.com
+Legal concerns and content reports: legal@shobble.com
 
-The Platform reserves the right to modify, restrict, or discontinue delegated access features at any time to maintain compliance with legal, regulatory, technical, safety, or licensor requirements.
+Use the applicable published statutory-notice route where formal requirements apply. Public nonexplicit support and reporting need no Afterdark account. Shobble will provide a reasonably accessible successor if a contact route changes.
+
+END OF POLICY
+

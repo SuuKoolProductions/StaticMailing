@@ -1,8 +1,8 @@
 import Link from "next/link";
 import {
-  POLICY_LAST_UPDATED_DISPLAY,
   extractBodyHtml,
   formatPlaintextPolicyForDisplay,
+  pickHeaderValue,
   type PolicyDoc,
 } from "@/lib/policies";
 
@@ -18,6 +18,7 @@ export function PolicyDocument({
   const body = type === "html"
     ? extractBodyHtml(formatPlaintextPolicyForDisplay(raw))
     : formatPlaintextPolicyForDisplay(raw);
+  const dated = pickHeaderValue(raw, "Last updated") || pickHeaderValue(raw, "Effective date");
 
   return (
     <article className="legal-prose">
@@ -25,8 +26,7 @@ export function PolicyDocument({
         <div className="legal-card-head">
           <h2>{title}</h2>
           <p>
-            Last Updated: {POLICY_LAST_UPDATED_DISPLAY}
-            {" · "}
+            {dated ? <>Last updated: {dated}{" · "}</> : null}
             <Link href="/terms">Terms of Use</Link>
             {" · "}
             <Link href="/policies">All policies</Link>

@@ -1,6 +1,5 @@
 import Link from "next/link";
 import {
-  POLICY_LAST_UPDATED_DISPLAY,
   buildPolicyHrefIndex,
   formatPlaintextPolicyForDisplay,
   getHrefForPolicyLine,
@@ -58,7 +57,6 @@ export function TermsDocument({
         </p>
         <div className="legal-meta">
           {effectiveDate ? <span><strong>Effective</strong> {effectiveDate}</span> : null}
-          <span><strong>Updated</strong> {POLICY_LAST_UPDATED_DISPLAY}</span>
           {governingLaw ? <span><strong>Governing law</strong> {governingLaw}</span> : null}
         </div>
         <div className="legal-actions">

@@ -1,167 +1,127 @@
-AI USE-CASE POLICY
+SHOBBLE AI USE CASE POLICY
 
-Effective Date: December 29, 2025
-Last Updated: May 11, 2026
+Version: 2.1
+Effective date: November 16, 2026
+Schedule: AI Use Case Schedule v1.0, including its published Errata in the exact retained accepted release. The internal Integrations sheet is excluded.
+Application: This Policy applies through Shobble's designated valid acceptance process to its identified processing or acquisition scope. It replaces the earlier AI Use Case Policy for that accepted scope without silently amending historical acquisitions or authorizing new uses of previously entrusted material.
 
-Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+Shobbl Incorporated, doing business as Shobble (Shobble, we), supports human-authored creative work and protects creator authorship, livelihoods and licensing integrity. Generative use of Platform Content is prohibited by default. Non-generative machine learning also requires express authorization. The Schedule supplies activity-specific classifications; this Policy supplies their universal conditions. Neither is proof of underlying rights.
 
-This AI Use-Case Policy (“Policy”) governs the use of artificial intelligence, machine learning, and automated systems in connection with content made available on the Shobble platform (“Platform”).
+1. SCOPE AND DOCUMENT RELATIONSHIPS
 
-This Policy applies to all users, creators, developers, partners, and third parties who access, use, or interact with the Platform or any content made available through it (“Content”).
+1.1 This Policy governs content submitted to Shobble, processing of material obtained through Shobble, Shobble's AI features and authorized provider processing. It applies to participating users, Creators, developers and partners and establishes Shobble's stated obligations. Shobble must obtain actual provider participation and enforceable restrictions; public policy text alone does not bind an unnamed provider.
 
-This Policy is incorporated by reference into the Master Terms of Use and operates alongside the Creator Content License Agreement, Acceptable Use Policy, Music Licensing Policy, Monetization Addenda, and any feature-specific rules. In the event of conflict, the Master Terms control.
+1.2 Content means material made available through the Platform. Creator Content means material submitted or licensed by a Creator. User Data and Content includes entrusted or collected uploads, private files, account information, communications, metadata and derived records containing or reflecting that material. Public, private, paid, free, general-platform and Afterdark material retain their actual rights and purpose limits.
 
-1. DEFINITIONS
+1.3 Apply the Master Terms' subject-specific coordination and protected acquisition baseline. Each selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record governs only that acquisition. The Creator Content License Agreement governs creator operational authority and surviving fulfillment. This Policy and the accepted Schedule govern contractual AI within underlying rights; privacy, processing, transfer and feature instruments govern their actual subjects and parties. No general priority clause or stricter-restriction shortcut imports another license family, supplies missing assent or overrides independent component/public licenses.
 
-For purposes of this Policy:
+1.4 Publication, audience access, advertising and monetization remain separate eligibility decisions under the AUP, Community Content Guidelines, Afterdark Policy and actual feature terms. No license label, approval badge, fee payment, membership or technical feature supplies every required permission. The deprecated Music Licensing Policy, Asset Store Terms and legacy AI policy are not additional authorities for new participation governed by this version.
 
-1.1 Generative AI
+1.5 The exact accepted Policy, Schedule and published Errata must be accessible before acceptance and retained afterward. Distinguish Shobble's Creator operational set from each buyer acquisition's authorized set; map different components and purposes expressly. A later Creator agreement, live Schedule edit or new provider setting does not silently replace the buyer's accepted terms.
 
-“Generative AI” means any system designed to generate new expressive content, including text, audio, visual, or interactive works, that substitutes for, imitates, or replicates human creative output.
-This includes, without limitation, large language models (LLMs), diffusion models, generative adversarial networks (GANs), voice or likeness models, style-transfer systems, and similar technologies.
+2. HOW SCHEDULE CLASSIFICATIONS WORK
 
-1.2 Non-Generative Machine Learning
+2.1 Read each activity's eligible actor, purpose, inputs, output, boundary, Outcome and contextual Errata together. Apply these meanings:
 
-“Non-Generative Machine Learning” means machine learning techniques used solely for analysis, optimization, simulation, classification, testing, moderation, accessibility, fraud prevention, or operational support, where such techniques do not produce expressive, creative, or substitutive outputs.
+    Permitted within stated scope: The activity may proceed only within its boundaries and these universal requirements.
 
-1.3 Expressive or Substitutive Output
+    Conditional: The stated agreements, approvals, feature requirements and other conditions must be verified before processing.
 
-An “Expressive or Substitutive Output” is any output that:
+    Pending: The activity has not been approved.
 
-replaces or competes with human-authored creative works;
+    Unavailable: Required scope or conditions have not been established.
 
-imitates artistic style, voice, narrative, or visual identity; or
+    Prohibited: The activity is not permitted.
 
-could reasonably be consumed as creative content rather than operational output.
+A more specific Outcome must be read with its stated conditions. An express named exception overrides only its named restriction and scope.
 
-2. PLATFORM-LEVEL POSITION
+2.2 Every workflow stage and affected component must independently qualify. A permitted final format does not authorize a prohibited preparation step; changing a category, tool, description or delivery method does not expand permission. Analysis is not automatic authority to make expressive edits. Human retyping, tracing, performance or review does not launder prohibited generation.
 
-Shobble is a human-authored, compliance-first platform.
+2.3 A classification is not proof of rights, completed approval, privacy authority, provider participation or upload eligibility. Shobble-only is not buyer permission. Possession of an underlying file or a separate music, sample, remix or accessibility grant does not activate an unapproved AI operation.
 
-The Platform is designed to support lawful creative expression, distribution, and monetization without enabling the extraction, replication, or replacement of creator labor through generative systems.
+2.4 Apply the accepted subject-specific hierarchy, this Policy and the Schedule's boundaries together, including ERR-014. Unresolved scope or conflicting requirements create no permission for the disputed activity. Seek clarification through Section 8 while preserving unaffected uses and independently applicable rights.
 
-As such:
+2.5 Internal Integrations work orders, votes, proposed edits, ownership assignments and administrative evidence are not incorporated permissions. Feature availability or completion of an internal task does not itself activate a conditional, Pending, unavailable or prohibited activity. This revision does not change the Schedule's activity Outcomes or published Errata.
 
-Generative AI use of Platform Content is categorically disfavored and prohibited by default.
+3. AUTHORITY, LAWFUL USES AND UPLOAD ELIGIBILITY
 
-Non-Generative Machine Learning is permitted only in narrow, expressly authorized contexts.
+3.1 Before processing or submitting material, hold the actual rights or other supportable legal basis needed for the operation and intended use. A Rights-holder holds those specific rights; authority over one component does not clear a recording, composition, character, performance, personal data or other independently controlled component.
 
-3. PROHIBITED AI USES (ABSOLUTE)
+3.2 Do not submit content created or modified through prohibited, Pending or unavailable AI activities unless an express Schedule permission covers that operation and intended submission. Incorporated components within mixed media must qualify. Shobble's moderation, verification, search, recommendation or model-development permission does not establish a user's upload permission.
 
-Unless expressly authorized through a separate, written agreement executed by Shobble, the following uses are strictly prohibited:
+3.3 Permitted critical display, competent human-reviewed coding assistance, bounded technical outputs and other express exceptions remain available within their exact actor, purpose, audience and output limits. Internal placeholders must remain identified and internal and be removed or replaced before the stage the Schedule specifies. Ordinary predetermined non-AI operations remain subject to their actual licenses and restrictions; computation alone is not AI generation.
 
-3.1 Generative AI Training and Operation
+3.4 Public access, purchase, possession or a public-license label does not establish compliance with every applicable restriction. This Policy does not rewrite independent public licenses or restrict nonwaivable rights. It also preserves the selected license's express protection for independently lawful uses of acquired material: where that license promises not to treat an independently lawful use as contractual breach, general AI wording cannot silently remove that promise. Not every otherwise lawful use is nonwaivable; actual independent contractual duties, privacy, access and publication restrictions must be considered separately.
 
-Using any Content to:
+3.5 Processing permission does not independently grant publication, distribution, resale, sublicensing, source sharing, performer consent or a privacy legal basis. NoAI commitments, confidentiality, required notices and other actual obligations remain within their valid scope. An infringement allegation, automated match or policy violation is not itself a final court determination.
 
-train, fine-tune, validate, evaluate, or benchmark Generative AI systems;
+4. NO UNAUTHORIZED MODEL DEVELOPMENT OR REUSE
 
-operate Generative AI systems that produce expressive or substitutive outputs;
+4.1 No one may use User Data and Content for model development outside an express purpose-limited Schedule exception for Shobble or a specifically authorized provider, subject to Section 3.4. Model development includes dataset preparation, training, fine-tuning, evaluation, benchmarking, improvement and updates. Operational inference or inspection of an individual result does not independently authorize these activities.
 
-generate synthetic text, images, audio, music, dialogue, assets, or interactive content.
+4.2 An exception requires verified authorization for the exact activity, downstream model purpose, eligible actor, inputs, data scope, necessary rights, processing authority, required approvals and retention limits. Supporting dataset or evaluation steps require an independently authorized model purpose; they are not a separate general permission. An undefined synthetic-output scope remains unavailable until validly resolved.
 
-3.2 Dataset Creation and Model Inputs
+4.3 Shobble will not use Creator Content for generative AI training or operation, AI dataset creation, or style, voice or content modeling unless the Creator receives specific disclosure and expressly consents through a separate agreement, and the Schedule permits the activity. This applies regardless of visibility or access level. Internal approval, uploading, purchasing or accepting this Policy is not training consent.
 
-Extracting, aggregating, or compiling Content (including assets, metadata, stems, or derivatives) into datasets for AI or machine learning use;
+4.4 Creator authorization does not replace required personal-data legal bases, additional sensitive-data conditions, notices or consent. Where data-protection consent is used, applicable refusal and withdrawal rights remain. General-purpose or creative-model development using entrusted User Data and Content, independent provider improvement, other-customer use and unrelated reuse are not authorized by any exception.
 
-Creating embeddings, weights, feature vectors, or latent representations derived from Content for generative or substitutive purposes.
+4.5 Verification-only documents, recordings, biometric representations and results cannot be repurposed for model development. Necessary review of an individual verification result retains its exact operational scope. Calling a new use quality assurance, security, research or service improvement supplies no missing authorization.
 
-3.3 Style, Voice, and Likeness Modeling
+5. PURPOSE, PROVIDERS, RETENTION AND TRANSFERS
 
-Training or operating systems intended to imitate artistic style, narrative voice, musical performance, vocal characteristics, or creative identity;
+5.1 Shobble and authorized providers may process only necessary User Data and Content for the expressly authorized purpose and lawful period. Inputs, copies, logs, embeddings, datasets, models and other artifacts need documented scope and retention limits. They must not be kept merely because they may be useful later.
 
-Voice cloning, likeness synthesis, or identity modeling based on Platform Content.
+5.2 When the authorized retention ends, delete or lawfully deidentify material under the applicable schedule and actual technical conditions. Residual backups must remain access-restricted, unavailable for operational reuse and subject to scheduled deletion; restoration must reapply effective deletion instructions. A legal hold is limited to its actual basis and ends when that basis expires. Models and datasets developed under an exception remain confined to the approved purpose; no independent third-party dataset or model release is authorized.
 
-3.4 Circumvention and Shadow Use
+5.3 Hosted services, contractors and subprocessors require actual participation authorization and written restrictions covering access, purpose, training, confidentiality, retention, deletion, security and necessary assistance. Approved provider controls do not establish activity eligibility. A provider may not independently retain inputs or outputs for improvement, advertising or other customers under a generic service clause.
 
-Using Content indirectly, through intermediaries or proxies, to evade this Policy;
+5.4 The Privacy Policy explains personal-data categories, sources, purposes, legal bases, recipients, locations, retention and rights. The applicable processing and International Data Transfers & Safeguards instruments must cover actual roles, countries and restricted transfers before processing. A DPA or transfer clause supplies no new AI purpose, content right or training consent. Required public disclosures cannot be replaced solely by an internal record.
 
-Claiming public availability, Creative Commons designation, or technical accessibility as justification for prohibited AI use.
+5.5 Private files, assessment material, annotations, account links and restricted history stay within their authorized audience and purpose. Administrator status, an institutional contract, a parent or a paid service is not blanket authority over another person's data or work. Creator Fund activity and allocation reports must preserve its contributor-confidentiality rules; moderation or analytics permission does not authorize exposing contributors to Creators.
 
-4. CONDITIONAL USE: NON-GENERATIVE MACHINE LEARNING
-4.1 Permitted in Principle
+5.6 Sensitive, biometric, adult-verification and minor-related information require the additional safeguards and lawful conditions applicable to that processing. Result tokens and pseudonymous identifiers do not evade stricter collection, identification or deletion limits. Afterdark profile separation and limits on sensitive-data advertising remain; no general AI permission authorizes cross-service profiling.
 
-Non-Generative Machine Learning may be permitted where all of the following are true:
+6. COLLECTION AND PROTECTIVE MEASURES
 
-the use does not produce expressive, creative, or substitutive outputs;
+6.1 Do not scrape, harvest, extract or systematically collect User Data and Content without actual authorization, subject to Section 3.4. Viewing permission, an absent barrier or a robots allowance is not a collection license. Authorization must cover the restricted method and any necessary processing or provider role.
 
-the use does not involve dataset creation or reuse beyond the authorized scope;
+6.2 Do not knowingly evade applicable access controls, access-controlling encryption, capture restrictions or rate limits, or neutralize protective transformations such as poisoning or cloaking to enable prohibited collection, training or reuse. Machine-readable reservations apply within actual authority and law; they do not override an expressly authorized integration or independently applicable right.
 
-the use is expressly authorized by the applicable license, Platform feature, or written approval.
+6.3 Screenshots, recordings, OCR, manual services, alternate accounts, intermediaries and distributed requests cannot accomplish otherwise prohibited collection. This is not a blanket ban on ordinary capture, qualifying excerpts/gameplay, licensed production, supported accessibility or authorized editing. Those permissions do not create unrelated dataset, bulk extraction, source redistribution or circumvention rights.
 
-Examples of potentially permitted uses (subject to authorization):
+6.4 To the extent authorized by relevant rights-holders, Shobble reserves applicable text-and-data-mining rights in Platform Content, alongside appropriate machine-readable reservations. Statutory exceptions and independent rights retain their actual scope. This reservation is not proof that Shobble owns every component or may waive another rights-holder's reservation.
 
-physics simulation and pathfinding;
+7. HUMAN CONTROL, CONDITIONAL FEATURES AND AFTERDARK
 
-performance optimization and testing;
+7.1 Preserve human control over expressive decisions and complete the Schedule's required review and implementation-appropriate checks. AI review alone is not approval; output and passing tests alone do not establish accuracy, rights clearance, accessibility, safety or deployment readiness. Do not invent capabilities, guarantees, dialogue or expressive meaning under a technical-processing permission.
 
-quality assurance and bug detection;
+7.2 Preserve required provenance, edit history, disclosures and legally applicable content markings. Do not conceal material AI involvement or falsely describe generated material as human-authored. A disclosure does not make prohibited generation eligible; lawful human-authored work is not automatically prohibited merely because an expressly permitted bounded assistance operation occurred.
 
-accessibility tooling (e.g., tagging, classification);
+7.3 Shobblisk-only permissions require the exact approved released feature, version, scope and necessary rights-holder authority. Availability alone is insufficient, and equivalent third-party tools do not qualify. Missing or unverifiable approval means the conditional activity cannot proceed. Approval evidence must identify the actual activity and conditions rather than merely a product name.
 
-moderation, safety, fraud detection, or anti-cheat systems;
+7.4 Translation, transcription, accessibility and audio operations retain separate boundaries. For example, permitted human-verified subtitle transcription/timing does not approve Pending subtitle translation; acquiring stems or using an authorized non-music isolation operation does not approve Pending music stem separation. Mixed components require their own assessment. These examples explain the retained Schedule and do not create new permissions or Outcomes.
 
-compression, upscaling, or denoising that does not alter creative expression.
+7.5 Afterdark's content, account, audience and earning conditions remain separate. All voice cloning is forbidden within Afterdark, including authorized and self-voice cloning; general consent or a permission elsewhere supplies no exception. Permitted prerecorded human fictional performances are distinct. This service boundary does not silently amend an independently held grant or another acquisition's accepted AI set.
 
-4.2 No Implied Permission
+7.6 Automated tools may assist moderation, fraud, verification and discovery only within actual authority. They can err and do not conclusively establish illegality, breach or financial liability. Shobble must provide meaningful explanations, correction and human review where required by law or promised under the Master Terms, Privacy Policy, AUP, selected license and applicable feature rules. A blanket Policy acceptance does not authorize a solely automated legally or similarly significant decision without its actual legal conditions and safeguards.
 
-The absence of Generative AI output does not by itself authorize machine learning use.
+8. APPROVAL REQUESTS, ENFORCEMENT AND VERSIONS
 
-If a use case is not clearly authorized, it is prohibited.
+8.1 Requests for AI clarification, an identified conditional approval or a non-standard use must go to support@shobble.com, which is the AI-permissions intake route unless a verified successor is supplied. Describe the activity, actor, purpose, input/output, rights, intended audience, provider, retention and proposed feature/version. Do not send raw identity documents, unnecessary private files or suspected illegal material to ordinary support. Necessary lawful review material may use only an expressly authorized private route.
 
-5. CREATOR CONTENT & LICENSE INTERACTION
-5.1 No Implied AI License
+8.2 Where required, separate approval needs a written agreement executed by Shobble and each necessary rights-holder or other party. It must identify the actual grant and conditions and satisfy applicable execution requirements. No response, silence, vote, provider contract, generic written exception or internal approval overrides a prohibition or Pending/unavailable status. A genuine permission change requires valid amendment of the controlling Framework and necessary rights and processing instruments; a conditional row may be activated only through the approval route it actually provides.
 
-No license—whether proprietary, Creative Commons, educational, royalty-free, or otherwise—grants any right to use Content for Generative AI or prohibited ML purposes unless explicitly stated in a separate agreement.
+8.3 Enforcement and appeals use the accepted Master Terms, AUP, Community Content Guidelines, selected license and applicable Afterdark procedures, rather than an unidentified separate policy. Shobble must distinguish upload ineligibility, temporary restrictions, account sanctions, financial adjustments and final license termination; apply an actual basis and proportionate affected scope; and provide required reasons, cure, review and restoration. Credible urgent legal, safety or security risks may justify action before notice with required subsequent process. No allegation, policy label or automated flag makes acquired grants revocable at will.
 
-Public licensing selections do not override this Policy.
+8.4 Ordinary questions, correction requests and appeals may use support@shobble.com; legal concerns and reports may use legal@shobble.com. Good-faith criticism, a disputed interpretation or an unsuccessful appeal is not abuse merely because it challenges a decision. No formal litigation notice or Afterdark account is needed for ordinary review. Applicable human review, specific response periods, free Afterdark appeals and statutory external remedies remain.
 
-5.2 Creator Protection
+8.5 Shobble must retain the exact accepted Policy, Schedule and published Errata set, approval evidence and relevant amendments. Do not substitute an internal Integrations sheet or live link for the retained release. Record the distinct Creator operational and buyer acquisition sets and any expressly mapped component or purpose differences. Same-holder recovery, assignment, payment retries and receipt generation do not adopt later AI terms.
 
-This Policy exists to protect:
+8.6 Changes must identify their version, effective date and affected scope and follow actual notice, assent and applicable termination/remedy requirements, ordinarily including at least thirty days' advance notice of material adverse changes unless another lawful period or urgent legal/security requirement applies. Required separate agreements and privacy consent remain separate. Publication, continued use, renewed Creator acceptance or a feature release alone does not retrospectively authorize new processing of previously entrusted material or replace an acquisition's accepted set.
 
-creator livelihoods and market value;
+8.7 Mandatory current law, justified protection and inherent conditions of a conditional permission retain their actual effect without creating unrelated processing rights. No update forfeits existing acquisitions, valid surviving outputs or accrued compensation merely because optional successor terms are refused. No invasive device inspection, remote deletion, automatic payout forfeiture or broader enforcement power is created by this Policy.
 
-originality and authorship;
+8.8 Shobble and rights-holders retain rights not actually granted. Public access, silence and an unused enforcement right do not supply additional permission. Independent lawful rights, actual defenses, express commitments and mandatory remedies remain.
 
-licensing integrity across games, assets, music, and mixed media.
+END OF POLICY
 
-Unauthorized AI use may constitute both contractual breach and intellectual property infringement.
-
-6. SHOBBLE INTERNAL USE
-
-Unless explicitly disclosed and consented to by the Creator through a separate agreement, Shobble itself does not use Creator Content for:
-
-Generative AI training or operation;
-
-dataset creation for AI systems;
-
-style, voice, or content modeling.
-
-This restriction applies regardless of Content visibility or access level.
-
-7. ENFORCEMENT
-
-Violations of this Policy may result in:
-
-immediate suspension or termination of access;
-
-removal or restriction of Content;
-
-revocation of licenses or permissions;
-
-legal action, including injunctive relief and damages.
-
-Unauthorized Generative AI use is deemed knowing and intentional where this Policy applies.
-
-8. NO WAIVER; RESERVATION OF RIGHTS
-
-Public access, discoverability, or technical accessibility of Content does not constitute consent to AI or machine learning use.
-
-All rights not expressly granted are reserved by Creators and by Shobbl.
-
-9. LICENSING & EXCEPTIONS
-
-Requests for AI training, dataset use, or other non-standard machine learning use must be submitted through channels expressly designated by Shobble and require a separate, written agreement.
-
-Silence or inaction does not constitute consent.

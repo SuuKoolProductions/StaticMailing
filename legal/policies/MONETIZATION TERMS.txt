@@ -1,242 +1,142 @@
-Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
+SHOBBLE CREATOR MONETIZATION TERMS
 
-MONETIZATION ADDENDUM
+Version: 1.3
+Effective date: November 16, 2026
+Application: These Terms apply through Shobble's designated valid acceptance process to the identified creator participation and transactions. They replace the Monetization Addendum for that accepted scope, not previously accepted transactions, accrued earnings or existing content grants.
 
-This Monetization Addendum (“Addendum”) supplements and is incorporated into the Master Terms of Use (“Terms”) governing access to and use of the Shobble platform (“Platform”). Capitalized terms not defined herein have the meanings set forth in the Terms or other Incorporated Policies.
+1. PARTIES, PURPOSE AND DOCUMENT RELATIONSHIPS
 
-This Addendum governs eligibility, revenue attribution, payout mechanics, platform fees, licensed-content monetization, and related financial terms applicable to Creators who participate in monetization features made available through the Platform.
+1.1 These Creator Monetization Terms are between Shobbl Incorporated, doing business as Shobble (Shobble, we), and the individual or legal entity identified as the participating Creator (you). A representative must identify the represented party and have actual authority. Participation covers only monetization features actually offered and enabled for that party and region.
 
-1. CREATOR FIRST REVENUE PROGRAM
-1.1 Program Overview
+1.2 These Terms govern creator-facing fees, revenue accounting, payouts, financial adjustments and monetization participation. The accepted Master Terms govern remaining Platform matters; the Creator Content License Agreement governs Creator authority, approved Offers and surviving fulfillment. Each acquisition remains governed by its selected Personal Use, Commercial Use, Enterprise or Educational license and substantive Acquisition Record terms, limited to that license's scope. These Terms create no new content license, copyright transfer, royalty, litigation authority or unrestricted agency.
 
-The Creator First Revenue Program (“Program”) enables eligible Creators to earn revenue from monetization features made available through the Platform, which may include, without limitation:
+1.3 Mandatory law and independent component/public-license rights control their actual subjects. These Terms supply the creator-facing financial rules without overriding the Master Terms' payment safeguards, the Creator Agreement's authorization and fulfillment duties, or a selected license's protected baseline. No general AUP, classification, removal or program-discretion clause makes acquired rights revocable at will, eliminates earned amounts or permits undisclosed deductions. Advertising, affiliate, brand, event, provider or other feature terms bind only their actual parties and accepted subjects.
 
-content sales and digital goods;
+1.4 Creator Fund participation additionally requires valid acceptance of the identified Creator Fund Schedule, including its embedded Activity Table, for the actual role and period. That Schedule supplies the Fund-specific funding, eligibility, weighting, carry, cost allocation, finalization, payout, adjustment, privacy and exit rules; these Terms govern remaining creator financial matters. General fee, account-setting, provider or program-discretion wording cannot silently replace those specific rules. Subscriber acceptance and purchase obligations arise through their own actual agreement, not the Creator's acceptance here. Where one person participates in both roles, distinguish their unallocated support records from earned Creator compensation.
 
-physical and print-on-demand merchandise;
+2. PARTICIPATION AND APPROVED OFFERS
 
-advertising and sponsorship placements;
+2.1 You must meet applicable account, age, territorial, legal-capacity, rights, payment-provider and tax requirements for the actual feature. Meeting Shobble's general minimum age does not itself establish contractual capacity or payout-provider eligibility. Representative or parental authority applies only where lawful and supported; it does not bypass a higher feature age or Afterdark verification. Complete required verification through the designated authorized process and maintain accurate payout and tax information.
 
-creator subscriptions and platform-wide subscription pools;
+2.2 You must control the rights or have another supportable legal basis for each offered act and component, including music, recordings, samples, characters, performances, software and privacy interests. A license need not originate on Shobble to be a valid independent authorization. Program approval is not conclusive rights clearance, and lawful criticism or an independent copyright exception does not require buying another license merely to satisfy an unsupported rights claim. Platform publication and monetization eligibility remain separate from copyright scope.
 
-licensed-content participation and brand programs.
+2.3 Shobble may present and administer complete Creator-approved Offers only within the actual narrow authority granted by the Creator Agreement. Price, selected license, substantive modules, included material, duration, material dependencies and any continuing obligations must be authorized and available before acquisition. Formation, payment authorization, settlement, receipt generation and grant effectiveness remain distinct. A settlement delay does not create a new cancellation condition.
 
-Participation in the Program is optional, conditional, non-exclusive, and revocable. Participation does not create any entitlement to compensation, minimum earnings, continued access to monetization features, or future revenue opportunities.
+2.4 No minimum sales, advertising fill, income, employment or launch of an unoffered feature is promised. Prospective program eligibility is conditional; accrued payment obligations, accepted paid intervals, permanent grants, surviving outputs and applicable remedies are not discretionary benefits.
 
-Participation is available only to Creators who are at least eighteen (18) years old, have completed all required identity, age, tax, and eligibility checks, and remain approved for monetization. Users under eighteen (18) may not participate in the Program, operate payment-enabled creator tools, receive payouts, or otherwise receive creator earnings through the Platform.
+3. PLATFORM FEES ON CREATOR SALES
 
-Restricted or adult-oriented content categories, if permitted, are governed by separate classification, access-control, and monetization rules. Restricted content and restricted monetization systems are separated from standard Platform experiences and may be unavailable, limited, or subject to additional review.
+3.1 A Creator Sale is a transaction processed through Shobble under an authorized Creator Offer for content, a license, creator service, membership or other actually supported product. These percentages apply to the Creator's attributable Sale Amount:
 
-All participation is subject at all times to the Terms, this Addendum, the Acceptable Use Policy, the Content Classification Policy, applicable licensing agreements, and other Incorporated Policies.
+    General Creator Sales:                       5%
+    User/creator membership-tier charges:        8%
+    Software sales, including games:            15%
 
-For clarity, Creator Content may be embodied in, reproduced on, or distributed through one or more Products, including physical or digital merchandise.
+No other standard category rate applies under these Terms. Licensed third-party IP, a commercial grant, enterprise procurement or an educational license does not by itself change the applicable product rate or add a surcharge.
 
-2. REVENUE SHARES & PLATFORM FEES
-2.1 Platform Fees & Creator Revenue Allocation
+3.2 The Sale Amount is the actual price attributable to the Creator's product after an authorized customer discount and before deductions for processing, payouts, royalties or Shobble's fee. It excludes sales tax, VAT, GST and comparable indirect tax collected for remittance, including tax included in an advertised tax-inclusive price. A Shobble-funded promotion must disclose any effect on the Creator's credited price; Shobble cannot describe a subsidy as Creator-funded without authorization. Separately itemized genuine shipping or delivery charges are excluded only where the accepted offer identifies them as pass-through amounts; an unoffered physical-fulfillment service is not implied.
 
-Subject to eligibility, compliance, and applicable program terms, Shobble applies platform fees to monetized Creator Content revenue based on content type, use case, and licensing status. Platform fees are assessed on net revenue attributable to the Creator and are disclosed through creator-facing documentation, interfaces, or program materials.
+3.3 The 8% rate applies to each user/creator membership-tier charge offered through Shobble's creator membership feature, including a tier that gates or provides software or games, even where that access is its principal benefit. A separately sold software purchase, license or access product outside a creator membership tier remains 15%, including when billed recurrently; a separate general-content purchase remains 5%. The supported product classification and rate must be disclosed before the charge. Membership catalog rights, timed access and separately permanent benefits must be identified before acquisition.
 
-2.1.1 Advertising & Sponsorship Revenue Treatment
+3.4 Software includes games, applications, executable tools or plugins, and separately sold software add-ons, modifications or expansions. Supplying a program in source-code form does not by itself change its software classification. Separately sold art, books, comics, music, film, recordings, textures, models, templates and other non-software assets use 5%; an asset does not become software merely because it is used in a game or program. Material product-classification questions must be resolved and disclosed before listing acceptance or the affected charge, not assigned an undisclosed higher rate afterward. Classification errors receive correction and a reasonable dispute route.
 
-Unless expressly designated otherwise in writing, advertising and sponsorship revenue allocated to Creators constitutes monetized Creator Content revenue and is subject to the applicable platform fee for the associated content category.
-Such platform fees apply in addition to any advertiser-side fees, marketplace commissions, or campaign costs assessed under the Advertising Marketplace Terms, which apply at a separate transaction stage and on a separate revenue basis.
+3.5 Apply one rate to each charge or separately allocated item, not cumulative 5% plus 8% or 15% fees. Section 3.3 controls a creator membership-tier charge; included software or game benefits do not require a separate 15% allocation. Other mixed bundles must disclose their real component allocation and resulting fee before sale; allocate discounts consistently and do not invent a nominal allocation to evade a rate. Where there is no separate substantive component allocation, classify the actual product and disclose the resulting rate before enabling sale. A combined receipt, multiple Creators, split payout or multiple payment attempts does not authorize charging the same attributable Sale Amount twice.
 
-2.2 Licensed IP Content (Default Rule)
+3.6 Calculate Platform Fee = Sale Amount multiplied by the applicable rate, rounding half up once per transaction line to the payment currency's nearest minor unit. Do not apply repeated rounding that increases the charge. For a $10.00 Sale Amount, Shobble's fee is $0.50 for a general sale, $0.80 for a membership tier, or $1.50 for software. The corresponding Creator amount before processing and other valid separately disclosed deductions is $9.50, $9.20 or $8.50. There is no platform fee on a free acquisition with no sale proceeds, apart from a distinct service charge actually authorized separately. Any legally required tax on Shobble's fee must be separately identified.
 
-Any Creator Content or Product that incorporates licensed intellectual property beyond fair use is subject to a flat platform fee of fifteen percent (15%), regardless of content or product type (“Licensed IP Content”).
+3.7 Assignment, reassignment, recovery, migration, record correction and ordinary credential renewal are not new sales and do not themselves trigger a sale fee or repurchase. These sale fees do not impose a charge on off-platform sales, permitted excerpts, Client outputs or other independent exploitation merely because Shobble-licensed material is used. Any separate continuing royalty or service obligation requires its own actual authorized terms. These Terms do not restore the old blanket 15% licensed-IP rate, other superseded category percentages, or a fee calculated on a net amount that already deducts that same fee.
 
-This Licensed IP platform fee reflects licensing costs, rights management, compliance obligations, brand governance, and associated operational risk.
+4. PROCESSING, OTHER REVENUE AND ROYALTIES
 
-Unless otherwise expressly designated in writing, royalties payable to rights holders are funded from Shobble’s platform share in accordance with applicable licensing agreements.
+4.1 Payment-processing, payout, currency-conversion, bank, fulfillment and dispute charges are distinct from Shobble's platform percentage. A Creator bears such a charge only under a clear accepted or legal allocation. Before activation or a charge-bearing transaction, disclose its amount or determinable formula, base, currency, payer and relevant refund/recovery treatment. Do not describe 5%, 8% or 15% as the total cost if additional charges apply. These Terms set no undisclosed processing percentage, fixed transaction charge, payout fee or FX markup. Creator Fund costs follow its accepted Schedule; this general disclosure rule does not authorize reallocating costs that Shobble has undertaken to bear.
 
-2.3 Original (Unlicensed) Creator Content – Platform Fees by Category
+4.2 For an ordinary sale, identify the Sale Amount, subtract Shobble's fee once, and separately itemize only valid processing, royalty, fulfillment and tax-withholding amounts attributable to that Creator. Prior balances, reserves and reversals must appear as distinct ledger events, not an unexplained lower sale price. Provider collections and Shobble accounting must avoid duplicate recovery of the same charge.
 
-The following platform fees represent standard fee tiers and may vary based on transaction method, region, payment processor requirements, or program-specific terms.
+4.3 A paid sponsorship, commission, ticket or other supported Creator Offer sold through Shobble follows Section 3's actual category rule. Advertising revenue allocations, genuine voluntary tips/donations, affiliate commissions and shared-revenue programs that are not Creator Sales require their own accepted feature schedule before activation. Identify gross receipts, eligible receipts, shares, calculation order, attribution, deductions, payout conditions and any creator-facing fee. No legacy pool percentage, unspecified rate or second deduction on advertising spend is established here. Advertiser-side charges and the Creator's allocation are distinct; disclose both stages where they affect earnings. Creator Fund participation follows Sections 1.4 and 4.6–4.8. No optional revenue feature is promised by listing it.
 
-For Creator Content that does not incorporate licensed intellectual property beyond fair use, platform fees generally apply as follows:
+4.4 Copyright/component royalties and collecting-society or other third-party payments remain separate from platform fees. Identify the rights, responsible payer, amount/formula, base, trigger, duration and recipient before the affected Offer. A royalty-free asset does not waive Shobble's sale fee, and buying an asset/sample or selecting a license does not itself create another royalty. Rights clearance and royalties must match the actual advertised use.
 
-5% Platform Fee
+4.5 A brand or licensed-IP arrangement may fund royalties from Shobble's share only where Shobble actually agrees; it may reduce the Creator's proceeds only under that Creator's clearly accepted substantive allocation and all necessary rights-holder authority. No automatic royalty-source model or universal guarantee of royalty payment is created. Applicable execution requirements still apply. Preserve historical allocations for transactions already governed by them.
 
-Digital Art
+4.6 Under the Creator Fund Schedule v2.4, the subscriber purchases identified platform services and Shobble commits 50% of eligible subscription revenue to creator support. Qualifying engagement determines relative allocations using the Schedule's gates, event-time membership weighting and embedded Appendix A. Fund allocations are not Creator Sales, voluntary tips or direct purchases from the earning Creator. No 5%, 8%, 15% or additional Fund platform fee applies. A genuine separately purchased creator membership remains a Creator Sale subject to its 8% rate; its possible Fund weighting benefit neither changes that fee nor authorizes a second fee on Fund compensation. An auction bid earning points is not itself a completed commission sale.
 
-Digital Merchandise
+4.7 The Fund Schedule governs its actual eligible price, service proration, allocation cutoffs, monthly validation, sufficiently precise credit, fractional carry, payout threshold and timetable. Shobble bears ordinary Fund subscription processing and standard ACH payout costs and the ordinary post-finalization subscription losses assigned to it there. Mandatory Creator withholding and distinctly accepted optional payout methods remain separate. General account defaults or these Terms' Creator Sale refund provisions cannot introduce an additional Fund deduction, round away earned fractions, postpone its deadlines or make accrued compensation discretionary.
 
-Illustrations / Wallpapers / Icons
+4.8 Fund carry records Shobble's unallocated creator-support commitment, not a separately purchased subscriber cash balance or earnings already owed to an unidentified Creator. The Fund Schedule governs no voluntary cash-out, qualifying allocation without renewed platform purchase, one-year preservation on closure or its specified permanent-participation cutoff, restoration after timely eligible reopening and conditional application to the next sponsored creator contest's prize pool. Previously earned Creator compensation is never part of that closure hold or contest transfer. Mandatory remedies, actual property/payment duties and prior accrued rights remain. Contest contribution is not automatic entry or a prize; actual awards follow their official rules and applicable law and are not charged a Creator Sale fee merely because they are paid to a Creator.
 
-Emotes / Stickers / Reaction Packs
+5. PRICING, MEMBERSHIPS AND CUSTOMER REMEDIES
 
-7% Platform Fee
+5.1 Shobble may disclose prospective pricing bands, promotional rules and supported bundle structures consistently with accepted terms and law. The Creator must authorize the actual Offer and any Creator-funded discount. A Platform promotion, changed listing or later pricing setting cannot reprice an accepted acquisition or remove included rights.
 
-Digital Novels / Comics
+5.2 Before a membership charge, disclose price, billing interval, renewal/trial conversion, included catalog or defined additions, access duration and cancellation route. Obtain the necessary recurring-payment authorization and provide an accessible cancellation process and required confirmations. Price or benefit changes require applicable notice, authority and consent. Cancellation ends future billing and affected access only under the accepted arrangement; it does not withdraw a separately permanent benefit or valid surviving output.
 
-Assets (e.g., UI elements, sprites, textures)
+5.3 Statutory withdrawal, supply/conformity, correction, replacement, price-reduction and refund rights remain, together with express license remedies. For immediate digital supply, Shobble must obtain and retain the legally required requests, express consents, acknowledgments and confirmation; opening or downloading alone is not a blanket waiver. Digital services have distinct rules. Adult classification creates no general all-sales-final exception.
 
-Templates (e.g., UI, overlays, presentation assets)
+5.4 Refund accounting and rights rescission are separate. Identify the affected transaction, amount, taxes, returned fee, Creator proceeds, lawful deductions and actual grant consequences. A partial, goodwill or continuity refund does not automatically cancel an enduring grant, lawful retained-file use, Permanent Capacity, Finished Product, Client/learner sublicense or qualifying creator publication. Apply the selected license's actual outcome and avoid duplicate refunds or invented prices for free acquisitions.
 
-8% Platform Fee
+6. EARNINGS, PAYOUT CONDITIONS AND RECORDS
 
-Streaming (Non-Live Video Content & Movies)
+6.1 Before enabling monetization, Shobble must disclose and retain the actual account/program payout schedule: settlement or availability period, payout frequency, initiation timing, expected transfer time, supported destination/currency, any minimum threshold, fees and reserve conditions. The Creator must accept material financial conditions before they apply. For Creator Fund participation, its identified accepted Schedule supplies the specific threshold, finalization and payout timetable; destination settings implement rather than silently replace those commitments. No threshold, approximately 30-day hold or biweekly schedule is carried over from unaccepted legacy wording or applied universally to other programs. Shobble must not activate a program with undisclosed essential payout terms.
 
-Creator-Run Subscription Tiers
+6.2 Distinguish gross receipts, Creator earnings, pending settlement, available proceeds, reserved amounts, initiated payouts and completed transfers. An amount is not unearned merely because it remains unpaid. Authorization, capture, clearing, settlement, contractual earning and transfer are distinct; a dashboard estimate is not necessarily the final ledger. For the Fund, separately identify unallocated open-account support, closed-account preserved support, contest contributions, allocation commitments, finalized Creator compensation, fractions and any legally owed returns. An amount must not be counted simultaneously in incompatible categories. Failed transfers restore only the actual unpaid/returned amount under the governing schedule, not already discharged withholding or payments, with notice and a correction route rather than forfeiture.
 
-10% Platform Fee
+6.3 Shobble must initiate payment of available amounts under the accepted schedule and reasonably assist with provider failures. Necessary delay must have an identified legal or accepted basis, with the explanation, review and correction required under Section 7. A provider delay does not erase Shobble's own payment obligations or justify an unrelated hold. No bank-account, stored-value, escrow or universal funds-segregation arrangement is promised merely by displaying a balance; actual regulated duties and accepted safeguarding commitments remain.
 
-Music
+6.4 Supply readable transaction and payout statements showing the references and financial details applicable to the revenue type: for Creator Sales, the sale/line reference, category and rate, Sale Amount, fee, valid deductions, refunds and adjustments; for Creator Fund, the period/version, aggregate weighted engagement and compensation, accessible fractional detail, applicable adjustments, withholding, held/available amounts and payout references. Identify currency conversion and reserves where relevant. Link corrections to original evidence. Separate creator operational records from buyer Acquisition Records and expose only necessary data. Fund subscriber self-reporting does not give Creators access to individual contributors. Reasonable statement/export and dispute routes remain after ordinary program exit.
 
-Narrative Audio (e.g., audiobooks, audio dramas)
+7. REFUNDS, DISPUTES, RESERVES AND NEGATIVE BALANCES
 
-Photography / Stock Media
+7.1 A hold, reserve, reversal or deduction needs a valid accepted or legal basis, identified amounts and a proportionate scope. Credible fraud, payment, rights, tax or security issues may justify interim protection; an allegation, pending chargeback or incomplete verification alone is not final liability. Where lawful, explain the reason, amount, duration or release conditions and review date. Reassess unresolved measures and release funds when their basis ends. No allegation permits indefinite confiscation.
 
-Video Essays / Short-Form Video Content
+7.2 On a valid full or partial sale refund or final payment reversal, Shobble will return or reverse its sale fee proportionately, calculated cumulatively for each original transaction line. The cumulative fee credit equals the original rounded platform fee multiplied by the cumulative refunded or finally reversed Sale Amount divided by the original Sale Amount, rounded half up to the payment currency's nearest minor unit. Credit only the difference from fee credits already issued for that line. Use the original fee, not a later rate; count overlapping refunds and reversals only once. Cap the cumulative refunded Sale Amount at the original Sale Amount and fee credits at the original fee; a full reversal returns any remaining original fee. No sale-fee credit arises where no sale fee was charged, and no division is made for a zero Sale Amount. A Creator's corresponding proceeds may be reversed only to the extent an accepted or legal allocation makes that Creator responsible, including an ordinary sale cancellation/withdrawal or refund attributable to the Creator's non-delivery, material misdescription or breach. Nonreturned third-party charges require their own disclosed basis and itemization. Shobble's own service failure or permanent-delivery obligation is not automatically charged to the Creator; any reimbursement requires an actual attributable and clearly accepted basis consistent with the Creator Agreement. Customer remedies must not await resolution of the internal allocation dispute.
 
-Physical Merchandise
+7.3 Chargeback, fraud-loss, dispute-fee, fine or other special liability is not universally imposed on Creators by this document. Identify any applicable provider/merchant agreement and separately accepted risk allocation before the affected transactions. For the Creator Fund, the accepted Schedule already allocates ordinary post-finalization subscription losses to Shobble and protects innocent Creators; this clause creates no contrary allocation. Shobble may seek information and impose justified interim protection, must distinguish provisional from final outcomes, and must restore amounts after a successful challenge. A bank's reversal does not by itself determine copyright scope or cancel unrelated acquisitions.
 
-Print-on-Demand Content
+7.4 No universal rolling reserve percentage, reserve term, overage, minimum payout or negative-balance interest is created. Applicable arrangements must state their amount/formula, base, trigger, duration or release criteria and review process before acceptance, or rest on a specific legal requirement. The Creator Fund's accepted payout threshold and small-balance/fractional rules apply to that feature without establishing a threshold for other revenue. Its closed-account subscriber-support preservation is not a reserve against Creator earnings. A newly necessary urgent hold requires a lawful basis, proportionate scope and actual notice/review; it does not authorize retroactive pricing.
 
-3D Models (Non-Interactive)
+7.5 A negative balance must arise from valid itemized obligations, not an unsupported estimate or Shobble's unrelated loss. For an actual attributable amount, Shobble may offset future proceeds payable to the same legal Creator or seek repayment only under accepted or legal authority consistent with the applicable feature schedule. Unallocated Fund support, preserved subscriber carry and restricted contest contributions are not Creator proceeds available for that setoff. Do not debit another person's account or unrelated payment method without actual authorization or use a Creator's compensation as a general reserve for Shobble's Fund losses. Explain the basis, affected amounts and dispute route; avoid double recovery, release overcollections and reasonably mitigate loss. Third-party duties bind their actual parties and are not expanded here.
 
-AR / VR Assets (e.g., props, environments, decorations)
+7.6 Financial adjustments do not themselves revoke licenses. Preserve unaffected acquisitions and surviving outputs while resolving the particular financial issue. Account sanctions, monetization eligibility, payment holds and termination of rights require their own actual grounds and process.
 
-Sound Packs / SFX Libraries
+8. AFTERDARK, ADVERTISING AND CONTENT ELIGIBILITY
 
-15% Platform Fee
+8.1 Afterdark requires its separate verified-adult account, regional eligibility and valid acceptance of Afterdark Policy v1.4 and incorporated Adult Content Schedule v1.6, or an expressly identified successor validly accepted for the activity. Only Personal Use and Commercial Use may be offered for new Afterdark acquisitions; Enterprise and Educational offerings, renewals and expansions are excluded under that Policy. Preserve its existing-rights and remedy safeguards.
 
-Mods / Add-Ons / User-Generated Expansions
+8.2 Hosting eligibility and user blacklist removal do not authorize earning. Limited, Ads + commissions only and None have the exact meanings in the accepted Afterdark Policy. None bars the work-attributable direct and indirect routes there, including subscription access, paid bundles, tips and paid solicitation. AC-10 and AC-15 remain unmonetizable under Schedule v1.6. Approval of AC-12 hosting does not override its None status. The fee schedule never makes prohibited or unmonetizable material eligible.
 
-Games
+8.3 Adult advertising operates only through the separate Afterdark marketplace and its actual accepted rules. No inventory, campaigns or audience data automatically cross into general Shobble advertising. Shobble must obtain necessary provider/acquirer acceptance covering the actual category and free/paid model; ordinary submissions may fall within a valid category-level approval. Creatives, destinations, placements and Creator earning routes each need eligibility. No prohibited sensitive-profile targeting, missing rights or unknown partner approval is cured by paying a fee.
 
-Interactive Experiences
+8.4 The accepted AI framework governs each actual processing stage within underlying rights, privacy authority and provider limits. Monetization, upload, a commercial label or fee payment supplies no AI exception, training consent or independent provider-reuse permission. Afterdark's voice-cloning prohibition remains. General content rules cannot silently rewrite an independent public license or defeat a permitted contractual or independently lawful use; justified publication restrictions retain their actual scope.
 
-Live Streaming
+8.5 Creator Fund Schedule v2.4 includes only its eligible general-platform earning scope; it does not authorize Afterdark earnings. Neither monetization approval, a subscriber's adult account nor these Terms' general feature references expand it. A future adult Fund route requires separately identified and accepted scope and actual provider/legal authority, while preserving the Afterdark Policy's content and earning restrictions.
 
-Platform-Hosted Events (Ticketed or Live)
+9. TAXES, DATA AND PAYMENT ROLES
 
-Any Creator Content not expressly listed above shall be assigned a platform fee determined by Shobble based on risk, operational cost, and marketplace considerations.
+9.1 Creators are responsible for their own income/business taxes and accurate required documentation. Shobble, sellers and providers retain collection, marketplace, reporting, withholding and remittance duties imposed on their actual roles by law or valid agreement. No blanket Creator-responsibility clause transfers Shobble's statutory duty. Separately disclose transaction tax, tax on fees and withholding; no general Creator gross-up or Platform reimbursement promise is implied. Shobble supplies no individual tax advice.
 
-2.4 Creator-Shared Revenue Pools (Not Per-Item Fees)
+9.2 Collect and retain only necessary lawful payment, verification, transaction and reporting information under the actual Privacy Notice and processing instruments. Distinguish adult verification, KYC, tax records, purchase evidence, operational metrics and payout records. Payment participation is not consent to training, unrelated profiling or disclosure of private buyer/Creator identifiers. Fund subscribers may see their own allocation recipients and amounts; Creators receive meaningful aggregate engagement/financial reporting, not contributor identities, individual weights/amounts or identifying histories. Apply the Fund Schedule's small-audience protections and actual lawful exceptions. Necessary legal holds and backups authorize no unrelated reuse.
 
-Certain monetization features operate on a shared-revenue pool basis, rather than per-item platform fees. These include, without limitation:
+9.3 Shobble must identify the actual seller, Licensor, payee and relevant payment-provider roles in the applicable onboarding and transaction disclosures. A narrow agency to present and administer approved content Offers is preserved; this does not create general agency, employment, partnership, fiduciary status or authority to settle Creator claims. Legal classification and payment duties depend on facts and law, not a disclaimer. A person directing a payment must have the necessary authority.
 
-Platform-Wide Premium Subscriptions, under which Creators collectively receive fifty percent (50%) to seventy-five percent (75%) of net revenue, after application of the applicable platform fee (generally ranging from five percent (5%) to fifteen percent (15%), as determined under Section 2.1), allocated among eligible Creators based on engagement, content type, activity, and weighting factors determined by Shobbl.
+10. CHANGES, REVIEW, TERMINATION AND FINAL PAYOUT
 
-Shared-revenue pools are subject to eligibility requirements, allocation methodologies, platform fees, and adjustment mechanisms described in the Monetization Addendum and related policies.
+10.1 Fee, attribution or payout changes apply prospectively through the Master Terms' valid notice and acceptance process, generally with at least 30 days' advance notice of material adverse changes unless another lawful period or urgent legal/security requirement applies. Provide longer periods legally necessary for adaptation and obtain required assent. A later page, continued participation or receipt alone does not replace required agreement. Fund changes include the embedded Activity Table and follow its common-version, effective-period and nonoverlapping transition rules; no internal setting changes the accepted financial bargain. Do not reprice completed sales or retrospectively rewrite accrued earnings, licenses or payment commitments.
 
-2.5 Modification & Disclosure
+10.2 Creators may stop future participation through supported settings or support. Shobble may end prospective participation or restrict particular offerings for justified policy, rights, security, legal or operational reasons under actual accepted terms. Give material reasons, scope and review where lawful; provide required cure and notice. Where applicable, EU business-user rules require durable reasons and ordinarily at least 30 days before whole-service termination, subject to their actual statutory exceptions. Urgent item protection and ordinary prospective termination are distinct.
 
-Platform fees, revenue shares, and allocation methodologies may be modified from time to time in accordance with the Terms and this Monetization Addendum. Continued participation in monetization features following any such modification constitutes acceptance of the updated terms.
+10.3 Apply actual statutory and promised review routes, including the Creator Fund's financial-review and human-capable correction route and accepted Afterdark appeals where relevant. Good-faith disputes, clarification requests and protected notices are not abuse merely because unsuccessful. Restore valid amounts, access and records after an overturned decision. Apply the actual feature response/hold-review periods; a general support process cannot postpone a specific Fund obligation. Necessary legal/confidentiality limits may restrict disclosure without permitting arbitrary confiscation or exposing contributor identities.
 
-For clarity, “net revenue” excludes, without limitation, taxes, refunds, chargebacks, credits, discounts, payment-processor fees, platform fees, fulfillment costs, and other deductions described in this Addendum.
+10.4 On exit, stop only affected new offers or charges at the valid cutoff, honor accepted paid intervals and renewal/cancellation obligations, and account for final proceeds, legitimate reserves, pending reversals and payments. Pay earned available amounts through the accepted schedule and a lawful route; closure or a routine batching threshold does not forfeit them. For the Fund, distinguish a Creator's earned compensation from that person's separate subscriber-role support records: the one-year preservation/reopening and conditional contest fallback apply only to unallocated support under the Fund Schedule, never to earned Creator compensation. They are not a general closure freeze on sales or Fund payouts. Explain genuine reserve release conditions and provide statements/review. Mandatory legal and unclaimed-property duties apply where their actual conditions are met.
 
-3. LICENSED CONTENT & ROYALTY SOURCING
-3.1 Licensed Content Participation
+10.5 Creator departure, demonetization or refusal of optional successor terms does not cancel accepted permanent or unexpired acquisitions, Permanent Capacity, valid recipient grants, qualifying publications, surviving fulfillment authority or accrued payments. Continue lawful fulfillment and remedies under the Creator Agreement and selected license. No program-exit term shifts every continuity loss to the Creator or requires unlawful delivery.
 
-Where a Creator incorporates licensed intellectual property into content or Products beyond fair use, participation in monetization features is permitted only where:
+10.6 Ownership, actual accrued payment duties, justified dispute/retention arrangements, confidentiality, surviving fulfillment and rights, evidence and remedies continue for their proper purposes and duration. These Terms add no universal consumer indemnity, invasive device inspection, remote-deletion authority, arbitration agreement or class-action waiver. Valid applicable Master Terms and other actual agreements govern liability/disputes consistently with protected baselines and mandatory rights; Nevada law does not remove nonwaivable protections.
 
-the applicable license is valid, approved, and made available through the Platform; and
+11. CONTACT AND SUPPORT
 
-the content complies with the applicable Brand Content Eligibility Schedule, licensing terms, and platform policies.
+Creator onboarding, statements, payouts, financial disputes, account exit and privacy-rights requests: support@shobble.com
+Legal and formal rights notices: legal@shobble.com
 
-If no valid license applies, Shobble may withhold, redirect, or disable monetization pending resolution or rights-holder action.
+Shobble will identify accessible actual provider, cancellation, privacy, reporting and appeal routes before the affected participation and retain those details with the accepted package. Provide a reasonably accessible successor if a route changes. Ordinary payout questions, appeals or privacy requests need no formal litigation notice or Afterdark account. Required statutory notice particulars and service-of-process rules retain their actual application.
 
-3.2 Royalty Source Models
-
-Unless expressly designated otherwise in a written license or schedule:
-
-Royalties payable to IP licensors are calculated from Shobble’s platform revenue share and do not reduce Creator payouts (the “Platform-Share Royalty Model”).
-
-For select licensed IPs approved by Shobble, an alternative structure may apply under which royalties are calculated from amounts otherwise payable to Creators (a “Creator-Share Royalty Model”), as expressly documented in writing.
-
-Creators acknowledge that Creator-Share Royalty Models may reduce Creator earnings and may impact participation incentives.
-
-4. PRICING & MARKETPLACE CONTROLS
-
-Shobble may establish, enforce, or modify:
-
-minimum or maximum prices;
-
-pricing bands or subscription ranges;
-
-discounting rules;
-
-bundling, pooling, or promotional mechanics.
-
-Creators are responsible for selecting prices within applicable limits and for complying with consumer-protection, disclosure, and pricing laws.
-
-5. ELIGIBILITY, METRICS & ALLOCATION
-
-Eligibility criteria, revenue attribution rules, engagement metrics, weighting factors, detection systems, and allocation methodologies may vary by content type, feature, region, or program.
-
-Metrics and systems are proprietary and may rely on automated and human review. Shobble is not obligated to disclose detailed formulas or internal methodologies except where required by law.
-
-6. PAYOUT TIMING, ADJUSTMENTS & SETTLEMENT
-6.1 Calculation & Payment Timing
-
-Earnings are typically calculated on a bi-weekly basis and paid bi-weekly in arrears, subject to a settlement delay (generally ~30 days) to account for refunds, chargebacks, fraud review, tax reconciliation, currency conversion, and fulfillment finalization.
-
-Shobble may batch or consolidate payouts across Products, regions, or channels.
-
-6.2 Adjustments, Withholding & Reversals
-
-All earnings are subject to verification and may be withheld, adjusted, reversed, or delayed due to:
-
-fraud or abuse investigations;
-
-rights claims or licensing disputes;
-
-refunds, chargebacks, or payment reversals;
-
-accounting corrections or pricing errors;
-
-legal, regulatory, or processor requirements.
-
-No payout is final until settlement is complete.
-
-7. NO EMPLOYMENT OR FIDUCIARY RELATIONSHIP
-
-Participation in the Program does not create any employment, agency, partnership, joint venture, fiduciary, or representative relationship. Creators act solely as independent parties and assume all risks associated with monetization choices and participation.
-
-8. NO GUARANTEE OF EARNINGS OR CONTINUITY
-
-Shobble does not guarantee:
-
-any level of revenue, impressions, engagement, or sales;
-
-continued eligibility or participation;
-
-availability of any monetization feature, percentage, or program.
-
-The Program and its terms may be modified, suspended, or discontinued at any time, subject to applicable law.
-
-9. TAXES
-9.1 Creator Responsibility
-
-Creators are solely responsible for determining, reporting, and paying all taxes arising from their participation, including income, self-employment, VAT/GST, sales or use taxes, and similar obligations.
-
-Shobble does not provide tax advice.
-
-9.2 Reporting & Withholding
-
-Shobble may collect tax documentation, issue reports or forms, and withhold or remit taxes where required by law or payment partners. Such actions do not constitute tax advice or acceptance of tax liability.
-
-9.3 Accuracy & Cooperation
-
-Creators represent that all tax information provided is accurate and agree to cooperate with lawful requests. Failure to comply may result in payout delays or suspension.
-
-9.4 No Gross-Up
-
-Shobble is not responsible for grossing up payments or reimbursing Creators for taxes, penalties, or interest.
-
-10. FEATURE AVAILABILITY DISCLOSURE
-
-Certain content categories, monetization features, or Product types referenced in this Addendum may not be available at the time of a Creator’s participation and are included for classification, structural completeness, or future compatibility purposes only.
-
-Without limitation, physical merchandise, print-on-demand products, live streaming features, and related fulfillment or real-time delivery services may not currently be supported on the Platform.
-
-Nothing in this Addendum shall be construed as a representation, guarantee, or commitment by Shobble to launch, support, maintain, or continue any particular feature, Product type, monetization category, or revenue model. Availability of features is determined by Shobble in its sole discretion based on technical readiness, operational capacity, legal and regulatory considerations, partner availability, and business requirements.
-
-Any platform fees, revenue shares, or monetization terms associated with a feature or Product type shall apply only if and when such feature or Product type is made available on the Platform.
-
-11. MODIFICATION & TERMINATION
-
-This Addendum may be updated in accordance with the Terms. Continued participation constitutes acceptance of updates.
-
+END OF TERMS

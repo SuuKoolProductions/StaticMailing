@@ -1,8 +1,6 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "fs";
 import { basename, extname, join } from "path";
 
-export const POLICY_LAST_UPDATED_DISPLAY = "May 11th, 2026";
-
 export type PolicyFileType = "txt" | "html";
 
 export type PolicyDoc = {
@@ -29,6 +27,7 @@ const ACRONYMS = new Set([
   "UK",
   "US",
   "USA",
+  "USC",
   "USD",
 ]);
 
@@ -83,9 +82,7 @@ function normalizePolicyTitleForDisplay(input: string): string {
 }
 
 export function formatPlaintextPolicyForDisplay(input: string): string {
-  const withDates = input
-    .replace(/(Last\s*Updated\s*:\s*)(?:\[[^\]]+\]|[A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4}|\d{1,2}\/\d{1,2}\/\d{2,4})/gi, `$1${POLICY_LAST_UPDATED_DISPLAY}`)
-    .replace(/\r\n/g, "\n");
+  const withDates = input.replace(/\r\n/g, "\n");
   const lines = withDates.split("\n").map((line) =>
     line.replace(/\t/g, "  ").replace(/[ \t]+$/g, "").replace(/^[ ]{7,}/, "    "),
   );
