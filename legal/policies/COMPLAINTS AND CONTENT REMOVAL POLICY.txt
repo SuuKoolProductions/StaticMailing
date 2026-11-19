@@ -19,4 +19,4 @@ Contact: team@shobble.com
 
 3. Depicted persons
 
-3.1 A request from a person who says they are depicted in the content is not an ordinary five-business-day complaint. Use the separate choice in the report form. That process is described in the Depicted Person Removal Policy.
+3.1 A request from a person who says they are depicted in the content is not an ordinary five-business-day complaint. Use the separate choice in the report form. That process is described in the Depicted Person Removal Policy. Automatic hiding from that form is limited to five distinct listings for a signed-in reporter in 24 hours. The limit does not apply to an illegal-content report or a child-safety report.

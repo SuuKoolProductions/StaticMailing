@@ -1,6 +1,6 @@
 SHOBBLE COMMUNITY CONTENT GUIDELINES
 
-Version: 1.1
+Version: 1.2
 Effective date: November 16, 2026
 Application: These Guidelines apply through Shobble's designated valid acceptance process to the identified Platform participation. They replace the earlier Community Content Guidelines for that accepted scope without retrospectively rewriting acquisitions or accrued rights.
 
@@ -86,7 +86,7 @@ Reader notice: These Guidelines refer to sensitive themes solely to explain cont
 
 6.2 Ordinary clarification, recovery and appeals may use support@shobble.com. Afterdark's free electronic appeal period of at least six months after notification and qualified human supervision remain, together with other applicable complaint periods and external remedies. Copyright, intimate-imagery, child-protection and privacy requests retain their distinct legal procedures and deadlines. Ordinary support needs no formal litigation notice.
 
-6.3 A good-faith question, mistaken report, unsuccessful appeal or legitimate renewed notice is not abuse merely because it concerns sensitive material or challenges Shobble. Knowingly fabricated evidence, coordinated harassment and deliberate evasion may justify scoped action under the AUP. Preserve valid statutory-notice, urgent-safety and privacy routes.
+6.3 A good-faith question, mistaken report, unsuccessful appeal or legitimate renewed notice is not abuse merely because it concerns sensitive material or challenges Shobble. Knowingly fabricated evidence, coordinated harassment and deliberate evasion may justify scoped action under the AUP. A depicted-person request from a signed-in person can hide at most five distinct listings in 24 hours. Further requests, and requests from someone who is not signed in, still reach urgent review without another automatic hide. A moderator can restore a false hide without deleting the files. An unsubstantiated good-faith report does not by itself suspend or terminate the reporter. Preserve valid statutory-notice, urgent-safety and privacy routes. Illegal-content and child-safety reports are not discarded because a depicted-person limit was reached.
 
 6.4 Shobble must provide meaningful reasons and review subject to justified legal, security, privacy and investigation limits. Evidence may be retained only for an authorized purpose and lawful period; restricted backups and legal holds permit no unrelated use. Do not publish identity documents, private contributor histories or confidential recipient information to prove compliance.
 
