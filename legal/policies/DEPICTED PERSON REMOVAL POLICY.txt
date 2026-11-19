@@ -15,11 +15,11 @@ Contact: team@shobble.com
 
 2.2 Shobble then reviews the request. The moderation record is marked urgent and is due within one business day. A reviewer can leave the content hidden, restore it, or remove it.
 
-2.3 Shobble limits automatic protective hiding to five distinct listings for one signed-in reporter in any rolling 24 hours. A repeat request for the same listing is added to the open case and does not hide it again. A further request is still queued for urgent review and is not hidden automatically. The form says: "You've reached the limit for online takedown requests. If you need to report additional content, contact support@shobble.com for priority review."
+2.3 Shobble limits automatic protective hiding to five distinct listings for one signed-in reporter in any rolling 24 hours. A repeat request for the same listing is added to the open case and does not hide it again. A further request is still queued for urgent review and is not hidden automatically. The form says: "You've reached the limit for online takedown requests. If you need to report additional content, contact support@shobble.com for priority review." If Shobble cannot check whether that person is allowed to use automatic hiding, the request is still queued and the listing is not hidden automatically.
 
 2.4 A request from someone who is not signed in is also queued for urgent review. It does not hide the listing by itself. Staff can still hide it.
 
-2.5 A moderator records the request as substantiated, unsubstantiated, or abusive. An unsubstantiated request can be restored. Files are not deleted by that restoration. An active legal preservation hold is not released and is not deleted. An abusive reporter can be stopped from triggering further automatic hides. A good-faith report that is not substantiated is not, by itself, a ban. Knowingly fraudulent reporting can still lead to suspension or termination after a person reviews it.
+2.5 A moderator records the request as substantiated, unsubstantiated, or abusive. An unsubstantiated or abusive request can restore the listing when that depicted-person hide is the only reason it is hidden. A separate moderation restriction, legal order, or safety hold can keep the listing hidden. Files are not deleted by that restoration. A legal preservation hold stays in place. It is not released to make the listing visible, and it does not by itself keep the listing hidden. An abusive reporter can be stopped from triggering further automatic hides. A good-faith report that is not substantiated is not, by itself, a ban. Knowingly fraudulent reporting can still lead to suspension or termination after a person reviews it.
 
 2.6 Illegal-content reports and child-safety reports are not subject to this limit.
 

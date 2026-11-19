@@ -19,4 +19,4 @@ Contact: team@shobble.com
 
 3. Depicted persons
 
-3.1 A request from a person who says they are depicted in the content is not an ordinary five-business-day complaint. Use the separate choice in the report form. That process is described in the Depicted Person Removal Policy. Automatic hiding from that form is limited to five distinct listings for a signed-in reporter in 24 hours. The limit does not apply to an illegal-content report or a child-safety report.
+3.1 A request from a person who says they are depicted in the content is not an ordinary five-business-day complaint. Use the separate choice in the report form. That process is described in the Depicted Person Removal Policy. Automatic hiding from that form is limited to five distinct listings for a signed-in reporter in 24 hours. A person without an account can still submit that request for urgent review, and it does not hide the listing by itself. A legal preservation hold keeps the files and does not by itself keep the listing hidden. The limit does not apply to an illegal-content report or a child-safety report.
