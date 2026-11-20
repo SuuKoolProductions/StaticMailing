@@ -1,14 +1,14 @@
 SHOBBLE ACCEPTABLE USE POLICY
 
-Version: 2.0
-Effective date: November 16, 2026
+Version: 2.1
+Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 2.0 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
 Application: This Policy applies through Shobble's designated valid acceptance process to the identified Platform participation. It replaces the earlier Acceptable Use Policy for that accepted scope without retrospectively rewriting acquisitions, accrued earnings or independent rights.
 
 1. PURPOSE, SCOPE AND DOCUMENT RELATIONSHIPS
 
 1.1 Shobbl Incorporated, doing business as Shobble (Shobble, we), provides the Platform. This Policy governs acceptable conduct and use of its accounts, submissions, listings, communications, marketplaces, delivery routes, APIs and other enabled features. It applies to users, Creators, representatives and partners within their actual participation and authority.
 
-1.2 The accepted Master Terms govern remaining Platform matters and subject-specific document priority. The selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record govern that acquisition within its own scope. The Creator Content License Agreement governs Creator authority, approved Offers and surviving fulfillment. The accepted AI Use Case Policy, Schedule and published Errata (AI Framework) govern contractual AI activity within underlying rights. Afterdark, financial and other feature instruments govern their actual subjects and parties when validly accepted. This Policy creates no additional content license, financial deduction, processing consent or general agency.
+1.2 The accepted Master Terms govern remaining Platform matters and subject-specific document priority. The selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record govern that acquisition within its own scope. The Creator Content License Agreement governs Creator authority, approved Offers and surviving fulfillment. The accepted AI Use Case Policy, Schedule and published Errata (AI Framework) govern contractual AI activity within underlying rights. Financial and other feature instruments govern their actual subjects and parties when validly accepted. This Policy creates no additional content license, financial deduction, processing consent or general agency. It does not authorize sexually explicit content.
 
 1.3 Mandatory law, independently applicable component/public licenses and the protected acquisition baseline remain. No general priority statement, classification or enforcement discretion makes acquired grants revocable at will, supplies missing third-party rights, or removes promised continuity, independently lawful-use protections, review or remedies. Permission under one instrument does not establish publication, earning, privacy or provider authority under another.
 
@@ -22,7 +22,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 2.3 Do not groom, sexually solicit or exploit minors, distribute child sexual abuse material, facilitate sexual trafficking, or publish nonconsensual intimate imagery or covered digital forgeries. Do not solicit, commission, link to or conceal prohibited material to evade these rules. Actual threats, exploitation and unlawful material remain prohibited regardless of fictional framing or disclaimers. Shobble does not condone human sex trafficking. Shobble will report every suspected instance of human sex trafficking to the appropriate authorities.
 
-2.4 Assess the conduct and its context. Depiction, criticism, reporting, education, recovery discussion, consensual lawful fictional themes or discussion of wrongdoing is not automatically endorsement or facilitation. It must still satisfy applicable content, audience, rights and Afterdark restrictions. Context does not excuse an actual threat, targeted abuse or a prohibited depiction.
+2.4 Assess the conduct and its context. Depiction, criticism, reporting, education, recovery discussion, or discussion of wrongdoing is not automatically endorsement or facilitation. It must still satisfy applicable content, audience, and rights restrictions. Context does not excuse an actual threat, targeted abuse, child sexual abuse material, or a prohibited sexual depiction. Sexually explicit content is prohibited on every host.
 
 3. CONTENT, RIGHTS AND CLASSIFICATION
 
@@ -32,9 +32,9 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 3.3 Use the correct audience, category, warnings and material disclosures, including for previews, alternate tracks, companion files, links and later edits. Do not hide a restricted component in an otherwise eligible work. Publication, discovery, advertising, sales and continuing delivery are separate decisions. Approval is limited to its actual reviewed scope and is not legal certification or a promise of earnings.
 
-3.4 Afterdark's hosting categories are Eligible, Review, Blacklisted and Prohibited, with their exact meanings in its accepted Policy and Adult Content Schedule. Review requires the specified approval; Blacklisted requires the eligible adult user to remove every applicable category from their default blacklist. Approval, purchase or membership does not make that choice for them. A Blacklisted work is not prohibited merely because it is Blacklisted.
+3.4 Sexually explicit content is prohibited on every host and upload type. There is no adult hosting category, adult blacklist, or adult subdomain that makes it eligible. Review of a safety report does not authorize publication of sexually explicit material.
 
-3.5 The most restrictive applicable content-category conditions govern the affected Afterdark activity, not priority between content licenses. Hosting approval and blacklist removal never waive a prohibition or earning restriction. Other classification rules retain their accepted scope but cannot redefine Afterdark categories or automatically extinguish an acquired grant. Later restrictions require the distinct rights and remedy assessment in Section 9.
+3.5 Where more than one safety rule applies, the rule that prohibits the material governs. A later label cannot turn prohibited sexual content into a lawful upload or extinguish an unrelated acquired grant. Later restrictions on other content require the distinct rights and remedy assessment in Section 9.
 
 4. PLATFORM INTEGRITY, COLLECTION AND SECURITY
 
@@ -74,17 +74,17 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 7.4 Preserve required provenance, edit history, notices and human review. Do not conceal material AI involvement or falsely claim human authorship. Provider access, artifacts, retention and deletion must remain purpose-limited under the accepted Framework and applicable processing instruments. Shobble-only permissions are not user permissions; conditional proprietary-feature permissions require the exact approved release and scope. Internal integration records create no permission.
 
-7.5 Afterdark's prohibition on all voice cloning remains, including authorized and self-voice cloning. Permitted prerecorded human fictional performances are distinct. No general AI exception overrides Afterdark's content or earning restrictions. This Policy does not silently amend a buyer acquisition's accepted AI set or authorize a new processing purpose for previously entrusted files.
+7.5 There is no adult-service exception to this Policy. Sexually explicit content, including a sexual voice performance or sexual voice cloning, is prohibited on every host. This Policy does not silently amend a buyer acquisition's accepted AI set or authorize a new processing purpose for previously entrusted files. Non-sexual AI activity remains governed by the AI Framework.
 
 8. AGE, MANAGED ACCESS AND AFTERDARK
 
 8.1 General Shobble use requires age sixteen or older, subject to higher ages and regional restrictions. Users below legal majority need legally required parental or guardian permission. An educational license, managed account, representative or organizational administrator does not bypass the actual minimum age or establish capacity for every transaction.
 
-8.2 Afterdark requires a separate account, valid acceptance and verified age of at least eighteen, together with any higher local requirements, before activation or use of its account features. Public nonexplicit policy information, reporting, support and privacy requests remain available without an Afterdark account. Do not evade age, regional, blacklist or account controls. A VPN or privacy tool is not prohibited merely by its use.
+8.2 Shobble does not offer a separate adult account or verified-adult content service. Account age rules in Section 8.1 still apply. Public policy information, reporting, support, and privacy requests do not require a special content account. Do not evade age, regional, or account controls. A VPN or privacy tool is not prohibited merely by its use.
 
-8.3 Explicit material must remain behind the required adult-access controls. General-platform surfaces and public or unauthenticated previews must remain nonexplicit under the Afterdark Policy. Its fictional-content boundaries, real-person and minor exclusions, non-sapient-subject prohibition, prohibited sexual abuse/exploitation and severe sexual harm, censorship requirements and permitted supporting-material exceptions retain their precise scope. Fiction, censorship, free hosting or opt-in does not override a prohibition.
+8.3 Sexually explicit material is prohibited on general surfaces, paid surfaces, private messages, and public or unauthenticated previews. Child sexual abuse material, sexualized minor-coded subjects, nonconsensual intimate imagery, sexual depictions of identifiable real people, and sexual abuse or exploitation remain prohibited. Fiction, censorship, free hosting, or a paywall does not override a prohibition.
 
-8.4 Afterdark earning categories are Limited, Ads + commissions only and None under its Schedule. None bars work-attributable earning, including subscription-gated access; Blacklisted status does not change that outcome. Adult advertising uses the separate Afterdark marketplace. New Afterdark Enterprise and Educational offerings, renewals and expansions are excluded; the accepted Policy preserves existing-rights safeguards. Creator Fund scope is determined separately and is not expanded to Afterdark by this Policy.
+8.4 Shobble does not offer adult advertising or an adult earning category. Creator monetization of lawful general-audience work follows the accepted monetization terms. A creator fund does not include sexually explicit content.
 
 8.5 Use supported delegation rather than sharing credentials. Apply the selected license's actual holder, participant, device, seat or other metric; do not presume one active user always consumes one separate license. Administrator status, employment, graduation or affiliation changes do not themselves cancel organization-held acquisitions, valid independent learner grants or surviving Client/portfolio rights. Recovery and reassignment follow the actual accepted scope.
 
@@ -106,7 +106,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 10.2 Shobble will apply the required notice-and-action, copyright, intimate-imagery, child-protection, threat-reporting and evidence-preservation processes under the Master Terms and applicable law. A report of suspected human sex trafficking, including an in-app Illegal content report, is escalated for review and reported to the appropriate authorities. Statutory notices retain their actual requirements; an ordinary policy report need not satisfy a separate statutory form to receive appropriate safety review. A notice alone is not a court determination, and an appeal cannot require unlawful restoration.
 
-10.3 Affected users and reporters may request review through the applicable published route, including support@shobble.com. Shobble will consider actual permissions, relevant context, asserted exceptions and correction evidence, provide required human review and a reasoned outcome, and correct unsupported decisions without undue delay. Afterdark's free electronic appeal period of at least six months and qualified human supervision remain; applicable statutory complaint periods and external remedies also remain. This Policy does not shorten a specific feature's review or payment deadline or require formal litigation notice for ordinary support.
+10.3 Affected users and reporters may request review through the applicable published route, including support@shobble.com. Shobble will consider actual permissions, relevant context, asserted exceptions and correction evidence, provide required human review and a reasoned outcome, and correct unsupported decisions without undue delay. Applicable statutory complaint periods and external remedies remain. This Policy does not shorten a specific feature's review or payment deadline or require formal litigation notice for ordinary support.
 
 10.4 For repeated manifest abuse of reporting or complaints, apply any required prior warning, identify the conduct and correction, and use a proportionate restriction with reasons, duration and review. Preserve routes for valid statutory notices, urgent safety reports and privacy requests. Unsuccessful good-faith challenges do not justify punishment.
 
@@ -129,7 +129,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 Reports and legal concerns: legal@shobble.com
 Support, appeals, recovery and privacy requests: support@shobble.com
 
-Use the applicable published statutory-notice procedure where formal requirements apply. Ordinary support and reporting need no formal litigation notice or Afterdark account. If a contact route changes, Shobble will provide a reasonably accessible successor.
+Use the applicable published statutory-notice procedure where formal requirements apply. Ordinary support and reporting need no formal litigation notice or a separate adult account. If a contact route changes, Shobble will provide a reasonably accessible successor.
 
 END OF POLICY
 

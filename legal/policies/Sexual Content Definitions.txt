@@ -1,8 +1,10 @@
+SFW-only revision adopted in source on November 19, 2026. Effective when published on shobble.com. Until publication, the prior text preserved at Git tag archive/adult-capable-2026-11-19 remains the prior text.
+
 Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
 
 CONTENT DEFINITIONS
 
-Shobble classifies content based on its presentation, context, intent, and likely audience effect. Classification is applied for governance, safety, compliance, environment placement, access control, and monetization purposes and does not create a right to publish, distribute, or monetize any content. Restricted or adult-oriented environments are separated from standard Platform experiences and require users to be at least eighteen (18) years old.
+Shobble classifies content based on its presentation, context, intent, and likely audience effect. Classification is applied for governance, safety, compliance, and monetization purposes and does not create a right to publish, distribute, or monetize any content. Shobble does not operate an adult-oriented environment. Sexually explicit content is prohibited. Users must still meet the general account age.
 
 Classification decisions are contextual and may consider the content itself, surrounding materials, metadata, distribution context, presentation patterns, and cumulative user behavior.
 

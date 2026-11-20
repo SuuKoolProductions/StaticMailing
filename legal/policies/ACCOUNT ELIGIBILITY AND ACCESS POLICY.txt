@@ -1,14 +1,14 @@
 SHOBBLE ACCOUNT ELIGIBILITY & ACCESS POLICY
 
-Version: 1.1
-Effective date: November 16, 2026
+Version: 1.2
+Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 1.1 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
 Application: This Policy applies through Shobble's designated valid acceptance process to the identified Platform participation. It replaces the earlier Account Eligibility & Access Policy for that accepted scope without retrospectively rewriting acquisitions, recipient grants or accrued rights.
 
 1. PURPOSE AND DOCUMENT RELATIONSHIPS
 
 1.1 Shobbl Incorporated, doing business as Shobble (Shobble, we), provides the Platform. This Policy governs account and feature eligibility, age and regional restrictions, verification, correction and recovery. Content eligibility follows the accepted AUP, Community Content Guidelines and applicable content schedules; legal capacity, payment-provider eligibility and content permissions are separate matters.
 
-1.2 The Master Terms govern remaining Platform matters and subject-specific priority. The selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record govern only that acquisition. The Delegated Access & Managed Accounts Policy governs supported administration within actual grants. Afterdark, AI, financial, privacy and processing instruments retain their actual subjects, parties and requirements.
+1.2 The Master Terms govern remaining Platform matters and subject-specific priority. The selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record govern only that acquisition. The Delegated Access & Managed Accounts Policy governs supported administration within actual grants. AI, financial, privacy and processing instruments retain their actual subjects, parties and requirements. No instrument authorizes sexually explicit content.
 
 1.3 This Policy creates no new content license, management authority, processing consent or financial deduction. Mandatory law, independent component/public licenses and protected acquisition commitments remain. Account access, current credentials, content grants, Capacity and surviving recipient rights are distinct. A restriction on one does not automatically cancel the others.
 
@@ -38,17 +38,17 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 3.5 Reaching majority, graduating or leaving management does not automatically transfer an acquisition, create a new license, trigger an undisclosed grace period or require repurchase. Distinguish temporary delegated access, institution-held participation, authorized surviving sublicenses and direct recipient acquisitions. Their continuation and evidence follow their actual grants and the Managed Accounts Policy.
 
-4. AFTERDARK ELIGIBILITY
+4. NO ADULT CONTENT SERVICE
 
-4.1 Afterdark requires a separate account, valid acceptance of its Policy and verified age of at least eighteen, together with any higher local age or other regional requirements, before activation or use of its account features. This includes profiles, messaging, commissions, purchases and restricted-content access. Necessary nonexplicit registration and verification steps may precede activation but must not expose restricted material or enable other account features.
+4.1 Shobble does not offer a separate adult account, adult verification for sexual content, or adult purchases. Age sixteen remains the general minimum, and higher ages still apply where a feature or region requires them.
 
-4.2 A general Shobble account, payment card, declared birth date, platform subscription, household status, parent, institution, employer, gift or delegated assignment is insufficient. Each actual recipient of Afterdark access must qualify. Adult-access verification and eligibility for creator payments or contracting are distinct checks.
+4.2 A payment card, declared birth date, subscription, gift, or delegated assignment does not create access to sexually explicit content. Each person must still meet the age rule for the feature they actually use.
 
-4.3 Purchase, membership, approval or verification does not remove a user's content blacklist. Each eligible adult must deliberately remove every applicable category to access Blacklisted material and may restore it. Do not use shared credentials, links, previews, APIs or alternate delivery routes to bypass adult, regional or blacklist controls.
+4.3 There is no adult blacklist and no adult subdomain. Do not use shared credentials, links, previews, or APIs to seek a bypass.
 
-4.4 New Afterdark Enterprise and Educational offerings, renewals, expansions and access/capacity supplied through those license types are excluded. The Afterdark Policy's Personal Use and Commercial Use routes remain within their actual scope and each user's eligibility. This exclusion does not itself revoke a previously valid acquisition or surviving output.
+4.4 Enterprise and Educational licenses do not add an adult catalog. Existing lawful acquisitions keep their accepted terms.
 
-4.5 Nonexplicit policy information, reporting, privacy requests, ordinary support and appeals require no Afterdark account or adult verification. Use the published reporting routes rather than accessing or redistributing suspect explicit material to make a report.
+4.5 Policy information, reporting, privacy requests, ordinary support, and appeals do not require a special adult account. Use the published reporting routes rather than uploading suspect sexual material to make a report.
 
 5. VERIFICATION AND PERSONAL INFORMATION
 
@@ -92,7 +92,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 8.5 On a lawful end of participation, stop only affected access and follow actual cancellation, private-file retrieval, available export, retention and final-payment duties. Closure alone supplies no remote-deletion authority or general recall of authorized lawful copies. Refund accounting and rescission of a grant are distinct; a representative cannot surrender another person's independent rights without authority.
 
-8.6 Affected users may seek review through support@shobble.com or the applicable published route. Shobble must consider actual evidence, relevant licenses and asserted legal rights, give required reasons and human review, reassess interim measures and promptly correct unsupported decisions. Apply any more specific Afterdark, financial or statutory periods and external remedies; ordinary support requires no formal litigation notice. Good-faith questions, mistakes and unsuccessful appeals are not abuse merely because they challenge a decision.
+8.6 Affected users may seek review through support@shobble.com or the applicable published route. Shobble must consider actual evidence, relevant licenses and asserted legal rights, give required reasons and human review, reassess interim measures and promptly correct unsupported decisions. Apply any more specific financial or statutory periods and external remedies; ordinary support requires no formal litigation notice. Good-faith questions, mistakes and unsuccessful appeals are not abuse merely because they challenge a decision.
 
 9. CHANGES AND CONTACT
 
@@ -103,7 +103,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 Eligibility, verification correction, recovery, managed access, privacy and appeals: support@shobble.com
 Legal concerns and reports: legal@shobble.com
 
-If a contact route changes, Shobble will provide a reasonably accessible successor. Applicable statutory-notice procedures remain. Ordinary support, public nonexplicit reporting and privacy requests need no Afterdark account.
+If a contact route changes, Shobble will provide a reasonably accessible successor. Applicable statutory-notice procedures remain. Ordinary support, reporting and privacy requests need no separate adult account.
 
 END OF POLICY
 

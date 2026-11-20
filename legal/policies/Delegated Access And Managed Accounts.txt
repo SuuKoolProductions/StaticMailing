@@ -1,7 +1,7 @@
 SHOBBLE DELEGATED ACCESS & MANAGED ACCOUNTS POLICY
 
-Version: 1.1
-Effective date: November 16, 2026
+Version: 1.2
+Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 1.1 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
 Application: This Policy applies through Shobble's designated valid acceptance process to the identified managed-access arrangement. It replaces the earlier Delegated Access & Managed Accounts Policy for that accepted scope without retrospectively rewriting acquisitions, participant grants or accrued rights.
 
 1. PURPOSE AND DOCUMENT RELATIONSHIPS
@@ -10,7 +10,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 1.2 The accepted Master Terms govern remaining Platform matters. Each selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record governs only that acquisition's holder, scope, Capacity, participants, duration and protected commitments. This Policy administers permission already granted; it creates no fifth license, automatic household entitlement, general Seat scheme or new sublicense. Each license remains limited to its own scope.
 
-1.3 The accepted AUP, Community Content Guidelines, AI Framework and applicable feature rules retain their actual subjects. Afterdark access and exclusions follow Section 3. Financial and processing obligations require their own actual legal or accepted basis. Mandatory law, independent component/public licenses, independently lawful-use protections and the acquired-rights baseline remain. No general management setting overrides them.
+1.3 The accepted AUP, Community Content Guidelines, AI Framework and applicable feature rules retain their actual subjects. Section 3 states the age rules. Financial and processing obligations require their own actual legal or accepted basis. Mandatory law, independent component/public licenses, independently lawful-use protections and the acquired-rights baseline remain. No general management setting overrides them or authorizes sexually explicit content.
 
 1.4 Shobble must make the applicable fixed terms accessible before acceptance and retain the accepted package. Material access limits must be disclosed before acquisition or acceptance of an affected additional service. A later roster entry, credential, receipt or internal note cannot supply missing rights, authority or assent.
 
@@ -32,15 +32,15 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 2.4 Personal household access requires its actual product permission. Ordinary private co-located enjoyment permitted by a Personal Use license is distinct from another person's remote account, independent copy or source access. Commercial project collaborators and authorized Client deliverables do not require another purchase solely to duplicate participation already granted; they do not create a general organizational source pool.
 
-3. ELIGIBILITY, AGE AND AFTERDARK
+3. ELIGIBILITY AND AGE
 
 3.1 General Shobble use requires age sixteen or older, subject to higher ages, regional restrictions and feature eligibility. Eligible users below legal majority need legally required parental or guardian permission and applicable privacy safeguards. A managed account, educator, homeschool arrangement or educational license does not create an under-sixteen exception or establish contractual capacity for every feature.
 
 3.2 A Manager must have actual authority for the specific management, procurement or representative act. An educator is not automatically a parent, an institutional purchaser or the owner of student work. An employee or first administrator is not automatically authorized to bind every affiliate or claim personal acquisitions. Shobble may require proportionate evidence through the designated process, with a correction route.
 
-3.3 Afterdark requires each actual user to hold a separate account, validly accept its Policy, verify an age of at least eighteen and meet any higher local requirements before activation or use of its account features. No parent, household, school, employer, gift or delegation bypasses that process. Public nonexplicit policies, reporting, privacy requests and support require no Afterdark account.
+3.3 Shobble does not offer a separate adult account. No parent, household, school, employer, gift or delegation can grant access to sexually explicit content. Public policies, reporting, privacy requests and support do not require such an account.
 
-3.4 Do not offer new Afterdark Enterprise or Educational acquisitions, renewals, expansions, institutional pools or delivery through those license types. A managed-access setting cannot convert an excluded offering into an eligible one. Any otherwise supported Afterdark personal or commercial participation remains subject to each person's eligibility, actual grant, blacklist choices and audience controls. Existing valid acquisitions and surviving outputs retain the accepted Policy's safeguards without requiring unlawful delivery.
+3.4 Do not use a managed-access setting to offer sexually explicit content under any license, including Enterprise or Educational. A managed-access setting cannot convert prohibited material into an eligible offer. Existing valid lawful acquisitions and surviving outputs retain their safeguards without requiring unlawful delivery.
 
 3.5 Do not share credentials, impersonate a participant, falsify authority or bypass age, region, blacklist, account or capacity restrictions. A supported authorized-user invitation or assignment is distinct from giving someone a Holder's login.
 
@@ -125,7 +125,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 Support, delegation, reassignment, recovery, records and privacy requests: support@shobble.com
 Legal concerns and content reports: legal@shobble.com
 
-Use the applicable published statutory-notice route where formal requirements apply. Public nonexplicit support and reporting need no Afterdark account. Shobble will provide a reasonably accessible successor if a contact route changes.
+Use the applicable published statutory-notice route where formal requirements apply. Public support and reporting need no separate adult account. Shobble will provide a reasonably accessible successor if a contact route changes.
 
 END OF POLICY
 

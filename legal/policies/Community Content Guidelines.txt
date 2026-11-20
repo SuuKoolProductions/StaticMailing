@@ -1,7 +1,7 @@
 SHOBBLE COMMUNITY CONTENT GUIDELINES
 
-Version: 1.2
-Effective date: November 16, 2026
+Version: 1.3
+Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 1.2 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
 Application: These Guidelines apply through Shobble's designated valid acceptance process to the identified Platform participation. They replace the earlier Community Content Guidelines for that accepted scope without retrospectively rewriting acquisitions or accrued rights.
 
 Reader notice: These Guidelines refer to sensitive themes solely to explain content boundaries. A descriptive reference does not establish that the material is hosted, permitted or eligible for earning.
@@ -10,7 +10,7 @@ Reader notice: These Guidelines refer to sensitive themes solely to explain cont
 
 1.1 Shobbl Incorporated, doing business as Shobble (Shobble, we), provides the Platform. These Guidelines explain how content is assessed for submission, publication, audience access and earning. They cover text, images, art, books, comics, music, podcasts, film, video, games, software, assets, interactive works and associated profiles, messages, metadata, thumbnails, previews, links and promotional material.
 
-1.2 These Guidelines operate alongside the accepted Master Terms and Acceptable Use Policy. The selected content license and authorized Acquisition Record govern that acquisition within its own scope; the Creator Content License Agreement governs Creator authority and fulfillment. The accepted AI Framework governs contractual AI operations within underlying rights. The Afterdark Access and Content Policy and its incorporated Adult Content Schedule govern Afterdark classification, audience controls and earning eligibility. Financial, privacy and other feature instruments retain their actual subjects and parties.
+1.2 These Guidelines operate alongside the accepted Master Terms and Acceptable Use Policy. The selected content license and authorized Acquisition Record govern that acquisition within its own scope; the Creator Content License Agreement governs Creator authority and fulfillment. The accepted AI Framework governs contractual AI operations within underlying rights. Sexually explicit content is prohibited under Section 4. Financial, privacy and other feature instruments retain their actual subjects and parties.
 
 1.3 These Guidelines supply no additional license, AI exception, financial deduction or data-processing consent. Mandatory law, independent component/public licenses and protected acquisition commitments remain. Publication eligibility, lawful content rights, technical access and earning permission are distinct. A license does not require Shobble to publish prohibited material; a publication restriction does not automatically cancel an acquired grant.
 
@@ -24,7 +24,7 @@ Reader notice: These Guidelines refer to sensitive themes solely to explain cont
 
 2.3 Check AI activity and each affected component. Apply the exact accepted AI Use Case Policy, Schedule and published Errata. Identify the eligible actor, operation, purpose, input, output, human review and required approvals. A mixed-media work cannot conceal a prohibited component; permitted coding assistance, technical outputs, critical display and other express exceptions retain their actual boundaries. Generated material is not permitted merely because it is labeled, manually retyped or human-reviewed. Ordinary predetermined non-AI operations are not prohibited merely because they compute.
 
-2.4 Check channel and audience. Material suitable for one audience or delivery route may be unsuitable for another. General Shobble surfaces and unauthenticated or public previews must satisfy the applicable general-audience rules. Explicit material belongs only within the verified-adult Afterdark service and its permitted routes. A paywall, private message, external link or hidden companion file cannot bypass an audience or content restriction.
+2.4 Check channel and audience. Material suitable for one audience or delivery route may be unsuitable for another. General Shobble surfaces, private messages, paid offers, and unauthenticated or public previews must satisfy the general-audience rules. Sexually explicit material is not permitted on any route. A paywall, private message, external link or hidden companion file cannot bypass a content restriction.
 
 2.5 Check earning separately. Hosting eligibility does not authorize sales, paid memberships, commissions, tips, advertising or any other earning route. Apply the actual content, rights, financial and provider conditions for that route. An unmonetizable work cannot be included as a paid bonus, bundled benefit or nominally free subscription reward to avoid its restriction. Unrelated eligible work is assessed separately.
 
@@ -38,33 +38,21 @@ Reader notice: These Guidelines refer to sensitive themes solely to explain cont
 
 3.3 Supply accurate descriptions, warnings and category tags. Consider the whole submission, including accessible alternate versions, audio, thumbnails, filenames, promotional claims and linked material. Do not remove warnings, disguise restricted themes, falsify provenance or provide an uncensored or prohibited version through a secondary route. Material changes affecting rights, classification, audience or earning must receive any required reassessment before the changed use proceeds.
 
-3.4 A neutral reference to a sensitive topic is not automatically explicit content. Medical, educational, historical and artistic presentation must be assessed in its actual context, including the detail depicted and audience exposed. No contextual label creates an exception to prohibited imagery, real-person sexual material or a specific Afterdark prohibition. Use nonexplicit descriptions for ordinary reports and clarification requests.
+3.4 A neutral reference to a sensitive topic is not automatically explicit content. Medical, educational, historical and artistic presentation must be assessed in its actual context, including the detail depicted and audience exposed. No contextual label creates an exception to prohibited imagery, child sexual abuse material, or nonconsensual intimate imagery. Use nonexplicit descriptions for ordinary reports and clarification requests.
 
-4. AFTERDARK CLASSIFICATIONS
+4. SEXUALLY EXPLICIT CONTENT IS PROHIBITED
 
-4.1 Afterdark requires a separate account, valid acceptance, verified age of at least eighteen and compliance with any higher age or regional restrictions. General Shobble use requires at least sixteen, subject to its actual eligibility rules. Parental permission, an educational or enterprise license, a gift or delegated access does not bypass the applicable minimum age or Afterdark verification. Public nonexplicit policies, reporting, support and privacy requests remain accessible without an Afterdark account.
+4.1 Shobble is a general-audience marketplace for human-created digital media. Sexually explicit content is prohibited on every host and in every upload type, including art, books, comics, music, audio, video, games, software, assets, messages, commissions, auctions, memberships, and previews. There is no adult subdomain, adult account, or adult purchase path.
 
-4.2 The Afterdark hosting categories have these meanings:
+4.2 Child sexual abuse material, sexual content involving anyone under eighteen, sexualized minor-coded subjects, nonconsensual intimate imagery, sexual depictions of identifiable real people, trafficking, grooming, and sexual abuse or exploitation remain prohibited. Fiction, censorship, payment, a private message, or a claim of artistic value does not create an exception. A non-explicit report, safety discussion, or educational reference is not itself a prohibited depiction. Do not upload or resend suspected illegal imagery in order to report it.
 
-    Eligible: Category-eligible for verified-adult hosting, subject to actual rights, audience, regional and other applicable requirements. It is not automatic earning approval.
+4.3 Non-explicit romance, affection, or ordinary non-sexual nudity in an artistic context is not sexually explicit by that fact alone. It must still meet the general-audience, rights, and safety rules. A paywall, external link, or hidden companion file cannot carry sexually explicit material.
 
-    Review: The affected publication or activity remains unavailable until the required review and approval resolve its scope and conditions. Review is not permission to host known prohibited content.
+4.4 Shobble does not offer adult advertising, an adult ledger, or an adult creator-consent path for sexual content. A prior acceptance of an adult-content policy does not authorize a new upload. Existing acquisitions, payments, and consent records remain records. They do not reopen an adult catalog.
 
-    Blacklisted: Category-eligible content is hidden by default from each Afterdark user unless that user deliberately removes every applicable category from their blacklist. Verification, purchase, membership and hosting approval do not remove it for them. Blacklisted status alone neither requires additional category-specific approval nor authorizes earning.
+4.5 A prohibition on sexually explicit content does not cancel an unrelated lawful commission, auction, membership, game, artwork, piece of music, book, video, or license.
 
-    Prohibited: No hosting, supply or earning through the affected service. Fiction, censorship, free release, subscription access, opt-in or an artistic-value assessment does not override the prohibition.
-
-4.3 These categories replace the earlier Guidelines' Allowed/Restricted/Forbidden flow for Afterdark. They do not create an alternative general-platform adult-content route. Where multiple applicable content schedules or categories cover an activity, the most restrictive conditions govern that activity: Prohibited blocks supply; Review requires approval; every Blacklisted category requires the user's deliberate removal. Those requirements can apply together. The rule does not establish priority between content licenses.
-
-4.4 The exact Adult Content Schedule defines the fictional-content boundaries and exceptions. Real-world sexual material, sexualized identifiable real-person depictions, underage or minor-coded content, non-sapient sexual subjects, sexual abuse/exploitation and severe sexual harm remain prohibited within its scope. All Afterdark voice cloning is forbidden. The Schedule's permitted prerecorded human fictional performances and nonsexual supporting production materials are distinct and retain their conditions.
-
-4.5 Clearly adult sapient nonhuman fiction does not require extra review merely because of species or form. Assess genuine age, sapience, agency and meaningful-consent uncertainty under the applicable category; a label alone cannot cure contradictory presentation. Sapient fictional undead are assessed under their specific Schedule entry rather than automatically treated as inanimate corpses. Body size, stylization, gender presentation or voice pitch alone does not establish minority. Apply the same criteria to LGBTQ+ subjects.
-
-4.6 Censorship creates no exception for prohibited material. Where described as censored, the entire affected anatomy or offending object must be concealed throughout with an effect that at minimum distorts its edges and makes the offending detail indiscernible. A line or partial coverage is insufficient; accompanying distress audio must also be indiscernible. A censored item is not automatically suitable for public display or earning.
-
-4.7 Afterdark earning labels are Limited, Ads + commissions only and None, with their exact meanings and route conditions in the accepted Policy. None bars work-attributable direct and indirect earning, including membership-gated access. AC-10 and AC-15 remain unmonetizable after blacklist removal; AC-12 hosting approval does not override None. Adult advertising operates through the separate Afterdark marketplace. Creator Fund scope is determined by its own accepted Schedule and is not expanded to Afterdark by these Guidelines.
-
-4.8 New Afterdark acquisitions may be offered only under Personal Use or Commercial Use within their actual scope. Enterprise and Educational offerings, renewals and expansions are excluded. This does not itself revoke an existing valid grant or its surviving outputs. External publication and audience conditions follow the actual authorized Offer, selected license and Afterdark Policy; a later tag or receipt cannot manufacture an unaccepted variation.
+4.6 Classification tools can err. Human review, appeals, copyright notices, intimate-imagery removal, child-protection reports, and privacy requests remain available. An appeal does not require an adult account.
 
 5. CLASSIFICATION, ENFORCEMENT AND EXISTING RIGHTS
 
@@ -76,7 +64,7 @@ Reader notice: These Guidelines refer to sensitive themes solely to explain cont
 
 5.4 Shobble must provide applicable reasons, notice, cure, review and restoration under the AUP, Master Terms, selected license and relevant feature terms. Urgent legal, safety or security protection may precede notice where justified; it does not eliminate subsequent review or correction. An allegation, automated flag or unresolved payment concern alone is not final invalidation.
 
-5.5 Automated tools may support classification only within actual authority and can err. Required human decisions, Afterdark's targeted review and appeals, and statutory safeguards remain. Review approvals must identify their actual scope and be retrievable to the Creator. Shobble must correct unsupported decisions without undue delay. These Guidelines promise neither perfect detection nor universal prescreening.
+5.5 Automated tools may support classification only within actual authority and can err. Required human decisions, appeals, and statutory safeguards remain. Review decisions must identify their actual scope and be retrievable to the Creator. Shobble must correct unsupported decisions without undue delay. These Guidelines promise neither perfect detection nor universal prescreening.
 
 5.6 Financial consequences follow accepted financial terms and law. A content restriction supplies no automatic earnings forfeiture, unrelated setoff or new creator indemnity. Distinguish pending earnings review, final liability and valid accrued compensation. No device inspection, remote deletion or recall of authorized local copies is granted.
 
@@ -84,7 +72,7 @@ Reader notice: These Guidelines refer to sensitive themes solely to explain cont
 
 6.1 Report a concern through the published reporting route or legal@shobble.com. Identify the item or location, describe the concern and provide reasonably necessary lawful evidence. Do not download or resend suspected illegal imagery merely to report it. Necessary lawful files may be supplied only through an expressly authorized private review route and within its instructions.
 
-6.2 Ordinary clarification, recovery and appeals may use support@shobble.com. Afterdark's free electronic appeal period of at least six months after notification and qualified human supervision remain, together with other applicable complaint periods and external remedies. Copyright, intimate-imagery, child-protection and privacy requests retain their distinct legal procedures and deadlines. Ordinary support needs no formal litigation notice.
+6.2 Ordinary clarification, recovery and appeals may use support@shobble.com. Applicable complaint periods, human review, and external remedies remain. Copyright, intimate-imagery, child-protection and privacy requests retain their distinct legal procedures and deadlines. Ordinary support needs no formal litigation notice and no separate adult account.
 
 6.3 A good-faith question, mistaken report, unsuccessful appeal or legitimate renewed notice is not abuse merely because it concerns sensitive material or challenges Shobble. Knowingly fabricated evidence, coordinated harassment and deliberate evasion may justify scoped action under the AUP. A depicted-person request from a signed-in person can hide at most five distinct listings in 24 hours. Further requests, and requests from someone who is not signed in, still reach urgent review without another automatic hide. A moderator can restore a false hide without deleting the files. A legal preservation hold keeps those files and is not released merely because the listing is restored. An unsubstantiated good-faith report does not by itself suspend or terminate the reporter. Preserve valid statutory-notice, urgent-safety and privacy routes. Illegal-content and child-safety reports are not discarded because a depicted-person limit was reached.
 

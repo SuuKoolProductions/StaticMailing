@@ -1,14 +1,14 @@
 SHOBBLE PRIVACY POLICY
 
-Version: 2.0
-Effective date: November 16, 2026
+Version: 2.1
+Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 2.0 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
 Last updated: November 16, 2026
 
 This Policy explains personal-information processing by Shobbl Incorporated, doing business as Shobble (we). Reading or acknowledging it is not blanket consent to processing, advertising, AI training or unrelated contractual restrictions. Where consent is required, we obtain it separately.
 
 1. SCOPE, RESPONSIBILITY AND CONTACT
 
-1.1 This Policy covers our websites, applications, marketplace, content delivery, accounts, communications and actually offered creator, membership, Fund, managed-access and Afterdark features. It does not imply that an optional feature is available in every region or that an unsupported service has launched.
+1.1 This Policy covers our websites, applications, marketplace, content delivery, accounts, communications and actually offered creator, membership, Fund and managed-access features. It does not imply that an optional feature is available in every region or that an unsupported service has launched. Shobble does not currently offer an adult-content service.
 
 1.2 Shobble determines purposes and means for its own account, marketplace, payment administration, security, compliance and related operations. Where we process private organizational or educational material solely on a customer's documented instructions, the applicable processing agreement governs that activity. A customer's title or a contract label does not determine every processing role. Creators, institutions, payment and verification providers may have their own independent responsibilities; their applicable notices must be identified at the relevant interaction.
 
@@ -16,7 +16,7 @@ This Policy explains personal-information processing by Shobbl Incorporated, doi
 Legal concerns and reports: legal@shobble.com.
 Postal privacy contact: Shobbl Incorporated, c/o Registered Agent (Privacy Requests), 732 S 6th St, Ste N, Las Vegas, NV 89101, United States.
 
-No account, Afterdark verification, special subject line or formal litigation notice is required for an ordinary privacy request. We use only proportionate identity checks necessary to act on it. If a route changes, we provide a reasonably accessible successor. Any legally required EU representative or data-protection-officer identity and contact details must be published before the processing requiring that appointment begins; this US address is not an EU establishment or representative.
+No account, special subject line or formal litigation notice is required for an ordinary privacy request. We use only proportionate identity checks necessary to act on it. If a route changes, we provide a reasonably accessible successor. Any legally required EU representative or data-protection-officer identity and contact details must be published before the processing requiring that appointment begins; this US address is not an EU establishment or representative.
 
 1.4 The Master Terms, selected license and other accepted instruments govern their contractual subjects. They do not supply a missing privacy legal basis. This Policy does not create content rights, waive confidentiality, amend an acquisition or replace a required processing agreement. More specific collection notices supplement this Policy for the identified activity; they cannot silently authorize a conflicting new use.
 
@@ -38,7 +38,7 @@ We collect information you provide, information generated through your use, and 
 
 2.7 Managed-access information: institution or organization identity, actual representative authority, eligible participant references, role and roster assignments, applicable Capacity, reassignment and recovery history, and necessary grant evidence. Management does not itself authorize collection of unrelated personal activity or private accounts.
 
-2.8 Afterdark information: separate profile and account settings, adult-eligibility results, access and regional checks, blacklist choices, restricted-content activity, earning/transaction records and moderation evidence. These records may reveal or permit sensitive inferences and receive the additional controls in Section 6.
+2.8 Shobble does not collect a separate adult-content profile, adult-content blacklist, or restricted sexual-content activity record for a current adult service. Historical records of a former service, if retained, are kept only for the legal, security, accounting, or preservation purpose that applies to them.
 
 2.9 External sources: payment and verification providers supply necessary results; authorized managers provide roster or authority records; counterparties provide fulfillment or dispute information; security services supply necessary threat signals. Connected services provide only information within the connection you authorize. Public availability does not justify unrestricted harvesting or use. Where law requires notice about indirectly obtained data, we identify its source, categories and purpose within the required period.
 
@@ -82,9 +82,9 @@ We collect information you provide, information generated through your use, and 
 
 5.4 The Fund Schedule's one-year closed-account preservation rule applies to the unallocated creator-support commitment, not a universal retention period for all viewing history. We retain only the identity/reference, amount, cutoff, restoration and other evidence necessary to operate that rule and meet actual legal duties. Later conditional contest application does not publish the former subscriber, enter them in the contest or transfer their engagement history to entrants. Earned Creator compensation is recorded separately.
 
-6. AFTERDARK AND SENSITIVE INFORMATION
+6. SENSITIVE INFORMATION
 
-6.1 Afterdark uses a separate account, public profile and access settings. We do not publicly connect it to a general Shobble profile without your deliberate choice. Necessary internal links for recovery, fraud prevention, payments or legal compliance are limited and disclosed. Account separation is not complete anonymity or a separate legal entity.
+6.1 Shobble does not operate a separate adult account or adult public profile. We do not ask you to connect an adult profile to a general profile. Sensitive information still receives the limits in this section.
 
 6.2 Adult verification, blacklist choices and policy acceptance are not consent to advertising, sexual-interest profiling, optional tracking or disclosure. We do not target advertisements using profiles based on sex life, sexual orientation or other legally protected sensitive information, including inferences. Adult inventory and audience data do not automatically cross into general Shobble advertising.
 
@@ -94,7 +94,7 @@ We collect information you provide, information generated through your use, and 
 
 7. MANAGED, EDUCATIONAL AND ORGANIZATIONAL ACCOUNTS
 
-7.1 General Shobble use is sixteen and older, subject to higher ages and regional restrictions. Afterdark requires verified age of at least eighteen and any higher local requirements. A parent, school, employer or managed arrangement does not create an under-sixteen exception or bypass Afterdark eligibility. Eligible users below legal majority require legally applicable permissions and safeguards.
+7.1 General Shobble use is sixteen and older, subject to higher ages and regional restrictions. A parent, school, employer or managed arrangement does not create an under-sixteen exception. Eligible users below legal majority require legally applicable permissions and safeguards. An age check is not access to sexually explicit content.
 
 7.2 Managers receive only the access and records authorized for their actual role. Billing, roster or assignment authority is not unrestricted access to private submissions, messages, unrelated activity or personal acquisitions. Material administrative visibility must be disclosed before the affected use. Managers must have authority to provide participant data and instructions; an educator is not automatically a parent or copyright owner.
 
@@ -112,7 +112,7 @@ We collect information you provide, information generated through your use, and 
 
 8.4 Automated systems may support eligibility, moderation, fraud and discovery within actual authority. The specific feature's notices must explain material data inputs, purpose and decision role, and any required meaningful information about logic, significance and likely consequences. A general policy description is not a substitute for that disclosure.
 
-8.5 We provide the explanations, correction, human supervision and review required by law and expressly promised in accepted terms. We do not rely on this notice to authorize a solely automated decision producing legal or similarly significant effects; any such proposed operation needs its own lawful basis, applicable exception, specific notice and safeguards before activation. Afterdark appeals are not decided solely by automation. A human reviewer must be able to assess relevant evidence rather than merely repeat a tool's output.
+8.5 We provide the explanations, correction, human supervision and review required by law and expressly promised in accepted terms. We do not rely on this notice to authorize a solely automated decision producing legal or similarly significant effects; any such proposed operation needs its own lawful basis, applicable exception, specific notice and safeguards before activation. Appeals are not decided solely by automation. A human reviewer must be able to assess relevant evidence rather than merely repeat a tool's output.
 
 9. DISCLOSURE, COOKIES AND ADVERTISING
 
@@ -174,7 +174,7 @@ We collect information you provide, information generated through your use, and 
 
 13. YOUR RIGHTS AND HOW TO EXERCISE THEM
 
-13.1 Depending on applicable law and the processing, you may request access, confirmation, a copy, correction, deletion, restriction, portability or information about disclosures; object to qualifying processing; withdraw consent; exercise applicable sensitive-data, sale/sharing/targeted-advertising choices; and challenge qualifying automated decisions. Scope and exceptions depend on the actual law. We do not require a new purchase or an Afterdark account to submit a request.
+13.1 Depending on applicable law and the processing, you may request access, confirmation, a copy, correction, deletion, restriction, portability or information about disclosures; object to qualifying processing; withdraw consent; exercise applicable sensitive-data, sale/sharing/targeted-advertising choices; and challenge qualifying automated decisions. Scope and exceptions depend on the actual law. We do not require a new purchase or a separate adult account to submit a request.
 
 13.2 Contact support@shobble.com or use an actually available relevant setting. Specify the right and information concerned without unnecessarily including sensitive documents. Authorized agents may act with the required authority. We may request proportionate verification for access/deletion or representative authority, but not require identity verification for a statutory opt-out where prohibited. We protect others' information and explain any lawful refusal or limitation and available review.
 

@@ -1,11 +1,12 @@
 SHOBBLE DEPICTED PERSON REMOVAL POLICY
 
-Effective date: November 18, 2026
+Version: 1.1
+Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, the November 18, 2026 text remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
 Contact: team@shobble.com
 
 1. Who can ask
 
-1.1 If you are an actual person shown in content on Shobble, you can ask for it to be removed. On an adult content listing or content page, open Report / Request Removal and choose "I'm depicted in this content — Request Removal."
+1.1 If you are an actual person shown in content on Shobble, you can ask for it to be removed. On a content listing or content page, open Report / Request Removal and choose "I'm depicted in this content — Request Removal."
 
 1.2 This is not an ordinary community report. Shobble does not hold it for the five-business-day complaint period.
 

@@ -1,7 +1,7 @@
 SHOBBLE AI USE CASE POLICY
 
-Version: 2.1
-Effective date: November 16, 2026
+Version: 2.2
+Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 2.1 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
 Schedule: AI Use Case Schedule v1.0, including its published Errata in the exact retained accepted release. The internal Integrations sheet is excluded.
 Application: This Policy applies through Shobble's designated valid acceptance process to its identified processing or acquisition scope. It replaces the earlier AI Use Case Policy for that accepted scope without silently amending historical acquisitions or authorizing new uses of previously entrusted material.
 
@@ -11,11 +11,11 @@ Shobbl Incorporated, doing business as Shobble (Shobble, we), supports human-aut
 
 1.1 This Policy governs content submitted to Shobble, processing of material obtained through Shobble, Shobble's AI features and authorized provider processing. It applies to participating users, Creators, developers and partners and establishes Shobble's stated obligations. Shobble must obtain actual provider participation and enforceable restrictions; public policy text alone does not bind an unnamed provider.
 
-1.2 Content means material made available through the Platform. Creator Content means material submitted or licensed by a Creator. User Data and Content includes entrusted or collected uploads, private files, account information, communications, metadata and derived records containing or reflecting that material. Public, private, paid, free, general-platform and Afterdark material retain their actual rights and purpose limits.
+1.2 Content means material made available through the Platform. Creator Content means material submitted or licensed by a Creator. User Data and Content includes entrusted or collected uploads, private files, account information, communications, metadata and derived records containing or reflecting that material. Public, private, paid and free material retain their actual rights and purpose limits. Sexually explicit material is not eligible content.
 
 1.3 Apply the Master Terms' subject-specific coordination and protected acquisition baseline. Each selected Personal Use, Commercial Use, Enterprise or Educational license and authorized Acquisition Record governs only that acquisition. The Creator Content License Agreement governs creator operational authority and surviving fulfillment. This Policy and the accepted Schedule govern contractual AI within underlying rights; privacy, processing, transfer and feature instruments govern their actual subjects and parties. No general priority clause or stricter-restriction shortcut imports another license family, supplies missing assent or overrides independent component/public licenses.
 
-1.4 Publication, audience access, advertising and monetization remain separate eligibility decisions under the AUP, Community Content Guidelines, Afterdark Policy and actual feature terms. No license label, approval badge, fee payment, membership or technical feature supplies every required permission. The deprecated Music Licensing Policy, Asset Store Terms and legacy AI policy are not additional authorities for new participation governed by this version.
+1.4 Publication, audience access, advertising and monetization remain separate eligibility decisions under the AUP, Community Content Guidelines and actual feature terms. No license label, approval badge, fee payment, membership or technical feature supplies every required permission. The deprecated Music Licensing Policy, Asset Store Terms and legacy AI policy are not additional authorities for new participation governed by this version. None of them authorizes sexually explicit content.
 
 1.5 The exact accepted Policy, Schedule and published Errata must be accessible before acceptance and retained afterward. Distinguish Shobble's Creator operational set from each buyer acquisition's authorized set; map different components and purposes expressly. A later Creator agreement, live Schedule edit or new provider setting does not silently replace the buyer's accepted terms.
 
@@ -79,7 +79,7 @@ A more specific Outcome must be read with its stated conditions. An express name
 
 5.5 Private files, assessment material, annotations, account links and restricted history stay within their authorized audience and purpose. Administrator status, an institutional contract, a parent or a paid service is not blanket authority over another person's data or work. Creator Fund activity and allocation reports must preserve its contributor-confidentiality rules; moderation or analytics permission does not authorize exposing contributors to Creators.
 
-5.6 Sensitive, biometric, adult-verification and minor-related information require the additional safeguards and lawful conditions applicable to that processing. Result tokens and pseudonymous identifiers do not evade stricter collection, identification or deletion limits. Afterdark profile separation and limits on sensitive-data advertising remain; no general AI permission authorizes cross-service profiling.
+5.6 Sensitive, biometric and minor-related information require the additional safeguards and lawful conditions applicable to that processing. Result tokens and pseudonymous identifiers do not evade stricter collection, identification or deletion limits. Limits on sensitive-data advertising remain; no general AI permission authorizes profiling for a sexual-content service.
 
 6. COLLECTION AND PROTECTIVE MEASURES
 
@@ -91,7 +91,7 @@ A more specific Outcome must be read with its stated conditions. An express name
 
 6.4 To the extent authorized by relevant rights-holders, Shobble reserves applicable text-and-data-mining rights in Platform Content, alongside appropriate machine-readable reservations. Statutory exceptions and independent rights retain their actual scope. This reservation is not proof that Shobble owns every component or may waive another rights-holder's reservation.
 
-7. HUMAN CONTROL, CONDITIONAL FEATURES AND AFTERDARK
+7. HUMAN CONTROL AND CONDITIONAL FEATURES
 
 7.1 Preserve human control over expressive decisions and complete the Schedule's required review and implementation-appropriate checks. AI review alone is not approval; output and passing tests alone do not establish accuracy, rights clearance, accessibility, safety or deployment readiness. Do not invent capabilities, guarantees, dialogue or expressive meaning under a technical-processing permission.
 
@@ -101,7 +101,7 @@ A more specific Outcome must be read with its stated conditions. An express name
 
 7.4 Translation, transcription, accessibility and audio operations retain separate boundaries. For example, permitted human-verified subtitle transcription/timing does not approve Pending subtitle translation; acquiring stems or using an authorized non-music isolation operation does not approve Pending music stem separation. Mixed components require their own assessment. These examples explain the retained Schedule and do not create new permissions or Outcomes.
 
-7.5 Afterdark's content, account, audience and earning conditions remain separate. All voice cloning is forbidden within Afterdark, including authorized and self-voice cloning; general consent or a permission elsewhere supplies no exception. Permitted prerecorded human fictional performances are distinct. This service boundary does not silently amend an independently held grant or another acquisition's accepted AI set.
+7.5 Sexually explicit content is prohibited, including sexual voice cloning and sexual voice performance. A permission to use AI for a lawful non-sexual purpose supplies no exception. This boundary does not silently amend an independently held grant or another acquisition's accepted AI set.
 
 7.6 Automated tools may assist moderation, fraud, verification and discovery only within actual authority. They can err and do not conclusively establish illegality, breach or financial liability. Shobble must provide meaningful explanations, correction and human review where required by law or promised under the Master Terms, Privacy Policy, AUP, selected license and applicable feature rules. A blanket Policy acceptance does not authorize a solely automated legally or similarly significant decision without its actual legal conditions and safeguards.
 
@@ -111,9 +111,9 @@ A more specific Outcome must be read with its stated conditions. An express name
 
 8.2 Where required, separate approval needs a written agreement executed by Shobble and each necessary rights-holder or other party. It must identify the actual grant and conditions and satisfy applicable execution requirements. No response, silence, vote, provider contract, generic written exception or internal approval overrides a prohibition or Pending/unavailable status. A genuine permission change requires valid amendment of the controlling Framework and necessary rights and processing instruments; a conditional row may be activated only through the approval route it actually provides.
 
-8.3 Enforcement and appeals use the accepted Master Terms, AUP, Community Content Guidelines, selected license and applicable Afterdark procedures, rather than an unidentified separate policy. Shobble must distinguish upload ineligibility, temporary restrictions, account sanctions, financial adjustments and final license termination; apply an actual basis and proportionate affected scope; and provide required reasons, cure, review and restoration. Credible urgent legal, safety or security risks may justify action before notice with required subsequent process. No allegation, policy label or automated flag makes acquired grants revocable at will.
+8.3 Enforcement and appeals use the accepted Master Terms, AUP, Community Content Guidelines and selected license, rather than an unidentified separate policy. Shobble must distinguish upload ineligibility, temporary restrictions, account sanctions, financial adjustments and final license termination; apply an actual basis and proportionate affected scope; and provide required reasons, cure, review and restoration. Credible urgent legal, safety or security risks may justify action before notice with required subsequent process. No allegation, policy label or automated flag makes acquired grants revocable at will.
 
-8.4 Ordinary questions, correction requests and appeals may use support@shobble.com; legal concerns and reports may use legal@shobble.com. Good-faith criticism, a disputed interpretation or an unsuccessful appeal is not abuse merely because it challenges a decision. No formal litigation notice or Afterdark account is needed for ordinary review. Applicable human review, specific response periods, free Afterdark appeals and statutory external remedies remain.
+8.4 Ordinary questions, correction requests and appeals may use support@shobble.com; legal concerns and reports may use legal@shobble.com. Good-faith criticism, a disputed interpretation or an unsuccessful appeal is not abuse merely because it challenges a decision. No formal litigation notice or separate adult account is needed for ordinary review. Applicable human review, specific response periods and statutory external remedies remain.
 
 8.5 Shobble must retain the exact accepted Policy, Schedule and published Errata set, approval evidence and relevant amendments. Do not substitute an internal Integrations sheet or live link for the retained release. Record the distinct Creator operational and buyer acquisition sets and any expressly mapped component or purpose differences. Same-holder recovery, assignment, payment retries and receipt generation do not adopt later AI terms.
 

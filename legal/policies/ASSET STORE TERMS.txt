@@ -134,7 +134,7 @@ the delegating account holder is responsible for ensuring age-appropriateness an
 
 delegated access does not expand license scope, seat counts, or usage limits; and
 
-delegated access does not permit users below the minimum account age to create independent accounts, access restricted or adult-oriented environments, participate in monetization, receive payouts, or use payment-enabled creator tools.
+delegated access does not permit users below the minimum account age to create independent accounts, participate in monetization, receive payouts, or use payment-enabled creator tools. It also does not permit sexually explicit content.
 
 8. ASSET PUBLISHER REPRESENTATIONS
 

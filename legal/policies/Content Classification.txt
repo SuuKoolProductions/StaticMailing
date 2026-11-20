@@ -1,9 +1,11 @@
+SFW-only revision adopted in source on November 19, 2026. Effective when published on shobble.com. Until publication, the prior text preserved at Git tag archive/adult-capable-2026-11-19 remains the prior text. Sexually explicit content is prohibited on every Shobble host. This document does not create an adult environment.
+
 Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
 
 
 1. CONTENT CLASSIFICATION
 
-Shobble classifies content into tiers based on risk, legality, safety, and platform impact. These classifications determine visibility, access controls, monetization eligibility, environment placement, and enforcement posture. Restricted and adult-oriented content environments are separately age-gated and isolated from standard Platform experiences.
+Shobble classifies content into tiers based on risk, legality, safety, and platform impact. These classifications determine visibility, access controls, monetization eligibility, environment placement, and enforcement posture. Shobble does not operate a separate adult-oriented content environment.
 
 For determining the age appropriateness of a piece of content, refer to our Age Rating Policy
 
@@ -127,7 +129,7 @@ Restricted Content includes material that may be lawful but presents elevated sa
 
 Restricted Content is not entitled to hosting, distribution, discoverability, monetization, or continued availability.
 
-Where permitted, Restricted Content is subject to appropriate access controls, including age-gating or placement on Shobble’s adult domain, as determined by Shobble based on context, presentation, and risk.
+Where permitted, Restricted Content is subject to appropriate access controls, including age-gating or placement limits Shobble actually publishes, as determined by Shobble based on context, presentation, and risk.
 
 3.1 Baseline Principles Applicable to All Restricted Content
 3.1.1 No Reclassification by Framing
@@ -169,11 +171,11 @@ For the avoidance of doubt, the “exceptions” described below do not create n
 3.2 Domain Allocation
 3.2.1 General Rule
 
-Restricted Content may appear only in the environment designated by Shobble for its classification and only where expressly permitted and subject to applicable access controls. Adult-oriented restricted environments require users to be at least eighteen (18) years old and are separated from standard Platform experiences.
+Restricted Content may appear only in the environment designated by Shobble for its classification and only where expressly permitted and subject to applicable access controls. That designation cannot be an adult sexual-content environment.
 
 3.2.2 Sexualized Content Limitation
 
-Sexualized or erotic content, if permitted at all, may appear only within Shobble’s restricted adult-oriented environment, is never permitted on standard Platform surfaces, and is not accessible to users under eighteen (18).
+Sexually explicit content is not permitted on any Shobble host, including a former adult hostname. It is not made available by an age check.
 
 3.3 Indecent Content (Conditional Allowance)
 3.3.1 Definition
@@ -235,16 +237,16 @@ Educational framing must be present at the time of upload and may not be added r
 
 Any allowance under this section is narrow, conditional, revocable, and subject to heightened review, access controls, and discretionary enforcement.
 
-3.5 Sexualized Content (Highly Restricted)
+3.5 Sexually explicit content (prohibited)
 3.5.1 Definition
 
 Sexualized Content refers to content that depicts sexual or fetishized acts in an eroticized, detailed, or gratuitous manner.
 
 3.5.2 Domain and Access Restrictions
 
-Sexualized Content, if permitted at all:
+Sexually explicit content is not permitted:
 
-may appear only on adult.shobble.com; and
+on any host, including a former adult hostname; and
 
 is accessible only to users who are verifiably 18 years of age or older.
 
@@ -252,7 +254,7 @@ Shobble may require age or identity verification at any time.
 
 3.5.3 Mandatory Eligibility Conditions for Sexualized Content
 
-Self-uploaded Sexualized Content may be permitted only where all of the following conditions are met:
+Shobble does not permit self-uploaded sexually explicit content. The following conditions do not create an exception, and a failure of any of them is an additional reason to reject the material:
 
 no real persons are depicted sexually;
 
@@ -287,14 +289,14 @@ Sexualized Content may be subject to reduced discoverability, monetization limit
 
 3.5.6 Enforcement Posture
 
-Any allowance for Sexualized Content is narrow, conditional, revocable, and subject to heightened review, discretionary enforcement, and evolving platform standards.
+There is no allowance for sexually explicit content. Reports, removal, and appeals still follow the published safety policies.
 
 3.6 No Rights Created
 
 Nothing in this Section 3 creates a right to upload, access, monetize, or continue hosting Restricted Content, even where such content is authentic, factually accurate, or otherwise lawful.
 4. BLACKLISTED CONTENT
 
-(Restricted by Default; Opt-In Through 18+ User Blacklist Settings Only)
+(Not an adult opt-in catalog)
 
 Blacklisted Content includes material that presents severe safety, ethical, reputational, regulatory, or payment-processor risk and is not suitable for general access, distribution, or monetization.
 
@@ -341,7 +343,7 @@ Blacklisted Content may be allowed only where all of the following conditions ar
 a. the content is purely fictional;
 b. no real persons are depicted, referenced, implied, or reasonably identifiable;
 c. the content complies with all age and identity verification requirements;
-d. the content is confined exclusively to Shobble’s designated adult domain (adult.shobble.com); and
+d. the content is not sexually explicit and is not published through a former adult hostname; and
 e. the content remains subject to immediate removal or restriction at any time, regardless of payment or subscription status.
 
 Failure to meet any condition results in denial or removal.
@@ -356,7 +358,7 @@ the work is clearly framed as fictional, critical, tragic, condemnatory, or caut
 
 sexual arousal is not the primary purpose, focus, or outcome of the work; and
 
-all access-control, age-verification, and adult-domain requirements are strictly enforced.
+all access-control and age-verification requirements are strictly enforced. Sexually explicit content stays prohibited.
 
 Such content remains opt-in only, non-monetizable unless expressly approved, and subject to removal at any time.
 
@@ -530,7 +532,7 @@ sexual acts involving unconscious, incapacitated, or unaware individuals; or
 
 content that presents sexual violence as acceptable, arousing, humorous, or justified.
 
-This category is distinct from Blacklisted consent-violation themes and is not eligible for opt-in or adult-domain treatment.
+This category is distinct from Blacklisted consent-violation themes and is not eligible for an opt-in or a former adult hostname.
 
 5.3.4 Bestiality
 
@@ -598,7 +600,7 @@ educational, documentary, journalistic, artistic, or academic exceptions;
 
 fictional framing or speculative settings;
 
-adult domains or opt-in access systems;
+a former adult hostname or an opt-in sexual-content system;
 
 content warnings, disclaimers, or labeling; or
 
