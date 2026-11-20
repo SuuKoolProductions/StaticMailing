@@ -1,12 +1,12 @@
 SHOBBLE COMPLAINTS AND CONTENT REMOVAL POLICY
 
 Version: 1.1
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, the November 18, 2026 text remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Contact: team@shobble.com
 
 1. How to complain
 
-1.1 On shobble.com, open the content menu or the content page and choose Report / Request Removal. You can report illegal content, a violation of platform standards, or ask for the content to be removed. The same route is used on every host. There is no separate adult site for reports.
+1.1 On shobble.com, open the content menu or the content page and choose Report / Request Removal. You can report illegal content, a violation of platform standards, or ask for the content to be removed. The same route is used on every host.
 
 1.2 The same form explains that Shobble reviews and resolves these complaints within five business days. Business days skip Saturday and Sunday. The moderation record stores that deadline.
 

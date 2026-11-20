@@ -1,7 +1,7 @@
 SHOBBLE AI USE CASE POLICY
 
 Version: 2.2
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 2.1 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Schedule: AI Use Case Schedule v1.0, including its published Errata in the exact retained accepted release. The internal Integrations sheet is excluded.
 Application: This Policy applies through Shobble's designated valid acceptance process to its identified processing or acquisition scope. It replaces the earlier AI Use Case Policy for that accepted scope without silently amending historical acquisitions or authorizing new uses of previously entrusted material.
 
@@ -113,7 +113,7 @@ A more specific Outcome must be read with its stated conditions. An express name
 
 8.3 Enforcement and appeals use the accepted Master Terms, AUP, Community Content Guidelines and selected license, rather than an unidentified separate policy. Shobble must distinguish upload ineligibility, temporary restrictions, account sanctions, financial adjustments and final license termination; apply an actual basis and proportionate affected scope; and provide required reasons, cure, review and restoration. Credible urgent legal, safety or security risks may justify action before notice with required subsequent process. No allegation, policy label or automated flag makes acquired grants revocable at will.
 
-8.4 Ordinary questions, correction requests and appeals may use support@shobble.com; legal concerns and reports may use legal@shobble.com. Good-faith criticism, a disputed interpretation or an unsuccessful appeal is not abuse merely because it challenges a decision. No formal litigation notice or separate adult account is needed for ordinary review. Applicable human review, specific response periods and statutory external remedies remain.
+8.4 Ordinary questions, correction requests and appeals may use support@shobble.com; legal concerns and reports may use legal@shobble.com. Good-faith criticism, a disputed interpretation or an unsuccessful appeal is not abuse merely because it challenges a decision. No formal litigation notice is needed for ordinary review. Applicable human review, specific response periods and statutory external remedies remain.
 
 8.5 Shobble must retain the exact accepted Policy, Schedule and published Errata set, approval evidence and relevant amendments. Do not substitute an internal Integrations sheet or live link for the retained release. Record the distinct Creator operational and buyer acquisition sets and any expressly mapped component or purpose differences. Same-holder recovery, assignment, payment retries and receipt generation do not adopt later AI terms.
 

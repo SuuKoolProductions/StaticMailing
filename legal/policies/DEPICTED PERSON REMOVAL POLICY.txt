@@ -1,7 +1,7 @@
 SHOBBLE DEPICTED PERSON REMOVAL POLICY
 
 Version: 1.1
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, the November 18, 2026 text remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Contact: team@shobble.com
 
 1. Who can ask

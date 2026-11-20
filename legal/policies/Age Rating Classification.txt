@@ -1,11 +1,11 @@
-SFW-only revision adopted in source on November 19, 2026. Effective when published on shobble.com. Until publication, the prior text preserved at Git tag archive/adult-capable-2026-11-19 remains the prior text.
+Effective date: Thursday, November 26, 2026. 
 
 Shobbl Incorporated, doing business as Shobble (“Shobble,” “we,” “us,” or “our”), operates the Shobble platform. Shobble is a trading name of Shobbl Incorporated and is not a separate legal entity. References to “Shobble” mean Shobbl Incorporated. Existing contractual rights and obligations are unchanged.
 
 AGE APPROPRIATENESS TIERS
 
 Shobble uses Age Appropriateness Tiers to control access, discovery, advertising, environment placement, and monetization eligibility.
-Age ratings describe content suitability and do not lower the minimum age for standard Platform accounts, monetization, payouts, or payment-enabled creator tools. An age rating does not create an adult sexual-content environment.
+Age ratings describe content suitability and do not lower the minimum age for standard Platform accounts, monetization, payouts, or payment-enabled creator tools. An age rating does not permit sexually explicit content.
 
 Sexual content is defined by the Sexual Content Definitions. Sexually explicit content is not permitted on Shobble.
 
@@ -127,7 +127,7 @@ unrestricted language;
 
 Arousal-Focused Content that complies with the Sexual Content Guidelines; 
 
-Sexually explicit content is not permitted on shobble.com or on a former adult hostname.
+Sexually explicit content is not permitted on shobble.com.
 
 Additional safeguards may apply, including age verification, restricted placement, reduced discoverability, and advertising or monetization limitations. Those safeguards do not authorize sexually explicit content.
 

@@ -1,7 +1,7 @@
 SHOBBLE COMMUNITY CONTENT GUIDELINES
 
 Version: 1.3
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 1.2 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Application: These Guidelines apply through Shobble's designated valid acceptance process to the identified Platform participation. They replace the earlier Community Content Guidelines for that accepted scope without retrospectively rewriting acquisitions or accrued rights.
 
 Reader notice: These Guidelines refer to sensitive themes solely to explain content boundaries. A descriptive reference does not establish that the material is hosted, permitted or eligible for earning.
@@ -42,18 +42,14 @@ Reader notice: These Guidelines refer to sensitive themes solely to explain cont
 
 4. SEXUALLY EXPLICIT CONTENT IS PROHIBITED
 
-4.1 Shobble is a general-audience marketplace for human-created digital media. Sexually explicit content is prohibited on every host and in every upload type, including art, books, comics, music, audio, video, games, software, assets, messages, commissions, auctions, memberships, and previews. There is no adult subdomain, adult account, or adult purchase path.
-
+4.1 Shobble is a general-audience marketplace for human-created digital media. Sexually explicit content is prohibited on every host and in every upload type, including art, books, comics, music, audio, video, games, software, assets, messages, commissions, auctions, memberships, and previews. 
 4.2 Child sexual abuse material, sexual content involving anyone under eighteen, sexualized minor-coded subjects, nonconsensual intimate imagery, sexual depictions of identifiable real people, trafficking, grooming, and sexual abuse or exploitation remain prohibited. Fiction, censorship, payment, a private message, or a claim of artistic value does not create an exception. A non-explicit report, safety discussion, or educational reference is not itself a prohibited depiction. Do not upload or resend suspected illegal imagery in order to report it.
 
 4.3 Non-explicit romance, affection, or ordinary non-sexual nudity in an artistic context is not sexually explicit by that fact alone. It must still meet the general-audience, rights, and safety rules. A paywall, external link, or hidden companion file cannot carry sexually explicit material.
 
-4.4 Shobble does not offer adult advertising, an adult ledger, or an adult creator-consent path for sexual content. A prior acceptance of an adult-content policy does not authorize a new upload. Existing acquisitions, payments, and consent records remain records. They do not reopen an adult catalog.
-
 4.5 A prohibition on sexually explicit content does not cancel an unrelated lawful commission, auction, membership, game, artwork, piece of music, book, video, or license.
 
-4.6 Classification tools can err. Human review, appeals, copyright notices, intimate-imagery removal, child-protection reports, and privacy requests remain available. An appeal does not require an adult account.
-
+4.6 Classification tools can err. Human review, appeals, copyright notices, intimate-imagery removal, child-protection reports, and privacy requests remain available. 
 5. CLASSIFICATION, ENFORCEMENT AND EXISTING RIGHTS
 
 5.1 Shobble may classify, restrict, delist or reassess content for justified policy, legal, safety, security or operational reasons under accepted terms. Decisions must be objective, proportionate and limited to the actual issue, considering context and relevant rights. Neither sole-discretion wording nor a later risk label overrides accepted commitments.
@@ -72,7 +68,7 @@ Reader notice: These Guidelines refer to sensitive themes solely to explain cont
 
 6.1 Report a concern through the published reporting route or legal@shobble.com. Identify the item or location, describe the concern and provide reasonably necessary lawful evidence. Do not download or resend suspected illegal imagery merely to report it. Necessary lawful files may be supplied only through an expressly authorized private review route and within its instructions.
 
-6.2 Ordinary clarification, recovery and appeals may use support@shobble.com. Applicable complaint periods, human review, and external remedies remain. Copyright, intimate-imagery, child-protection and privacy requests retain their distinct legal procedures and deadlines. Ordinary support needs no formal litigation notice and no separate adult account.
+6.2 Ordinary clarification, recovery and appeals may use support@shobble.com. Applicable complaint periods, human review, and external remedies remain. Copyright, intimate-imagery, child-protection and privacy requests retain their distinct legal procedures and deadlines. Ordinary support needs no formal litigation notice.
 
 6.3 A good-faith question, mistaken report, unsuccessful appeal or legitimate renewed notice is not abuse merely because it concerns sensitive material or challenges Shobble. Knowingly fabricated evidence, coordinated harassment and deliberate evasion may justify scoped action under the AUP. A depicted-person request from a signed-in person can hide at most five distinct listings in 24 hours. Further requests, and requests from someone who is not signed in, still reach urgent review without another automatic hide. A moderator can restore a false hide without deleting the files. A legal preservation hold keeps those files and is not released merely because the listing is restored. An unsubstantiated good-faith report does not by itself suspend or terminate the reporter. Preserve valid statutory-notice, urgent-safety and privacy routes. Illegal-content and child-safety reports are not discarded because a depicted-person limit was reached.
 

@@ -1,7 +1,7 @@
 SHOBBLE DELEGATED ACCESS & MANAGED ACCOUNTS POLICY
 
 Version: 1.2
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 1.1 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Application: This Policy applies through Shobble's designated valid acceptance process to the identified managed-access arrangement. It replaces the earlier Delegated Access & Managed Accounts Policy for that accepted scope without retrospectively rewriting acquisitions, participant grants or accrued rights.
 
 1. PURPOSE AND DOCUMENT RELATIONSHIPS
@@ -38,7 +38,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 3.2 A Manager must have actual authority for the specific management, procurement or representative act. An educator is not automatically a parent, an institutional purchaser or the owner of student work. An employee or first administrator is not automatically authorized to bind every affiliate or claim personal acquisitions. Shobble may require proportionate evidence through the designated process, with a correction route.
 
-3.3 Shobble does not offer a separate adult account. No parent, household, school, employer, gift or delegation can grant access to sexually explicit content. Public policies, reporting, privacy requests and support do not require such an account.
+3.3 No parent, household, school, employer, gift or delegation can grant access to sexually explicit content. Public policies, reporting, privacy requests and support do not require such an account.
 
 3.4 Do not use a managed-access setting to offer sexually explicit content under any license, including Enterprise or Educational. A managed-access setting cannot convert prohibited material into an eligible offer. Existing valid lawful acquisitions and surviving outputs retain their safeguards without requiring unlawful delivery.
 
@@ -125,7 +125,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 Support, delegation, reassignment, recovery, records and privacy requests: support@shobble.com
 Legal concerns and content reports: legal@shobble.com
 
-Use the applicable published statutory-notice route where formal requirements apply. Public support and reporting need no separate adult account. Shobble will provide a reasonably accessible successor if a contact route changes.
+Use the applicable published statutory-notice route where formal requirements apply. Public support and reporting need no separate content account. Shobble will provide a reasonably accessible successor if a contact route changes.
 
 END OF POLICY
 

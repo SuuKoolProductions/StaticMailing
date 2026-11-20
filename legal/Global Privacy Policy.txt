@@ -1,15 +1,14 @@
 SHOBBLE PRIVACY POLICY
 
 Version: 2.1
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 2.0 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Last updated: November 16, 2026
 
 This Policy explains personal-information processing by Shobbl Incorporated, doing business as Shobble (we). Reading or acknowledging it is not blanket consent to processing, advertising, AI training or unrelated contractual restrictions. Where consent is required, we obtain it separately.
 
 1. SCOPE, RESPONSIBILITY AND CONTACT
 
-1.1 This Policy covers our websites, applications, marketplace, content delivery, accounts, communications and actually offered creator, membership, Fund and managed-access features. It does not imply that an optional feature is available in every region or that an unsupported service has launched. Shobble does not currently offer an adult-content service.
-
+1.1 This Policy covers our websites, applications, marketplace, content delivery, accounts, communications and actually offered creator, membership, Fund and managed-access features. It does not imply that an optional feature is available in every region or that an unsupported service has launched.
 1.2 Shobble determines purposes and means for its own account, marketplace, payment administration, security, compliance and related operations. Where we process private organizational or educational material solely on a customer's documented instructions, the applicable processing agreement governs that activity. A customer's title or a contract label does not determine every processing role. Creators, institutions, payment and verification providers may have their own independent responsibilities; their applicable notices must be identified at the relevant interaction.
 
 1.3 Privacy requests and questions: support@shobble.com.
@@ -38,7 +37,7 @@ We collect information you provide, information generated through your use, and 
 
 2.7 Managed-access information: institution or organization identity, actual representative authority, eligible participant references, role and roster assignments, applicable Capacity, reassignment and recovery history, and necessary grant evidence. Management does not itself authorize collection of unrelated personal activity or private accounts.
 
-2.8 Shobble does not collect a separate adult-content profile, adult-content blacklist, or restricted sexual-content activity record for a current adult service. Historical records of a former service, if retained, are kept only for the legal, security, accounting, or preservation purpose that applies to them.
+2.8 Shobble does not collect a sexual-content profile, sexual-content blacklist, or restricted sexual-content activity record.
 
 2.9 External sources: payment and verification providers supply necessary results; authorized managers provide roster or authority records; counterparties provide fulfillment or dispute information; security services supply necessary threat signals. Connected services provide only information within the connection you authorize. Public availability does not justify unrestricted harvesting or use. Where law requires notice about indirectly obtained data, we identify its source, categories and purpose within the required period.
 
@@ -84,13 +83,13 @@ We collect information you provide, information generated through your use, and 
 
 6. SENSITIVE INFORMATION
 
-6.1 Shobble does not operate a separate adult account or adult public profile. We do not ask you to connect an adult profile to a general profile. Sensitive information still receives the limits in this section.
+6.1 Sensitive information still receives the limits in this section.
 
-6.2 Adult verification, blacklist choices and policy acceptance are not consent to advertising, sexual-interest profiling, optional tracking or disclosure. We do not target advertisements using profiles based on sex life, sexual orientation or other legally protected sensitive information, including inferences. Adult inventory and audience data do not automatically cross into general Shobble advertising.
+6.2 Policy acceptance is not consent to advertising, sexual-interest profiling, optional tracking or disclosure. We do not target advertisements using profiles based on sex life, sexual orientation or other legally protected sensitive information, including inferences.
 
 6.3 Before collecting or using special-category or legally regulated sensitive data, including biometric identifiers where actually involved, we establish the necessary additional legal condition and required specific consent. A photograph, biometric template, verification result and pseudonymous token may have different treatment; relabeling information does not remove a collection, identification or retention prohibition. We do not reuse verification inputs for training, marketing or unrelated improvement.
 
-6.4 We limit access to adult-account links, restricted history, verification and blacklist settings to necessary authorized purposes. Public previews, emails and push bodies must respect the applicable nonexplicit presentation rules. We do not expose restricted content or sensitive histories merely to verify a privacy request, investigate a payment or provide a Creator report.
+6.4 We limit access to restricted history and verification settings to necessary authorized purposes. Public previews, emails and push bodies must respect the applicable nonexplicit presentation rules. We do not expose restricted content or sensitive histories merely to verify a privacy request, investigate a payment or provide a Creator report.
 
 7. MANAGED, EDUCATIONAL AND ORGANIZATIONAL ACCOUNTS
 
@@ -166,7 +165,7 @@ We collect information you provide, information generated through your use, and 
 
 12. SECURITY AND INCIDENTS
 
-12.1 We use reasonable, risk-appropriate technical and organizational safeguards and restrict access to authorized purposes. Identity, payment, private-file and adult-account information require controls reflecting their sensitivity. We assess actual providers and instructions, minimize access and respond to credible incidents. No system is perfectly secure.
+12.1 We use reasonable, risk-appropriate technical and organizational safeguards and restrict access to authorized purposes. Identity, payment, private-file and account information require controls reflecting their sensitivity. We assess actual providers and instructions, minimize access and respond to credible incidents. No system is perfectly secure.
 
 12.2 We notify affected people, customers, regulators and other required recipients of qualifying incidents under the applicable legal and contractual deadlines. A controller's regulator deadline does not replace a processor's duty to notify its customer without undue delay where required. Reports may be sent to legal@shobble.com; do not publicly expose private data or exploit a vulnerability to demonstrate it.
 
@@ -174,7 +173,7 @@ We collect information you provide, information generated through your use, and 
 
 13. YOUR RIGHTS AND HOW TO EXERCISE THEM
 
-13.1 Depending on applicable law and the processing, you may request access, confirmation, a copy, correction, deletion, restriction, portability or information about disclosures; object to qualifying processing; withdraw consent; exercise applicable sensitive-data, sale/sharing/targeted-advertising choices; and challenge qualifying automated decisions. Scope and exceptions depend on the actual law. We do not require a new purchase or a separate adult account to submit a request.
+13.1 Depending on applicable law and the processing, you may request access, confirmation, a copy, correction, deletion, restriction, portability or information about disclosures; object to qualifying processing; withdraw consent; exercise applicable sensitive-data, sale/sharing/targeted-advertising choices; and challenge qualifying automated decisions. Scope and exceptions depend on the actual law. We do not require a new purchase to submit a request.
 
 13.2 Contact support@shobble.com or use an actually available relevant setting. Specify the right and information concerned without unnecessarily including sensitive documents. Authorized agents may act with the required authority. We may request proportionate verification for access/deletion or representative authority, but not require identity verification for a statutory opt-out where prohibited. We protect others' information and explain any lawful refusal or limitation and available review.
 

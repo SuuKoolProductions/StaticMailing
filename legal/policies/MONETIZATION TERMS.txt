@@ -1,7 +1,7 @@
 SHOBBLE CREATOR MONETIZATION TERMS
 
 Version: 1.4
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 1.3 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Application: These Terms apply through Shobble's designated valid acceptance process to the identified creator participation and transactions. They replace the Monetization Addendum for that accepted scope, not previously accepted transactions, accrued earnings or existing content grants.
 
 1. PARTIES, PURPOSE AND DOCUMENT RELATIONSHIPS
@@ -70,7 +70,7 @@ No other standard category rate applies under these Terms. Licensed third-party 
 
 5.2 Before a membership charge, disclose price, billing interval, renewal/trial conversion, included catalog or defined additions, access duration and cancellation route. Obtain the necessary recurring-payment authorization and provide an accessible cancellation process and required confirmations. Price or benefit changes require applicable notice, authority and consent. Cancellation ends future billing and affected access only under the accepted arrangement; it does not withdraw a separately permanent benefit or valid surviving output.
 
-5.3 Statutory withdrawal, supply/conformity, correction, replacement, price-reduction and refund rights remain, together with express license remedies. For immediate digital supply, Shobble must obtain and retain the legally required requests, express consents, acknowledgments and confirmation; opening or downloading alone is not a blanket waiver. Digital services have distinct rules. Adult classification creates no general all-sales-final exception.
+5.3 Statutory withdrawal, supply/conformity, correction, replacement, price-reduction and refund rights remain, together with express license remedies. For immediate digital supply, Shobble must obtain and retain the legally required requests, express consents, acknowledgments and confirmation; opening or downloading alone is not a blanket waiver. Digital services have distinct rules. A content label creates no general all-sales-final exception.
 
 5.4 Refund accounting and rights rescission are separate. Identify the affected transaction, amount, taxes, returned fee, Creator proceeds, lawful deductions and actual grant consequences. A partial, goodwill or continuity refund does not automatically cancel an enduring grant, lawful retained-file use, Permanent Capacity, Finished Product, Client/learner sublicense or qualifying creator publication. Apply the selected license's actual outcome and avoid duplicate refunds or invented prices for free acquisitions.
 
@@ -100,15 +100,15 @@ No other standard category rate applies under these Terms. Licensed third-party 
 
 8. CONTENT ELIGIBILITY AND ADVERTISING
 
-8.1 Shobble does not offer an adult account, adult ledger, or adult checkout. Sexually explicit content cannot be sold, included in a membership, commissioned, tipped, or advertised. Only lawful general-audience work can use the sales, membership, commission, auction, and advertising routes these Terms describe.
+8.1 Sexually explicit content cannot be sold, included in a membership, commissioned, tipped, or advertised. Only lawful general-audience work can use the sales, membership, commission, auction, and advertising routes these Terms describe.
 
 8.2 A fee, a membership, or a completed payment does not make sexually explicit material eligible. Child sexual abuse material, nonconsensual intimate imagery, and the other prohibited sexual material in the Acceptable Use Policy remain ineligible for every earning route.
 
-8.3 Advertising is for the general-audience marketplace. There is no separate adult advertising marketplace. Inventory, campaigns, and audience data must not target a sexual-content audience. No prohibited sensitive-profile targeting, missing rights, or unknown partner approval is cured by paying a fee.
+8.3 Advertising is for the general-audience marketplace. Inventory, campaigns, and audience data must not target a sexual-content audience. No prohibited sensitive-profile targeting, missing rights, or unknown partner approval is cured by paying a fee.
 
 8.4 The accepted AI framework governs each actual processing stage within underlying rights, privacy authority and provider limits. Monetization, upload, a commercial label or fee payment supplies no AI exception, training consent or independent provider-reuse permission. General content rules cannot silently rewrite an independent public license or defeat a permitted contractual or independently lawful use; justified publication restrictions retain their actual scope.
 
-8.5 The Creator Fund includes only eligible general-audience earning. It does not include sexually explicit content or an adult ledger. Monetization approval does not expand it.
+8.5 The Creator Fund includes only eligible general-audience earning. It does not include sexually explicit content. Monetization approval does not expand it.
 
 9. TAXES, DATA AND PAYMENT ROLES
 
@@ -137,6 +137,6 @@ No other standard category rate applies under these Terms. Licensed third-party 
 Creator onboarding, statements, payouts, financial disputes, account exit and privacy-rights requests: support@shobble.com
 Legal and formal rights notices: legal@shobble.com
 
-Shobble will identify accessible actual provider, cancellation, privacy, reporting and appeal routes before the affected participation and retain those details with the accepted package. Provide a reasonably accessible successor if a route changes. Ordinary payout questions, appeals or privacy requests need no formal litigation notice or a separate adult account. Required statutory notice particulars and service-of-process rules retain their actual application.
+Shobble will identify accessible actual provider, cancellation, privacy, reporting and appeal routes before the affected participation and retain those details with the accepted package. Provide a reasonably accessible successor if a route changes. Ordinary payout questions, appeals or privacy requests need no formal litigation notice. Required statutory notice particulars and service-of-process rules retain their actual application.
 
 END OF TERMS

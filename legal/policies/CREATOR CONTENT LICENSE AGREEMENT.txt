@@ -1,7 +1,7 @@
 SHOBBLE CREATOR CONTENT LICENSE AGREEMENT
 
 Version: 2.5
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 2.4 (effective November 18, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Application: This Agreement takes effect when you accept it through Shobble's designated acceptance process on or after the effective date above. It governs participation and Offers authorized under it. Existing acquisitions retain their accepted terms.
 
 1. PARTIES, PURPOSE AND DEFINITIONS
@@ -166,12 +166,12 @@ Application: This Agreement takes effect when you accept it through Shobble's de
 
 13.1 You will not upload illegal content, or content that violates Shobble's platform standards.
 
-13.2 PROHIBITED. Sexually explicit content is prohibited on every Shobble host and every upload type. You must not upload a sexually explicit photograph, video, audio performance, game, book, comic, animation, or illustration, including a fictional sexual depiction. The prohibition includes an actual human performer, an identifiable real individual, a drawn human, an AI-generated human, and a fictional non-human character. It applies to the main file, the thumbnail, a preview, a frame, and any companion file. There is no adult host and no adult catalog.
+13.2 PROHIBITED. Sexually explicit content is prohibited on every Shobble host and every upload type. You must not upload a sexually explicit photograph, video, audio performance, game, book, comic, animation, or illustration, including a fictional sexual depiction. The prohibition includes an actual human performer, an identifiable real individual, a drawn human, an AI-generated human, and a fictional non-human character. It applies to the main file, the thumbnail, a preview, a frame, and any companion file.
 
-13.3 Written consent, a model release, a performer's permission, an age record, and an identity document do not authorize a sexually explicit upload. Shobble does not accept those records as clearance. Shobble does not keep 18 U.S.C. sections 2257 or 2257A performer records for a permitted adult catalog, because it does not offer one, and Shobble does not publish private identity documents. Do not send identity documents unless Shobble asks for a different, lawful purpose. A request for documents is not permission to upload banned content. Child sexual abuse material, sexual content involving anyone under 18, and nonconsensual intimate imagery remain prohibited and follow the applicable safety and removal policies.
+13.3 Written consent, a model release, a performer's permission, an age record, and an identity document do not authorize a sexually explicit upload. Shobble does not accept those records as clearance. Shobble does not publish private identity documents. Do not send identity documents unless Shobble asks for a different, lawful purpose. A request for documents is not permission to upload banned content. Child sexual abuse material, sexual content involving anyone under 18, and nonconsensual intimate imagery remain prohibited and follow the applicable safety and removal policies.
 
 13.4 Shobble may reject or remove any sexually explicit upload. Shobble does not need a release, an age record, or depicted-person paperwork before rejecting it, because the upload was never allowed. A person shown in an upload may still ask for removal under the Depicted Person Removal Policy. That remedy does not create a path to upload the content.
 
-13.5 An earlier acceptance of an adult-upload section, including version 2.4 of this Agreement, remains a record of that acceptance. It does not authorize a new sexually explicit upload. New acceptance of this Agreement is acceptance of the prohibition in this section.
+13.5 New acceptance of this Agreement is acceptance of the prohibition in this section.
 
 END OF AGREEMENT

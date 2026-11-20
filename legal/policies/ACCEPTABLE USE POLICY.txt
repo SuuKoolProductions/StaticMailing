@@ -1,7 +1,7 @@
 SHOBBLE ACCEPTABLE USE POLICY
 
 Version: 2.1
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 2.0 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Application: This Policy applies through Shobble's designated valid acceptance process to the identified Platform participation. It replaces the earlier Acceptable Use Policy for that accepted scope without retrospectively rewriting acquisitions, accrued earnings or independent rights.
 
 1. PURPOSE, SCOPE AND DOCUMENT RELATIONSHIPS
@@ -32,7 +32,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 3.3 Use the correct audience, category, warnings and material disclosures, including for previews, alternate tracks, companion files, links and later edits. Do not hide a restricted component in an otherwise eligible work. Publication, discovery, advertising, sales and continuing delivery are separate decisions. Approval is limited to its actual reviewed scope and is not legal certification or a promise of earnings.
 
-3.4 Sexually explicit content is prohibited on every host and upload type. There is no adult hosting category, adult blacklist, or adult subdomain that makes it eligible. Review of a safety report does not authorize publication of sexually explicit material.
+3.4 Sexually explicit content is prohibited on every host and upload type. Review of a safety report does not authorize publication of sexually explicit material.
 
 3.5 Where more than one safety rule applies, the rule that prohibits the material governs. A later label cannot turn prohibited sexual content into a lawful upload or extinguish an unrelated acquired grant. Later restrictions on other content require the distinct rights and remedy assessment in Section 9.
 
@@ -74,17 +74,17 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 7.4 Preserve required provenance, edit history, notices and human review. Do not conceal material AI involvement or falsely claim human authorship. Provider access, artifacts, retention and deletion must remain purpose-limited under the accepted Framework and applicable processing instruments. Shobble-only permissions are not user permissions; conditional proprietary-feature permissions require the exact approved release and scope. Internal integration records create no permission.
 
-7.5 There is no adult-service exception to this Policy. Sexually explicit content, including a sexual voice performance or sexual voice cloning, is prohibited on every host. This Policy does not silently amend a buyer acquisition's accepted AI set or authorize a new processing purpose for previously entrusted files. Non-sexual AI activity remains governed by the AI Framework.
+7.5 Sexually explicit content, including a sexual voice performance or sexual voice cloning, is prohibited on every host. This Policy does not silently amend a buyer acquisition's accepted AI set or authorize a new processing purpose for previously entrusted files. Non-sexual AI activity remains governed by the AI Framework.
 
-8. AGE, MANAGED ACCESS AND AFTERDARK
+8. AGE AND MANAGED ACCESS
 
 8.1 General Shobble use requires age sixteen or older, subject to higher ages and regional restrictions. Users below legal majority need legally required parental or guardian permission. An educational license, managed account, representative or organizational administrator does not bypass the actual minimum age or establish capacity for every transaction.
 
-8.2 Shobble does not offer a separate adult account or verified-adult content service. Account age rules in Section 8.1 still apply. Public policy information, reporting, support, and privacy requests do not require a special content account. Do not evade age, regional, or account controls. A VPN or privacy tool is not prohibited merely by its use.
+8.2 Account age rules in Section 8.1 still apply. Public policy information, reporting, support, and privacy requests stay available. Do not evade age, regional, or account controls. A VPN or privacy tool is not prohibited merely by its use.
 
 8.3 Sexually explicit material is prohibited on general surfaces, paid surfaces, private messages, and public or unauthenticated previews. Child sexual abuse material, sexualized minor-coded subjects, nonconsensual intimate imagery, sexual depictions of identifiable real people, and sexual abuse or exploitation remain prohibited. Fiction, censorship, free hosting, or a paywall does not override a prohibition.
 
-8.4 Shobble does not offer adult advertising or an adult earning category. Creator monetization of lawful general-audience work follows the accepted monetization terms. A creator fund does not include sexually explicit content.
+8.4 Creator monetization of lawful general-audience work follows the accepted monetization terms. A creator fund does not include sexually explicit content.
 
 8.5 Use supported delegation rather than sharing credentials. Apply the selected license's actual holder, participant, device, seat or other metric; do not presume one active user always consumes one separate license. Administrator status, employment, graduation or affiliation changes do not themselves cancel organization-held acquisitions, valid independent learner grants or surviving Client/portfolio rights. Recovery and reassignment follow the actual accepted scope.
 
@@ -129,7 +129,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 Reports and legal concerns: legal@shobble.com
 Support, appeals, recovery and privacy requests: support@shobble.com
 
-Use the applicable published statutory-notice procedure where formal requirements apply. Ordinary support and reporting need no formal litigation notice or a separate adult account. If a contact route changes, Shobble will provide a reasonably accessible successor.
+Use the applicable published statutory-notice procedure where formal requirements apply. Ordinary support and reporting need no formal litigation notice. If a contact route changes, Shobble will provide a reasonably accessible successor.
 
 END OF POLICY
 

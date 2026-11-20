@@ -1,7 +1,7 @@
 SHOBBLE INTERNATIONAL DATA TRANSFERS & SAFEGUARDS ADDENDUM
 
 Version: 2.1
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 2.0 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Last updated: November 16, 2026
 
 This Addendum supplements the Shobble Privacy Policy. It explains Shobble's cross-border safeguards and contains regional provisions for transfers subject to the identified laws. It is not itself a completed set of Standard Contractual Clauses, an adequacy decision, or consent to an international transfer.
@@ -10,7 +10,7 @@ This Addendum supplements the Shobble Privacy Policy. It explains Shobble's cros
 
 1.1 Shobbl Incorporated, doing business as Shobble (Shobble, we), applies this Addendum to personal information transferred or made accessible across borders in its actual services, provider relationships and customer processing. Hosting, replication, backups, support, remote access, onward disclosure and deletion arrangements must be assessed where they constitute a transfer under applicable law.
 
-1.2 This Addendum governs the processing to which the relevant law actually applies. Mentioning a region does not establish that accounts, sales or creator onboarding are supported there. A person's residence, service eligibility, data location and applicable transfer law are distinct. Unsupported processing must not begin merely because a regional provision appears here. Shobble does not currently offer an adult-content service in any region.
+1.2 This Addendum governs the processing to which the relevant law actually applies. Mentioning a region does not establish that accounts, sales or creator onboarding are supported there. A person's residence, service eligibility, data location and applicable transfer law are distinct. Unsupported processing must not begin merely because a regional provision appears here.
 
 1.3 The Privacy Policy explains categories, purposes, legal bases, recipients, retention and individual rights. Actual processing agreements govern documented processor instructions. Validly executed approved transfer clauses govern their transfer subjects and prevail over conflicting general commercial terms within their mandatory scope. This Addendum does not rewrite their standard text or replace required selections, annexes, authority or execution.
 
@@ -54,9 +54,9 @@ This Addendum supplements the Shobble Privacy Policy. It explains Shobble's cros
 
 5. PROTECTED DATA AND PURPOSE LIMITS
 
-5.1 Verification inputs, adult-account links, blacklist settings, sensitive inferences, private submissions and payment credentials need safeguards reflecting their actual sensitivity. Documents, selfies and liveness inputs use the designated authorized collection route. Shobble receives only necessary disclosed results and attributes that law permits it to receive and retain. A transfer mechanism cannot override a local collection, identification or deletion prohibition.
+5.1 Verification inputs, sensitive inferences, private submissions and payment credentials need safeguards reflecting their actual sensitivity. Documents, selfies and liveness inputs use the designated authorized collection route. Shobble receives only necessary disclosed results and attributes that law permits it to receive and retain. A transfer mechanism cannot override a local collection, identification or deletion prohibition.
 
-5.2 Shobble does not operate a separate adult profile. Internal links are limited to disclosed necessary recovery, fraud, payment or compliance purposes. Sensitive data does not move into general advertising, and sensitive-data profiling is not authorized. Verification-only records cannot be reused for model development, marketing or unrelated improvement. An overseas provider receives no broader authority than a domestic one.
+5.2 Internal links are limited to disclosed necessary recovery, fraud, payment or compliance purposes. Sensitive data does not move into general advertising, and sensitive-data profiling is not authorized. Verification-only records cannot be reused for model development, marketing or unrelated improvement. An overseas provider receives no broader authority than a domestic one.
 
 5.3 Creator Fund transfers must preserve subscriber reporting and contributor confidentiality: subscribers see their own allocation recipients and amounts; Creators receive the permitted aggregate reporting, not individual contributors, weights or histories. Payment, validation and legal disclosures must remain limited to their actual authority. The closed-account carry rule does not authorize transferring a former subscriber's browsing history to contest entrants.
 

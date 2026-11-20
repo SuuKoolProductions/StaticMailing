@@ -1,7 +1,7 @@
 SHOBBLE ACCOUNT ELIGIBILITY & ACCESS POLICY
 
 Version: 1.2
-Effective date: the date this version is first published on shobble.com. Adopted in source on November 19, 2026. This version does not take effect merely by existing in source control, and it does not apply to conduct before that publication. Until publication, Version 1.1 (effective November 16, 2026) remains the version shown to users. That prior version is preserved at Git tag archive/adult-capable-2026-11-19.
+Effective date: Thursday, November 26, 2026.
 Application: This Policy applies through Shobble's designated valid acceptance process to the identified Platform participation. It replaces the earlier Account Eligibility & Access Policy for that accepted scope without retrospectively rewriting acquisitions, recipient grants or accrued rights.
 
 1. PURPOSE AND DOCUMENT RELATIONSHIPS
@@ -38,17 +38,17 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 
 3.5 Reaching majority, graduating or leaving management does not automatically transfer an acquisition, create a new license, trigger an undisclosed grace period or require repurchase. Distinguish temporary delegated access, institution-held participation, authorized surviving sublicenses and direct recipient acquisitions. Their continuation and evidence follow their actual grants and the Managed Accounts Policy.
 
-4. NO ADULT CONTENT SERVICE
+4. SEXUALLY EXPLICIT CONTENT
 
-4.1 Shobble does not offer a separate adult account, adult verification for sexual content, or adult purchases. Age sixteen remains the general minimum, and higher ages still apply where a feature or region requires them.
+4.1 Age sixteen remains the general minimum, and higher ages still apply where a feature or region requires them.
 
 4.2 A payment card, declared birth date, subscription, gift, or delegated assignment does not create access to sexually explicit content. Each person must still meet the age rule for the feature they actually use.
 
-4.3 There is no adult blacklist and no adult subdomain. Do not use shared credentials, links, previews, or APIs to seek a bypass.
+4.3 Do not use shared credentials, links, previews, or APIs to seek a bypass.
 
-4.4 Enterprise and Educational licenses do not add an adult catalog. Existing lawful acquisitions keep their accepted terms.
+4.4 Enterprise and Educational licenses do not add a sexually explicit catalog. Existing lawful acquisitions keep their accepted terms.
 
-4.5 Policy information, reporting, privacy requests, ordinary support, and appeals do not require a special adult account. Use the published reporting routes rather than uploading suspect sexual material to make a report.
+4.5 Policy information, reporting, privacy requests, ordinary support, and appeals do not require a separate content account. Use the published reporting routes rather than uploading suspect sexual material to make a report.
 
 5. VERIFICATION AND PERSONAL INFORMATION
 
@@ -103,7 +103,7 @@ Application: This Policy applies through Shobble's designated valid acceptance p
 Eligibility, verification correction, recovery, managed access, privacy and appeals: support@shobble.com
 Legal concerns and reports: legal@shobble.com
 
-If a contact route changes, Shobble will provide a reasonably accessible successor. Applicable statutory-notice procedures remain. Ordinary support, reporting and privacy requests need no separate adult account.
+If a contact route changes, Shobble will provide a reasonably accessible successor. Applicable statutory-notice procedures remain. Ordinary support, reporting and privacy requests need no separate content account.
 
 END OF POLICY
 
