@@ -18,7 +18,8 @@ export function PolicyDocument({
   const body = type === "html"
     ? extractBodyHtml(formatPlaintextPolicyForDisplay(raw))
     : formatPlaintextPolicyForDisplay(raw);
-  const dated = pickHeaderValue(raw, "Last updated") || pickHeaderValue(raw, "Effective date");
+  const lastUpdated = pickHeaderValue(raw, "Last updated");
+  const effective = pickHeaderValue(raw, "Effective date");
 
   return (
     <article className="legal-prose">
@@ -26,7 +27,8 @@ export function PolicyDocument({
         <div className="legal-card-head">
           <h2>{title}</h2>
           <p>
-            {dated ? <>Last updated: {dated}{" · "}</> : null}
+            {lastUpdated ? <>Last updated: {lastUpdated}{" · "}</> : null}
+            {effective ? <>Effective: {effective}{" · "}</> : null}
             <Link href="/terms">Terms of Use</Link>
             {" · "}
             <Link href="/policies">All policies</Link>

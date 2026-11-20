@@ -2,6 +2,7 @@ SHOBBLE AI USE CASE POLICY
 
 Version: 2.2
 Effective date: Thursday, November 26, 2026.
+Last updated: November 19, 2026
 Schedule: AI Use Case Schedule v1.0, including its published Errata in the exact retained accepted release. The internal Integrations sheet is excluded.
 Application: This Policy applies through Shobble's designated valid acceptance process to its identified processing or acquisition scope. It replaces the earlier AI Use Case Policy for that accepted scope without silently amending historical acquisitions or authorizing new uses of previously entrusted material.
 

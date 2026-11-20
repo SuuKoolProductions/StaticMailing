@@ -82,8 +82,8 @@ export function PlatformWall() {
               </span>
               <div className="grid gap-3">
                 {[
-                  ["Web", "Early access November 18, 2026"],
-                  ["Phone", "iOS and Android - early access November 18, 2026"],
+                  ["Web", "Early access November 26, 2026"],
+                  ["Phone", "iOS and Android - early access November 26, 2026"],
                   ["Desktop", "Windows, macOS, and Linux - early access December 17, 2026"],
                   ["TV", "Amazon Fire TV - early access December 17, 2026"],
                 ].map(([title, detail]) => (
