@@ -580,12 +580,6 @@ body::before {
   text-decoration: none !important;
 }
 
-.legal-index-item span {
-  color: var(--bone-dim);
-  font-size: 0.78rem;
-  text-transform: lowercase;
-}
-
 .legal-index-item:hover {
   border-color: color-mix(in srgb, var(--shobbl-red) 50%, var(--line));
 }

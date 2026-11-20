@@ -21,12 +21,10 @@ export default function PoliciesPage() {
         <div className="legal-index">
           <Link href="/terms" className="legal-index-item">
             <strong>Master Terms of Use</strong>
-            <span>terms</span>
           </Link>
           {docs.map((doc) => (
             <Link key={doc.slug} href={`/policies/${doc.slug}`} className="legal-index-item">
               <strong>{doc.title}</strong>
-              <span>{doc.type}</span>
             </Link>
           ))}
         </div>
